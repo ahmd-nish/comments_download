@@ -1,0 +1,727 @@
+[
+  {
+    "post_id": 360076710952,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014156592,
+        "body": "<p>Makes sense and it shouldn't be too hard to add.</p>",
+        "author_id": 401834644651,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076710952-New-Achievement-Expirienced-Player/comments/360014156592",
+        "created_at": "2021-01-22T22:02:40Z",
+        "updated_at": "2021-01-22T22:02:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076710952/comments/360014156592.json",
+        "post_id": 360076710952,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014157072,
+        "body": "<p>that is kinda hard to get</p>",
+        "author_id": 405792396271,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076710952-New-Achievement-Expirienced-Player/comments/360014157072",
+        "created_at": "2021-01-22T23:21:33Z",
+        "updated_at": "2021-01-22T23:21:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076710952/comments/360014157072.json",
+        "post_id": 360076710952,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076543071,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014121871,
+        "body": "<p>this does not seem like it would be in normal vanilla minecraft, but you could put it in hardcore to make it just a bit harder.</p>",
+        "author_id": 404929590572,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076543071-Natural-Disasters-turn-off-or-on/comments/360014121871",
+        "created_at": "2021-01-26T18:21:51Z",
+        "updated_at": "2021-01-26T18:21:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076543071/comments/360014121871.json",
+        "post_id": 360076543071,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014144451,
+        "body": "<p>I actually made a post very similar to this, hopefully Mojang realizes some people actually want disasters in their games</p>",
+        "author_id": 395960730411,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076543071-Natural-Disasters-turn-off-or-on/comments/360014144451",
+        "created_at": "2021-01-28T17:30:15Z",
+        "updated_at": "2021-01-28T17:36:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076543071/comments/360014144451.json",
+        "post_id": 360076543071,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076429551,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014103191,
+        "body": "<p>You didn't specify, but I assume you're referring to the enchantment table?</p>",
+        "author_id": 366168897132,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076429551-Every-5-Experience-Levels-Increases-Chance-for-Multiple-Enchantments/comments/360014103191",
+        "created_at": "2021-01-25T04:38:30Z",
+        "updated_at": "2023-12-27T23:46:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076429551/comments/360014103191.json",
+        "post_id": 360076429551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014111431,
+        "body": "<p>You are correct.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076429551-Every-5-Experience-Levels-Increases-Chance-for-Multiple-Enchantments/comments/360014111431",
+        "created_at": "2021-01-25T21:17:16Z",
+        "updated_at": "2023-12-27T23:46:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076429551/comments/360014111431.json",
+        "post_id": 360076429551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076414191,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014580051,
+        "body": "<p>No it wont break if you use it with silk touch. It first drops the block itself, and then smelts it</p>",
+        "author_id": 411309065092,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076414191-Auto-smelt/comments/360014580051",
+        "created_at": "2021-03-11T14:52:13Z",
+        "updated_at": "2021-03-11T14:52:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076414191/comments/360014580051.json",
+        "post_id": 360076414191,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076204251,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014386752,
+        "body": "<p>Umm that's not very great, as it makes them even more OP than they already are. JUST DON'T COMPAIN FOR CHRIST SAKE WE'RE LUCKY THEY EVEN ADDED FLIGHT IN GENERAL</p>",
+        "author_id": 411157836832,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076204251-elytra-speed-spell-book/comments/360014386752",
+        "created_at": "2021-02-16T05:23:37Z",
+        "updated_at": "2021-02-16T05:27:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076204251/comments/360014386752.json",
+        "post_id": 360076204251,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076294252,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013968631,
+        "body": "<p>As much as I want this, Mojang has sadly said they will never do this. We'll likely have to stick to mods to make this possible.</p>",
+        "author_id": 388312238452,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076294252-new-inventory-slot/comments/360013968631",
+        "created_at": "2021-01-10T18:46:57Z",
+        "updated_at": "2021-01-10T23:54:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076294252/comments/360013968631.json",
+        "post_id": 360076294252,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075911731,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013878891,
+        "body": "<p>I would have XP be the \"points\" you are talking about, as actual experience does make you better at things IRL</p>",
+        "author_id": 406280981491,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075911731-player-upgrades/comments/360013878891",
+        "created_at": "2020-12-29T14:57:32Z",
+        "updated_at": "2020-12-30T02:15:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075911731/comments/360013878891.json",
+        "post_id": 360075911731,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075883871,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013884091,
+        "body": "<p>yes, axolotls, wolves and maybe self-created golems.</p>",
+        "author_id": 406758345491,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075883871-No-dog-and-axolotl-friendly-fire-during-combat/comments/360013884091",
+        "created_at": "2020-12-30T01:08:44Z",
+        "updated_at": "2020-12-30T14:17:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075883871/comments/360013884091.json",
+        "post_id": 360075883871,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075838771,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013926372,
+        "body": "<p>I was gatharing warped blocks while writing this idea but same should applie to crimson blocks</p>",
+        "author_id": 408447333412,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075838771-Warped-blocks-should-disappear-after-you-destroy-their-stems/comments/360013926372",
+        "created_at": "2020-12-25T13:58:56Z",
+        "updated_at": "2020-12-30T04:09:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075838771/comments/360013926372.json",
+        "post_id": 360075838771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075741271,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013829871,
+        "body": "<p>Ein Deutscher! Leider haben die Hersteller beschlossen, es nicht in Minecraft zu bringen. Du kannst dir höchstens einen Federfalltrank reinpfeifen.</p>",
+        "author_id": 399754911932,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075741271-Tragen-von-Elytra-und-Brustplatte-gleichzeitig-Zuschauermodus-PE/comments/360013829871",
+        "created_at": "2020-12-21T21:00:31Z",
+        "updated_at": "2020-12-21T21:00:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075741271/comments/360013829871.json",
+        "post_id": 360075741271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075737431,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4424556507149,
+        "body": "<p>Btw this article is already existing. Here <a href=\"https://feedback.minecraft.net/hc/en-us/community/posts/360009325331--Java-Parity-Add-all-Java-s-UI-shortcuts-to-Bedrock\" rel=\"nofollow noreferrer\">https://feedback.minecraft.net/hc/en-us/community/posts/360009325331--Java-Parity-Add-all-Java-s-UI-shortcuts-to-Bedrock</a> is the same problem (yes, it is very annoying cant swap it with numbers)</p>\n<p>&nbsp;</p>",
+        "author_id": 421277142652,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075737431-More-Hotkeys-in-Bedrock-Edition/comments/4424556507149",
+        "created_at": "2022-02-07T18:45:21Z",
+        "updated_at": "2022-02-09T23:55:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075737431/comments/4424556507149.json",
+        "post_id": 360075737431,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075736431,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 14888261350797,
+        "body": "<p>My opinion is.<br>Although the night time is the same, the day time is increased to 30 minutes of real time.</p>\n<p>I also agree with your thoughts, but if it is really a complete novice, the first night is really difficult.<br>If you can increase the time after the novice learns to use the bed to spend the night, the initial novice will be more motivated to continue playing.</p>",
+        "author_id": 14888135892493,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075736431-Increase-day-and-night-time-to-twelve-minutes-Clock/comments/14888261350797",
+        "created_at": "2023-04-16T02:18:20Z",
+        "updated_at": "2023-05-22T16:06:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075736431/comments/14888261350797.json",
+        "post_id": 360075736431,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075727112,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013814651,
+        "body": "<p>But only in creative mode, in survival minecraft it would be too overpowered</p>",
+        "author_id": 405518340512,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075727112-Please-add-ender-chest-to-inventory/comments/360013814651",
+        "created_at": "2020-12-19T09:35:34Z",
+        "updated_at": "2020-12-19T09:35:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075727112/comments/360013814651.json",
+        "post_id": 360075727112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013891172,
+        "body": "<p>Adding an enderchest to the creative inventory is a great idea. However, your title suggests you'd like to have an enderchest built in in survival mode, as it's the default gamemode.</p>",
+        "author_id": 408284711631,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075727112-Please-add-ender-chest-to-inventory/comments/360013891172",
+        "created_at": "2020-12-20T23:02:46Z",
+        "updated_at": "2020-12-23T18:58:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075727112/comments/360013891172.json",
+        "post_id": 360075727112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075682132,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013886751,
+        "body": "<p>Maybe the Frost Walker enchantment could be renamed to Frost Aspect which could both also be applied to swords and bows? </p>",
+        "author_id": 408303940172,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075682132-Freeze-Enchantment-for-swords-and-bows/comments/360013886751",
+        "created_at": "2020-12-30T12:27:15Z",
+        "updated_at": "2022-12-13T15:37:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075682132/comments/360013886751.json",
+        "post_id": 360075682132,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 11415938827789,
+        "body": "<p>Freezing could slow attack speed.</p>",
+        "author_id": 417900420052,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075682132-Freeze-Enchantment-for-swords-and-bows/comments/11415938827789",
+        "created_at": "2022-12-13T15:38:37Z",
+        "updated_at": "2023-01-19T07:47:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075682132/comments/11415938827789.json",
+        "post_id": 360075682132,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075319431,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013789171,
+        "body": "<p>It would be a good idea, but maybe unbreaking III and mending instead of only unbreaking</p>\n<p>&nbsp;</p>",
+        "author_id": 408002941792,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075319431-Flint-and-Steel-Challenges-Achievements/comments/360013789171",
+        "created_at": "2020-12-16T20:11:10Z",
+        "updated_at": "2020-12-16T20:11:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075319431/comments/360013789171.json",
+        "post_id": 360075319431,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075396972,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014089831,
+        "body": "<p>ok noice</p>",
+        "author_id": 409442311032,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075396972-New-Shield-mechanic/comments/360014089831",
+        "created_at": "2021-01-23T02:49:19Z",
+        "updated_at": "2021-01-23T02:49:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075396972/comments/360014089831.json",
+        "post_id": 360075396972,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075161191,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013753811,
+        "body": "<p>Finally we can make gravel actually useful</p>",
+        "author_id": 402601996852,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075161191-Gravel-should-be-Smeltable-into-Cobblestone/comments/360013753811",
+        "created_at": "2020-12-12T18:48:40Z",
+        "updated_at": "2021-05-04T22:13:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075161191/comments/360013753811.json",
+        "post_id": 360075161191,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075208352,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013666671,
+        "body": "<p>There are already boulders in Mega Taiga biomes.</p>",
+        "author_id": 405055555411,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075208352-Boulders/comments/360013666671",
+        "created_at": "2020-12-04T01:22:49Z",
+        "updated_at": "2020-12-17T11:52:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075208352/comments/360013666671.json",
+        "post_id": 360075208352,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075130592,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4415918696973,
+        "body": "<p>That sounds pretty cool. It would help fill a specific niche in the game. With the 1.18 terrain you could find some really great views! Maybe it could be a living plant that recharges itself through sunlight? Or maybe a large shulker-box looking contraption that you would power with a resource. Elytra are fast but you don't have extra storage space and are usually obtained in the end-game. We need something that covers the other side of that and is mid-game and is for more relaxing/utility transport.</p>",
+        "author_id": 396413631671,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075130592-Pilotable-Airship/comments/4415918696973",
+        "created_at": "2021-12-08T02:52:36Z",
+        "updated_at": "2021-12-08T04:01:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075130592/comments/4415918696973.json",
+        "post_id": 360075130592,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074907131,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013648652,
+        "body": "<p>totally wierd cause i have like three fortune 2-3 diamond pics and i have mined like 1000 coal but i like the idea</p>\n<p>&nbsp;</p>",
+        "author_id": 405792396271,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074907131-Fortune-pickaxe-has-a-small-percent-to-drop-diamonds-from-coal-ore/comments/360013648652",
+        "created_at": "2020-11-28T01:44:30Z",
+        "updated_at": "2020-11-28T01:44:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074907131/comments/360013648652.json",
+        "post_id": 360074907131,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013575391,
+        "body": "<p>Yes that is clever, as both diamond and coal are a form of carbon!</p>",
+        "author_id": 406374590912,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074907131-Fortune-pickaxe-has-a-small-percent-to-drop-diamonds-from-coal-ore/comments/360013575391",
+        "created_at": "2020-11-28T16:39:46Z",
+        "updated_at": "2020-11-29T12:27:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074907131/comments/360013575391.json",
+        "post_id": 360074907131,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074980352,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013564871,
+        "body": "<p>Netherite Blocks may upgrade normal protection to fire protection</p>",
+        "author_id": 406280981491,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074980352-Fire-Prot-on-Beacons/comments/360013564871",
+        "created_at": "2020-11-26T19:17:38Z",
+        "updated_at": "2020-11-27T18:40:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074980352/comments/360013564871.json",
+        "post_id": 360074980352,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074792151,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41510257304973,
+        "body": "<p>Absolutely agree. 16 makes them frustrating to use. The issue is them becoming over powered. In PVP if you could have 64 ender pearls, you could spam them to get super far away from battles quickly. So to balance this I had some ideas: <br>1. Ender pearls should have a “wind up” like how using the bow, you charge the shot. It can be a very short wind up time similar to the bow charge time, but this way it will slow down and also give a versatile throw range. If you just tap the throw button you will only throw the pearl a short distance. If you hold and then release the throw button you will throw it farther. <br>2. Status effect, Teleportation Poisoning: The major way to prevent spamming ender pearls is a very short timed status effect. This status effect would simply “increase the damage of teleportation damage”. By default right now ender pearls do 2.5 hearts damage to the player. This status effect would increase this damage while the status effect is in play. It would only last a couple seconds each time you throw it. Maybe if you still throw it anyways, the status effect would increase to level two, then level three, making the teleportation damage even higher at each level. This is a simple method of preventing the abuse of it in pvp. This way it doesn’t force you to not use it, but it puts you at risk and can prevent the abuse of it. It also then still allows it to be useful for building and simple adventuring.</p>",
+        "author_id": 25800653151501,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074792151-Ender-Pearl-stack/comments/41510257304973",
+        "created_at": "2025-11-28T23:40:18Z",
+        "updated_at": "2025-11-29T00:10:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074792151/comments/41510257304973.json",
+        "post_id": 360074792151,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074759051,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013595032,
+        "body": "<p>1. It's creepy, not creapy.</p>\n<p>2. I enjoy the creepiness and I think it should be an option not completely removed</p>",
+        "author_id": 406130419272,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074759051-No-creapy-cave-sounds/comments/360013595032",
+        "created_at": "2020-11-22T07:07:58Z",
+        "updated_at": "2021-02-05T07:44:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074759051/comments/360013595032.json",
+        "post_id": 360074759051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013575731,
+        "body": "<p>Just make a setting to turn them off, some people like it you know</p>",
+        "author_id": 406432736152,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074759051-No-creapy-cave-sounds/comments/360013575731",
+        "created_at": "2020-11-28T18:21:14Z",
+        "updated_at": "2020-11-28T18:21:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074759051/comments/360013575731.json",
+        "post_id": 360074759051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 15186016707853,
+        "body": "<p>YOU CAN JUST TURN THAT OFF FROM THE SETTING DO YOU EVEN TRY JET!</p>",
+        "author_id": 15096330572813,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074759051-No-creapy-cave-sounds/comments/15186016707853",
+        "created_at": "2023-04-24T19:21:19Z",
+        "updated_at": "2023-04-24T19:21:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074759051/comments/15186016707853.json",
+        "post_id": 360074759051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074800132,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013581032,
+        "body": "<p>If Bookshelves are empty until filled with books, filler books could just have a bunch of obfuscated words or the SGA language</p>",
+        "author_id": 406280981491,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074800132-Books-of-old-and-librarys/comments/360013581032",
+        "created_at": "2020-11-20T16:31:47Z",
+        "updated_at": "2020-11-20T16:31:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074800132/comments/360013581032.json",
+        "post_id": 360074800132,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013508731,
+        "body": "<p>Books should have dyable covers that show when placed in a bookshelf</p>",
+        "author_id": 406280981491,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074800132-Books-of-old-and-librarys/comments/360013508731",
+        "created_at": "2020-11-20T16:32:55Z",
+        "updated_at": "2020-11-20T16:33:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074800132/comments/360013508731.json",
+        "post_id": 360074800132,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074696471,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013625472,
+        "body": "<p>Great idea, I hope this idea gets more votes</p>",
+        "author_id": 398358572111,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074696471-Waterlogged-barrels-float-in-water-and-sink-when-standing-on-it/comments/360013625472",
+        "created_at": "2020-11-25T04:49:01Z",
+        "updated_at": "2021-04-22T19:45:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074696471/comments/360013625472.json",
+        "post_id": 360074696471,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013659792,
+        "body": "<p>I love this concept and all of the details. I would also love to see a crafting recipe that allows the use of barrels as an alternative boat as well. Maybe chain waterlogged barrels together to make floating barges?</p>",
+        "author_id": 407118676252,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074696471-Waterlogged-barrels-float-in-water-and-sink-when-standing-on-it/comments/360013659792",
+        "created_at": "2020-11-29T22:21:26Z",
+        "updated_at": "2021-04-22T19:45:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074696471/comments/360013659792.json",
+        "post_id": 360074696471,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

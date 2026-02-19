@@ -1,0 +1,832 @@
+[
+  {
+    "post_id": 16062432333965,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 16091042481805,
+        "body": "<p>For the most part, they've been trying to work on that for some time now. Patience.</p>",
+        "author_id": 419344921172,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/16062432333965-Same-version/comments/16091042481805",
+        "created_at": "2023-05-24T16:19:08Z",
+        "updated_at": "2023-05-24T16:19:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/16062432333965/comments/16091042481805.json",
+        "post_id": 16062432333965,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 12026360341005,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 12026718998669,
+        "body": "<p>In addition, devs can make chunks cubic, this will improve optimization.</p>",
+        "author_id": 417900420052,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12026360341005-Multicore-chunk-rendering-would-be-a-game-changer/comments/12026718998669",
+        "created_at": "2023-01-06T15:48:24Z",
+        "updated_at": "2023-03-19T21:31:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12026360341005/comments/12026718998669.json",
+        "post_id": 12026360341005,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 12657809721101,
+        "body": "<p>I am absolutely no expert on the topic, but some tasks within a computer cannot be broken up into a multi-core workload.&nbsp;</p>\n<p>The common comparison I have seen to this is you cannot make a baby born quicker with more women. It simply is not possible with this game without a significant rewrite to the entire game, breaking many more things than it would fix. Even with a rewrite, I am extremely doubtful of how effective this rewritten minecraft would be at actually utilizing 4+ cores for chunk loading.&nbsp;</p>\n<p>Now, if we get creative, we could work around this. First workaround would be to use some sort of chunk pregenerator mod. Preload a bunch of chunks, so whenever you are in game, you are not loading new chunks. This is probably the best workaround there is. Minecraft already utilizes as many cores as it can. Having some extra cores so that your background programs do not get in the way is the only thing more cores does for you.&nbsp;</p>\n<p>Sorry, I would love to see this too, but all this will ever be is a dream.&nbsp;</p>",
+        "author_id": 375650307571,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12026360341005-Multicore-chunk-rendering-would-be-a-game-changer/comments/12657809721101",
+        "created_at": "2023-01-30T01:25:07Z",
+        "updated_at": "2023-04-26T17:09:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12026360341005/comments/12657809721101.json",
+        "post_id": 12026360341005,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 9149891710605,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 18592453477901,
+        "body": "<p>Sounds like a great idea to me, it would be fun to be on the piglin team</p>",
+        "author_id": 404248900192,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/9149891710605-Piglin-Mode-in-Minecraft-Legends/comments/18592453477901",
+        "created_at": "2023-08-16T18:16:48Z",
+        "updated_at": "2023-08-17T14:24:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/9149891710605/comments/18592453477901.json",
+        "post_id": 9149891710605,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 8066315904653,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8066344769037,
+        "body": "<p>Also, if you played a disc for All Star in a swamp then Shrek would appear and get you out of his swamp</p>",
+        "author_id": 1900842711627,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8066315904653-April-Fools-Music-Discs/comments/8066344769037",
+        "created_at": "2022-07-30T23:43:20Z",
+        "updated_at": "2024-01-22T19:55:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8066315904653/comments/8066344769037.json",
+        "post_id": 8066315904653,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 8081328617869,
+        "body": "<p>I don't think they can use others' music for copyright reasons, hence why they've always had their own soundtrack.</p>",
+        "author_id": 419344921172,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8066315904653-April-Fools-Music-Discs/comments/8081328617869",
+        "created_at": "2022-08-01T03:54:58Z",
+        "updated_at": "2024-01-22T19:55:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8066315904653/comments/8081328617869.json",
+        "post_id": 8066315904653,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 18643223311373,
+        "body": "<p>Never Gonna Give You Up!</p>",
+        "author_id": 18301011173901,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8066315904653-April-Fools-Music-Discs/comments/18643223311373",
+        "created_at": "2023-08-17T23:47:12Z",
+        "updated_at": "2024-01-22T19:55:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8066315904653/comments/18643223311373.json",
+        "post_id": 8066315904653,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 6686520974861,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 6686521404941,
+        "body": "<p>Kk\n</p>",
+        "author_id": 6686438629517,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6686520974861-Useful-Copper/comments/6686521404941",
+        "created_at": "2022-06-05T14:07:49Z",
+        "updated_at": "2022-06-05T14:07:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6686520974861/comments/6686521404941.json",
+        "post_id": 6686520974861,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 6694137334925,
+        "body": "<p>Any suggestions?</p>",
+        "author_id": 423562415371,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6686520974861-Useful-Copper/comments/6694137334925",
+        "created_at": "2022-06-06T03:34:07Z",
+        "updated_at": "2022-06-06T03:34:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6686520974861/comments/6694137334925.json",
+        "post_id": 6686520974861,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 6854365390349,
+        "body": "<p>yes you should make stuff like copper pickaxe.</p>",
+        "author_id": 6854289358989,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6686520974861-Useful-Copper/comments/6854365390349",
+        "created_at": "2022-06-12T11:51:16Z",
+        "updated_at": "2022-06-15T15:14:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6686520974861/comments/6854365390349.json",
+        "post_id": 6686520974861,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 14692050411917,
+        "body": "<p>Copper is too useless. Add more features like when lightning hits copper (or a lightning rod connected to copper) zap all the players standing on the copper, and make them do a small leap too.</p>",
+        "author_id": 8497965102477,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6686520974861-Useful-Copper/comments/14692050411917",
+        "created_at": "2023-04-09T23:11:46Z",
+        "updated_at": "2023-07-24T16:34:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6686520974861/comments/14692050411917.json",
+        "post_id": 6686520974861,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 6619241800205,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7679831087373,
+        "body": "<p>Minecraft supports all smartphones that are not too old. Sometimes apps do not show up in the Google Play Store as it might not work.</p>",
+        "author_id": 419638725972,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6619241800205-Minecraft-for-Samsung-Galaxy-A12/comments/7679831087373",
+        "created_at": "2022-07-14T15:38:57Z",
+        "updated_at": "2023-06-27T05:50:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6619241800205/comments/7679831087373.json",
+        "post_id": 6619241800205,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 21039270643981,
+        "body": "<p>Please help me my minecraft opening but not login I have strange network connection my problem is opening and closing </p>",
+        "author_id": 21039291887245,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6619241800205-Minecraft-for-Samsung-Galaxy-A12/comments/21039270643981",
+        "created_at": "2023-11-05T14:29:34Z",
+        "updated_at": "2023-11-06T18:51:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6619241800205/comments/21039270643981.json",
+        "post_id": 6619241800205,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 23144451732749,
+        "body": "<p>Why is there a message that it failed to install Minecraft on Samsung A12?? </p>",
+        "author_id": 23144408915981,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6619241800205-Minecraft-for-Samsung-Galaxy-A12/comments/23144451732749",
+        "created_at": "2024-01-12T09:29:52Z",
+        "updated_at": "2024-01-14T16:03:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6619241800205/comments/23144451732749.json",
+        "post_id": 6619241800205,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5900118131597,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 6239839006861,
+        "body": "<p>Neat.</p>",
+        "author_id": 6086785158157,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5900118131597-New-achieve-ment/comments/6239839006861",
+        "created_at": "2022-05-15T00:49:40Z",
+        "updated_at": "2022-05-15T00:49:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5900118131597/comments/6239839006861.json",
+        "post_id": 5900118131597,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4426287814029,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4427175540109,
+        "body": "<p>Yes, then we could all use a VPN to buy a cheaper copy of Minecraft.&nbsp;</p>",
+        "author_id": 365648181832,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4426287814029-Regional-pricing/comments/4427175540109",
+        "created_at": "2022-02-15T01:58:42Z",
+        "updated_at": "2022-02-17T12:05:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4426287814029/comments/4427175540109.json",
+        "post_id": 4426287814029,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4411992477453,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 16214613448973,
+        "body": "<p>That sounds great I guess. &nbsp; &nbsp;</p>",
+        "author_id": 14981297627277,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4411992477453-Blacklight-Torch/comments/16214613448973",
+        "created_at": "2023-05-29T04:41:54Z",
+        "updated_at": "2023-05-29T04:41:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4411992477453/comments/16214613448973.json",
+        "post_id": 4411992477453,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41187220110733,
+        "body": "<p>I would have this be End-related purple fire</p>",
+        "author_id": 406280981491,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4411992477453-Blacklight-Torch/comments/41187220110733",
+        "created_at": "2025-11-17T00:37:59Z",
+        "updated_at": "2025-11-17T00:37:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4411992477453/comments/41187220110733.json",
+        "post_id": 4411992477453,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4411435495693,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4411504486797,
+        "body": "<p>The only mobs that were cancelled were the 3 losing mobs of the first vote, the other mobs are just delayed for future updates, they will come eventually, just like how the frog is coming soon.</p>",
+        "author_id": 397479362611,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4411435495693-Minecraft-Live-From-the-Past/comments/4411504486797",
+        "created_at": "2021-10-17T09:43:53Z",
+        "updated_at": "2021-10-17T20:02:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4411435495693/comments/4411504486797.json",
+        "post_id": 4411435495693,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4409671181453,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4410260411661,
+        "body": "<p>First! Anyway, this is a great idea, but it should be able to be used in ALL versions of the game.</p>",
+        "author_id": 1900842711627,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4409671181453-Free-Demo-Version-of-Minecraft/comments/4410260411661",
+        "created_at": "2021-09-29T00:52:10Z",
+        "updated_at": "2022-11-01T19:50:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4409671181453/comments/4410260411661.json",
+        "post_id": 4409671181453,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4409255911053,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4409629135501,
+        "body": "<p>Java is made for pc only and thats that, it has always been this way since java cant be run by consoles and is most likely too much for mobile</p>",
+        "author_id": 410435785772,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4409255911053-I-think-Java-being-more-accessible-is-a-good-idea/comments/4409629135501",
+        "created_at": "2021-09-20T09:19:38Z",
+        "updated_at": "2021-09-20T09:19:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4409255911053/comments/4409629135501.json",
+        "post_id": 4409255911053,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4406343471245,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4412025810317,
+        "body": "<p>Those are very old windows versions that you shouldn't be using</p>",
+        "author_id": 409405314812,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4406343471245-Minecraft-bedrock/comments/4412025810317",
+        "created_at": "2021-10-25T17:36:11Z",
+        "updated_at": "2022-03-20T04:17:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4406343471245/comments/4412025810317.json",
+        "post_id": 4406343471245,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4405540257933,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4405561051789,
+        "body": "<p>Please see below for translation:</p>\n<header class=\"post-header\">\n<div class=\"post-title\">\n<h1 title=\"Mob pasivo agresivo \"><span>‎Aggressive passive mob ‎</span></h1>\n</div>\n</header>\n<section class=\"post-info-container\" data-bi-area=\"body\">\n<div class=\"post-info\">\n<div class=\"post-content\">\n<div class=\"post-body\">‎The Condor an enblematic bird of the Andes would be found in the new mountains and would be territorial and a certain amount of blocks would take you flying and vote you off the mountain would be a free soul without taming‎.</div>\n<div class=\"post-body\">&nbsp;</div>\n<div class=\"post-body\">-Translated by admin</div>\n</div>\n</div>\n</section>",
+        "author_id": 416783211012,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4405540257933-Mob-pasivo-agresivo/comments/4405561051789",
+        "created_at": "2021-07-22T18:27:49Z",
+        "updated_at": "2021-07-22T18:27:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4405540257933/comments/4405561051789.json",
+        "post_id": 4405540257933,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4404322021005,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4405723066765,
+        "body": "<p>NO. It should give a cape in Minecraft Dungeons, but not Minecraft.</p>",
+        "author_id": 416913468532,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404322021005-Reaching-level-100-in-Minecraft-Dungeons-will-give-a-cape-in-Minecraft/comments/4405723066765",
+        "created_at": "2021-07-24T21:22:19Z",
+        "updated_at": "2021-07-29T18:17:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404322021005/comments/4405723066765.json",
+        "post_id": 4404322021005,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4405851630221,
+        "body": "<p>It could give a cape in dungeons instead such as a cape that says 100!</p>",
+        "author_id": 1900332916707,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404322021005-Reaching-level-100-in-Minecraft-Dungeons-will-give-a-cape-in-Minecraft/comments/4405851630221",
+        "created_at": "2021-07-26T23:10:42Z",
+        "updated_at": "2021-07-29T18:17:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404322021005/comments/4405851630221.json",
+        "post_id": 4404322021005,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4404301311245,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4404812214925,
+        "body": "<p>They should add a tropical dimension or a mining dimension </p>",
+        "author_id": 418601718211,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404301311245-The-next-update-should-be-a-demention-update/comments/4404812214925",
+        "created_at": "2021-07-11T20:28:54Z",
+        "updated_at": "2021-07-11T20:28:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404301311245/comments/4404812214925.json",
+        "post_id": 4404301311245,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078156651,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015856072,
+        "body": "<div class=\"post-title\">\n<p>Hello, this appears to be a non-English post. Below you will find a transcription of the topic being discussed.&nbsp;&nbsp;</p>\n<h1 title=\"Actualizar minecraft ps3\">&nbsp;</h1>\n<h1 title=\"Actualizar minecraft ps3\">‎Update minecraft ps3 ‎</h1>\n</div>\n<div class=\"post-info\">\n<div class=\"post-content\">\n<div class=\"post-body\">‎Now that sony pulls out new ps3 update And there are a lot of people who still play on ps3 (myself included) and I'd love to have it updated and I think I'm not the only one‎.</div>\n<div class=\"post-body\">&nbsp;</div>\n<div class=\"post-body\">(Translated by admin)</div>\n<div class=\"post-body\">&nbsp;</div>\n<div class=\"post-body\">&nbsp;</div>\n<div class=\"post-body\">\n<p style=\"font-family: Calibri; font-size: 11.0pt;\"><span style=\"color: black;\">Also, it looks like this post contains a previously considered suggestion. Feel free to check out a list of our previously considered suggestions that have already been discussed and/or rejected. Please make sure the idea you want to post about is not listed on this page as posts about these topics will automatically be considered spam. Thank you! (</span><a href=\"/hc/en-us/articles/360005029872-Previously-Considered-Suggestions\" rel=\"nofollow noreferrer\">https://feedback.minecraft.net/hc/en-us/articles/360005029872-Previously-Considered-Suggestions</a><span style=\"color: black;\">)&nbsp;</span></p>\n<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\">&nbsp;</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt;\"><span style=\"color: black;\">Making Great Searches:</span><a href=\"/hc/en-us/articles/360035667771-Making-Great-Searches-on-the-Feedback-Site-\" rel=\"nofollow noreferrer\">https://feedback.minecraft.net/hc/en-us/articles/360035667771-Making-Great-Searches-on-the-Feedback-Site-</a><span style=\"color: black;\">&nbsp;</span></p>\n<p style=\"font-family: Calibri; font-size: 11.0pt;\">&nbsp;</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt;\">Additionally, feel free to check out a list of our previously considered suggestions that have already been discussed and/or rejected. Please make sure the idea you want to post about is not listed on this page as posts about these topics will automatically be considered spam. Thank you! (<a href=\"/hc/en-us/articles/360005029872-Previously-Considered-Suggestions\" rel=\"nofollow noreferrer\"><span style=\"background: white;\">https://feedback.minecraft.net/hc/en-us/articles/360005029872-Previously-Considered-Suggestions</span></a></p>\n</div>\n</div>\n</div>",
+        "author_id": 416783211012,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078156651-Actualizar-minecraft-ps3/comments/360015856072",
+        "created_at": "2021-06-05T21:02:04Z",
+        "updated_at": "2021-06-05T21:03:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078156651/comments/360015856072.json",
+        "post_id": 360078156651,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077558931,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014800151,
+        "body": "<p>I would love if it had lizards in it</p>",
+        "author_id": 402603945592,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077558931-the-nature-update/comments/360014800151",
+        "created_at": "2021-04-11T18:47:59Z",
+        "updated_at": "2021-04-11T20:22:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077558931/comments/360014800151.json",
+        "post_id": 360077558931,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077561252,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014694551,
+        "body": "<p>I think there are some things (such as snapshots and modding) that should not be on bedrock. This kind of thing seems to be why Java edition &amp; bedrock edition cost different amounts.</p>",
+        "author_id": 399265256131,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077561252-1-18-update-Idea-Evened-Out-Update/comments/360014694551",
+        "created_at": "2021-03-27T18:50:17Z",
+        "updated_at": "2021-03-28T03:56:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077561252/comments/360014694551.json",
+        "post_id": 360077561252,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014758032,
+        "body": "<p>This concept has already failed in the first line because the \"Best features\" of each version are strictly subjective so porting the \"best features\" isn't possible.</p>",
+        "author_id": 401773176671,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077561252-1-18-update-Idea-Evened-Out-Update/comments/360014758032",
+        "created_at": "2021-03-28T00:48:17Z",
+        "updated_at": "2021-03-28T00:48:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077561252/comments/360014758032.json",
+        "post_id": 360077561252,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077305751,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014639912,
+        "body": "<p>The sign censoring thing is an intentional feature. But anyways, I don't think they would do this because new updates every year is what motivates the community to keep playing minecraft.</p>",
+        "author_id": 412648405611,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077305751-A-solid-year-at-least-of-just-bugfixes/comments/360014639912",
+        "created_at": "2021-03-11T14:28:41Z",
+        "updated_at": "2024-01-27T23:31:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077305751/comments/360014639912.json",
+        "post_id": 360077305751,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 23588016037133,
+        "body": "<p>Sheep eating grass is intentional.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077305751-A-solid-year-at-least-of-just-bugfixes/comments/23588016037133",
+        "created_at": "2024-01-27T23:30:44Z",
+        "updated_at": "2024-01-27T23:30:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077305751/comments/23588016037133.json",
+        "post_id": 360077305751,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 25380616202381,
+        "body": "<p>If your Switch game crashed 6 times an hour, expect an average of 1 crash per 10 minutes.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077305751-A-solid-year-at-least-of-just-bugfixes/comments/25380616202381",
+        "created_at": "2024-03-27T13:22:21Z",
+        "updated_at": "2024-03-27T22:06:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077305751/comments/25380616202381.json",
+        "post_id": 360077305751,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 25380706859149,
+        "body": "<p>A major update for this solid year of bug fixes would be The Bugfix Update.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077305751-A-solid-year-at-least-of-just-bugfixes/comments/25380706859149",
+        "created_at": "2024-03-27T13:24:41Z",
+        "updated_at": "2024-03-27T22:10:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077305751/comments/25380706859149.json",
+        "post_id": 360077305751,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077142511,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014406811,
+        "body": "<p>Hi?;-;</p>",
+        "author_id": 411726911711,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077142511-Please-add-customgeometry-json-back-in/comments/360014406811",
+        "created_at": "2021-02-23T16:21:07Z",
+        "updated_at": "2021-02-23T16:21:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077142511/comments/360014406811.json",
+        "post_id": 360077142511,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 17252149920397,
+        "body": "<p>plsssss</p>",
+        "author_id": 1900966195767,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077142511-Please-add-customgeometry-json-back-in/comments/17252149920397",
+        "created_at": "2023-07-01T20:22:30Z",
+        "updated_at": "2023-07-01T20:22:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077142511/comments/17252149920397.json",
+        "post_id": 360077142511,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077005871,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014497531,
+        "body": "<p>I don't agree. They released the Better Together Update intentionally (the update that merged them). The crossplay, to me, is the best part of Bedrock (and I think a lot of players would agree with me on that). And so, this wouldn't make sense on the whole.&nbsp;</p>",
+        "author_id": 399593719512,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077005871-Separate-PE-from-Bedrock/comments/360014497531",
+        "created_at": "2021-03-01T19:05:54Z",
+        "updated_at": "2021-08-14T21:19:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077005871/comments/360014497531.json",
+        "post_id": 360077005871,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 12074919121421,
+        "body": "<p>I 100% agree, so many features get slowed down or canceled because of phone players, great the Better Together update was good, but if you merge phones it's the Worse Together update at this point, bundles, dual-weilding, 1.9 combat, java acting shields, banner shields, everything of this is impossible for the main part because Pocket Edition merged with Bedrock.</p>",
+        "author_id": 418044071752,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077005871-Separate-PE-from-Bedrock/comments/12074919121421",
+        "created_at": "2023-01-09T01:51:07Z",
+        "updated_at": "2023-02-15T16:50:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077005871/comments/12074919121421.json",
+        "post_id": 360077005871,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076006092,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014130671,
+        "body": "<p>just dont play on peaceful</p>",
+        "author_id": 398657818031,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076006092-Blaze-spawners-should-drop-blaze-rods-when-broken-Peaceful-challenge/comments/360014130671",
+        "created_at": "2021-01-27T13:06:50Z",
+        "updated_at": "2021-01-27T13:06:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076006092/comments/360014130671.json",
+        "post_id": 360076006092,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014703952,
+        "body": "<p>I think making the spawner drop blaze rods is a little too game-breaking. You need to fight the blazes to get blaze rods. This would take away the fight in any other gamemode.</p>\n<p>Instead, it would make more sense that a blaze spawner drops <em>one blaze powder.</em> In any other game mode, this wouldn't really change much to effect gameplay. But in peaceful, it would mean you'd have to do <em><strong>a lot&nbsp;</strong></em>of exploring to defeat the dragon. And with no other mobs in the nether to slow you down, I think it's do-able.</p>",
+        "author_id": 373692275332,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076006092-Blaze-spawners-should-drop-blaze-rods-when-broken-Peaceful-challenge/comments/360014703952",
+        "created_at": "2021-03-19T23:18:51Z",
+        "updated_at": "2021-12-15T17:14:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076006092/comments/360014703952.json",
+        "post_id": 360076006092,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075767951,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013876691,
+        "body": "<p>This. Also I'm wondering why so few people are talking about this. You'd think something that was completely broken like this would be getting more attention from people.</p>",
+        "author_id": 386152886352,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075767951-You-guys-ever-gonna-fix-VR/comments/360013876691",
+        "created_at": "2020-12-29T03:57:42Z",
+        "updated_at": "2020-12-30T00:05:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075767951/comments/360013876691.json",
+        "post_id": 360075767951,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071935052,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013330011,
+        "body": "<p>Hey! This is related to this new feature request: <a href=\"/hc/en-us/community/posts/360074069691-Return-XUIDs-on-the-Mojang-API-or-add-game-profiles-to-MSAL-oAuth-\" target=\"_blank\" rel=\"nofollow noreferrer\">https://feedback.minecraft.net/hc/en-us/community/posts/360074069691-Return-XUIDs-on-the-Mojang-API-or-add-game-profiles-to-MSAL-oAuth-</a>, now we can hopefully expect this since Mojang accounts are being migrated to Xbox Live</p>",
+        "author_id": 405254536452,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071935052-oAuth2-to-authenticate-players/comments/360013330011",
+        "created_at": "2020-11-05T12:03:23Z",
+        "updated_at": "2020-11-05T12:13:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071935052/comments/360013330011.json",
+        "post_id": 360071935052,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

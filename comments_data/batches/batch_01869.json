@@ -1,0 +1,922 @@
+[
+  {
+    "post_id": 38601482908301,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40212335983629,
+        "body": "<p>I would love this! I use targeted block all the time while I build, but all the block information are useless for me and only clutter the screen :/</p>",
+        "author_id": 35175944978061,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38601482908301-Make-targeted-block-coordinates-a-separate-option-from-targeted-block-info/comments/40212335983629",
+        "created_at": "2025-10-09T15:03:22Z",
+        "updated_at": "2025-10-09T15:03:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38601482908301/comments/40212335983629.json",
+        "post_id": 38601482908301,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40222435806605,
+        "body": "<p>I agree, the extra information attached to the targeted block adds a lot of visual clutter to the debug screen. I just want to know the coordinates of the block I am looking at and the name of the block. Everything else I would prefer being separate. <br><br>I also wish the tooltips for debug shortcuts were either toggleable or were less wide and took up more lines instead. It currently covers the center of the screen which makes having debug open a burden.</p>",
+        "author_id": 372368188031,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38601482908301-Make-targeted-block-coordinates-a-separate-option-from-targeted-block-info/comments/40222435806605",
+        "created_at": "2025-10-09T19:58:43Z",
+        "updated_at": "2025-10-09T20:05:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38601482908301/comments/40222435806605.json",
+        "post_id": 38601482908301,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38493242769293,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38544139007501,
+        "body": "<p>Client side doesn't make sense. If anything it should be *where* the shelf is receiving redstone power from (left or right side).</p>",
+        "author_id": 30152509452301,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38493242769293-Shelves-option-for-left-to-right/comments/38544139007501",
+        "created_at": "2025-08-04T09:48:44Z",
+        "updated_at": "2025-08-04T09:48:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38493242769293/comments/38544139007501.json",
+        "post_id": 38493242769293,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38315993617549,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38366313388941,
+        "body": "<p>Ash can be shoveled out of unlit campfires, drop from mobs that burnt to death, or sit in layers when something burns.&nbsp;</p>\n<p>Ashes used to be used in soap making. Craft ash into soap and then you can UNDYE ITEMS THAT CAN'T BE REDYED!!!! And that helps with inventory clutter too. Soap will have durability and can right click to undye or put in the crafting grid with the item.&nbsp;</p>\n<p>A bubble wand could accept soap too. This can be implemented in redstone so the buildstone community has a new effect to add to their builds. Plus, who doesn't love a bubble wand!</p>\n<p>Not sure what purpose dust would serve though...</p>",
+        "author_id": 34495023570957,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38315993617549-Add-dust-and-ashes/comments/38366313388941",
+        "created_at": "2025-07-28T00:28:41Z",
+        "updated_at": "2025-07-28T01:07:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38315993617549/comments/38366313388941.json",
+        "post_id": 38315993617549,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38256140791949,
+    "expected_comment_count": 1,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38271506924301,
+        "body": "<p>Yes, I think that allay is becoming useless now, because they do the same thing as the copper golem — they sort things with different components as one item. Let the golem do a more detailed sorting, and leave the common sorting function to allay.</p>",
+        "author_id": 11954827101581,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38256140791949-Allow-Copper-Golems-to-Sort-Based-on-Components-e-g-enchantment-name/comments/38271506924301",
+        "created_at": "2025-07-23T16:16:44Z",
+        "updated_at": "2025-07-23T18:51:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38256140791949/comments/38271506924301.json",
+        "post_id": 38256140791949,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 42324765821709,
+        "body": "<p>I wanted to use copper golem for a signed book based access system, wich doesn't work now :(</p>",
+        "author_id": 42324691916429,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38256140791949-Allow-Copper-Golems-to-Sort-Based-on-Components-e-g-enchantment-name/comments/42324765821709",
+        "created_at": "2025-12-31T13:57:20Z",
+        "updated_at": "2025-12-31T13:57:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38256140791949/comments/42324765821709.json",
+        "post_id": 38256140791949,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37956313974541,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38616754019085,
+        "body": "<p>Or you can fill the chests slots with a single item of choice to get the desired behaviour.</p>\n<p>\"Copper golems can store items in all storage blocks\" agreed, I build my storage with barrels because it looks nicer and has better performance but now I need to rethink that.</p>",
+        "author_id": 38022839879693,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37956313974541-Add-Slot-based-Chest-Filtering-for-Copper-Golem-Item-Insertion/comments/38616754019085",
+        "created_at": "2025-08-06T16:24:59Z",
+        "updated_at": "2025-08-07T20:20:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37956313974541/comments/38616754019085.json",
+        "post_id": 37956313974541,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37944153947277,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38254009536653,
+        "body": "<p>Who is Cooper?! Why do they need a rework???</p>",
+        "author_id": 25374456471949,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37944153947277-REWORK-COOPER/comments/38254009536653",
+        "created_at": "2025-07-22T21:38:30Z",
+        "updated_at": "2025-07-22T21:38:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37944153947277/comments/38254009536653.json",
+        "post_id": 37944153947277,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 33418985252109,
+    "expected_comment_count": 1,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 42152179043597,
+        "body": "<p>absolutely theres no reason for it to be savannah yellow</p>",
+        "author_id": 42152185523597,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33418985252109-Lush-caves-colormap/comments/42152179043597",
+        "created_at": "2025-12-23T00:32:34Z",
+        "updated_at": "2025-12-23T00:32:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33418985252109/comments/42152179043597.json",
+        "post_id": 33418985252109,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 42281445119373,
+        "body": "<p>If your lush cave grass color seems fixed, DON'T TRUST THE MOSS. You have entered what is known as a primordial zone, these are extremely dangerous. It is watching you, all of them are.</p>",
+        "author_id": 406383103951,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33418985252109-Lush-caves-colormap/comments/42281445119373",
+        "created_at": "2025-12-29T19:57:05Z",
+        "updated_at": "2025-12-30T18:42:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33418985252109/comments/42281445119373.json",
+        "post_id": 33418985252109,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 41189458587917,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41340155786765,
+        "body": "<p>Just a side comment on this, I watched at least 1 hour of twitch Minecraft livestreams and received no code</p>",
+        "author_id": 41340153623693,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41189458587917-Minecraft-Copper-Cape-Issue/comments/41340155786765",
+        "created_at": "2025-11-22T03:05:32Z",
+        "updated_at": "2025-11-22T03:05:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41189458587917/comments/41340155786765.json",
+        "post_id": 41189458587917,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40143403978893,
+    "expected_comment_count": 6,
+    "actual_comment_count": 6,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40153567653773,
+        "body": "<p>I don’t understand, was there already mutton in the first slot? Or was there only mutton in 5th slot before the golem started putting items in?</p>",
+        "author_id": 5108608870157,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40143403978893-Copper-Golems-should-stack-items-already-in-a-chest/comments/40153567653773",
+        "created_at": "2025-10-07T15:17:58Z",
+        "updated_at": "2025-10-07T15:17:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40143403978893/comments/40153567653773.json",
+        "post_id": 40143403978893,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40173948556301,
+        "body": "<p>Mutton was in the 5th slot first</p>",
+        "author_id": 25069358700685,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40143403978893-Copper-Golems-should-stack-items-already-in-a-chest/comments/40173948556301",
+        "created_at": "2025-10-08T06:32:26Z",
+        "updated_at": "2025-10-08T06:32:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40143403978893/comments/40173948556301.json",
+        "post_id": 40143403978893,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40190776784397,
+        "body": "<p>It works better for redstone since if you want a golem to organize a specific category of items and have a hopper only pull out the item that the golem puts in (which would require the item to be in the first slot), you won’t need to rename all of the items that tell the golem what items it’s able to put in so that the item will go in the first slot.</p>\n<p>I might’ve explained it poorly, so if you don’t understand, watch Mumbo Jumbo’s video “Item Sorting just changed” and you’ll see what I mean.</p>",
+        "author_id": 5108608870157,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40143403978893-Copper-Golems-should-stack-items-already-in-a-chest/comments/40190776784397",
+        "created_at": "2025-10-08T18:50:48Z",
+        "updated_at": "2025-10-08T18:51:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40143403978893/comments/40190776784397.json",
+        "post_id": 40143403978893,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40199949527565,
+        "body": "<p>I watched the video 'Item Sorting just changed,' but I still don’t really understand what you’re trying to say. I’m not a big redstoner—I’m just a Minecraft player, and I’m not that advanced with Copper Golems.</p>",
+        "author_id": 25069358700685,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40143403978893-Copper-Golems-should-stack-items-already-in-a-chest/comments/40199949527565",
+        "created_at": "2025-10-09T01:07:29Z",
+        "updated_at": "2025-10-09T01:07:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40143403978893/comments/40199949527565.json",
+        "post_id": 40143403978893,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41736654620045,
+        "body": "<p>Yes! This makes sense, Copper Golems should stack items if possible. The default behavior puts them in a separate slot.</p>",
+        "author_id": 41736651773837,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40143403978893-Copper-Golems-should-stack-items-already-in-a-chest/comments/41736654620045",
+        "created_at": "2025-12-08T00:44:06Z",
+        "updated_at": "2025-12-08T00:44:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40143403978893/comments/41736654620045.json",
+        "post_id": 40143403978893,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41742806991501,
+        "body": "<p>If you look up any redstone automated storage system using copper golems, you'll realize that this exact behavior enables them to work. my advice to you is to not leave empty spaces in the top-right of chests, and then the copper golem would stack the items.</p>",
+        "author_id": 388405205832,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40143403978893-Copper-Golems-should-stack-items-already-in-a-chest/comments/41742806991501",
+        "created_at": "2025-12-08T11:57:51Z",
+        "updated_at": "2025-12-08T11:57:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40143403978893/comments/41742806991501.json",
+        "post_id": 40143403978893,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40056089744653,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40056083615117,
+        "body": "<p><strong>Please add this...</strong></p>",
+        "author_id": 40056013315725,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40056089744653-A-toggle-for-the-Minecraft-new-and-old-profile-picture-system-for-PE-BE-Edi/comments/40056083615117",
+        "created_at": "2025-10-03T02:15:23Z",
+        "updated_at": "2025-10-03T02:15:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40056089744653/comments/40056083615117.json",
+        "post_id": 40056089744653,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 39919458223245,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 39927666896269,
+        "body": "<p>Yes, I have wanted more offhand uses in bedrock. I'm just like this isn't fair xbox, playstation, nintendo they can't play Java.</p>\n<p>&nbsp;</p>",
+        "author_id": 33376739436557,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39919458223245-Make-Bedrock-support-off-hand/comments/39927666896269",
+        "created_at": "2025-09-29T01:48:33Z",
+        "updated_at": "2025-09-29T01:48:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39919458223245/comments/39927666896269.json",
+        "post_id": 39919458223245,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 39946836840205,
+        "body": "<p>agreed</p>",
+        "author_id": 39941248001933,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39919458223245-Make-Bedrock-support-off-hand/comments/39946836840205",
+        "created_at": "2025-09-29T18:02:18Z",
+        "updated_at": "2025-09-29T18:02:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39919458223245/comments/39946836840205.json",
+        "post_id": 39919458223245,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 39946838944269,
+        "body": "<p>agreed</p>",
+        "author_id": 39941248001933,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39919458223245-Make-Bedrock-support-off-hand/comments/39946838944269",
+        "created_at": "2025-09-29T18:02:30Z",
+        "updated_at": "2025-09-29T18:02:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39919458223245/comments/39946838944269.json",
+        "post_id": 39919458223245,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 39794505798413,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 39844142972685,
+        "body": "<p>Yes please add off hand. \n<br />Then its easier to pvp and clutches to record 90% of players need this Feature.</p>",
+        "author_id": 39844115386381,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39794505798413-Add-Off-Hand-Feature-to-Minecraft-Bedrock-Pocket-Edition/comments/39844142972685",
+        "created_at": "2025-09-25T01:40:49Z",
+        "updated_at": "2025-09-25T01:40:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39794505798413/comments/39844142972685.json",
+        "post_id": 39794505798413,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38769662961933,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38777070201613,
+        "body": "<p>Hi 😊 your idea is really creative and I like it a lot! I love seeing such original proposals in the community. If you want, go through my post as well, I'd love to know what you think ❤️</p>",
+        "author_id": 408810602671,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38769662961933-Copper-Buttons-and-Copper-horns-should-return-in-the-Fall-Drop-of-2025/comments/38777070201613",
+        "created_at": "2025-08-13T09:23:20Z",
+        "updated_at": "2025-08-13T14:15:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38769662961933/comments/38777070201613.json",
+        "post_id": 38769662961933,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38705042802701,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38705117176205,
+        "body": "<p>Souhlasím Já bych třeba chtěl Velryby a žraloky prosťe ryby</p>",
+        "author_id": 38705105592589,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38705042802701-Zebras-in-Minecraft-and-other-animals/comments/38705117176205",
+        "created_at": "2025-08-10T08:40:14Z",
+        "updated_at": "2025-08-10T08:40:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38705042802701/comments/38705117176205.json",
+        "post_id": 38705042802701,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38708562085005,
+        "body": "<p>Mhmm..why you posted the suggestion here and not the mobs one?\n<br />Also why realism all the time? You can download a java mod if you want realism in minecraft,I think adding more and more realistic mobs like polar bears and armadillos that don't have much uniqueness in the interactions with them will ruin the game and the identity of minecraft in general.</p>",
+        "author_id": 38222133939085,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38705042802701-Zebras-in-Minecraft-and-other-animals/comments/38708562085005",
+        "created_at": "2025-08-10T16:16:47Z",
+        "updated_at": "2025-08-10T19:51:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38705042802701/comments/38708562085005.json",
+        "post_id": 38705042802701,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38701095590797,
+    "expected_comment_count": 8,
+    "actual_comment_count": 9,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38701380593933,
+        "body": "<p>The beam would look like lightning of course and could be seen visually in air blocks hence I called it air shock. Max air shock/electricity to connecting signal points(copper rods) could be 16 since redstone is 15 for slightly better reach efficiency. Meaning that the visual effect could only travel a maximum of 16 air blocks to another copper rod without anything between it. Air shock can only travel eight blocks if not faced with two copper rods at each point(if electricity only output through one copper rod).</p>",
+        "author_id": 1902374022007,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38701095590797-Copper-armor-should-be-lighting-resistant/comments/38701380593933",
+        "created_at": "2025-08-09T22:18:15Z",
+        "updated_at": "2025-12-05T17:15:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38701095590797/comments/38701380593933.json",
+        "post_id": 38701095590797,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38703034681741,
+        "body": "<p>With this system we could also shock copper golem statues back into movement with either potion, lightning, or attack from enchanted gear. <br>A 16 block max shock signal through air blocks from two connecting copper rods attached to any variant copper blocks facing each other, 8 max if its only 1 connected copper rod facing a single direction (meaning signal can only be sent in the direction the copper rods are facing, which in terms could be manipulated by the user in 6 directions). This also means that this could be chained to make input and output signals run back and forth in a single direction if copper rod is facing only a copper block. &nbsp;Also players can experience a camera shaking effect while being shocked</p>\n<p>Imagine key:</p>\n<p>copper rod = | ,–•, or •–</p>\n<p>copper block= [c]</p>\n<p>charged copper grate= [g]</p>\n<p>air shock= ~ or s</p>\n<p><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>[g]–•~~~[c]–• ~~~~~~ •–[c]–•~</p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s</p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; s &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; s</p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; s &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|</p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[c]–• ~~~~~~~~[c]–•~</p>\n<p>Or</p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>[g][c][c]–•~~~~~ [c]–•~~~~~~[c]<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |</p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; s &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s</p>\n<p>There's plenty more combinations but that just the basics. It get a more complicatedly simple when it comes to storing power.</p>",
+        "author_id": 1902374022007,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38701095590797-Copper-armor-should-be-lighting-resistant/comments/38703034681741",
+        "created_at": "2025-08-10T01:43:23Z",
+        "updated_at": "2025-12-05T18:17:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38701095590797/comments/38703034681741.json",
+        "post_id": 38701095590797,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38746148500621,
+        "body": "<p>Copper grates can be used to store power allowing the copper bulb to be the switch for power release since it has a special function to trigger on and off, with its rust versions giving off a weaker pulse and lower voltage. This allow for electric paths to be controlled. Also switching it on allows other currents to pass through and switching it off blocks all connected currents. Copper blocks provide a current strength depending on rust values, the more the rust the more it subtracts the voltage value from electric current going through other copper blocks just as long as its hit by shock or lightning. Meaning rusted copper versions can dampen shock thats passed through other connected copper blocks. Copper is not powered by redstone directly but can power it if its connected and activated. This can give room and better functionality for the copper bulb allowing electricity to be maintained and manipulated by redstone since it almost does nothing to power it. A voltage of 16 is a must to allow copper rods to generate lightning at its output. Copper grates can store up to a voltage of 4 decreasing by 1 as it oxidizes. Waxing all copper variants can block and remove voltage signals. Copper controlled lightning can range from a voltage of 16 to 19, doing up to 4 damage per tick(16=1,17=2,18=3,19=4). This opens up the door to even control lightning voltage for traps. A “Battery Charged” enchantment (players get up to 4 charges to copper armor 1per armor piece) and “Voltage Output”(allows players to release same voltage last struck by all at one) enchantments could come out of this as well.</p>",
+        "author_id": 1902374022007,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38701095590797-Copper-armor-should-be-lighting-resistant/comments/38746148500621",
+        "created_at": "2025-08-12T05:02:22Z",
+        "updated_at": "2025-12-05T18:45:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38701095590797/comments/38746148500621.json",
+        "post_id": 38701095590797,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38746299411213,
+        "body": "<p>Shock potions boost up copper grates by 1(almost as if it were an electrified couldron) , controlled lightning from copper rods that directly hits a copper grate can instantly fill it up completely, then chaining gradually filling up to a max of 4 connected copper grates, upon hit wild lightning can fill up to 8 connected copper grates. Copper unlike redstone doesn’t have a maximum signal output. &nbsp;When connected to other copper blocks, its only limit is voltage and untamable speed!! Redstone can be used in aid of that if controlled and manipulated in the right fashion.</p>",
+        "author_id": 1902374022007,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38701095590797-Copper-armor-should-be-lighting-resistant/comments/38746299411213",
+        "created_at": "2025-08-12T05:29:55Z",
+        "updated_at": "2025-08-12T18:36:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38701095590797/comments/38746299411213.json",
+        "post_id": 38701095590797,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38746489132557,
+        "body": "<p>To continue on.. this should introduce the copper switch almost like the lever but instead of just on and off it adds a neutral function. Kinda like the copper bulb but in a form of a 3 stage lever. And a copper pressure plate for a surprise ancient future use. Another suggestion post I’ve left called “Sculk Armor and here’s why” can further explain a useful function for a item like this.</p>",
+        "author_id": 1902374022007,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38701095590797-Copper-armor-should-be-lighting-resistant/comments/38746489132557",
+        "created_at": "2025-08-12T06:01:31Z",
+        "updated_at": "2025-08-12T18:35:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38701095590797/comments/38746489132557.json",
+        "post_id": 38701095590797,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38828966854925,
+        "body": "<p>Copper golems should also be able to drop items on copper pressure plates if it can’t find a matching item as the one received out of the copper chests or when all previously available chest are full. They should also have the ability to put item(s) back in copper chest if no copper plates or standard chest are detected, or if can’t pathfind to either one, or if there’s no chest with the corresponding item(s).</p>",
+        "author_id": 1902374022007,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38701095590797-Copper-armor-should-be-lighting-resistant/comments/38828966854925",
+        "created_at": "2025-08-14T21:45:49Z",
+        "updated_at": "2025-08-14T22:17:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38701095590797/comments/38828966854925.json",
+        "post_id": 38701095590797,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38859322569869,
+        "body": "<p>Crouching on or 1 block near actively charged copper grates with <br>Battery Charged armor absorbs 1 charge(can be done up to 4 times). Charges could be released 1 at a time crouch jumping. Charge released from armor can be another way to fill up copper grates allowing for armor to also be charged by shocking potions. Horses with copper armor can be charged too, but is only limited to 1 charge and can only be released upon being hit or being absorb by player nearby. The radius of shock release can also be dependent on how many pieces are enchanted with Battery Charged, with one piece giving a circular radius of 1; all the way to a radius of 4 if all enchanted pieces are equipped, radius extends with surrounding copper block(boost by 16) or water blocks/running water(boost by 8 max). Stacking enchantment all the way to “battery charged IIII” does more damage per shock release, damage numbers vary till max of 16 (allowing for massive amounts of damage if all armor has battery battery charge 4)</p>",
+        "author_id": 1902374022007,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38701095590797-Copper-armor-should-be-lighting-resistant/comments/38859322569869",
+        "created_at": "2025-08-16T03:12:28Z",
+        "updated_at": "2025-08-16T20:33:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38701095590797/comments/38859322569869.json",
+        "post_id": 38701095590797,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38859780620045,
+        "body": "<p>A “CHARGED” enchantment unlike “Battery charged” can apply 1 electric charge to weapons and tools. Can absorb charges from lightning or already charged sources and can transfer charges to copper grates with a single hit. Can also activate redstone through blocks with a single pulse like a button, and give shocking effect to a singular entity upon release</p>",
+        "author_id": 1902374022007,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38701095590797-Copper-armor-should-be-lighting-resistant/comments/38859780620045",
+        "created_at": "2025-08-16T04:32:36Z",
+        "updated_at": "2025-08-16T20:57:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38701095590797/comments/38859780620045.json",
+        "post_id": 38701095590797,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 42427876416653,
+        "body": "<p>Copper golems can also act as a conductor. It can also connect lighting/airshock through air blocks in the same way copper &nbsp;rods would do, with its most oxidized state outputing an air shock radius of two blocks in any desired direction. Lightning can also pass through and power blocks diagonally. Copper statues can channel the direction of lightning and airshock depending on selected pose. Copper statues can also be used to send air shock/lightning outputs in diagonal directions, on top of overlapping horizontal and vertical output directions. Airshock can generate between two or more powered copper block variants with 2 or less air blocks in between. Only difference between controlled air shock and lightning is that one is temporary like a button and the other is continuous like a lever. Plus one zaps and the other ticks &nbsp;in relation of damage. When unwaxed fully oxidized and waterlogged, copper statues will wake but not move before it shortly returns back into its statue state -when power with electricity. Redstone power only affects copper statue poses. Soaking or waterlogging a a copper golem could cause it to oxidize faster.&nbsp;</p>",
+        "author_id": 1902374022007,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38701095590797-Copper-armor-should-be-lighting-resistant/comments/42427876416653",
+        "created_at": "2026-01-05T21:29:45Z",
+        "updated_at": "2026-01-06T18:47:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38701095590797/comments/42427876416653.json",
+        "post_id": 38701095590797,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38696449998093,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38766701577101,
+        "body": "<p>Nice idea! If you want, also look at mine on the Copper Armor Lightning Boost</p>",
+        "author_id": 408810602671,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38696449998093-Can-copper-have-a-power/comments/38766701577101",
+        "created_at": "2025-08-12T20:07:24Z",
+        "updated_at": "2025-08-13T00:27:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38696449998093/comments/38766701577101.json",
+        "post_id": 38696449998093,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38555132687757,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38555301596173,
+        "body": "<p>WOAOO STOP SCREAMING. I also want it in minecraft. (=^_^=)&nbsp;</p>\n<p>(=^_^=)&nbsp;</p>",
+        "author_id": 38554260494861,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38555132687757-All-of-the-Rails-and-Minecarts-from-the-More-Rails-and-Minecarts-Mod/comments/38555301596173",
+        "created_at": "2025-08-04T16:37:21Z",
+        "updated_at": "2025-08-04T16:37:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38555132687757/comments/38555301596173.json",
+        "post_id": 38555132687757,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38539190079757,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38599519026573,
+        "body": "<p>Let's do it</p>",
+        "author_id": 38599412311053,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38539190079757-Illusioner-Rework-Proposal-The-Evoker-s-Right-Hand/comments/38599519026573",
+        "created_at": "2025-08-05T23:01:31Z",
+        "updated_at": "2025-08-05T23:01:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38539190079757/comments/38599519026573.json",
+        "post_id": 38539190079757,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38399033322893,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38477486022669,
+        "body": "<p>yes and add sea scorpions and sunken skeletons and octopuses while you are at it</p>",
+        "author_id": 13113189565837,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38399033322893-barnacle/comments/38477486022669",
+        "created_at": "2025-07-31T18:22:15Z",
+        "updated_at": "2025-07-31T18:29:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38399033322893/comments/38477486022669.json",
+        "post_id": 38399033322893,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38477507715981,
+        "body": "<p>oh and nautiluses</p>",
+        "author_id": 13113189565837,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38399033322893-barnacle/comments/38477507715981",
+        "created_at": "2025-07-31T18:22:33Z",
+        "updated_at": "2025-07-31T18:22:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38399033322893/comments/38477507715981.json",
+        "post_id": 38399033322893,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38363340576909,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38366847820941,
+        "body": "<p>This is a great opportunity! We need more features from Minecraft legends and dungeons.</p>",
+        "author_id": 33332145995021,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38363340576909-Vanilla-Mossy-Golem-Concept-Fall-Drop-2025/comments/38366847820941",
+        "created_at": "2025-07-28T01:32:00Z",
+        "updated_at": "2025-07-28T01:32:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38363340576909/comments/38366847820941.json",
+        "post_id": 38363340576909,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38262428499085,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38264549603469,
+        "body": "<p>Maybe combining it with a redstone torch should power it immediately and then other redstone would remove its power</p>",
+        "author_id": 10114439404557,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38262428499085-Permanently-Powered-Shelves/comments/38264549603469",
+        "created_at": "2025-07-23T12:45:15Z",
+        "updated_at": "2025-07-23T18:48:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38262428499085/comments/38264549603469.json",
+        "post_id": 38262428499085,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38222465424397,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38276585879821,
+        "body": "<p>Agreed</p>",
+        "author_id": 11954827101581,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38222465424397-Leaf-litter-needs-silk-touch/comments/38276585879821",
+        "created_at": "2025-07-23T18:50:09Z",
+        "updated_at": "2025-07-23T18:52:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38222465424397/comments/38276585879821.json",
+        "post_id": 38222465424397,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38460640613517,
+        "body": "<p>Maybe a shovel. Like snow and snowballs?</p>",
+        "author_id": 26581285659533,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38222465424397-Leaf-litter-needs-silk-touch/comments/38460640613517",
+        "created_at": "2025-07-31T06:44:16Z",
+        "updated_at": "2025-07-31T06:44:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38222465424397/comments/38460640613517.json",
+        "post_id": 38222465424397,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38462162934797,
+        "body": "<p><span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"0:3\">No</span><span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"3:1\">,</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"5:1\">I</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"7:5\">think</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"18:9\">picking</span> up leaf litter with a <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"43:7\">shovel</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"51:1\">is</span> a <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"53:6\">bad</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"60:4\">idea</span><span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"64:1\">.</span> The <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"66:5\">earth</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"72:1\">and</span> grass blocks are <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"79:10\">dug</span> up with a <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"90:7\">shovel</span><span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"97:1\">,</span> which <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"99:6\">means</span> that the <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"107:6\">leaves</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"114:5\">will</span> d<span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"120:8\">rop</span> out <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"129:1\">and</span> b<span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"131:6\">other th</span>e players <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"138:7\">in the </span>same way<span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"150:2\">.<br>The leaves should only be picked with shears, just like any grass and leaf blocks.<br></span></p>",
+        "author_id": 11954827101581,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38222465424397-Leaf-litter-needs-silk-touch/comments/38462162934797",
+        "created_at": "2025-07-31T09:04:32Z",
+        "updated_at": "2025-07-31T09:04:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38222465424397/comments/38462162934797.json",
+        "post_id": 38222465424397,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38215908041741,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38477602956941,
+        "body": "<p>he is still in the official launcher art if you were wondering</p>",
+        "author_id": 13113189565837,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38215908041741-A-Technoblade-firework-charge/comments/38477602956941",
+        "created_at": "2025-07-31T18:25:21Z",
+        "updated_at": "2025-07-31T18:25:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38215908041741/comments/38477602956941.json",
+        "post_id": 38215908041741,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38190371917069,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38366408902285,
+        "body": "<p>Dude this is in so many datapacks already it could totally be implemented in game.&nbsp;</p>",
+        "author_id": 34495023570957,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38190371917069-Add-chair-in-Minecraft/comments/38366408902285",
+        "created_at": "2025-07-28T00:40:33Z",
+        "updated_at": "2025-07-28T00:40:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38190371917069/comments/38366408902285.json",
+        "post_id": 38190371917069,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38093919177613,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38105414393869,
+        "body": "<p>Satisfactory???</p>",
+        "author_id": 408244617912,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38093919177613-Copper-wires-and-rebar/comments/38105414393869",
+        "created_at": "2025-07-16T16:30:59Z",
+        "updated_at": "2025-07-16T16:30:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38093919177613/comments/38105414393869.json",
+        "post_id": 38093919177613,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38366321238925,
+        "body": "<p>Copper wire should have redstone in the recipe too - as part of the natural game logic. Redstone IS Minecraft electricity. Copper wire is one-directional redstone, so it doesn't replace other redstone machines but does trim down and simplify logic. I do like the weaker signal to, but think a full ingot is more balanced.&nbsp;</p>\n<p>Copper buttons and pressure plates should work with copper wire and they should still oxidize for different signal strengths.&nbsp;</p>\n<p>Copper should be added to redstone recipes too - copper is standard in electricity.</p>\n<p>Think about how steampunk and cool industrial districts would look with this added!&nbsp;</p>",
+        "author_id": 34495023570957,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38093919177613-Copper-wires-and-rebar/comments/38366321238925",
+        "created_at": "2025-07-28T00:36:28Z",
+        "updated_at": "2025-07-28T01:07:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38093919177613/comments/38366321238925.json",
+        "post_id": 38093919177613,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

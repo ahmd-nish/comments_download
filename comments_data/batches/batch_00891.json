@@ -1,0 +1,892 @@
+[
+  {
+    "post_id": 360075392551,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4419450284173,
+        "body": "<p>Denis_Play</p>",
+        "author_id": 422986389612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075392551-Deny-spawn/comments/4419450284173",
+        "created_at": "2022-01-08T13:50:37Z",
+        "updated_at": "2022-01-08T13:50:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075392551/comments/4419450284173.json",
+        "post_id": 360075392551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074984391,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013667771,
+        "body": "<p>Isn't the <code>title</code> tag (the title of the book) also plain text too, or is it JSON text as well?</p>",
+        "author_id": 396590871911,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074984391-The-author-tag-of-a-written-book-should-be-raw-JSON-text/comments/360013667771",
+        "created_at": "2020-12-04T04:11:03Z",
+        "updated_at": "2020-12-08T00:57:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074984391/comments/360013667771.json",
+        "post_id": 360074984391,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013702251,
+        "body": "<p>@ExpertCoder2306 It appears that the title tag is also plain text, which is even weirder. I get the author tag being plain text, sort of, but why the title tag?</p>",
+        "author_id": 388404289752,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074984391-The-author-tag-of-a-written-book-should-be-raw-JSON-text/comments/360013702251",
+        "created_at": "2020-12-08T00:56:51Z",
+        "updated_at": "2020-12-22T00:19:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074984391/comments/360013702251.json",
+        "post_id": 360074984391,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013902212,
+        "body": "<p><x-zendesk-user data-user-name=\"Creeperodst658\">388404289752</x-zendesk-user>&nbsp;I had a hunch that maybe those text fields used the legacy formatting system with the section sign <code>§</code>. Using an NBT editor to insert the codes returned negative—it seems like they truly are plain text.</p>\n<p>This is such a small change that either it won't be implemented, or it'll silently be implemented without further response to this thread (but of course we hope for the latter.) In the meantime, you can always change the book's <code>display.Name</code> tag—it uses JSON formatting and it takes priority over the book title.</p>",
+        "author_id": 396590871911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074984391-The-author-tag-of-a-written-book-should-be-raw-JSON-text/comments/360013902212",
+        "created_at": "2020-12-22T01:49:35Z",
+        "updated_at": "2020-12-23T19:03:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074984391/comments/360013902212.json",
+        "post_id": 360074984391,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074414271,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013427612,
+        "body": "<p><em>/testfor @e[type= <strong>!fox</strong>]&nbsp;</em>&nbsp; &nbsp;does not work?</p>",
+        "author_id": 406040966311,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074414271-Add-not-command/comments/360013427612",
+        "created_at": "2020-11-07T10:04:02Z",
+        "updated_at": "2021-01-20T14:16:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074414271/comments/360013427612.json",
+        "post_id": 360074414271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013359551,
+        "body": "<p>@blah no it does not.&nbsp;<em>@e[type=!fox]</em> searches for any entities that are not foxes. That would almost always return true unless you have killed every entity that is not a fox.</p>",
+        "author_id": 401256604931,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074414271-Add-not-command/comments/360013359551",
+        "created_at": "2020-11-08T05:49:06Z",
+        "updated_at": "2020-11-08T09:48:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074414271/comments/360013359551.json",
+        "post_id": 360074414271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013359871,
+        "body": "<p>This would be a good simple way, but I would suggest adding more control. Remember, commands don't output a single boolean, they output a <code>result</code> and a <code>success</code> count. If this were to be implemented, users would have to choose what to invert, and what would be counted as true and false.<br>Sometimes, for example, when running <code>/clear @p glass 0</code>, the command's success is <code>1</code>, but the result is <code>0</code>. And should the command block running the <code>/not</code> pass or fail? Maybe something like this:</p>\n<pre>/not &lt;result|success&gt; &lt;command: Command&gt;</pre>\n<p>would be suitable, allowing the user to control what to invert—the result, or the success.</p>\n<p>But actually, I think that <a href=\"https://feedback.minecraft.net/hc/en-us/community/posts/360074399232-ADDITIONAL-FUNCTIONS-FOR-COMMAND-BLOCKS\" target=\"_blank\" rel=\"nofollow noreferrer\">this post on the forum</a> is a better idea—make the inverting of the conditional setting instead.&nbsp;</p>\n<p>I 100% support this feature request because of the <code>/not</code> command's simplicity to understand, but even if it is implemented, I would advocate for getting the <code>/stats</code> command added to Bedrock Edition's supply. Once you become a more experienced command user, you'll then complain that the <code>/not</code> command doesn't have enough control. Scoreboard values are much easier to manipulate than the <code>/not</code> command will ever give.</p>",
+        "author_id": 396590871911,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074414271-Add-not-command/comments/360013359871",
+        "created_at": "2020-11-08T07:14:12Z",
+        "updated_at": "2020-11-09T20:42:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074414271/comments/360013359871.json",
+        "post_id": 360074414271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013439052,
+        "body": "<p><x-zendesk-user data-user-name=\"ExpertCoder2306\">396590871911</x-zendesk-user>&nbsp;I think that what you have said is a good idea. But to clarify what you said, I am here asking for a command that would negate whether the next chain command block should run if it were set to conditional. I do agree with what you said, since it is especially annoying when commands are redundant or changed so that older things no longer work.</p>",
+        "author_id": 401256604931,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074414271-Add-not-command/comments/360013439052",
+        "created_at": "2020-11-09T02:23:28Z",
+        "updated_at": "2020-11-09T02:43:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074414271/comments/360013439052.json",
+        "post_id": 360074414271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013367511,
+        "body": "<p><x-zendesk-user data-user-name=\"PenguinManBlue\">401256604931</x-zendesk-user>&nbsp;Something went wrong, and the link to the other feedback post wasn't showing up. I meant that instead of a <code>/not</code> command, there could be an additional option in the next command block labelled \"Inverse Conditional\".</p>",
+        "author_id": 396590871911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074414271-Add-not-command/comments/360013367511",
+        "created_at": "2020-11-09T06:18:50Z",
+        "updated_at": "2020-11-09T06:34:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074414271/comments/360013367511.json",
+        "post_id": 360074414271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074380271,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013375211,
+        "body": "<p>Commands are only for accomplishing fundamental tasks, not shortcuts for something big. If you want a flashing lamp, use a redstone system, or multiple <code>/setblock</code> commands to set redstone blocks next to the lamps.</p>",
+        "author_id": 396590871911,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074380271-Command-on-block-turn-on-and-off-a-lamp-like-sea-lamp/comments/360013375211",
+        "created_at": "2020-11-09T18:39:10Z",
+        "updated_at": "2020-11-20T05:11:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074380271/comments/360013375211.json",
+        "post_id": 360074380271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073764332,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013491852,
+        "body": "<p>Commands and redstone are known not to go together well. If you are using comparators to measure signal strength as part of your command contraption,&nbsp;<em>don't</em>! A better way is to use scoreboards instead, unless your comparator ties into a redstone contraption instead of activating more commands.</p>\n<p>Scoreboards have a maximum of 2,147,483,647 rather than the maximum of 15 for redstone. You could do something like this:</p>\n<pre>execute store result score FakePlayer myObjective if entity @e[type=squid]</pre>\n<p>and then do operations based off of that scoreboard value.</p>",
+        "author_id": 396590871911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073764332-Command-Block-Comparator-Output-Proportional-to-Limit-Set/comments/360013491852",
+        "created_at": "2020-11-13T02:42:57Z",
+        "updated_at": "2020-11-13T07:42:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073764332/comments/360013491852.json",
+        "post_id": 360073764332,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073710412,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013089091,
+        "body": "<p>that is a good idea honestly I have been waiting until the time comes when I can make unbreakable tools in bedrock edition </p>",
+        "author_id": 402747855952,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073710412-Commands-Update/comments/360013089091",
+        "created_at": "2020-10-14T03:49:19Z",
+        "updated_at": "2020-10-14T04:49:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073710412/comments/360013089091.json",
+        "post_id": 360073710412,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073705752,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013172672,
+        "body": "<p>c refers to count, example kill@e[c=10] kills 10 entities</p>",
+        "author_id": 385033243551,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073705752-Minimum-and-Maximum-Limit-Selectors/comments/360013172672",
+        "created_at": "2020-10-15T01:51:15Z",
+        "updated_at": "2020-10-15T02:34:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073705752/comments/360013172672.json",
+        "post_id": 360073705752,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013129351,
+        "body": "<p>I should've clarified that I am playing in Java 1.16.3 so c= isn't a thing, also I was suggesting being able to have a minimum in the same way [distance=100..150] works. As right now I am needing to make good sized redstone contraptions to separate and double check that there are 4 players for a minigame. A min and/or max would allow all that to go into one or two command blocks and not need to teleport the players to check. It also makes it a lot easier when dealing with larger amounts of players or entities such as 32.</p>\n<p>A command similar to this is what I am wanting to be possible where when activated will only teleport a set amount of players, no more or less, and can be done easily:</p>\n<p>\"/tp @a[limit=4..4,distance=..2,sort=nearest] # # #\"</p>",
+        "author_id": 388792808272,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073705752-Minimum-and-Maximum-Limit-Selectors/comments/360013129351",
+        "created_at": "2020-10-17T23:03:42Z",
+        "updated_at": "2020-10-17T23:21:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073705752/comments/360013129351.json",
+        "post_id": 360073705752,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073335871,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012977532,
+        "body": "<p>You do have something very similar to this: The current entity selector or @s. It basically executes the command on the sender.</p>\n<p>To change the sender, you can use: <br>/execute as (selector) run (command)</p>\n<p>And then inside your command, you use the selector @s. I am not sure if it is possible to pass the selector from one command block to another (for example in your case, the blocks responsible from saying the npc's lines would take the information from the first command block, meaning even if someonr passed by they would have been already assigned to you), but you can use a function (a text file of type .mcfunction inside .minecraft/daves/YourWorld/datapacks/YourDatapack/YourDatapack_data/functions that executes multiple commands at once, so you can do:</p>\n<p><br>/execute as @p run (function)<br>And inside the function use the @s selector.</p>\n<p>It's a little more complicated than that but I am on phone and it would be hard to explain more details, I hope you understand that and good luck with your project.</p>",
+        "author_id": 402139512451,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073335871--Launcher-selector/comments/360012977532",
+        "created_at": "2020-09-26T23:27:34Z",
+        "updated_at": "2020-09-27T12:33:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073335871/comments/360012977532.json",
+        "post_id": 360073335871,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071807171,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013378491,
+        "body": "<p>Just copy the scores to another temporary scoreboard, and then perform the operation there to get the result on a new scoreboard.</p>",
+        "author_id": 396590871911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071807171--Scoreboard-s-operation-have-a-problem/comments/360013378491",
+        "created_at": "2020-11-09T23:23:46Z",
+        "updated_at": "2020-11-09T23:23:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071807171/comments/360013378491.json",
+        "post_id": 360071807171,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360015441452,
+        "body": "<p>That's the cumbersome way, &amp; it don't works with tick speed commands</p>",
+        "author_id": 375848865892,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071807171--Scoreboard-s-operation-have-a-problem/comments/360015441452",
+        "created_at": "2021-05-09T04:34:23Z",
+        "updated_at": "2021-05-09T11:43:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071807171/comments/360015441452.json",
+        "post_id": 360071807171,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071622291,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011631172,
+        "body": "<p>Actually, now that I think about it, this command could be part of a bigger command, like `block new` and `block edit` and so on.</p>",
+        "author_id": 391518043151,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071622291-NewBlock-Command/comments/360011631172",
+        "created_at": "2020-07-18T20:26:03Z",
+        "updated_at": "2020-07-20T17:35:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071622291/comments/360011631172.json",
+        "post_id": 360071622291,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012281772,
+        "body": "<p>so basically custom blocks</p>",
+        "author_id": 375830639852,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071622291-NewBlock-Command/comments/360012281772",
+        "created_at": "2020-07-28T23:43:35Z",
+        "updated_at": "2020-07-28T23:43:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071622291/comments/360012281772.json",
+        "post_id": 360071622291,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071511231,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012179812,
+        "body": "<p>I feel like there's missing functionality with array subscripting in NBT paths. You should be able to define compound tag predicates at array subscripts like:</p>\n<p><strong>data get &lt;source-profile&gt; Foo[0]{Bar:\"Baz\"}.Bar</strong></p>\n<p>This will access the first index's <em>Bar</em> tag of the <em>Foo</em> compound array only if it matches the contents of the compound predicate.</p>\n<p>However, this will not try to \"find\" the first available element, instead it really just operates on the \"first index\" only. Still, there are ways to filter out a number of elements of an array though.</p>",
+        "author_id": 384940642592,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071511231-Enable-data-get-to-obtain-a-value-using-both-NBT-path-and-number-in-order/comments/360012179812",
+        "created_at": "2020-07-19T16:04:55Z",
+        "updated_at": "2021-11-27T00:35:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071511231/comments/360012179812.json",
+        "post_id": 360071511231,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071535152,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011364771,
+        "body": "<p>Khau161\n</p>",
+        "author_id": 400626175031,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071535152-Khau161/comments/360011364771",
+        "created_at": "2020-07-14T15:39:32Z",
+        "updated_at": "2020-07-14T15:40:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071535152/comments/360011364771.json",
+        "post_id": 360071535152,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011364851,
+        "body": "<p>احب مايني كرافت</p>",
+        "author_id": 400626175031,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071535152-Khau161/comments/360011364851",
+        "created_at": "2020-07-14T15:40:51Z",
+        "updated_at": "2020-07-14T15:40:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071535152/comments/360011364851.json",
+        "post_id": 360071535152,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071413611,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011361751,
+        "body": "<p>Honestly, I can see your point with spiders technically being a neutral mob but to be honest at this point you may as well add the tags to every mob.</p>",
+        "author_id": 400617081571,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071413611-Add-the-AngerTime-and-AngryAt-tags-to-the-NBT-spider/comments/360011361751",
+        "created_at": "2020-07-14T12:30:21Z",
+        "updated_at": "2020-08-13T00:35:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071413611/comments/360011361751.json",
+        "post_id": 360071413611,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071037751,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012379111,
+        "body": "<p>I agree with what you say in this post, but you should remove the option to select items from storages, as they're just a storage of NBT data and they have no slots</p>",
+        "author_id": 374129317652,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071037751-Changes-to-replaceitem/comments/360012379111",
+        "created_at": "2020-08-13T07:46:36Z",
+        "updated_at": "2020-08-13T17:57:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071037751/comments/360012379111.json",
+        "post_id": 360071037751,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012488312,
+        "body": "<p>THIS IS THE NOTE FROM ABOVE! (Read the article if you don't have context)</p>\n<p>I know storages don't have slots, so one of two things can happen:</p>\n<p>You could simply remove the option (like in the post above) or</p>\n<p>You could add a new NBT tag specific to storages -- {StorageItems:[{}]}. The \"format\" would be the exact same as blocks and entities. This would act as the \"slots\" in storage. If this is not possible, then the first option is fine.</p>\n<p>&nbsp;</p>\n<p>mestesso123, thank you for the comment, I thought I addressed that in the article but apparently not.&nbsp;</p>",
+        "author_id": 399886413812,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071037751-Changes-to-replaceitem/comments/360012488312",
+        "created_at": "2020-08-14T18:12:14Z",
+        "updated_at": "2020-08-14T23:24:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071037751/comments/360012488312.json",
+        "post_id": 360071037751,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013421091,
+        "body": "<p>This is already possible with the <code>/data modify</code> command, but it takes three commands to work, possibly four. I'll take your second example for this one, note that storage is for NBT, not a container:</p>\n<p>First, you need to make sure that an item already exists in the area that you want to modify, and add a temporary item there if it doesn't:</p>\n<pre>execute unless data block 0 0 0 Items[{Slot:0b}] run data merge block 0 0 0 {Items:[{Slot:0b, id:\"minecraft:dirt\",Count:1b}]}</pre>\n<p>Then you have to change the tags <code>id</code>, <code>Slot</code>, and the <code>tag</code> compound with one command each:</p>\n<pre>data modify block 0 0 0 Items[{Slot:0b}].id set from entity @e[type=armor_stand,limit=1,sort=nearest] ArmorItems[3].id<br>data modify block 0 0 0 Items[{Slot:0b}].Count set from entity @e[type=armor_stand,limit=1,sort=nearest] ArmorItems[3].Count<br>data modify block 0 0 0 Items[{Slot:0b}].tag set from entity @e[type=armor_stand,limit=1,sort=nearest] ArmorItems[3].tag</pre>\n<p>And that's how to modify one slot at a time! Considering that we have functions in Minecraft Java Edition, there isn't a need for a shortcut for this.</p>\n<h1>Update</h1>\n<p>That's been added to Minecraft Java Edition, and the command has been moved to <code>/item</code> instead.</p>\n<pre>item entity @s weapon.offhand copy entity @s weapon.mainhand</pre>",
+        "author_id": 396590871911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071037751-Changes-to-replaceitem/comments/360013421091",
+        "created_at": "2020-11-13T06:06:15Z",
+        "updated_at": "2020-11-28T06:00:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071037751/comments/360013421091.json",
+        "post_id": 360071037751,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360070064392,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011361891,
+        "body": "<p>But there's already a gamerule to not spawn phantoms by doing \"/gamerule doInsomnia false\".</p>",
+        "author_id": 400617081571,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070064392-Add-phantoms-to-the-mob-event-list/comments/360011361891",
+        "created_at": "2020-07-14T12:36:10Z",
+        "updated_at": "2020-07-14T12:36:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070064392/comments/360011361891.json",
+        "post_id": 360070064392,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360068117591,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011284851,
+        "body": "<p>They already have that. That's one of the spawn events.</p>",
+        "author_id": 399718415631,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360068117591-Villager-Command/comments/360011284851",
+        "created_at": "2020-07-07T22:37:08Z",
+        "updated_at": "2020-07-07T22:37:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360068117591/comments/360011284851.json",
+        "post_id": 360068117591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360065824252,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010691711,
+        "body": "<p>What do you mean when you say \"tick speed\"? Do you mean the actual tick speed or the random tick speed that is variable as a gamerule? If you mean the actual tick speed, that's not changeable in vanilla, and I'm pretty sure that if you change the tick speed using mods, all game events happen faster, including baby growth and villager curing. Random ticks apply to blocks only, no exceptions. The way that random ticks work would make it incompatible with entities. Besides, babies all grow up at the exact same rate and villagers always cure in the same time, and there's no reason to make them random.</p>",
+        "author_id": 384380991192,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360065824252-Include-babies-and-zombie-villager-curing-in-tick-speed-adjustments/comments/360010691711",
+        "created_at": "2020-05-26T21:52:10Z",
+        "updated_at": "2020-05-26T22:32:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360065824252/comments/360010691711.json",
+        "post_id": 360065824252,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 27592844471437,
+        "body": "<p>About the thing with baby mobs growing up and villagers curing in the same time (the comment not the forum), they are random, for you could sit there for 10 minutes waiting for a villager to cure, or have a baby mob grow up overnight. or you could have a villager cure almost instantly and have a baby mob take 10 minutes. its not a set time for everything, if it was that would take away from some of the realism in the game.</p>",
+        "author_id": 27592821049485,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360065824252-Include-babies-and-zombie-villager-curing-in-tick-speed-adjustments/comments/27592844471437",
+        "created_at": "2024-06-15T00:28:59Z",
+        "updated_at": "2024-06-15T13:19:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360065824252/comments/27592844471437.json",
+        "post_id": 360065824252,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360062902212,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010563912,
+        "body": "<p>/kill @e[type=(Whatever mob)]</p>\n<p>Put it in a repeat always active command block.&nbsp;</p>\n<p>&nbsp;</p>",
+        "author_id": 388245780032,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062902212--naturalMobSpawning-command/comments/360010563912",
+        "created_at": "2020-05-15T21:51:43Z",
+        "updated_at": "2020-05-22T02:27:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062902212/comments/360010563912.json",
+        "post_id": 360062902212,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010563511,
+        "body": "<p>And and if you are in bedrock, use light blocks</p>",
+        "author_id": 388245780032,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062902212--naturalMobSpawning-command/comments/360010563511",
+        "created_at": "2020-05-15T21:52:32Z",
+        "updated_at": "2020-05-22T02:27:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062902212/comments/360010563511.json",
+        "post_id": 360062902212,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010665951,
+        "body": "<p>/gamerule doMobSpawning false</p>",
+        "author_id": 384380991192,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062902212--naturalMobSpawning-command/comments/360010665951",
+        "created_at": "2020-05-24T17:28:21Z",
+        "updated_at": "2020-11-16T04:55:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062902212/comments/360010665951.json",
+        "post_id": 360062902212,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360062855792,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010500952,
+        "body": "<p>Yes,I really really need this. I was actually going to say the same thing.</p>",
+        "author_id": 397756253832,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062855792-Player-Specific-activation-commands/comments/360010500952",
+        "created_at": "2020-05-11T18:58:30Z",
+        "updated_at": "2020-05-11T19:52:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062855792/comments/360010500952.json",
+        "post_id": 360062855792,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010643092,
+        "body": "<p>Hmm, this can be done through signs or /tellraw</p>",
+        "author_id": 384765614332,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062855792-Player-Specific-activation-commands/comments/360010643092",
+        "created_at": "2020-05-22T02:35:20Z",
+        "updated_at": "2020-05-22T02:35:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062855792/comments/360010643092.json",
+        "post_id": 360062855792,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010667032,
+        "body": "<p>I don't think this should be added. A button translates player input into a redstone signal, but once the redstone signal is sent it is impossible to find out who pressed the button. You can't \"trace\" the redstone signal back to the button that started it, much less trace the press of a button to who pressed it. What you want is a target selector that targets the player that activated the command which is @s. When a command block activates, \"the player that activated the command\" is the command block itself, which is why @s doesn't apply. The redstone signal didn't activate the command; the player that pressed the button didn't activate the command; the command block itself activated the command.</p>\n<p>Like others have said, you can use JSON text to circumvent this because clicking JSON text means that <em>you</em>, the clicker, ran the command, so @s would apply there.</p>",
+        "author_id": 384380991192,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062855792-Player-Specific-activation-commands/comments/360010667032",
+        "created_at": "2020-05-24T17:42:53Z",
+        "updated_at": "2020-05-26T18:58:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062855792/comments/360010667032.json",
+        "post_id": 360062855792,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010779132,
+        "body": "<p>Just put /give @s diamond_sword on the command block, it will activate whoever presses it</p>",
+        "author_id": 398463190212,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062855792-Player-Specific-activation-commands/comments/360010779132",
+        "created_at": "2020-05-28T21:23:24Z",
+        "updated_at": "2020-05-28T21:46:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062855792/comments/360010779132.json",
+        "post_id": 360062855792,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360062285892,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013437132,
+        "body": "<p>This is accomplished using <code>/execute store</code> and then testing for a score.</p>\n<pre>/execute store result score FakePlayer myObjective if entity @e[type=pig,distance=..5]\n/execute if score FakePlayer myObjective matches 3.. run say Hello, World!</pre>",
+        "author_id": 396590871911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062285892-entity-selector-option-at-least/comments/360013437132",
+        "created_at": "2020-11-08T19:57:59Z",
+        "updated_at": "2020-11-09T01:45:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062285892/comments/360013437132.json",
+        "post_id": 360062285892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360061620472,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010185331,
+        "body": "<p>Please consider </p>",
+        "author_id": 396891102671,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360061620472-Improvements-to-give/comments/360010185331",
+        "created_at": "2020-04-18T20:58:10Z",
+        "updated_at": "2020-04-18T20:58:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360061620472/comments/360010185331.json",
+        "post_id": 360061620472,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010185351,
+        "body": "<p>.</p>",
+        "author_id": 396891102671,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360061620472-Improvements-to-give/comments/360010185351",
+        "created_at": "2020-04-18T20:59:03Z",
+        "updated_at": "2020-04-18T20:59:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360061620472/comments/360010185351.json",
+        "post_id": 360061620472,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360060810852,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010230792,
+        "body": "<p>You said it yourself; it's already possible using current commands. Learn to use them instead of asking for tailor-made gamerules.</p>\n<p>\"I don't want to make this command every single time\"<br>If you don't want to, you don't have to. The syntax is not that difficult to learn.</p>",
+        "author_id": 384380991192,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360060810852--gamerule-CustomAnvil-True-false/comments/360010230792",
+        "created_at": "2020-04-21T18:18:07Z",
+        "updated_at": "2020-05-07T13:44:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360060810852/comments/360010230792.json",
+        "post_id": 360060810852,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360060414351,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010227091,
+        "body": "<p>I'm going to be honest here. This makes no sense.</p>\n<p>The radius argument (or distance argument) checks how far an entity is from a certain location. It has nothing to do with the entity <em>entering</em> or&nbsp;<em>leaving</em> the location. If we extend the distance argument to accept negative numbers, the logical conclusion would be that the game checks if an entity is a certain <em>negative distance</em> (?????) away from a certain location. If you think about it from a mathematical perspective, however, positive radii should work exactly the same as negative radii (graphing r=1 gives the same circle as r=-1).</p>\n<p>In either case, that's just not how negative numbers work.</p>",
+        "author_id": 384380991192,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360060414351-Negative-Radii-and-Delta-Coordinates/comments/360010227091",
+        "created_at": "2020-04-21T18:28:43Z",
+        "updated_at": "2020-04-21T23:59:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360060414351/comments/360010227091.json",
+        "post_id": 360060414351,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360055819952,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008748051,
+        "body": "<p>Dude. This’d be massive. </p>",
+        "author_id": 369987069152,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055819952-Translucency-command/comments/360008748051",
+        "created_at": "2019-12-19T12:58:06Z",
+        "updated_at": "2019-12-19T12:58:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055819952/comments/360008748051.json",
+        "post_id": 360055819952,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008744032,
+        "body": "<p>It could be interesting I guess</p>",
+        "author_id": 373712550711,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055819952-Translucency-command/comments/360008744032",
+        "created_at": "2019-12-19T13:14:34Z",
+        "updated_at": "2019-12-19T13:14:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055819952/comments/360008744032.json",
+        "post_id": 360055819952,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008984192,
+        "body": "<p>Nice idea but translucency is a part of the texture of a block, which would be pretty hard to change with commands.</p>",
+        "author_id": 386395193391,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055819952-Translucency-command/comments/360008984192",
+        "created_at": "2020-01-16T00:08:23Z",
+        "updated_at": "2020-01-16T00:08:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055819952/comments/360008984192.json",
+        "post_id": 360055819952,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360055528872,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008615032,
+        "body": "<p>Guy, there is already a command to disable that</p>",
+        "author_id": 390662923952,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055528872-Remove-output-from-ability-command/comments/360008615032",
+        "created_at": "2019-12-05T23:25:21Z",
+        "updated_at": "2019-12-05T23:25:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055528872/comments/360008615032.json",
+        "post_id": 360055528872,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

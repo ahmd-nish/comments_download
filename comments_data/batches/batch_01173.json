@@ -1,0 +1,697 @@
+[
+  {
+    "post_id": 13417911520269,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 13725416809357,
+        "body": "<p>Yeah add this</p>",
+        "author_id": 12935779287053,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13417911520269-Let-s-bring-back-the-old-brush-textures/comments/13725416809357",
+        "created_at": "2023-03-04T21:20:06Z",
+        "updated_at": "2023-03-04T21:20:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13417911520269/comments/13725416809357.json",
+        "post_id": 13417911520269,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 12596252459533,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 14646284164621,
+        "body": "<p>Ray tracing cannot work on non-RTX(or AMD equivalent)GPUs. They don't have the required hardware.</p>",
+        "author_id": 402223238791,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12596252459533-Bedrock-Edition-without-RTX-Graphic-Card-dependency/comments/14646284164621",
+        "created_at": "2023-04-07T08:34:02Z",
+        "updated_at": "2023-05-19T09:23:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12596252459533/comments/14646284164621.json",
+        "post_id": 12596252459533,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10352563973517,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 15999863066637,
+        "body": "<p>I think it would be good to make it so mobs could do that too.</p>",
+        "author_id": 15999817377421,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10352563973517-Better-death-effect/comments/15999863066637",
+        "created_at": "2023-05-22T00:57:53Z",
+        "updated_at": "2023-05-22T00:57:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10352563973517/comments/15999863066637.json",
+        "post_id": 10352563973517,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 9919512073869,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 9922067351821,
+        "body": "<p>It does not look like that. It's just thatching.</p>",
+        "author_id": 419344921172,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/9919512073869-the-texture-of-the-new-bamboo-blocks-is-unacceptable/comments/9922067351821",
+        "created_at": "2022-10-16T15:03:06Z",
+        "updated_at": "2022-10-17T00:51:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/9919512073869/comments/9922067351821.json",
+        "post_id": 9919512073869,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 9918645682061,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 11876963816589,
+        "body": "<p>Yes we need this! How about clouds generate from y=193 to y= 410.</p>",
+        "author_id": 10118601016333,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/9918645682061-%D0%9E%D0%B1%D0%BB%D0%B0%D0%BA%D0%B0-%D0%BD%D0%B0-%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D1%85-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F%D1%85/comments/11876963816589",
+        "created_at": "2022-12-31T22:50:44Z",
+        "updated_at": "2023-02-14T19:13:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/9918645682061/comments/11876963816589.json",
+        "post_id": 9918645682061,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 8632461731853,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8682511845133,
+        "body": "<p>In fact, there is a 3D option in Java 1.12, but it was deleted later.</p>",
+        "author_id": 8347336034061,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8632461731853-3D-Mode-java-and-bedrock/comments/8682511845133",
+        "created_at": "2022-08-25T14:06:49Z",
+        "updated_at": "2023-02-10T03:22:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8632461731853/comments/8682511845133.json",
+        "post_id": 8632461731853,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 8342897220237,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8388301396365,
+        "body": "<p>Like to make a door look like deep slate, for example.</p>",
+        "author_id": 420562648152,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8342897220237-Door-Casings/comments/8388301396365",
+        "created_at": "2022-08-12T23:13:50Z",
+        "updated_at": "2022-08-12T23:13:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8342897220237/comments/8388301396365.json",
+        "post_id": 8342897220237,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 8338620598797,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8350896441101,
+        "body": "<p>Some of those texture packs already exist.</p>",
+        "author_id": 419344921172,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8338620598797-Minecraft-Concept-Art-Texture-Pack/comments/8350896441101",
+        "created_at": "2022-08-11T16:39:12Z",
+        "updated_at": "2022-08-11T16:39:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8338620598797/comments/8350896441101.json",
+        "post_id": 8338620598797,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7805481073037,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7815779157901,
+        "body": "<p>This issue was fixed in 1.19. If you’re playing older versions, just get a resource pack.</p>",
+        "author_id": 423562415371,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7805481073037-Boat-Texture-Issue/comments/7815779157901",
+        "created_at": "2022-07-20T14:30:05Z",
+        "updated_at": "2022-07-28T16:02:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7805481073037/comments/7815779157901.json",
+        "post_id": 7805481073037,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 8388229478285,
+        "body": "<p>This wasn’t fixed until 1.19.1 for bedrock at least</p>",
+        "author_id": 420562648152,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7805481073037-Boat-Texture-Issue/comments/8388229478285",
+        "created_at": "2022-08-12T23:11:43Z",
+        "updated_at": "2022-08-13T03:38:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7805481073037/comments/8388229478285.json",
+        "post_id": 7805481073037,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 6114822729741,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 18035407318285,
+        "body": "<p>Sounds like a good idea!</p>",
+        "author_id": 14941044894861,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6114822729741-The-North-Star/comments/18035407318285",
+        "created_at": "2023-07-28T22:44:30Z",
+        "updated_at": "2023-07-28T22:44:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6114822729741/comments/18035407318285.json",
+        "post_id": 6114822729741,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 6107272204685,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8086740921997,
+        "body": "<p>Mabe not a code but definitely give the cape to java players who have it on bedrock</p>",
+        "author_id": 8086599612557,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6107272204685-Send-a-code-for-owners-of-2019-cape-to-have-it-in-pc/comments/8086740921997",
+        "created_at": "2022-08-01T12:49:52Z",
+        "updated_at": "2022-08-01T12:51:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6107272204685/comments/8086740921997.json",
+        "post_id": 6107272204685,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4890083869837,
+    "expected_comment_count": 5,
+    "actual_comment_count": 6,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5177594659085,
+        "body": "<p>I didn’t even know it was a show. I guess it doesn’t need to be removed, but changed instead. xD</p>",
+        "author_id": 376695309332,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4890083869837-Remove-the-splash-quote-Play-Minecraft-Watch-Top-Gear-Get-Pig/comments/5177594659085",
+        "created_at": "2022-03-30T16:45:14Z",
+        "updated_at": "2022-06-27T16:02:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4890083869837/comments/5177594659085.json",
+        "post_id": 4890083869837,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 8640531012365,
+        "body": "<p>So it was people like you which had the new chat reporting system added</p>",
+        "author_id": 8640513501069,
+        "vote_sum": 10,
+        "vote_count": 10,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4890083869837-Remove-the-splash-quote-Play-Minecraft-Watch-Top-Gear-Get-Pig/comments/8640531012365",
+        "created_at": "2022-08-23T22:33:41Z",
+        "updated_at": "2024-05-02T04:48:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4890083869837/comments/8640531012365.json",
+        "post_id": 4890083869837,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 23242994367757,
+        "body": "<p>Imagine got offended by a car show</p>",
+        "author_id": 23242983018509,
+        "vote_sum": 5,
+        "vote_count": 5,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4890083869837-Remove-the-splash-quote-Play-Minecraft-Watch-Top-Gear-Get-Pig/comments/23242994367757",
+        "created_at": "2024-01-16T07:46:13Z",
+        "updated_at": "2024-05-02T04:48:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4890083869837/comments/23242994367757.json",
+        "post_id": 4890083869837,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 26381077853581,
+        "body": "<p>No one cares</p>",
+        "author_id": 26381060973069,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4890083869837-Remove-the-splash-quote-Play-Minecraft-Watch-Top-Gear-Get-Pig/comments/26381077853581",
+        "created_at": "2024-05-02T04:49:10Z",
+        "updated_at": "2024-05-02T04:49:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4890083869837/comments/26381077853581.json",
+        "post_id": 4890083869837,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 27789893103373,
+        "body": "<p>Womp Womp</p>",
+        "author_id": 27712528368013,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4890083869837-Remove-the-splash-quote-Play-Minecraft-Watch-Top-Gear-Get-Pig/comments/27789893103373",
+        "created_at": "2024-06-22T04:22:03Z",
+        "updated_at": "2024-06-22T04:22:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4890083869837/comments/27789893103373.json",
+        "post_id": 4890083869837,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 43321868891021,
+        "body": "<p>i wish there was a way to vote no!</p>",
+        "author_id": 43321786425741,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4890083869837-Remove-the-splash-quote-Play-Minecraft-Watch-Top-Gear-Get-Pig/comments/43321868891021",
+        "created_at": "2026-02-06T22:52:40Z",
+        "updated_at": "2026-02-06T22:52:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4890083869837/comments/43321868891021.json",
+        "post_id": 4890083869837,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4453051523469,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4453068302605,
+        "body": "<p>I meant to put this under Gameplay</p>",
+        "author_id": 379612163812,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4453051523469-Glow-Squid-can-spawn-in-the-Deep-Dark-below-y-0/comments/4453068302605",
+        "created_at": "2022-02-20T07:23:01Z",
+        "updated_at": "2022-02-20T07:23:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4453051523469/comments/4453068302605.json",
+        "post_id": 4453051523469,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4423314956685,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40281889905165,
+        "body": "<p>I was hoping they would make up their minds on whether to add more playable species such as a Testificate/Illager than just a \"human\" or not.</p>",
+        "author_id": 39924991210637,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4423314956685-New-species-of-player/comments/40281889905165",
+        "created_at": "2025-10-12T22:04:49Z",
+        "updated_at": "2025-10-12T22:04:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4423314956685/comments/40281889905165.json",
+        "post_id": 4423314956685,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4414267005837,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4414617222413,
+        "body": "<p>it is&nbsp;<em>certainly</em> not the closest to noteblocks...</p>",
+        "author_id": 395897262811,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4414267005837-Noteblock-colored-Mangrove-wood-It-doesn-t-look-like-spruce/comments/4414617222413",
+        "created_at": "2021-11-24T22:02:38Z",
+        "updated_at": "2021-11-24T22:02:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4414267005837/comments/4414617222413.json",
+        "post_id": 4414267005837,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4414181379085,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4415316489741,
+        "body": "<p>Why didn't you vote for your own idea? Did you know that you could do that?</p>",
+        "author_id": 422128735531,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4414181379085-Advanced-Cloud-settings/comments/4415316489741",
+        "created_at": "2021-12-02T01:49:11Z",
+        "updated_at": "2021-12-02T01:49:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4414181379085/comments/4415316489741.json",
+        "post_id": 4414181379085,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4412819609101,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4412982269581,
+        "body": "<p>On the Switch version it sometimes crashes, and lag isn't too uncommon either... :/</p>",
+        "author_id": 418873283952,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4412819609101-Minecraft-Dungeons-Optimisation/comments/4412982269581",
+        "created_at": "2021-11-07T23:16:02Z",
+        "updated_at": "2021-11-07T23:44:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4412819609101/comments/4412982269581.json",
+        "post_id": 4412819609101,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4408966494733,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4409065239437,
+        "body": "<p>Same with note blocks, it confuses me when I'm trying to make music from the note blocks ,at least have something do you know what sound is playing.</p>",
+        "author_id": 419980290392,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4408966494733-Graphics-changes/comments/4409065239437",
+        "created_at": "2021-09-12T14:51:03Z",
+        "updated_at": "2021-09-12T14:51:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4408966494733/comments/4409065239437.json",
+        "post_id": 4408966494733,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4406645815949,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4406706984589,
+        "body": "<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\">Hello, this appears to be a non-English post. Below you will find a transcription of the topic being discussed.&nbsp;&nbsp;</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\"><span style=\"font-weight: bold;\">Title:</span>&nbsp;“Hanging geraniums”&nbsp;&nbsp;</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\"><span style=\"font-weight: bold;\">Text:</span>&nbsp;“There should be hanging geraniums in Minecraft, they should be beautiful”&nbsp;</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\">- Translated by Admin&nbsp;</p>",
+        "author_id": 416747908552,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4406645815949-H%C3%A4ngende-Garanien/comments/4406706984589",
+        "created_at": "2021-08-08T19:18:56Z",
+        "updated_at": "2021-08-08T19:18:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4406645815949/comments/4406706984589.json",
+        "post_id": 4406645815949,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4405781752333,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4406894147981,
+        "body": "<p>Gravel</p>",
+        "author_id": 419093099332,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4405781752333-Make-textures-for-the-shovel-for-what-you-are-digging/comments/4406894147981",
+        "created_at": "2021-08-11T23:46:09Z",
+        "updated_at": "2021-08-11T23:46:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4405781752333/comments/4406894147981.json",
+        "post_id": 4405781752333,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4405575331981,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4405575721613,
+        "body": "<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\">Hello, this appears to be a non-English post. Below you will find a transcription of the topic being discussed.&nbsp;&nbsp;</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\"><span style=\"font-weight: bold;\">Title:</span>&nbsp;“Option in Minecraft java configuration that is for low-resource pc”&nbsp;&nbsp;</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\"><span style=\"font-weight: bold;\">Text:</span>&nbsp;“In the minecraft java configuration, there is an option that is for low-end PCs, that is, that lowers the graphics a bit, that minecraft ETC runs better. This could help people who do not have a good pc to run minecraft better.”&nbsp;</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\">- Translated by Admin&nbsp;</p>",
+        "author_id": 416747908552,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4405575331981-Opci%C3%B3n-en-configuraci%C3%B3n-de-minecraft-java-que-sea-para-pc-de-bajos-recursos/comments/4405575721613",
+        "created_at": "2021-07-22T21:25:42Z",
+        "updated_at": "2021-07-22T21:25:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4405575331981/comments/4405575721613.json",
+        "post_id": 4405575331981,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4406703886477,
+        "body": "<p>esta optifine para eso</p>",
+        "author_id": 419224905971,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4405575331981-Opci%C3%B3n-en-configuraci%C3%B3n-de-minecraft-java-que-sea-para-pc-de-bajos-recursos/comments/4406703886477",
+        "created_at": "2021-08-08T14:04:54Z",
+        "updated_at": "2021-08-08T20:21:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4405575331981/comments/4406703886477.json",
+        "post_id": 4405575331981,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4404817898253,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4404979461901,
+        "body": "<p>this is cool idea except that then there would be infinite worlds to choose from and that would pretty much completely break the game</p>\n<p>&nbsp;</p>",
+        "author_id": 407156723232,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404817898253-Bring-Back-Colored-Portals/comments/4404979461901",
+        "created_at": "2021-07-14T01:00:13Z",
+        "updated_at": "2021-10-04T17:35:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404817898253/comments/4404979461901.json",
+        "post_id": 4404817898253,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4405476346509,
+        "body": "<p>Just because you bring back coloring portals doesn't mean anything about making the infinite dimensions. It would be cool to make it possible to change the dimension that a specific portal block takes you to but I think thats outside of this suggestion.</p>",
+        "author_id": 418355959612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404817898253-Bring-Back-Colored-Portals/comments/4405476346509",
+        "created_at": "2021-07-21T19:39:57Z",
+        "updated_at": "2021-07-21T19:45:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404817898253/comments/4405476346509.json",
+        "post_id": 4404817898253,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4403918690829,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4404027898253,
+        "body": "<p>This is a great idea to make the game seem more adventurous too, going on an adventure through the fog...</p>",
+        "author_id": 418018119692,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4403918690829-Unloaded-chunks/comments/4404027898253",
+        "created_at": "2021-06-29T18:49:08Z",
+        "updated_at": "2021-06-29T18:49:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4403918690829/comments/4404027898253.json",
+        "post_id": 4403918690829,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078378332,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360016863432,
+        "body": "<p>Just make an addon and add those blocks with those textures.</p>",
+        "author_id": 415051705291,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078378332-play-with-texture-packs-and-normal-Minecraft-textures-at-the-same-time/comments/360016863432",
+        "created_at": "2021-06-11T22:09:23Z",
+        "updated_at": "2021-06-11T22:09:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078378332/comments/360016863432.json",
+        "post_id": 360078378332,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078271152,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4417497966093,
+        "body": "<p>If render distance is to be limited vertically, why bother and increase the height? If you can't see it, what good is it?</p>",
+        "author_id": 418741467432,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078271152-Limit-the-vertical-render-distance/comments/4417497966093",
+        "created_at": "2021-12-23T18:47:57Z",
+        "updated_at": "2021-12-24T10:45:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078271152/comments/4417497966093.json",
+        "post_id": 360078271152,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

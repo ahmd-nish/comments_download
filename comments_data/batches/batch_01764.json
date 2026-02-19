@@ -1,0 +1,937 @@
+[
+  {
+    "post_id": 360076398852,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014728551,
+        "body": "<p>I have crafty craft and this is be posted on their feedback and I have an account on crafty craft so&nbsp;</p>",
+        "author_id": 401353504012,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076398852-an-official-add-on-resource-pack-or-mod-for-making-custom-content/comments/360014728551",
+        "created_at": "2021-03-31T20:09:04Z",
+        "updated_at": "2021-03-31T20:09:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076398852/comments/360014728551.json",
+        "post_id": 360076398852,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360070143111,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011272131,
+        "body": "<p>I like this idea</p>",
+        "author_id": 387279394411,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070143111-Scripting-API-New-event-instead-of-minecraft-block-interacted-with/comments/360011272131",
+        "created_at": "2020-07-07T05:29:25Z",
+        "updated_at": "2020-07-07T05:29:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070143111/comments/360011272131.json",
+        "post_id": 360070143111,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360068159552,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012688232,
+        "body": "<p>On a similar note; another functionless item which charges like a bow and either has a scoreboard for time drawn or when the click is released (preferably both:P) would be very useful as well!</p>",
+        "author_id": 396915362652,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360068159552-Command-only-functionless-items-for-data-pack-creators/comments/360012688232",
+        "created_at": "2020-08-27T08:12:34Z",
+        "updated_at": "2021-05-06T06:06:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360068159552/comments/360012688232.json",
+        "post_id": 360068159552,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048882951,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5278460166797,
+        "body": "<p>Min</p>",
+        "author_id": 5278459496717,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048882951-New-function-tag-minecraft-player-joined/comments/5278460166797",
+        "created_at": "2022-04-04T05:41:47Z",
+        "updated_at": "2022-04-04T05:41:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048882951/comments/5278460166797.json",
+        "post_id": 360048882951,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 19670054691085,
+        "body": "<p>I CANNOT SEE YOUR PROFILE PICTURE WHILE PLAYING A GAME </p>",
+        "author_id": 15993607427085,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048882951-New-function-tag-minecraft-player-joined/comments/19670054691085",
+        "created_at": "2023-09-20T15:05:23Z",
+        "updated_at": "2023-09-21T01:56:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048882951/comments/19670054691085.json",
+        "post_id": 360048882951,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048146252,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006563071,
+        "body": "<p>Like this?</p>\n<p>/playsound &lt;sound&gt; &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;player&gt; &lt;volume&gt; &lt;pitch&gt; &lt;min. volume&gt;&nbsp;<em><strong>&lt;fade out = false/true&gt;</strong></em></p>",
+        "author_id": 372825364571,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048146252-Change-volume-of-playsound-after-it-has-been-started/comments/360006563071",
+        "created_at": "2019-07-19T20:57:34Z",
+        "updated_at": "2019-07-19T20:57:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048146252/comments/360006563071.json",
+        "post_id": 360048146252,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009690632,
+        "body": "<p>I think this could be an interesting synthax :</p>\n<p>/playsound &lt;sound&gt; &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;selector&gt; &lt;volume&gt; &lt;pitch&gt; &lt;min. volume&gt; <strong>&lt;fade in = time in ticks&gt; &lt;fade out = time in ticks&gt;</strong></p>",
+        "author_id": 375835375611,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048146252-Change-volume-of-playsound-after-it-has-been-started/comments/360009690632",
+        "created_at": "2020-03-15T17:00:38Z",
+        "updated_at": "2020-03-15T17:00:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048146252/comments/360009690632.json",
+        "post_id": 360048146252,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043399771,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009679232,
+        "body": "<p>Just do it</p>",
+        "author_id": 394861780071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043399771-Add-Custom-Blur-to-Head-Items/comments/360009679232",
+        "created_at": "2020-03-13T19:38:31Z",
+        "updated_at": "2020-03-13T19:38:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043399771/comments/360009679232.json",
+        "post_id": 360043399771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012530091,
+        "body": "<p>Would like to see this work similar to CustomModelData so that one item being worn can give multiple blur effects. Would help people make custom HUD's ingame instead of using custom fonts which is limited in picture size and placement.</p>",
+        "author_id": 379205897752,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043399771-Add-Custom-Blur-to-Head-Items/comments/360012530091",
+        "created_at": "2020-08-19T18:54:22Z",
+        "updated_at": "2020-08-19T20:17:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043399771/comments/360012530091.json",
+        "post_id": 360043399771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 30266357224333,
+        "body": "<p>This would be nice with the new item components!</p>",
+        "author_id": 400722692911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043399771-Add-Custom-Blur-to-Head-Items/comments/30266357224333",
+        "created_at": "2024-09-15T01:59:44Z",
+        "updated_at": "2024-09-15T20:21:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043399771/comments/30266357224333.json",
+        "post_id": 360043399771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360029497192,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005876752,
+        "body": "<p>it would be better if they just added an official modding api.</p>",
+        "author_id": 382361202811,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360029497192--Improved-Command-Block-LUA-C-C/comments/360005876752",
+        "created_at": "2019-05-31T03:57:54Z",
+        "updated_at": "2020-05-20T23:51:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360029497192/comments/360005876752.json",
+        "post_id": 360029497192,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360023950611,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013059831,
+        "body": "<p>Agreed!</p>\n<p>This is the most frustrating aspect of datapack creation.</p>\n<p>I like to prefix my objectives with the namespace of my datapack to avoid conflicts, and also use snake_case when coding, as it's much more readable and clean.<br>Unfortunately both of these significantly increase the name of objectives.</p>\n<p>A similar suggestion is to use namespaces in scoreboards: <a href=\"/hc/en-us/community/posts/360032430412-Namespaces-in-scoreboard-objectives\" rel=\"nofollow noreferrer\">https://feedback.minecraft.net/hc/en-us/community/posts/360032430412-Namespaces-in-scoreboard-objectives</a></p>\n<p>Btw, this suggestion is in the wrong section, it should have been posed to Commands.</p>",
+        "author_id": 404658814152,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360023950611--ADDED-Remove-scoreboard-name-length-limit-16-char-limit-removal/comments/360013059831",
+        "created_at": "2020-10-11T13:44:41Z",
+        "updated_at": "2021-08-10T18:24:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360023950611/comments/360013059831.json",
+        "post_id": 360023950611,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4406829979021,
+        "body": "<p>Yes, absolutely agree! This so frustrating!</p>\n<p>Please also remove 16 character length limit for team names!</p>",
+        "author_id": 400207747771,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360023950611--ADDED-Remove-scoreboard-name-length-limit-16-char-limit-removal/comments/4406829979021",
+        "created_at": "2021-08-10T18:30:05Z",
+        "updated_at": "2021-08-10T21:06:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360023950611/comments/4406829979021.json",
+        "post_id": 360023950611,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4409531256333,
+        "body": "<p>Minecraft 1.18 Snapshot 21w37a finally removed this limitation!</p>",
+        "author_id": 400207747771,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360023950611--ADDED-Remove-scoreboard-name-length-limit-16-char-limit-removal/comments/4409531256333",
+        "created_at": "2021-09-18T10:44:14Z",
+        "updated_at": "2021-09-18T12:05:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360023950611/comments/4409531256333.json",
+        "post_id": 360023950611,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360022226311,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7685632866957,
+        "body": "<p>This would be a lot more customizable than just having a few set amounts of XP that mobs can drop, and it would be nice to be able to specify XP drops in a JSON file.</p>",
+        "author_id": 389103177772,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360022226311-Xp-loot-tables/comments/7685632866957",
+        "created_at": "2022-07-14T18:45:18Z",
+        "updated_at": "2022-07-26T17:32:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360022226311/comments/7685632866957.json",
+        "post_id": 360022226311,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360014363992,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014738252,
+        "body": "<p>Good idea! I was thinking somthing like /tag @p remove</p>",
+        "author_id": 402435784592,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360014363992-Remove-all-tag-from-an-entity/comments/360014738252",
+        "created_at": "2021-03-25T01:15:55Z",
+        "updated_at": "2021-03-28T18:43:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360014363992/comments/360014738252.json",
+        "post_id": 360014363992,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014697551,
+        "body": "<p><p>Unfortunately,  <code>/tag @p remove</code> already exists. If we were to make this, it would have to be different. I suggest <code>/tag @p clear</code>.</p></p>",
+        "author_id": 396590871911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360014363992-Remove-all-tag-from-an-entity/comments/360014697551",
+        "created_at": "2021-03-28T15:47:12Z",
+        "updated_at": "2021-03-28T18:47:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360014363992/comments/360014697551.json",
+        "post_id": 360014363992,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 28791580894349,
+        "body": "<p>I didn't think that the problem is solved until now. So my idea is that you could just use the * expression like you can in the scoreboard command to remove all tags of an entity.</p>",
+        "author_id": 26477373292557,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360014363992-Remove-all-tag-from-an-entity/comments/28791580894349",
+        "created_at": "2024-07-29T13:42:32Z",
+        "updated_at": "2024-07-29T23:55:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360014363992/comments/28791580894349.json",
+        "post_id": 360014363992,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360014167192,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360001492292,
+        "body": "<p>I think I got the idea of the post, but just to be sure can you add a section where this is translated into dumb-people English.</p>",
+        "author_id": 365326150692,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360014167192-Array-Filters-for-path-in-execute-store-data-get-etc-search-for-data-within-arrays/comments/360001492292",
+        "created_at": "2018-07-05T21:50:01Z",
+        "updated_at": "2018-07-05T21:50:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360014167192/comments/360001492292.json",
+        "post_id": 360014167192,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360001493632,
+        "body": "<p>I can try!&nbsp; how does that look?</p>",
+        "author_id": 365294069992,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360014167192-Array-Filters-for-path-in-execute-store-data-get-etc-search-for-data-within-arrays/comments/360001493632",
+        "created_at": "2018-07-06T03:20:36Z",
+        "updated_at": "2018-07-06T03:20:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360014167192/comments/360001493632.json",
+        "post_id": 360014167192,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002961771,
+        "body": "<p>This has been implemented as of the 1.14 snapshots!&nbsp; :D</p>",
+        "author_id": 365294069992,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360014167192-Array-Filters-for-path-in-execute-store-data-get-etc-search-for-data-within-arrays/comments/360002961771",
+        "created_at": "2018-11-09T05:21:13Z",
+        "updated_at": "2018-11-09T05:21:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360014167192/comments/360002961771.json",
+        "post_id": 360014167192,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360011098952,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008824412,
+        "body": "<p>Being able to enable/disable things like firetick on a localized basis would be great! Doing it by commands is one idea - another would be something like a beacon/conduit that you can build to apply specific game rule changes in the surrounding area...</p>",
+        "author_id": 384212320651,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360011098952-Selective-application-for-gamerule-gamemode/comments/360008824412",
+        "created_at": "2019-12-31T16:23:52Z",
+        "updated_at": "2019-12-31T16:30:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360011098952/comments/360008824412.json",
+        "post_id": 360011098952,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077475952,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014797611,
+        "body": "<p>I would love to add a GUI for the fletching table...</p>",
+        "author_id": 412314468832,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077475952-GUI-support-for-data-packs/comments/360014797611",
+        "created_at": "2021-04-11T01:49:04Z",
+        "updated_at": "2021-04-11T03:17:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077475952/comments/360014797611.json",
+        "post_id": 360077475952,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360015540292,
+        "body": "<p>I'd love to have custom GUI in vanilla that isn't inventory-style like in plugins or too complex to make like in mods</p>",
+        "author_id": 398733076432,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077475952-GUI-support-for-data-packs/comments/360015540292",
+        "created_at": "2021-05-22T17:46:02Z",
+        "updated_at": "2021-05-22T21:22:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077475952/comments/360015540292.json",
+        "post_id": 360077475952,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360049924992,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007229551,
+        "body": "<p>Please?</p>",
+        "author_id": 385856403911,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360049924992-Opensource-Blaze3D-and-Mod-tools-for-Java/comments/360007229551",
+        "created_at": "2019-08-23T16:18:06Z",
+        "updated_at": "2022-05-04T20:27:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360049924992/comments/360007229551.json",
+        "post_id": 360049924992,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 6004911000845,
+        "body": "<p>Would be an interesting idea ngl</p>",
+        "author_id": 385856403911,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360049924992-Opensource-Blaze3D-and-Mod-tools-for-Java/comments/6004911000845",
+        "created_at": "2022-05-04T20:27:43Z",
+        "updated_at": "2022-05-04T20:27:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360049924992/comments/6004911000845.json",
+        "post_id": 360049924992,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360029620231,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006261212,
+        "body": "<p>If you download Optifine, you can edit your resource pack to change these settings</p>",
+        "author_id": 384090865511,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360029620231-Give-Resource-Packs-Control-of-Sky-Sunlight-and-Ambient-Shadow-Colors/comments/360006261212",
+        "created_at": "2019-06-29T05:31:01Z",
+        "updated_at": "2021-01-07T21:44:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360029620231/comments/360006261212.json",
+        "post_id": 360029620231,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360028767611,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010274471,
+        "body": "<p>Alternatively, only allow saving files on server side. Settings could be saved there and sent to the client by custom events for example.&nbsp;</p>",
+        "author_id": 396291287292,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360028767611-Limited-File-Access/comments/360010274471",
+        "created_at": "2020-04-24T16:01:24Z",
+        "updated_at": "2020-04-24T16:01:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360028767611/comments/360010274471.json",
+        "post_id": 360028767611,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360016489252,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360001961991,
+        "body": "<p>Hi ,I like your idea but I would also like something like wearing</p>\n<p>syntax:execute [target] x y z wearing diamond_boots effect @p speed 30 0 true</p>\n<p>so if you were wearing daimond boots you would get speed</p>",
+        "author_id": 368049848432,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360016489252--execute-p-holding-or-motion-in-bedrock/comments/360001961991",
+        "created_at": "2018-08-09T11:29:53Z",
+        "updated_at": "2021-08-11T01:59:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360016489252/comments/360001961991.json",
+        "post_id": 360016489252,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012158151,
+        "body": "<p>That is already possible via execute data, as you can check for specific inventory Slots as well as the selected item</p>\n<p>Example: execute as @a if data entity @s {SelectedItem:{id:\"minecraft:stone\"}} run replaceitem @s weapon.mainhand dirt</p>\n<p>&nbsp;</p>\n<p>Would replace a stone in your hand with one dirt</p>",
+        "author_id": 387316134511,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360016489252--execute-p-holding-or-motion-in-bedrock/comments/360012158151",
+        "created_at": "2020-07-25T14:03:28Z",
+        "updated_at": "2021-03-24T21:37:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360016489252/comments/360012158151.json",
+        "post_id": 360016489252,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014737352,
+        "body": "<p>I hope this becomes a thing.</p>",
+        "author_id": 398962549571,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360016489252--execute-p-holding-or-motion-in-bedrock/comments/360014737352",
+        "created_at": "2021-03-24T21:38:56Z",
+        "updated_at": "2021-03-25T01:27:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360016489252/comments/360014737352.json",
+        "post_id": 360016489252,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360014057772,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360001486271,
+        "body": "<p>I don't get it.&nbsp; Please explain.</p>",
+        "author_id": 365604823151,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360014057772-easy-commad/comments/360001486271",
+        "created_at": "2018-07-03T23:17:36Z",
+        "updated_at": "2018-07-03T23:17:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360014057772/comments/360001486271.json",
+        "post_id": 360014057772,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360001489991,
+        "body": "<p>use the mc&nbsp;stacker website to generate the harder ones for you</p>",
+        "author_id": 366352272932,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360014057772-easy-commad/comments/360001489991",
+        "created_at": "2018-07-04T17:07:36Z",
+        "updated_at": "2018-07-04T17:07:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360014057772/comments/360001489991.json",
+        "post_id": 360014057772,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360001490831,
+        "body": "<p>Basically, he's saying commands are too hard and should be simplified.</p>",
+        "author_id": 365326150692,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360014057772-easy-commad/comments/360001490831",
+        "created_at": "2018-07-04T21:35:32Z",
+        "updated_at": "2018-07-04T21:35:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360014057772/comments/360001490831.json",
+        "post_id": 360014057772,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360001490692,
+        "body": "<p class=\"p1\">Hi, can you explain what you're looking for specifically? Are there particular commands that should be easier? Thanks, it will help us express your idea to the team in an actionable way (we really don't want to guess what would make things \"easier\", because what is easier for you may not be easier for someone else!).</p>\n<p class=\"p1\">Examples help, is what I'm saying.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360014057772-easy-commad/comments/360001490692",
+        "created_at": "2018-07-05T16:41:26Z",
+        "updated_at": "2018-07-05T16:41:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360014057772/comments/360001490692.json",
+        "post_id": 360014057772,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360011555911,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360001386952,
+        "body": "<p>The variable \"ry\" and \"rz\" can use to detect where players or entities is looking at.</p>",
+        "author_id": 366314231831,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360011555911-Easier-detection/comments/360001386952",
+        "created_at": "2018-06-25T09:29:12Z",
+        "updated_at": "2018-06-25T09:29:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360011555911/comments/360001386952.json",
+        "post_id": 360011555911,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002320411,
+        "body": "<p>That crouch interests me</p>",
+        "author_id": 365533636092,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360011555911-Easier-detection/comments/360002320411",
+        "created_at": "2018-09-20T08:31:46Z",
+        "updated_at": "2018-09-20T08:31:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360011555911/comments/360002320411.json",
+        "post_id": 360011555911,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4405997792653,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4420429111949,
+        "body": "<p>This post is obviously applicable in myriad ways, but I'll list one I've been wishing for:</p>\n<p>User-defined component booleans:</p>\n<p>&nbsp; &nbsp;Allow for a folder where simple true/false variables can be instantiated as entity components, or where simply referencing the custom component name in an entity definition enables it as 'true.'&nbsp; This ought to be much simpler to implement than other data types.</p>\n<p>&nbsp; Example:&nbsp;</p>\n<p>is_male{}</p>\n<p>or</p>\n<p>is_male{true}</p>\n<p>(for adding sexually dimorphic mob versions like cow/bull; billy/nanny, and sow/boar to addons.)</p>\n<p>&nbsp;</p>",
+        "author_id": 423304381511,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4405997792653-Custom-entity-components-in-bedrock-edition-addons/comments/4420429111949",
+        "created_at": "2022-01-12T22:22:22Z",
+        "updated_at": "2022-01-20T19:57:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4405997792653/comments/4420429111949.json",
+        "post_id": 4405997792653,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 16129298702861,
+        "body": "<p>we need this<br><strong>WHY</strong><br>-custom components will allow the entities to do much more in an easier way like villagers walk dogs or animals pounce<br><br></p>",
+        "author_id": 16129170001421,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4405997792653-Custom-entity-components-in-bedrock-edition-addons/comments/16129298702861",
+        "created_at": "2023-05-25T16:46:06Z",
+        "updated_at": "2023-05-25T17:10:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4405997792653/comments/16129298702861.json",
+        "post_id": 4405997792653,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4403912054413,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36509786734989,
+        "body": "<p>A Ninjago mod would be the best mod EVER</p>\n<p>&nbsp;</p>",
+        "author_id": 36104122740493,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4403912054413-Ninjago-Masters-Of-Spinjitzu-Mod/comments/36509786734989",
+        "created_at": "2025-05-10T14:56:32Z",
+        "updated_at": "2025-05-10T14:56:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4403912054413/comments/36509786734989.json",
+        "post_id": 4403912054413,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360067898451,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011385012,
+        "body": "<p>an \"on click of x advancement\" trigger would be so useful i love this idea!</p>",
+        "author_id": 377477219251,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067898451--Java-Advancement-Click-Capabilities/comments/360011385012",
+        "created_at": "2020-07-15T12:01:28Z",
+        "updated_at": "2021-01-30T13:36:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067898451/comments/360011385012.json",
+        "post_id": 360067898451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360039085352,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006898231,
+        "body": "<p>Hi, i also need exactly this feature...&nbsp;</p>\n<p>I want to tp a Player to coordinates written to scoreboard. The writing part is simple, but to read it from the scoreboard is missing...</p>\n<p>Write to scoreboard (what i already got):</p>\n<pre>/execute store result score @p posX run data get entity @p Pos[0]</pre>\n<p>and something like this is missing:</p>\n<pre>/tp @p {\"name\":\"@p\",\"objective\":\"posX\"}</pre>\n<p>I hope this comment adds some detail how the command could look like. Thanks</p>",
+        "author_id": 385585227371,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360039085352-Use-scoreboards-in-other-commands/comments/360006898231",
+        "created_at": "2019-08-05T23:22:52Z",
+        "updated_at": "2024-01-17T20:12:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360039085352/comments/360006898231.json",
+        "post_id": 360039085352,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009119291,
+        "body": "<p>@Iyawings29 you can already do this <a href=\"https://m.youtube.com/watch?feature=youtu.be&amp;v=ytyg7egKm-o\" rel=\"nofollow noreferrer\">https://m.youtube.com/watch?feature=youtu.be&amp;v=ytyg7egKm-o</a></p>\n\n<p>But still it would be amazing to use this in commands without these tricks and in setblock, fill, tp,...</p>",
+        "author_id": 387762685231,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360039085352-Use-scoreboards-in-other-commands/comments/360009119291",
+        "created_at": "2020-01-30T04:15:17Z",
+        "updated_at": "2020-01-30T16:17:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360039085352/comments/360009119291.json",
+        "post_id": 360039085352,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 23298540947085,
+        "body": "<p>I like the first comment’s idea but i think it should look like this:<br><br></p>\n<pre>/tp @p {“score”:{“name”:”[name_of_player]”,”objective”:”[scoreboard objective]”}}</pre>\n<p>example::</p>\n<pre>/tp @p {“score”:{“name”:”@p”,”objective”:”destination”}}</pre>\n<p>Thank you for reading!</p>",
+        "author_id": 20389615837325,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360039085352-Use-scoreboards-in-other-commands/comments/23298540947085",
+        "created_at": "2024-01-17T20:07:25Z",
+        "updated_at": "2024-01-22T18:03:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360039085352/comments/23298540947085.json",
+        "post_id": 360039085352,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360038666312,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360003834892,
+        "body": "<p>Yes. Some form of (sandboxed) file access or database access is a must.</p>",
+        "author_id": 372200418132,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360038666312-Sandboxed-File-Support-File-Access/comments/360003834892",
+        "created_at": "2019-01-17T11:38:18Z",
+        "updated_at": "2019-01-17T11:38:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360038666312/comments/360003834892.json",
+        "post_id": 360038666312,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 12834642717453,
+        "body": "<p>It's worse on bedrock and much worse on mobile.</p>",
+        "author_id": 12834612854413,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360038666312-Sandboxed-File-Support-File-Access/comments/12834642717453",
+        "created_at": "2023-02-04T07:46:44Z",
+        "updated_at": "2023-02-04T07:46:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360038666312/comments/12834642717453.json",
+        "post_id": 360038666312,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360011107032,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360001414331,
+        "body": "<p>Any reason for this whatsoever? It's literally just /fill ... air, as you said.</p>",
+        "author_id": 364935466911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360011107032-Replace-fill-with-delete-functionality-was-delete/comments/360001414331",
+        "created_at": "2018-06-26T22:36:22Z",
+        "updated_at": "2018-06-26T22:36:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360011107032/comments/360001414331.json",
+        "post_id": 360011107032,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008428952,
+        "body": "<p>I believe it would be better if it was&nbsp;<strong>delete &lt;block|blocks&gt; x y z&nbsp;<em> blocks would also have x2 y2 z2</em>&nbsp;</strong></p>",
+        "author_id": 373059441032,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360011107032-Replace-fill-with-delete-functionality-was-delete/comments/360008428952",
+        "created_at": "2019-11-16T12:10:17Z",
+        "updated_at": "2019-11-18T16:44:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360011107032/comments/360008428952.json",
+        "post_id": 360011107032,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010803352,
+        "body": "<p>.. so basically, as tryashtar said, /fill ~x ~y ~z ~x2 ~y2 ~z2 air</p>",
+        "author_id": 397151129932,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360011107032-Replace-fill-with-delete-functionality-was-delete/comments/360010803352",
+        "created_at": "2020-05-30T19:50:10Z",
+        "updated_at": "2020-06-01T15:40:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360011107032/comments/360010803352.json",
+        "post_id": 360011107032,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

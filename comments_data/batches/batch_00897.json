@@ -1,0 +1,682 @@
+[
+  {
+    "post_id": 360077426591,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014728812,
+        "body": "<p>But we already have the ability to change that using</p>\n<pre>/attribute @s minecraft:generic.attack_speed base set 1000000</pre>",
+        "author_id": 413105285132,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077426591-attack-cooldown-gamerule/comments/360014728812",
+        "created_at": "2021-03-23T22:08:43Z",
+        "updated_at": "2021-03-23T23:34:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077426591/comments/360014728812.json",
+        "post_id": 360077426591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 11628183219597,
+        "body": "<p>The attribute command doesn't change attack speed of weapons.</p>",
+        "author_id": 11628171072013,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077426591-attack-cooldown-gamerule/comments/11628183219597",
+        "created_at": "2022-12-21T03:32:30Z",
+        "updated_at": "2022-12-25T00:41:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077426591/comments/11628183219597.json",
+        "post_id": 360077426591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077511612,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014802672,
+        "body": "<p>a /warp or /sethome and /home would be nice for creative, but we already have a /killall you just use /kill @e and /spawnpoint sets your spawn.</p>",
+        "author_id": 405577138831,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077511612--setspawn-warp-killall/comments/360014802672",
+        "created_at": "2021-04-02T03:16:32Z",
+        "updated_at": "2021-04-02T13:51:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077511612/comments/360014802672.json",
+        "post_id": 360077511612,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077317911,
+    "expected_comment_count": 1,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014691192,
+        "body": "<p>I think it just needs to output the results to the command line like normal commands do, it could say either 4/4 datapacks reloaded successfully, or tell you datapack xys failed loading xyz:abc and show which function it failed on to allow for easier debugging. It could even say which line is the problem. This would save so much time hunting for bugs!</p>",
+        "author_id": 399502358172,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077317911-Result-value-for-reload/comments/360014691192",
+        "created_at": "2021-03-18T15:07:36Z",
+        "updated_at": "2021-03-20T13:42:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077317911/comments/360014691192.json",
+        "post_id": 360077317911,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 43426719324941,
+        "body": "<p>Wow 5 years almost and nothing has been done here? I thought I was going crazy that it didn't&nbsp; output a result.</p>",
+        "author_id": 41313160468237,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077317911-Result-value-for-reload/comments/43426719324941",
+        "created_at": "2026-02-11T05:05:36Z",
+        "updated_at": "2026-02-11T05:05:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077317911/comments/43426719324941.json",
+        "post_id": 360077317911,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077221731,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 26272174276365,
+        "body": "<p>Yesssssssss</p>",
+        "author_id": 24406863226509,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077221731-Skulk-command-Block/comments/26272174276365",
+        "created_at": "2024-04-28T13:56:02Z",
+        "updated_at": "2024-04-28T19:13:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077221731/comments/26272174276365.json",
+        "post_id": 360077221731,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077076232,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014304452,
+        "body": "<p>The Player Can Undo This Command By Typing /[Block Of Choice] Placed = Visible [For Example: /Grass Placed = Visible] Which When Activated All Blocks You Made Invisible Will Now Become Visible Only To You But If You Click On The Block It Will Turn Fully Red Then Once You Have Clicked On The Blocks And They Turned Red Then You Type \n<br />/Activate = Visible [All Blocks That Turned Red Will Now Turn Back To Normal And Will Be Visible To Everyone Also All Blocks You Didn't Click Will Turn Invisible Again] The Player Can Also Type /All Grass Placed = Visible Which When Activated Will Turn All Invisible Blocks Visible To Everyone </p>",
+        "author_id": 398821503071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077076232-Invisible-Command-Mojang-It-s-Not-What-You-Think/comments/360014304452",
+        "created_at": "2021-02-08T12:12:07Z",
+        "updated_at": "2021-02-08T12:31:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077076232/comments/360014304452.json",
+        "post_id": 360077076232,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077073332,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014462312,
+        "body": "<p>If you have found a bug please report it on the JIRA system.</p>",
+        "author_id": 396590871911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077073332--replaceitem-entity-p-slot-armor/comments/360014462312",
+        "created_at": "2021-02-22T20:08:42Z",
+        "updated_at": "2021-02-22T20:08:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077073332/comments/360014462312.json",
+        "post_id": 360077073332,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077026072,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4417968667405,
+        "body": "<p>I think that if an untamed wolf is struck by lightning, it becomes a werewolf. It looks kind of like the one in Harry Potter. It is taller than the player and is very fast. I have two ideas for how iron should fit in. 1: Only iron tools do damage to the werewolf. 2: Iron tools give a poison effect to the werewolf. Werewolves are hostile towards villagers. Like zombies, they can \"infect\" villagers. This will created a werewolf villager. At night, the villager turns into a werewolf. At day, they're just a normal villager who looks extra pale and tired.</p>",
+        "author_id": 422969267811,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077026072-secret-werewolf-command/comments/4417968667405",
+        "created_at": "2021-12-28T19:27:58Z",
+        "updated_at": "2022-08-16T22:24:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077026072/comments/4417968667405.json",
+        "post_id": 360077026072,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076853092,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014194032,
+        "body": "<p>If you're a Bedrock Edition player (which most of the members on this website seem to be), you can do this already with the <code>family</code> target selector argument. This means you can do this:</p>\n<pre>/kill @e[family=!inanimate,type=!player]</pre>\n<p>to target all non-player mobs.</p>",
+        "author_id": 396590871911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076853092-Add-a-possibility-to-execute-a-command-targetting-all-mobs/comments/360014194032",
+        "created_at": "2021-01-27T01:38:38Z",
+        "updated_at": "2021-01-27T04:28:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076853092/comments/360014194032.json",
+        "post_id": 360076853092,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076332352,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8842589143693,
+        "body": "<p>I also have a disability and a Magic Trackpad. I used to be able to play Minecraft with one hand, but about a month and a half ago it stopped working. Now whenever I try to play, my cursor freezes and I can’t move it. This is also the same for the trackpad on the Magic Keyboard. Does that happen to your daughter as well? If so, have you found a way to fix it? I’ve tried searching for videos on YouTube and reading articles online, but it’s no help.</p>",
+        "author_id": 8842504527757,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076332352-Minecraft-on-iPad-with-Magic-Trackpad-2/comments/8842589143693",
+        "created_at": "2022-09-01T04:07:43Z",
+        "updated_at": "2022-09-01T15:03:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076332352/comments/8842589143693.json",
+        "post_id": 360076332352,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075750731,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013924652,
+        "body": "<p>Already possible, use <code>/data get</code> instead. For example, run:</p>\n<pre>data get entity @e[type=pig,limit=1] {}</pre>\n<p>And you'll get a list of data tags for that entity, and then you can choose which tag to modify, indicated by a blue name.</p>",
+        "author_id": 396590871911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075750731-better-data-command/comments/360013924652",
+        "created_at": "2020-12-24T23:15:13Z",
+        "updated_at": "2020-12-25T18:06:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075750731/comments/360013924652.json",
+        "post_id": 360075750731,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075698872,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013794571,
+        "body": "<p>+ Please understand that the context may not be right because it was written in a translator.</p>",
+        "author_id": 408029967972,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075698872-clear-command-suggestion/comments/360013794571",
+        "created_at": "2020-12-17T09:00:16Z",
+        "updated_at": "2020-12-17T09:00:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075698872/comments/360013794571.json",
+        "post_id": 360075698872,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075610771,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013853231,
+        "body": "<p>I think you're in the wrong place to pose this feature request. It's not like that it's a hidden feature that hasn't been enabled, it's that Minecraft doesn't even have the ability to have sideways and upside-down rails.</p>\n<p>I think you'll have more luck placing this feature request in the \"Blocks, Tools, and Items\" category, with a title like \"Allow minecart rails to be placed on all faces of a block.\"</p>",
+        "author_id": 396590871911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075610771--railplacement-all-wall-cealing-floor-true-false/comments/360013853231",
+        "created_at": "2020-12-24T21:48:10Z",
+        "updated_at": "2020-12-25T18:01:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075610771/comments/360013853231.json",
+        "post_id": 360075610771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075384571,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013853391,
+        "body": "<p>There's no such thing as storage for items. If you're talking about the <code>storage</code> argument in the <code>/data</code> command, you are mistaken—the storage there is for NBT data, not for item slots.</p>",
+        "author_id": 396590871911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075384571-Add-storage-to-item-modify/comments/360013853391",
+        "created_at": "2020-12-24T22:23:34Z",
+        "updated_at": "2020-12-25T18:01:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075384571/comments/360013853391.json",
+        "post_id": 360075384571,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074931071,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013824152,
+        "body": "<p>You could just change your version and the game won’t lag because that would take up some storage to do that</p>",
+        "author_id": 399493258871,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074931071--gamerule-classicpvp/comments/360013824152",
+        "created_at": "2020-12-13T00:12:35Z",
+        "updated_at": "2020-12-13T00:12:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074931071/comments/360013824152.json",
+        "post_id": 360074931071,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074838552,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013600732,
+        "body": "<p>I agree with the changes to:</p>\n<ul>\n<li>\n<code>/ban</code>: This will make more sense in the banning system, similar to how <code>/scoreboard</code> has all its operations in one command.</li>\n<li>\n<code>/locate</code>: This will make more sense for sure in how location works.</li>\n</ul>\n<p>I disagree with the changes to:</p>\n<ul>\n<li>\n<code>/spawnpoint</code> and <code>/setworldspawn</code>: They need to be two distinct commands. While they both work in the same department, they are not the same and should have clear distinction between setting defaults and setting personal preferences.</li>\n<li>\n<code>/gamemode</code> and <code>/defaultgamemode</code>: Just like above, there should be clear distinction between setting defaults and setting personal preferences.</li>\n</ul>\n<p>I would modify the changes to:</p>\n<ul>\n<li>\n<code>/save</code>: I agree with merging <code>/save-off</code> and <code>/save-on</code>, but I don't agree with merging that with <code>/save-all</code>. There needs to be clear distinction between setting an autosave to on/off and saving itself. Because of this, I would make two distinct commands: <code>/save</code> to save, and <code>/autosave &lt;off|on&gt;</code> to set the preference of autosaving.</li>\n</ul>",
+        "author_id": 396590871911,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074838552-Merge-similar-commands/comments/360013600732",
+        "created_at": "2020-11-23T04:03:44Z",
+        "updated_at": "2021-02-03T16:57:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074838552/comments/360013600732.json",
+        "post_id": 360074838552,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074218872,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013436092,
+        "body": "<p>A <code>/testfor</code> is probably not the best implementation for this trigger. If anything, this would probably be good as a sort of NBT tag, for example:</p>\n<pre>/testfor @e[nbt={LastChatMessage:\"Whatever\"}]</pre>\n<p>and then a scoreboard objective like <code>minecraft:chat_messages_sent</code> to detect an increment.</p>",
+        "author_id": 396590871911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074218872-Sense-chat/comments/360013436092",
+        "created_at": "2020-11-08T17:27:11Z",
+        "updated_at": "2020-11-08T23:33:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074218872/comments/360013436092.json",
+        "post_id": 360074218872,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360072109272,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012358012,
+        "body": "<p>This is a great idea, but you can already do this using command blocks. You just have to detect what block is below the player, and if it matches, it can preform a set of operations, such as effecting the player with speed.</p>\n<p>If you are wondering how to do this, I explain it below (I use bedrock commands a lot, so the syntax may be different for Java.) I’ll just use a diamond block for the block that effects the player with speed.</p>\n<p>You can place a command block, set it to repeat and always active and type: “execute @p ~ ~ ~ testforblock ~ ~-1 ~ diamond_block”</p>\n<p>Then place a comparator in front of it, and in front of the comparator place a command block set to repeat, but needs redstone and type: “effect @p speed (Time in Seconds) (Amplifier for the effect) (true/false for particle effects)</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+        "author_id": 401266973692,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072109272-Speed-Block-Map-Making-Operator-Items/comments/360012358012",
+        "created_at": "2020-08-03T21:48:03Z",
+        "updated_at": "2020-08-30T00:31:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072109272/comments/360012358012.json",
+        "post_id": 360072109272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012414291,
+        "body": "<p>/execute @a ~ ~ ~ detect ~ ~-1 ~ gold_block 0 effect @s speed 2 1 true</p>",
+        "author_id": 380740345652,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072109272-Speed-Block-Map-Making-Operator-Items/comments/360012414291",
+        "created_at": "2020-08-16T20:14:59Z",
+        "updated_at": "2020-08-17T16:11:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072109272/comments/360012414291.json",
+        "post_id": 360072109272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071727931,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012307452,
+        "body": "<p>les posts doivent etre en englais</p>",
+        "author_id": 401293856111,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071727931-Une-commande-pour-l-option-triche/comments/360012307452",
+        "created_at": "2020-07-30T18:55:15Z",
+        "updated_at": "2020-07-30T18:55:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071727931/comments/360012307452.json",
+        "post_id": 360071727931,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071519071,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012130851,
+        "body": "<p>So you wan't to add a way to open the marketshop &amp; make them pay directly to the creator?</p>",
+        "author_id": 375848865892,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071519071--pay-command-for-Bedrock-Edition/comments/360012130851",
+        "created_at": "2020-07-23T00:56:48Z",
+        "updated_at": "2020-07-23T00:56:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071519071/comments/360012130851.json",
+        "post_id": 360071519071,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012295731,
+        "body": "<p>Why dont you then use a separate scoreboard that you would do transactions like that. And then do an operstion command to then combine the scores </p>",
+        "author_id": 401405599792,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071519071--pay-command-for-Bedrock-Edition/comments/360012295731",
+        "created_at": "2020-08-06T04:24:47Z",
+        "updated_at": "2020-08-06T14:20:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071519071/comments/360012295731.json",
+        "post_id": 360071519071,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071546052,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011382012,
+        "body": "<p>Is there a reason why you can't just go to Options &gt; Controls?</p>",
+        "author_id": 380741653551,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071546052-Arrow-controls/comments/360011382012",
+        "created_at": "2020-07-15T03:45:38Z",
+        "updated_at": "2021-12-30T19:53:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071546052/comments/360011382012.json",
+        "post_id": 360071546052,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4411429963533,
+        "body": "<p>Plus, nobody uses the arrow-keys on Roblox. use WASD man.</p>",
+        "author_id": 1902484598727,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071546052-Arrow-controls/comments/4411429963533",
+        "created_at": "2021-10-16T01:31:18Z",
+        "updated_at": "2021-10-16T02:55:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071546052/comments/4411429963533.json",
+        "post_id": 360071546052,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071281291,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013421151,
+        "body": "<p>You can test for the block state instead:</p>\n<pre>execute if block 12 23 34 minecraft:target[power=1] run ...<br>execute if block 12 23 34 minecraft:target[power=2] run ...<br>execute if block 12 23 34 minecraft:target[power=3] run ...<br>...</pre>",
+        "author_id": 396590871911,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071281291-Target-Blocks-should-be-Block-Entities/comments/360013421151",
+        "created_at": "2020-11-13T06:21:30Z",
+        "updated_at": "2024-01-22T02:54:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071281291/comments/360013421151.json",
+        "post_id": 360071281291,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4467913052813,
+        "body": "<p>\"You can test for the block state instead\"</p>\n<p>...That's exactly what OP meant to eliminate, don't you see?</p>\n<p>Although this is very old suggestion, I endorse it. That or to make an easier way to get these non-entity block data, it just doesn't make sense to not be able to do so.</p>",
+        "author_id": 1905645125607,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071281291-Target-Blocks-should-be-Block-Entities/comments/4467913052813",
+        "created_at": "2022-02-22T12:47:44Z",
+        "updated_at": "2022-03-05T11:08:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071281291/comments/4467913052813.json",
+        "post_id": 360071281291,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 23406988958733,
+        "body": "<p>just use</p>\n<pre>execute positioned x y z if entity @e[type=arrow,distance=..1.5] run ...</pre>\n<p>on bedrock, use</p>\n<p>just use</p>\n<pre>execute positioned x y z if entity @e[type=arrow,r=1.5] run ...</pre>\n<p>also, this would cause lag to anyone who has a lot of target blocks in their world</p>",
+        "author_id": 400271757932,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071281291-Target-Blocks-should-be-Block-Entities/comments/23406988958733",
+        "created_at": "2024-01-22T02:55:02Z",
+        "updated_at": "2024-01-22T23:09:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071281291/comments/23406988958733.json",
+        "post_id": 360071281291,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071011391,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011272632,
+        "body": "<p>This would also apply to ghasts dying in the overworld and any other mob that gets some sort of effect as it goes between dimensions.&nbsp;</p>",
+        "author_id": 398054924012,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071011391-Dimension-Mob-Changes-Gamerule/comments/360011272632",
+        "created_at": "2020-07-06T22:37:08Z",
+        "updated_at": "2020-07-07T19:39:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071011391/comments/360011272632.json",
+        "post_id": 360071011391,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360070196671,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4745616206989,
+        "body": "<p>I think this would also be useful for mapmaking creating areas that can bypass adventure mode block placing/destroying restrictions.</p>",
+        "author_id": 422806673352,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070196671-Region-Structure-protection/comments/4745616206989",
+        "created_at": "2022-03-11T22:51:51Z",
+        "updated_at": "2022-03-11T22:51:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070196671/comments/4745616206989.json",
+        "post_id": 360070196671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360061702191,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010630371,
+        "body": "<p>But with effect minecraft: weakness you cancel the attack</p>",
+        "author_id": 398173058972,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360061702191-canattack-tag/comments/360010630371",
+        "created_at": "2020-05-21T10:07:42Z",
+        "updated_at": "2020-05-21T14:58:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360061702191/comments/360010630371.json",
+        "post_id": 360061702191,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360061481212,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4403621774605,
+        "body": "<p>Was literally thinking of this exact idea! It could be used in so many adventure maps, like a live system. Like in a parkour map, you could set a permanent spawn at a hub and have respawn anchor commands set up at the beginning of each level; five lives per level, when you lose all your respawn anchor points you get sent back to hub. Would be genius!</p>",
+        "author_id": 396558923311,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360061481212--anchor-Command/comments/4403621774605",
+        "created_at": "2021-06-23T16:59:06Z",
+        "updated_at": "2021-06-23T17:41:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360061481212/comments/4403621774605.json",
+        "post_id": 360061481212,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

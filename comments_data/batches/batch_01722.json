@@ -1,0 +1,802 @@
+[
+  {
+    "post_id": 21975636298893,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 22109394833165,
+        "body": "<p>In Which order? Here is an example.<br><br>Key:</p>\n<p>RR=Redstone Repeater,</p>\n<p>Rs=Redstone Dust</p>\n<p>A = empty slot</p>\n<p>RR|Rs|RR</p>\n<p>A|A|A</p>\n<p>A|A|A</p>\n<p><strong>It is a shaped recipe, <em>not&nbsp;</em>fixed.</strong></p>",
+        "author_id": 21545826601869,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/21975636298893-A-two-way-repeater/comments/22109394833165",
+        "created_at": "2023-12-08T23:40:31Z",
+        "updated_at": "2023-12-08T23:43:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/21975636298893/comments/22109394833165.json",
+        "post_id": 21975636298893,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 22533503273229,
+        "body": "<p>I don't know what problem you are running into. I know that Sethbling has a video about two way repeaters using 1.5 redstone.</p>",
+        "author_id": 8343691077261,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/21975636298893-A-two-way-repeater/comments/22533503273229",
+        "created_at": "2023-12-20T15:42:06Z",
+        "updated_at": "2023-12-26T02:13:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/21975636298893/comments/22533503273229.json",
+        "post_id": 21975636298893,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 21471175921677,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 21471214790029,
+        "body": "<p>Plis vote!</p>",
+        "author_id": 21471040670989,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/21471175921677-Improve-Redstone-Systems/comments/21471214790029",
+        "created_at": "2023-11-19T01:30:15Z",
+        "updated_at": "2023-11-19T01:30:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/21471175921677/comments/21471214790029.json",
+        "post_id": 21471175921677,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 22982200899341,
+        "body": "<p>Personally I think the main bottleneck is tick speed of item sorting systems their capacity to store items in chests.. as well as the immovability of certain blocks like chests, droppers, hoppers, etc in Java. O.O I do not mind faster autocrafters, would love it! But.. it would only work well if the hoppers can keep up production..</p>\n<p>I feel comfy that the current redstone bottlenecks will be adressed at some point. And when and if that where to do happen, many issues regarding production rate will become more relevant than they are now in my humble opinion.</p>",
+        "author_id": 22705267611533,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/21471175921677-Improve-Redstone-Systems/comments/22982200899341",
+        "created_at": "2024-01-06T18:45:23Z",
+        "updated_at": "2024-01-08T16:19:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/21471175921677/comments/22982200899341.json",
+        "post_id": 21471175921677,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 18278181344781,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 23822475418125,
+        "body": "<p>統合版にも欲しいです</p>",
+        "author_id": 23822369529741,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/18278181344781-%E3%83%AC%E3%83%83%E3%83%89%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%E3%82%B4%E3%83%BC%E3%83%AC%E3%83%A0-redstone-golem/comments/23822475418125",
+        "created_at": "2024-02-04T02:36:11Z",
+        "updated_at": "2024-02-04T02:36:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/18278181344781/comments/23822475418125.json",
+        "post_id": 18278181344781,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 17440731846925,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 18697920465293,
+        "body": "<p>To ensure security, it should work on chests and golems. (the golems attack if they do not recognize you)</p>",
+        "author_id": 12270814940301,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/17440731846925-facial-recognition/comments/18697920465293",
+        "created_at": "2023-08-19T22:11:45Z",
+        "updated_at": "2023-08-19T22:11:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/17440731846925/comments/18697920465293.json",
+        "post_id": 17440731846925,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 17285970467853,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 17312648785165,
+        "body": "<p>It could be made using copper.</p>",
+        "author_id": 11165279061645,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/17285970467853-Redstone-Power-lines/comments/17312648785165",
+        "created_at": "2023-07-04T16:20:38Z",
+        "updated_at": "2023-07-04T16:20:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/17285970467853/comments/17312648785165.json",
+        "post_id": 17285970467853,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 16889774424077,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 17312689537805,
+        "body": "<p>Use copper in the crafting recipe.</p>",
+        "author_id": 11165279061645,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/16889774424077-Powered-Red-Ice/comments/17312689537805",
+        "created_at": "2023-07-04T16:22:20Z",
+        "updated_at": "2023-07-04T16:22:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/16889774424077/comments/17312689537805.json",
+        "post_id": 16889774424077,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 15145919538189,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 16519268527117,
+        "body": "<p>Is there a particular reason why besides another way to obtain redstone?</p>",
+        "author_id": 405306164292,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/15145919538189-Redstone-sand/comments/16519268527117",
+        "created_at": "2023-06-07T23:24:23Z",
+        "updated_at": "2023-06-07T23:24:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/15145919538189/comments/16519268527117.json",
+        "post_id": 15145919538189,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 14313956144653,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 15368567574157,
+        "body": "<p>Seems like a good idea to me</p>",
+        "author_id": 422824069492,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/14313956144653-Sculk-Speaker/comments/15368567574157",
+        "created_at": "2023-05-01T02:02:10Z",
+        "updated_at": "2023-05-01T02:02:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/14313956144653/comments/15368567574157.json",
+        "post_id": 14313956144653,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 13116509477517,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 13947779233677,
+        "body": "<p>I absolutely love this idea! Being able to condense Redstone to that extent would be amazing. But I have a few questions:</p>\n<p>Would copper wire hold the pulse for longer?</p>\n<p>Would the pulse travel further?</p>\n<p>Would copper wire be primarily to split off the pulse into multiple directions?</p>",
+        "author_id": 399212760191,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13116509477517-Copper-Wire/comments/13947779233677",
+        "created_at": "2023-03-13T14:42:31Z",
+        "updated_at": "2023-04-11T00:24:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13116509477517/comments/13947779233677.json",
+        "post_id": 13116509477517,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 11825537328013,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 19563058153485,
+        "body": "<p>Can't you just put a clock in an item frame? or am I missing something</p>",
+        "author_id": 9915205663117,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11825537328013-Redstone-being-able-to-power-item-frames/comments/19563058153485",
+        "created_at": "2023-09-16T20:02:47Z",
+        "updated_at": "2023-09-19T07:16:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11825537328013/comments/19563058153485.json",
+        "post_id": 11825537328013,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10693408225677,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 11357139801229,
+        "body": "<p>Si tu écris en français, et en plus avec des fautes d'orthographe, personne ne va comprendre !!!\n<br />But I agree with you !</p>",
+        "author_id": 5438924503309,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10693408225677-Piston-de-miel/comments/11357139801229",
+        "created_at": "2022-12-11T12:54:22Z",
+        "updated_at": "2023-01-18T18:56:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10693408225677/comments/11357139801229.json",
+        "post_id": 10693408225677,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 9693741965069,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 9918935711757,
+        "body": "<p>Better :a Minecart where you can build something </p>",
+        "author_id": 4625488949645,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/9693741965069-Trains/comments/9918935711757",
+        "created_at": "2022-10-16T07:49:19Z",
+        "updated_at": "2022-10-16T07:49:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/9693741965069/comments/9918935711757.json",
+        "post_id": 9693741965069,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 8919097153037,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8919069437069,
+        "body": "<p>wireless redstone wireless redstone</p>",
+        "author_id": 6459954110989,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8919097153037-wireless-redstone/comments/8919069437069",
+        "created_at": "2022-09-04T15:43:15Z",
+        "updated_at": "2022-09-04T15:43:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8919097153037/comments/8919069437069.json",
+        "post_id": 8919097153037,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 8921786234381,
+        "body": "<p>Do I hear a sculk sensor?\n<br />FYI, they don’t summon Wardens. The shriekers do.</p>",
+        "author_id": 423562415371,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8919097153037-wireless-redstone/comments/8921786234381",
+        "created_at": "2022-09-04T19:40:35Z",
+        "updated_at": "2022-09-06T19:45:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8919097153037/comments/8921786234381.json",
+        "post_id": 8919097153037,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 8922882999309,
+        "body": "<p>Already exists. They're called \"sculk sensors\".</p>",
+        "author_id": 419344921172,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8919097153037-wireless-redstone/comments/8922882999309",
+        "created_at": "2022-09-04T21:26:25Z",
+        "updated_at": "2022-09-06T19:45:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8919097153037/comments/8922882999309.json",
+        "post_id": 8919097153037,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 9402173435661,
+        "body": "<p>i mean sculk sensors do work in some situations, but wireless redstone transmiters would be focused on doing exactly this, and its not like we dont have blocks with similar uses already in minecraft (for instance honey and slime blocks, same use but when put together they work really well)</p>",
+        "author_id": 9400196457613,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8919097153037-wireless-redstone/comments/9402173435661",
+        "created_at": "2022-09-24T01:36:27Z",
+        "updated_at": "2022-09-25T01:55:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8919097153037/comments/9402173435661.json",
+        "post_id": 8919097153037,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7775043595533,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8015886299661,
+        "body": "<p>i want to summon wardens on command so intruders cant come in</p>\n<p>&nbsp;</p>",
+        "author_id": 7216913338765,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7775043595533-Powered-skulk-shrieker/comments/8015886299661",
+        "created_at": "2022-07-28T17:31:18Z",
+        "updated_at": "2022-07-31T11:28:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7775043595533/comments/8015886299661.json",
+        "post_id": 7775043595533,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7033491974669,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7065709218317,
+        "body": "<p>Do I hear the clicking of a Sculk Sensor?</p>",
+        "author_id": 423562415371,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7033491974669-tele-repeater/comments/7065709218317",
+        "created_at": "2022-06-20T17:22:52Z",
+        "updated_at": "2022-06-20T17:22:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7033491974669/comments/7065709218317.json",
+        "post_id": 7033491974669,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7066220460557,
+        "body": "<p>\"Do I hear the clicking of a Sculk Sensor?\"</p>\n<p>Good point.</p>\n<p>Thanks for making me aware of this, it would be really helpful, however the problem that would be addressed with this is long distance redstone. While the skull sensor can go a certain distance, the problem with it and most other redstone methods is that they still need to be somewhat connected in a path, and as soon as that path leaves a certain radius of the player, it stops working. This would bypass it by having no middleman in the process, with the drawback to this method being it's lack of durability&nbsp;</p>",
+        "author_id": 396472606352,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7033491974669-tele-repeater/comments/7066220460557",
+        "created_at": "2022-06-20T17:38:39Z",
+        "updated_at": "2022-06-21T20:48:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7033491974669/comments/7066220460557.json",
+        "post_id": 7033491974669,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 13948599031693,
+        "body": "<p>I could see this working like and early version of the telegraph if enough people start learning Morse code&nbsp;</p>",
+        "author_id": 399212760191,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7033491974669-tele-repeater/comments/13948599031693",
+        "created_at": "2023-03-13T15:03:43Z",
+        "updated_at": "2023-03-13T15:03:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7033491974669/comments/13948599031693.json",
+        "post_id": 7033491974669,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 6016009820301,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 6378237915917,
+        "body": "<p>Ancient Debris: \"Am I a joke to you?\"</p>\n<p>Netherite Blocks: \"What about me?!\"</p>",
+        "author_id": 405306164292,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6016009820301-Barrier-deepslate/comments/6378237915917",
+        "created_at": "2022-05-20T21:53:47Z",
+        "updated_at": "2022-05-20T21:53:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6016009820301/comments/6378237915917.json",
+        "post_id": 6016009820301,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5914254803085,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7214989496077,
+        "body": "<p>You can already do this with a comparator going out of a hopper which is filled so one more item will power a block with a Redstone torch on it which locks the hopper. I use it it most keycard doors.(not trying to be harsh, it rarely comes up in most instances though it is still possible)</p>",
+        "author_id": 7184067406733,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5914254803085--Filter-Redstone-Component/comments/7214989496077",
+        "created_at": "2022-06-26T18:09:15Z",
+        "updated_at": "2022-07-03T14:44:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5914254803085/comments/7214989496077.json",
+        "post_id": 5914254803085,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 23304175147021,
+        "body": "<p>Look at the copper-hopper mod for a perfect example of how this could work.&nbsp; The functionality of this mod is something that should be built into vanilla minecraft.&nbsp; It would pair extremely well with the new autocrafter and other improvements in 1.21</p>",
+        "author_id": 23061515730061,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5914254803085--Filter-Redstone-Component/comments/23304175147021",
+        "created_at": "2024-01-17T22:59:44Z",
+        "updated_at": "2024-01-22T18:03:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5914254803085/comments/23304175147021.json",
+        "post_id": 5914254803085,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5538786681741,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 6148085655437,
+        "body": "<p>hmmmmm... I like it! maybe stonecutters can be turned off as well</p>\n<p>&nbsp;</p>",
+        "author_id": 423070252012,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5538786681741-When-pushed-on-stonecutter/comments/6148085655437",
+        "created_at": "2022-05-11T06:11:41Z",
+        "updated_at": "2022-05-11T06:11:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5538786681741/comments/6148085655437.json",
+        "post_id": 5538786681741,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 6378108684045,
+        "body": "<p>What? Are you saying there should be more options for the stonecutter and that powering it with redstone unlocks them?</p>",
+        "author_id": 405306164292,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5538786681741-When-pushed-on-stonecutter/comments/6378108684045",
+        "created_at": "2022-05-20T21:44:04Z",
+        "updated_at": "2022-05-20T21:44:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5538786681741/comments/6378108684045.json",
+        "post_id": 5538786681741,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4768064576397,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4863249730829,
+        "body": "<p>This would be sooooo nice</p>",
+        "author_id": 4863210172045,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4768064576397-Wireless-redstone/comments/4863249730829",
+        "created_at": "2022-03-17T02:22:35Z",
+        "updated_at": "2022-03-17T11:09:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4768064576397/comments/4863249730829.json",
+        "post_id": 4768064576397,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4448987468557,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4480127585421,
+        "body": "<p>It's already possible to store signal strengths. The block mechanic would make Redstone too easy.</p>",
+        "author_id": 405234171312,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4448987468557-Redstone-signal-storage/comments/4480127585421",
+        "created_at": "2022-02-23T17:58:46Z",
+        "updated_at": "2022-04-13T15:45:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4448987468557/comments/4480127585421.json",
+        "post_id": 4448987468557,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4418401605133,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4418714569997,
+        "body": "<p>I agree. That would be cool. You could have a redstone contraption that builds a redstone contraption that builds a redstone contraption that builds a redstone contraption and so on.</p>",
+        "author_id": 421580648392,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4418401605133-Dispensers-placing-down-Redstone-Bedrock/comments/4418714569997",
+        "created_at": "2022-01-05T02:26:25Z",
+        "updated_at": "2022-01-07T22:35:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4418401605133/comments/4418714569997.json",
+        "post_id": 4418401605133,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4414960046349,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 18236037432077,
+        "body": "<p>And make massive bridges made of scaffolding.</p>",
+        "author_id": 11165279061645,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4414960046349-Dispensers-should-be-able-to-place-scaffolding/comments/18236037432077",
+        "created_at": "2023-08-04T18:25:10Z",
+        "updated_at": "2023-08-04T18:25:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4414960046349/comments/18236037432077.json",
+        "post_id": 4414960046349,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4411115006349,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4411115058445,
+        "body": "<p>I'm not the best at Redstone so if I got any of this stuff wrong plz tell me so I can correct it. Thank you!</p>",
+        "author_id": 1902383137647,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4411115006349-BUD-Block-Java-Bedrock/comments/4411115058445",
+        "created_at": "2021-10-12T02:55:27Z",
+        "updated_at": "2021-10-13T19:27:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4411115006349/comments/4411115058445.json",
+        "post_id": 4411115006349,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4411240998669,
+        "body": "<p>maybe not one BUD block, but maybe an ability to make some components do this BUD feature by adding somthing to it. Or vice versa: add this \"bug\" to bedrock, than add an ability to make some componets BUD-proof. For example, by adding an ametist shard to redstone dust makes it BUD-proof -- it can't BUD pistons, droppers and other stuff. BUD block will be not very practical</p>",
+        "author_id": 396282510452,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4411115006349-BUD-Block-Java-Bedrock/comments/4411240998669",
+        "created_at": "2021-10-13T18:25:25Z",
+        "updated_at": "2021-11-06T00:00:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4411115006349/comments/4411240998669.json",
+        "post_id": 4411115006349,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4411260626573,
+        "body": "<p>I see where you are coming from, but I disagree, I think it would be more complicated to add different modes to EVERY Redstone component. I think it would be more convenient to just have one bud power source, and one bud block to act as Redstone dust that will enable Quazi connectivity to the redstone components it is powering. That's why I thought it would be best for a block instead, but thank you for your feedback, I appreciate it!</p>",
+        "author_id": 1902383137647,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4411115006349-BUD-Block-Java-Bedrock/comments/4411260626573",
+        "created_at": "2021-10-13T19:26:46Z",
+        "updated_at": "2021-10-14T09:13:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4411115006349/comments/4411260626573.json",
+        "post_id": 4411115006349,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4410019262605,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4411178659853,
+        "body": "<p>So basically the same info you could get from the F3 screen, but in the GUI. I like it.</p>",
+        "author_id": 1902412646787,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4410019262605-In-the-GUI-for-hoppers-droppers-dispensers-add-power-indication-LED-s/comments/4411178659853",
+        "created_at": "2021-10-12T21:00:08Z",
+        "updated_at": "2021-10-12T21:00:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4410019262605/comments/4411178659853.json",
+        "post_id": 4410019262605,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4409522945037,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4409526740493,
+        "body": "<p>Just invert the daylight detector.</p>",
+        "author_id": 386515862872,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4409522945037-Add-Night-Detector/comments/4409526740493",
+        "created_at": "2021-09-18T13:33:13Z",
+        "updated_at": "2021-10-11T16:36:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4409522945037/comments/4409526740493.json",
+        "post_id": 4409522945037,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4409775811341,
+        "body": "<p>Daylight sensor exists tho</p>",
+        "author_id": 419668475392,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4409522945037-Add-Night-Detector/comments/4409775811341",
+        "created_at": "2021-09-22T03:37:29Z",
+        "updated_at": "2021-09-22T03:37:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4409522945037/comments/4409775811341.json",
+        "post_id": 4409522945037,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4410030672269,
+        "body": "<p>Also, did you vote for your own post?&nbsp;</p>",
+        "author_id": 386515862872,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4409522945037-Add-Night-Detector/comments/4410030672269",
+        "created_at": "2021-09-25T13:58:59Z",
+        "updated_at": "2021-09-25T14:01:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4409522945037/comments/4410030672269.json",
+        "post_id": 4409522945037,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4411023821069,
+        "body": "<p>This is literally a thing that exists in-game. Please, before you suggest features, play the game.</p>",
+        "author_id": 396170896571,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4409522945037-Add-Night-Detector/comments/4411023821069",
+        "created_at": "2021-10-10T12:02:49Z",
+        "updated_at": "2021-10-11T16:36:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4409522945037/comments/4411023821069.json",
+        "post_id": 4409522945037,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4411271407885,
+        "body": "<p>🤦</p>",
+        "author_id": 421020027131,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4409522945037-Add-Night-Detector/comments/4411271407885",
+        "created_at": "2021-10-14T02:35:20Z",
+        "updated_at": "2021-10-14T02:35:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4409522945037/comments/4411271407885.json",
+        "post_id": 4409522945037,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

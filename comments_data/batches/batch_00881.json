@@ -1,0 +1,772 @@
+[
+  {
+    "post_id": 360071475912,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012131251,
+        "body": "<p>You can only do: /data get entity &lt;entitySelector&gt; Pos</p>",
+        "author_id": 375848865892,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071475912-A-locateentity-command/comments/360012131251",
+        "created_at": "2020-07-23T01:41:30Z",
+        "updated_at": "2020-07-23T01:41:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071475912/comments/360012131251.json",
+        "post_id": 360071475912,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071366511,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013436812,
+        "body": "<p>Commands and redstone don't mix: they're known not to go together well. You could use normal commands to set a redstone block or something into an input you want to stay on/off.</p>",
+        "author_id": 396590871911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071366511--activate/comments/360013436812",
+        "created_at": "2020-11-08T18:49:33Z",
+        "updated_at": "2020-11-09T01:38:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071366511/comments/360013436812.json",
+        "post_id": 360071366511,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071011851,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012223332,
+        "body": "<p>Useful! &amp; You can do it with a lot of line commands with /execute store score &lt;EntitySelector&gt; &lt;score&gt; run data get entity &lt;EntitySelector&gt; Inventory</p>",
+        "author_id": 375848865892,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071011851--itemcount-command/comments/360012223332",
+        "created_at": "2020-07-23T01:51:27Z",
+        "updated_at": "2020-07-23T15:12:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071011851/comments/360012223332.json",
+        "post_id": 360071011851,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013363631,
+        "body": "<p>This is already possible using <code>/clear</code>. When you set the maximum item count to 0, it returns the number of the specified items in a player's inventory.</p>\n<pre>/clear @a snowball 0</pre>",
+        "author_id": 396590871911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071011851--itemcount-command/comments/360013363631",
+        "created_at": "2020-11-08T19:01:20Z",
+        "updated_at": "2020-11-08T19:01:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071011851/comments/360013363631.json",
+        "post_id": 360071011851,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360070976452,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 33015138043661,
+        "body": "<p>remember in java and bedrock</p>\n<p>&nbsp;</p>",
+        "author_id": 33014992155149,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070976452-Quick-saving-and-quick-loading/comments/33015138043661",
+        "created_at": "2024-12-26T15:55:42Z",
+        "updated_at": "2024-12-26T15:55:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070976452/comments/33015138043661.json",
+        "post_id": 360070976452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360070489492,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4409851183501,
+        "body": "<p>Give me knowledge book</p>",
+        "author_id": 1901874503427,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070489492-New-trigger-for-smithing-table/comments/4409851183501",
+        "created_at": "2021-09-23T04:27:00Z",
+        "updated_at": "2021-09-23T04:27:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070489492/comments/4409851183501.json",
+        "post_id": 360070489492,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4409845690765,
+        "body": "<p>Give me knowledge book</p>",
+        "author_id": 1901874503427,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070489492-New-trigger-for-smithing-table/comments/4409845690765",
+        "created_at": "2021-09-23T04:27:31Z",
+        "updated_at": "2021-09-23T04:27:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070489492/comments/4409845690765.json",
+        "post_id": 360070489492,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360067713591,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010967032,
+        "body": "<p>Just do:\n<br />/fill 52 63 -1516 33 73 -1536 air destroy\n<br />/tp @e[type=item, distance=..20 @p</p>",
+        "author_id": 387762685231,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067713591-Collect-command/comments/360010967032",
+        "created_at": "2020-06-14T00:44:57Z",
+        "updated_at": "2020-06-15T09:41:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067713591/comments/360010967032.json",
+        "post_id": 360067713591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360067612451,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010967072,
+        "body": "<p>I think this should just be a predicate, just like lightlevel</p>",
+        "author_id": 387762685231,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067612451-Redstone-power-into-scoreboard/comments/360010967072",
+        "created_at": "2020-06-14T00:46:53Z",
+        "updated_at": "2020-06-14T00:46:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067612451/comments/360010967072.json",
+        "post_id": 360067612451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360066267811,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010820911,
+        "body": "<p>This can be done already when editing the world files in %appdata%/.minecraft but an ingame option would be nice too.&nbsp;</p>",
+        "author_id": 384565212632,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360066267811-Turn-off-Cheats-Java/comments/360010820911",
+        "created_at": "2020-06-01T18:35:46Z",
+        "updated_at": "2020-06-24T20:21:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360066267811/comments/360010820911.json",
+        "post_id": 360066267811,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360063015551,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010574052,
+        "body": "<p>Phantoms are mysterious entities, not normal mobs</p>",
+        "author_id": 380746493072,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360063015551-doInsomnia-rework/comments/360010574052",
+        "created_at": "2020-05-17T13:01:37Z",
+        "updated_at": "2020-05-17T13:01:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360063015551/comments/360010574052.json",
+        "post_id": 360063015551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360062450652,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010418331,
+        "body": "<p>I think that change is not necessary because the command /schedule is easy to understand.</p>",
+        "author_id": 373712550711,
+        "vote_sum": 4,
+        "vote_count": 4,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062450652-Rename-schedule-command-to-wait/comments/360010418331",
+        "created_at": "2020-05-05T12:33:10Z",
+        "updated_at": "2020-11-16T04:52:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062450652/comments/360010418331.json",
+        "post_id": 360062450652,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010528772,
+        "body": "<p>Hard disagree. Wait would be so much more confusing.</p>",
+        "author_id": 397137254112,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062450652-Rename-schedule-command-to-wait/comments/360010528772",
+        "created_at": "2020-05-13T16:00:01Z",
+        "updated_at": "2022-08-09T15:34:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062450652/comments/360010528772.json",
+        "post_id": 360062450652,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360062020152,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010688471,
+        "body": "<p>Just turn off the music in settings, no need to use a command.</p>",
+        "author_id": 375337311991,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062020152--gamerule-doBackgroundMusic/comments/360010688471",
+        "created_at": "2020-05-26T18:42:31Z",
+        "updated_at": "2020-05-26T18:42:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062020152/comments/360010688471.json",
+        "post_id": 360062020152,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010965831,
+        "body": "<p>If you're a map maker you can just overwrite the default music with blank music using a resource pack.</p>",
+        "author_id": 369037481651,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062020152--gamerule-doBackgroundMusic/comments/360010965831",
+        "created_at": "2020-06-13T15:57:28Z",
+        "updated_at": "2020-06-13T15:57:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062020152/comments/360010965831.json",
+        "post_id": 360062020152,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360054942531,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009054851,
+        "body": "<p>You can already change a villagers trades by using /data merge or by summoning it with these trades! If its to complicated for you use MC Stacker! :)</p>",
+        "author_id": 387762685231,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054942531--VillageData-command-for-minecraft/comments/360009054851",
+        "created_at": "2020-01-23T03:11:21Z",
+        "updated_at": "2020-01-23T04:55:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054942531/comments/360009054851.json",
+        "post_id": 360054942531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360054701972,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008151092,
+        "body": "<p>It appears there is either already an existing thread on this topic (or something very similar), it's a list of items/mobs/ideas, contains a previously rejected idea, is a bug or support issue, exists, or it is too general and is being removed by our team.&nbsp; Please check out this link (<a href=\"https://feedback.minecraft.net/hc/en-us/articles/360004442111-Creating-Great-Ideas\" rel=\"nofollow noreferrer\">https://feedback.minecraft.net/hc/en-us/articles/360004442111-Creating-Great-Ideas</a>), be sure to use search, and join existing threads in progress (we read ALL the comments). Thanks!</p>\n<p>&nbsp;</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054701972--hostile-level/comments/360008151092",
+        "created_at": "2019-10-21T22:55:28Z",
+        "updated_at": "2019-10-21T22:55:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054701972/comments/360008151092.json",
+        "post_id": 360054701972,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008145291,
+        "body": "<p>I don't get what the problem here. the villager one means villagers cant have a hostile level above passive, so the game spawns an illager instead. if there is a idea that is already on here, please let me know (either name or link). I did check the link you gave me and it never said anything against me. please make it specific so I know exactly what your talking about. ill check again to make sure, so please re-consider your comment.</p>",
+        "author_id": 386689201891,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054701972--hostile-level/comments/360008145291",
+        "created_at": "2019-10-21T23:22:39Z",
+        "updated_at": "2019-10-22T15:53:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054701972/comments/360008145291.json",
+        "post_id": 360054701972,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360050128072,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4411430027021,
+        "body": "<p>why, WHY did you relate it to ROBLOX</p>",
+        "author_id": 1902484598727,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050128072-Bees-should-follow-you-if-they-are-a-member-of-your-team-with-team/comments/4411430027021",
+        "created_at": "2021-10-16T01:33:19Z",
+        "updated_at": "2021-10-16T01:33:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050128072/comments/4411430027021.json",
+        "post_id": 360050128072,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360049482732,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007257071,
+        "body": "<p>I 100% agree</p>",
+        "author_id": 386342737951,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360049482732-Endless-effects/comments/360007257071",
+        "created_at": "2019-08-25T12:36:16Z",
+        "updated_at": "2019-08-25T12:36:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360049482732/comments/360007257071.json",
+        "post_id": 360049482732,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360007305152,
+        "body": "<p>If you’re talking about potion effects, just set the timer to 1000000 (Six zeroes). That is one million seconds, which equates to about 278 hours, or 11.6 days. I highly doubt that you leave your game running for that long. If you exit your world, the game pauses all potion timers.</p>",
+        "author_id": 370030185711,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360049482732-Endless-effects/comments/360007305152",
+        "created_at": "2019-08-27T19:16:02Z",
+        "updated_at": "2019-08-27T19:16:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360049482732/comments/360007305152.json",
+        "post_id": 360049482732,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048860351,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008720932,
+        "body": "<p>我感觉这个可以有</p>",
+        "author_id": 383216366831,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048860351-maximum-hand-range/comments/360008720932",
+        "created_at": "2019-12-17T09:55:58Z",
+        "updated_at": "2019-12-17T09:55:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048860351/comments/360008720932.json",
+        "post_id": 360048860351,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360047911271,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006576352,
+        "body": "<p>You can already put more than 2 commands in a command block...</p>",
+        "author_id": 384748974232,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047911271-Double-Command-Block/comments/360006576352",
+        "created_at": "2019-07-21T23:13:15Z",
+        "updated_at": "2019-07-22T20:43:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047911271/comments/360006576352.json",
+        "post_id": 360047911271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360044848132,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006384871,
+        "body": "<p>If this is for mapmaking, you can simply make the villager a master so you no longer see the xp bar, or you can set the value of the entity data at Offers.Recipes.[<em>n</em>].xp to 0, where&nbsp;<em>n</em> is the index of the trade.</p>",
+        "author_id": 384380991192,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360044848132-gamerule-UpgradeVillagers/comments/360006384871",
+        "created_at": "2019-07-08T21:45:31Z",
+        "updated_at": "2020-04-27T05:19:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360044848132/comments/360006384871.json",
+        "post_id": 360044848132,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360044278972,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005874291,
+        "body": "<p>I fail to understand what this Still \"NBT\" would do (this shouldn't be NBT, but a block state then)</p>",
+        "author_id": 365162152092,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360044278972--Java-Still-water-NBT-tag/comments/360005874291",
+        "created_at": "2019-05-30T19:12:39Z",
+        "updated_at": "2019-05-30T20:20:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360044278972/comments/360005874291.json",
+        "post_id": 360044278972,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006385051,
+        "body": "<p>I wholeheartedly disagree with this feature. To store NBT data in a block requires a block entity. This feature would necessitate that every single water block should have is own block entity. Imagine ocean biomes, which contain millions of water blocks, each of which has its own block entity. This would <span style=\"display: inline !important;  background-color: #ffffff; color: #000000; cursor: text; font-family: Arial,sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none;  white-space: normal; word-spacing: 0px;\">take up a horrific amount of disk space and make the game unplayable. Block states, as FVbico mentioned, would be the best way to implement this feature. However, it's still largely unnecessary. It solves only one extremely specific problem. Not worth it in my opinion.</span></p>",
+        "author_id": 384380991192,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360044278972--Java-Still-water-NBT-tag/comments/360006385051",
+        "created_at": "2019-07-08T21:53:37Z",
+        "updated_at": "2019-07-08T22:12:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360044278972/comments/360006385051.json",
+        "post_id": 360044278972,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043419712,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006381632,
+        "body": "<p>A better idea would be to not bite off more than you can chew and type at a speed at which you can actually control what keys you press and in what order. It's unnecessary too because the command line already shows you the point at which an error occurred in parsing the command.</p>",
+        "author_id": 384380991192,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043419712-Try-adding-autocorrect-for-commands/comments/360006381632",
+        "created_at": "2019-07-08T22:29:01Z",
+        "updated_at": "2019-07-09T01:23:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043419712/comments/360006381632.json",
+        "post_id": 360043419712,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043036231,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005290871,
+        "body": "<p>This feature would be really useful in adventure maps or if you wanted to create a mod arena minigame because you would be able to keep the mobs on you so they don't just give up. Great suggestion!</p>",
+        "author_id": 380147910592,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043036231-Gamerule-hostileMobRadius/comments/360005290871",
+        "created_at": "2019-04-17T16:12:37Z",
+        "updated_at": "2019-12-08T12:48:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043036231/comments/360005290871.json",
+        "post_id": 360043036231,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006090091,
+        "body": "<p>Unsure if this is meant for Bedrock, but on Java edition the hostile radius is per-mob and can be changed by updating the mob's <a href=\"https://minecraft.gamepedia.com/Attribute#Attributes_available_on_all_living_entities\" target=\"_blank\" rel=\"nofollow noreferrer\">generic.followRange</a> attribute.</p>",
+        "author_id": 382912237632,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043036231-Gamerule-hostileMobRadius/comments/360006090091",
+        "created_at": "2019-06-16T18:28:30Z",
+        "updated_at": "2019-06-18T02:41:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043036231/comments/360006090091.json",
+        "post_id": 360043036231,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042917351,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006488851,
+        "body": "<p>Do you mean being able to type in <strong>/give @s spruce_planks 1&nbsp;</strong>and I get 1 spruce plank?</p>\n<p>Because some items have a number tag for their ID, like planks. If I want 1 spruce plank I have to type in&nbsp;<strong>/give @s planks 1 1</strong>, the first one means type=spruce and the second one means amount=1. We need to change our item IDs.</p>",
+        "author_id": 383811171092,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042917351-Ability-to-choose-between-item-ID-or-item-Name-when-entering-give-command/comments/360006488851",
+        "created_at": "2019-07-15T17:47:06Z",
+        "updated_at": "2019-07-15T17:47:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042917351/comments/360006488851.json",
+        "post_id": 360042917351,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042840271,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7966788239629,
+        "body": "<p>is there not any command for this? there should definetly be</p>",
+        "author_id": 7966709532301,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042840271-Command-to-summon-color-of-animal-in-Bedrock/comments/7966788239629",
+        "created_at": "2022-07-26T20:57:39Z",
+        "updated_at": "2022-07-31T08:20:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042840271/comments/7966788239629.json",
+        "post_id": 360042840271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042760591,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005166891,
+        "body": "<p>/gamerule EnableCommands true</p>\n<p><em>You do not have permission to execute this command.</em></p>\n<p>Hmmm...</p>",
+        "author_id": 370958599952,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042760591-Safety-Regarding-Repeating-Command-Blocks/comments/360005166891",
+        "created_at": "2019-04-08T00:26:45Z",
+        "updated_at": "2019-04-08T00:26:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042760591/comments/360005166891.json",
+        "post_id": 360042760591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005224332,
+        "body": "<p>William Miller this is assuming whoever is in the world has permission to execute the command you mentioned, since to get a repeating command block you would need access to the \"/give\" command.</p>",
+        "author_id": 369791169171,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042760591-Safety-Regarding-Repeating-Command-Blocks/comments/360005224332",
+        "created_at": "2019-04-11T22:51:21Z",
+        "updated_at": "2019-04-11T22:51:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042760591/comments/360005224332.json",
+        "post_id": 360042760591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005226231,
+        "body": "<p>I think that instead there should be a combination of keys that you can press in order to kill all command blocks.&nbsp; That would solve this problem.</p>",
+        "author_id": 370958599952,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042760591-Safety-Regarding-Repeating-Command-Blocks/comments/360005226231",
+        "created_at": "2019-04-11T22:53:20Z",
+        "updated_at": "2019-04-11T22:54:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042760591/comments/360005226231.json",
+        "post_id": 360042760591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014443311,
+        "body": "<p>I like the idea of a command block kill command. Asking Mojang to think of every possible combination of commands that can destroy a world is a bit unreasonable, but if there was a way to stop the damage after it starts that would be very good.<br><br>Of course, we'd need more than a \"Command Block Kill Command\". The problem is that commands cannot be entered on the respawn screen (I tried) so if someone actually tried putting in the oder to kill everyone on a repeating command block there would be no way for the admin to stop it unless Mojang added a way to do so.<br><br>Even without malice, there are plenty of situations where we would need the ability to destroy or at least deactivate all command blocks in the world.</p>",
+        "author_id": 372928738952,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042760591-Safety-Regarding-Repeating-Command-Blocks/comments/360014443311",
+        "created_at": "2021-02-26T08:40:15Z",
+        "updated_at": "2021-02-28T13:01:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042760591/comments/360014443311.json",
+        "post_id": 360042760591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042885432,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004860652,
+        "body": "<p>You suggest changing how the entity is saved to disk and reason that you can still calculate the old numbers. But why not just leave it as is and calculate these desired numbers? It's just as possible.</p>",
+        "author_id": 364935466911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042885432-Split-up-Motion-tag-so-it-lines-up-with-Rotation/comments/360004860652",
+        "created_at": "2019-03-16T03:09:13Z",
+        "updated_at": "2019-03-16T03:09:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042885432/comments/360004860652.json",
+        "post_id": 360042885432,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360004867812,
+        "body": "<p>I think you are talking about some sort of relative motion tag, and I wanted something like this for a year and a half now.</p>",
+        "author_id": 378473978792,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042885432-Split-up-Motion-tag-so-it-lines-up-with-Rotation/comments/360004867812",
+        "created_at": "2019-03-16T20:17:07Z",
+        "updated_at": "2019-03-16T20:17:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042885432/comments/360004867812.json",
+        "post_id": 360042885432,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360004870732,
+        "body": "<p>By splitting up the Motion tag into the direction of the motion and the speed of the motion, it is then possible to have the motion be relative to the entity perceiving the motion.. Which is very handy and doesn't take away the old function of the Motion tag.</p>\n\n<p>So the fact that these numbers could be calculated from the Motion tag already, doesn't solve the problem that the motion tag cannot be used relative to the entity</p>",
+        "author_id": 378359600132,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042885432-Split-up-Motion-tag-so-it-lines-up-with-Rotation/comments/360004870732",
+        "created_at": "2019-03-17T13:16:20Z",
+        "updated_at": "2019-03-20T15:29:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042885432/comments/360004870732.json",
+        "post_id": 360042885432,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

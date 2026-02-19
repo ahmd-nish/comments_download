@@ -1,0 +1,997 @@
+[
+  {
+    "post_id": 11655089693325,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 33829699987085,
+        "body": "<p>How the command will function:</p>\n<pre>/playanimation &lt;namespace&gt;:&lt;animation_name&gt; [&lt;position&gt;] [&lt;delta&gt; &lt;speed&gt;] [force|normal] [&lt;viewers&gt;]</pre>\n<p><strong>&lt;arg&gt; REQUIRED<br>[arg] OPTIONAL</strong></p>\n<p>&lt;namespace&gt;:&lt;animation_name&gt; - This is the name of the animation. By default, the namespace is <strong>minecraft:</strong>&nbsp;and the animation name can be whatever animation name. We can use recourse packs to add custom animations with our own custom namespace.</p>\n<p>[&lt;position&gt;] The position to execute the animation.&nbsp;<strong>This Position must be a loaded chunk. Otherwise, the command will return a fail.</strong></p>\n<p>[&lt;delta&gt;] The size of the animation. Similar to /particle</p>\n<p>[&lt;speed&gt;] The speed of the animation. How fast the animation occurs.</p>\n<p>[force|normal] Whether the animation will be loaded forcefully, or it will do it in normal mode (where the user can disable it in their settings). Similar to /particle</p>\n<p>[&lt;targets&gt;] An entity selector, to which the animation will be shown.</p>\n<p>======================================================================</p>\n<p>New Settings:</p>\n<ul>\n<li>Animations: Off - Will disable all game animations</li>\n<li>Animations: Minimal - Will only enable essential animations&nbsp;</li>\n<li>Animations: Vanilla - Will only enable vanilla-coded animations</li>\n<li>Animations: All - Will enable all animations</li>\n</ul>\n<p><strong>!!! THESE SETTINGS CAN BE OVERRIDED WITH THE FORCE MODE !!!</strong></p>\n<p>===============================================================</p>\n<p>Your own animations can be made with a JSON file in a resource pack.<br><br>Idea by:&nbsp;<strong>Blitical</strong>, Let me know what you think!</p>",
+        "author_id": 12752766908301,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11655089693325-Add-playanimation-to-Java/comments/33829699987085",
+        "created_at": "2025-01-27T22:30:11Z",
+        "updated_at": "2025-01-28T17:41:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11655089693325/comments/33829699987085.json",
+        "post_id": 11655089693325,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 8241302508941,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8283087615501,
+        "body": "<p>I could also see this to be a regex argument, where the regular expression is, like the range in float arguments, an argument parameter that is checked client side. I think it would motivate many server-side developers to migrate to the new command system</p>",
+        "author_id": 8241040073357,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8241302508941-Custom-Arguments-for-Plugin-Development/comments/8283087615501",
+        "created_at": "2022-08-09T09:17:18Z",
+        "updated_at": "2022-08-09T14:38:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8241302508941/comments/8283087615501.json",
+        "post_id": 8241302508941,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7253917386125,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7293567125517,
+        "body": "<p>İyi çok </p>",
+        "author_id": 7293467781261,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7253917386125-Damage-Dealt-by-Arrows-and-more/comments/7293567125517",
+        "created_at": "2022-06-29T17:09:24Z",
+        "updated_at": "2022-06-29T17:09:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7253917386125/comments/7293567125517.json",
+        "post_id": 7253917386125,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7387937610125,
+        "body": "<p>Good idea</p>",
+        "author_id": 422074994091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7253917386125-Damage-Dealt-by-Arrows-and-more/comments/7387937610125",
+        "created_at": "2022-07-03T18:49:07Z",
+        "updated_at": "2022-07-03T18:49:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7253917386125/comments/7387937610125.json",
+        "post_id": 7253917386125,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7004891732109,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7021250566157,
+        "body": "<p>So, make it so you can /give yourself gear with higher enchantment levels than what you can normally? Ok.</p>",
+        "author_id": 423562415371,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7004891732109-No-enchantment-max-level-on-bedrock/comments/7021250566157",
+        "created_at": "2022-06-18T03:44:27Z",
+        "updated_at": "2022-07-19T23:02:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7004891732109/comments/7021250566157.json",
+        "post_id": 7004891732109,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 6978452922637,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 24929948985229,
+        "body": "<p>good idea i would like it</p>",
+        "author_id": 24929860242957,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6978452922637-An-update-to-the-motion-NBT-tag/comments/24929948985229",
+        "created_at": "2024-03-12T14:37:34Z",
+        "updated_at": "2024-03-12T14:37:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6978452922637/comments/24929948985229.json",
+        "post_id": 6978452922637,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38902890861453,
+        "body": "<p>Yeah imagine the command block potential like dashing or makeing a stream of arrows</p>",
+        "author_id": 38902886520461,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6978452922637-An-update-to-the-motion-NBT-tag/comments/38902890861453",
+        "created_at": "2025-08-18T18:43:04Z",
+        "updated_at": "2025-08-18T18:43:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6978452922637/comments/38902890861453.json",
+        "post_id": 6978452922637,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 6093435480717,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 6103781649549,
+        "body": "<p>This would be very useful because you can change how leaves, or anything while building</p>",
+        "author_id": 6103666958989,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6093435480717--setbiome/comments/6103781649549",
+        "created_at": "2022-05-09T15:36:10Z",
+        "updated_at": "2022-05-09T15:36:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6093435480717/comments/6103781649549.json",
+        "post_id": 6093435480717,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5724889311885,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 6002216691469,
+        "body": "<p>I like it! Upvoting. \n<br />Also, maybe it could be like dependent on the difficulty, where there is Peaceful, Easy, Normal, and Hard, and it bases off of that. </p>",
+        "author_id": 421198632411,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5724889311885-Gamerule-doSculkSpreading/comments/6002216691469",
+        "created_at": "2022-05-04T18:49:30Z",
+        "updated_at": "2022-05-04T18:49:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5724889311885/comments/6002216691469.json",
+        "post_id": 5724889311885,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4758952468749,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5438223648397,
+        "body": "<p>Same here. Mobs keep despawning even if you put a name tag them, leash them and cage them. It happens just randomly.</p>",
+        "author_id": 5438252243085,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4758952468749-Disable-mob-despawning/comments/5438223648397",
+        "created_at": "2022-04-10T11:23:33Z",
+        "updated_at": "2022-04-11T01:19:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4758952468749/comments/5438223648397.json",
+        "post_id": 4758952468749,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 5448041729677,
+        "body": "<p>Why cage animals? Kind of sad for them. Unless of course, you have built a big enclosure though. Kind of unrelated.</p>",
+        "author_id": 419991586432,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4758952468749-Disable-mob-despawning/comments/5448041729677",
+        "created_at": "2022-04-11T01:20:49Z",
+        "updated_at": "2022-04-11T01:20:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4758952468749/comments/5448041729677.json",
+        "post_id": 4758952468749,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 28160305905293,
+        "body": "<p>Exactly! I'm trying to build an adventure map, but all the enemies I add get despawned whenever I leave, even when I nametag them. I don't know what to do because this is essential to my map.</p>",
+        "author_id": 8643010875405,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4758952468749-Disable-mob-despawning/comments/28160305905293",
+        "created_at": "2024-07-05T06:06:49Z",
+        "updated_at": "2024-07-05T06:06:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4758952468749/comments/28160305905293.json",
+        "post_id": 4758952468749,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 39385633778061,
+        "body": "<p>Dude, it's very annoying! We named them and everything then they just  disappear! I mean you can't stay in the same trunk and play the game I mean come on</p>",
+        "author_id": 39344621055629,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4758952468749-Disable-mob-despawning/comments/39385633778061",
+        "created_at": "2025-09-07T14:58:08Z",
+        "updated_at": "2025-09-07T14:58:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4758952468749/comments/39385633778061.json",
+        "post_id": 4758952468749,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4431076693261,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4851883197581,
+        "body": "<p>Would this include cave sounds?</p>",
+        "author_id": 4851626253069,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4431076693261-Be-Able-to-Play-any-Song-in-the-Minecraft-Soundtrack-Using-Commands/comments/4851883197581",
+        "created_at": "2022-03-16T17:57:24Z",
+        "updated_at": "2022-03-16T17:57:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4431076693261/comments/4851883197581.json",
+        "post_id": 4431076693261,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4933788266125,
+        "body": "<p>I was under the impression there was already a way to do this, with the play sound command?</p>",
+        "author_id": 379397684011,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4431076693261-Be-Able-to-Play-any-Song-in-the-Minecraft-Soundtrack-Using-Commands/comments/4933788266125",
+        "created_at": "2022-03-20T02:21:32Z",
+        "updated_at": "2023-04-11T20:37:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4431076693261/comments/4933788266125.json",
+        "post_id": 4431076693261,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 24433701534221,
+        "body": "<p>Yeah, having it pick from a list of random songs instead of being able to choose the one you want doesn't make much sense.</p>\n<p>I think giving players the ability to choose a specific song would be amazing!</p>",
+        "author_id": 24433629622413,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4431076693261-Be-Able-to-Play-any-Song-in-the-Minecraft-Soundtrack-Using-Commands/comments/24433701534221",
+        "created_at": "2024-02-25T13:10:29Z",
+        "updated_at": "2024-02-25T13:10:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4431076693261/comments/24433701534221.json",
+        "post_id": 4431076693261,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4428432716429,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4428538940557,
+        "body": "<p><a href=\"https://feedback.minecraft.net/hc/en-us/community/posts/4428528240781--integer-random-integer-in-commands-\" rel=\"nofollow noreferrer\">https://feedback.minecraft.net/hc/en-us/community/posts/4428528240781--integer-random-integer-in-commands-</a> would be the post about the \"?\" integer</p>",
+        "author_id": 423870826152,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4428432716429--ifaction-command/comments/4428538940557",
+        "created_at": "2022-02-15T13:42:12Z",
+        "updated_at": "2022-02-17T12:30:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4428432716429/comments/4428538940557.json",
+        "post_id": 4428432716429,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4479124424717,
+        "body": "<p>most of this is possible with just 3 command blocks by using scoreboards, but it's still a really good idea</p>",
+        "author_id": 419481836811,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4428432716429--ifaction-command/comments/4479124424717",
+        "created_at": "2022-02-23T16:30:01Z",
+        "updated_at": "2022-03-05T00:51:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4428432716429/comments/4479124424717.json",
+        "post_id": 4428432716429,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4415606290061,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4415682879117,
+        "body": "<p>This will already exist ;-;</p>",
+        "author_id": 407131827251,
+        "vote_sum": 5,
+        "vote_count": 5,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4415606290061-Warden/comments/4415682879117",
+        "created_at": "2021-12-05T21:48:48Z",
+        "updated_at": "2022-02-20T22:41:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4415606290061/comments/4415682879117.json",
+        "post_id": 4415606290061,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4422550574605,
+        "body": "<p>The warden isn't even in the game. Why do you want a command that will be added when the warden is added.</p>",
+        "author_id": 418066436011,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4415606290061-Warden/comments/4422550574605",
+        "created_at": "2022-01-22T13:48:24Z",
+        "updated_at": "2022-01-22T14:00:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4415606290061/comments/4422550574605.json",
+        "post_id": 4415606290061,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 5255726877453,
+        "body": "<p>Can you please add the warden can you please and please add more stuff please&nbsp;</p>\n<p>&nbsp;</p>",
+        "author_id": 5255794452621,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4415606290061-Warden/comments/5255726877453",
+        "created_at": "2022-04-02T19:18:09Z",
+        "updated_at": "2022-04-02T19:18:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4415606290061/comments/5255726877453.json",
+        "post_id": 4415606290061,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078028471,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4409910065933,
+        "body": "<p>I very much agree, it would be extremely useful.</p>",
+        "author_id": 420287852572,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078028471-Targeted-Block-Detection/comments/4409910065933",
+        "created_at": "2021-09-23T20:08:57Z",
+        "updated_at": "2021-09-23T21:42:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078028471/comments/4409910065933.json",
+        "post_id": 360078028471,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 11542813736845,
+        "body": "<p>yeah best idea</p>",
+        "author_id": 11542842039437,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078028471-Targeted-Block-Detection/comments/11542813736845",
+        "created_at": "2022-12-17T23:11:25Z",
+        "updated_at": "2022-12-17T23:11:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078028471/comments/11542813736845.json",
+        "post_id": 360078028471,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077642971,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 27504755414797,
+        "body": "<p>I agree with some farms you need to build it on a chunk border</p>",
+        "author_id": 25465317940621,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077642971-Chunk-Borders-for-Bedrock/comments/27504755414797",
+        "created_at": "2024-06-12T07:18:15Z",
+        "updated_at": "2024-06-12T13:02:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077642971/comments/27504755414797.json",
+        "post_id": 360077642971,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 36594819547405,
+        "body": "<p>you should also be able to use it in survival mode with cheats or commands off.</p>",
+        "author_id": 36594841434381,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077642971-Chunk-Borders-for-Bedrock/comments/36594819547405",
+        "created_at": "2025-05-14T06:33:29Z",
+        "updated_at": "2025-05-14T17:15:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077642971/comments/36594819547405.json",
+        "post_id": 360077642971,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077267751,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 12442850167181,
+        "body": "<p>That would be really helpful for people who run skyblock realms and such.</p>",
+        "author_id": 397488716851,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077267751-Teleport-to-spawn-death-location/comments/12442850167181",
+        "created_at": "2023-01-21T20:59:12Z",
+        "updated_at": "2023-01-22T05:54:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077267751/comments/12442850167181.json",
+        "post_id": 360077267751,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076997212,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014184091,
+        "body": "<p><p>To be truly useful, have it as a target of <code>/execute store</code>:</p><pre>execute store result experience @p levels 1.0 run scoreboard players get...</pre></p>",
+        "author_id": 396590871911,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076997212-Relatively-small-command-to-modify-player-health-hunger-velocity-etc/comments/360014184091",
+        "created_at": "2021-02-02T00:21:28Z",
+        "updated_at": "2021-03-27T22:17:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076997212/comments/360014184091.json",
+        "post_id": 360076997212,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014189891,
+        "body": "<p>Ah that's a great point! You should be able to have a \"get\" and \"scale\" option then, similarly to the data command.</p>",
+        "author_id": 398099918792,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076997212-Relatively-small-command-to-modify-player-health-hunger-velocity-etc/comments/360014189891",
+        "created_at": "2021-02-02T16:10:47Z",
+        "updated_at": "2021-02-02T17:28:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076997212/comments/360014189891.json",
+        "post_id": 360076997212,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 13150525072525,
+        "body": "<p>think /effect (add) health_boost 0.5 1000</p>",
+        "author_id": 10840616562317,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076997212-Relatively-small-command-to-modify-player-health-hunger-velocity-etc/comments/13150525072525",
+        "created_at": "2023-02-15T22:28:43Z",
+        "updated_at": "2023-02-17T16:24:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076997212/comments/13150525072525.json",
+        "post_id": 360076997212,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075427192,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014130291,
+        "body": "<p>Well it should be /gamerule showPlayerName not /gamerule ShowPlayerNames, just to keep consistancy. I still voted ofcourse!</p>",
+        "author_id": 401393351572,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075427192-Gamerule-ShowPlayerNames-True-False/comments/360014130291",
+        "created_at": "2021-01-27T12:16:30Z",
+        "updated_at": "2021-05-13T01:38:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075427192/comments/360014130291.json",
+        "post_id": 360075427192,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 16513553076109,
+        "body": "<p>I really want that too because I'm making Redstone/command block minigames and in some of them it is needed that the player names are turned off. It would also be a great this for role playing and other things. (if you add it to Java, also add it to bedrock please because I play on bedrock) </p>",
+        "author_id": 11258456716301,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075427192-Gamerule-ShowPlayerNames-True-False/comments/16513553076109",
+        "created_at": "2023-06-07T20:36:07Z",
+        "updated_at": "2023-06-08T04:16:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075427192/comments/16513553076109.json",
+        "post_id": 360075427192,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074714032,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013537632,
+        "body": "<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">reos palabras: ya-vote</span></span></p>",
+        "author_id": 406558271231,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074714032-New-Command-Build/comments/360013537632",
+        "created_at": "2020-11-17T15:38:15Z",
+        "updated_at": "2020-11-17T15:38:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074714032/comments/360013537632.json",
+        "post_id": 360074714032,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013578452,
+        "body": "<p>Jigsaw blocks were made for this exact purpose.</p>",
+        "author_id": 396640537012,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074714032-New-Command-Build/comments/360013578452",
+        "created_at": "2020-11-20T14:23:08Z",
+        "updated_at": "2021-01-20T14:14:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074714032/comments/360013578452.json",
+        "post_id": 360074714032,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074527672,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013810392,
+        "body": "<p>Portals shouldn't even have zombified piglins spawn, they should spawn Piglins. That way new players can see a mob in the nether and then witness it turning into a zombified piglin. There could also be a method to keep Piglins and Hoglins from becoming zombified in the overworld, and this mechanic would allow players to get Piglins for bartering more easily</p>",
+        "author_id": 406280981491,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074527672-gamerule-to-disable-zombiefied-piglins-spawn-in-nether-portals/comments/360013810392",
+        "created_at": "2020-12-11T05:01:25Z",
+        "updated_at": "2020-12-23T17:46:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074527672/comments/360013810392.json",
+        "post_id": 360074527672,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073130812,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013437032,
+        "body": "<p>Yes, although this should probably only be achievable through the effect command and NBT</p>",
+        "author_id": 401256604931,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073130812-Potion-effects-on-minecarts/comments/360013437032",
+        "created_at": "2020-11-08T19:36:30Z",
+        "updated_at": "2020-11-09T01:41:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073130812/comments/360013437032.json",
+        "post_id": 360073130812,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360072760272,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012705931,
+        "body": "<p>This is a great idea. But the rules of Minecraft will have to be completely redone. And there are still a bunch of these mods with player reduction, so why would Microsoft do this?</p>",
+        "author_id": 402724520352,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072760272-little-player/comments/360012705931",
+        "created_at": "2020-09-07T15:06:14Z",
+        "updated_at": "2020-09-07T21:09:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072760272/comments/360012705931.json",
+        "post_id": 360072760272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012757571,
+        "body": "<p>No that wouldn’t be like minecraft</p>",
+        "author_id": 396393686272,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072760272-little-player/comments/360012757571",
+        "created_at": "2020-09-12T12:28:26Z",
+        "updated_at": "2020-09-12T12:28:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072760272/comments/360012757571.json",
+        "post_id": 360072760272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013717691,
+        "body": "<p>It should be cute!</p>",
+        "author_id": 407639159132,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072760272-little-player/comments/360013717691",
+        "created_at": "2020-12-09T10:15:12Z",
+        "updated_at": "2020-12-09T10:15:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072760272/comments/360013717691.json",
+        "post_id": 360072760272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014686572,
+        "body": "<pre id=\"tw-target-text\" class=\"tw-data-text tw-text-large XcVN5d tw-ta\" dir=\"ltr\" data-placeholder=\"Translation\"><span lang=\"en\">If it's true, I would change minecraft, but if there are mods that do that, why not minecraft?</span></pre>",
+        "author_id": 398219064311,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072760272-little-player/comments/360014686572",
+        "created_at": "2021-03-17T21:46:10Z",
+        "updated_at": "2021-03-17T21:46:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072760272/comments/360014686572.json",
+        "post_id": 360072760272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 22668147325965,
+        "body": "<p>Ha ha! They made it!</p>",
+        "author_id": 368300370272,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072760272-little-player/comments/22668147325965",
+        "created_at": "2023-12-25T23:42:47Z",
+        "updated_at": "2023-12-25T23:42:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072760272/comments/22668147325965.json",
+        "post_id": 360072760272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360072027552,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012318172,
+        "body": "<p>Yes please. When I was five i was so disappointed naming a mob Dinnerbone didn’t do this to them.</p>\n<p>Plus...</p>\n<p>100x Speed is cool and all, but anti-gravity? Awesome!</p>",
+        "author_id": 399330428712,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072027552-An-effect-that-gives-you-the-ability-to-walk-upside-down-commands-only/comments/360012318172",
+        "created_at": "2020-07-31T15:17:22Z",
+        "updated_at": "2020-07-31T15:50:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072027552/comments/360012318172.json",
+        "post_id": 360072027552,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012307831,
+        "body": "<p>I would love to be up side down </p>",
+        "author_id": 401605357831,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072027552-An-effect-that-gives-you-the-ability-to-walk-upside-down-commands-only/comments/360012307831",
+        "created_at": "2020-08-07T04:55:39Z",
+        "updated_at": "2020-08-07T14:36:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072027552/comments/360012307831.json",
+        "post_id": 360072027552,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012421752,
+        "body": "<p>No you could give urself levitation to start floating upwards. Sad shulker noises.</p>\n<p>I think most people have no idea what levitaton is</p>",
+        "author_id": 391857537812,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072027552-An-effect-that-gives-you-the-ability-to-walk-upside-down-commands-only/comments/360012421752",
+        "created_at": "2020-08-09T10:55:56Z",
+        "updated_at": "2020-08-09T10:56:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072027552/comments/360012421752.json",
+        "post_id": 360072027552,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012641972,
+        "body": "<p>This would be one of the easiest things ever. First, you would have to do the dinnerbone thing to the player, then you would only have to SWAP THE ENTIRE PHYSICS OF MINECRAFT. And then you're done.&nbsp;</p>\n<p>&nbsp;</p>\n<p>Edit: after reading this again, I realized you would have to also swap the sky texture.</p>",
+        "author_id": 386395193391,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072027552-An-effect-that-gives-you-the-ability-to-walk-upside-down-commands-only/comments/360012641972",
+        "created_at": "2020-08-22T16:19:04Z",
+        "updated_at": "2020-08-24T17:00:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072027552/comments/360012641972.json",
+        "post_id": 360072027552,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013854912,
+        "body": "<p>and it would be cool on walls too</p>",
+        "author_id": 407950086952,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072027552-An-effect-that-gives-you-the-ability-to-walk-upside-down-commands-only/comments/360013854912",
+        "created_at": "2020-12-16T15:14:22Z",
+        "updated_at": "2020-12-23T18:17:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072027552/comments/360013854912.json",
+        "post_id": 360072027552,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360068138671,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011064312,
+        "body": "<p>{Lock:1}</p>",
+        "author_id": 382048814612,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360068138671-Blockdata-Lock/comments/360011064312",
+        "created_at": "2020-06-19T20:01:13Z",
+        "updated_at": "2020-07-12T20:53:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360068138671/comments/360011064312.json",
+        "post_id": 360068138671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011072771,
+        "body": "<p>This would also be useful for redstone debugging.</p>",
+        "author_id": 380746493072,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360068138671-Blockdata-Lock/comments/360011072771",
+        "created_at": "2020-06-21T02:01:46Z",
+        "updated_at": "2020-06-21T02:01:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360068138671/comments/360011072771.json",
+        "post_id": 360068138671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360067974451,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011153552,
+        "body": "<p>use structure block.</p>",
+        "author_id": 399785613471,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067974451-Making-the-Clone-command-more-user-friendly/comments/360011153552",
+        "created_at": "2020-06-27T12:16:48Z",
+        "updated_at": "2020-08-02T08:21:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067974451/comments/360011153552.json",
+        "post_id": 360067974451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013139412,
+        "body": "<p>I want it like you you can set the target location as a player i want that</p>",
+        "author_id": 403453071251,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067974451-Making-the-Clone-command-more-user-friendly/comments/360013139412",
+        "created_at": "2020-10-12T09:07:34Z",
+        "updated_at": "2020-10-12T09:07:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067974451/comments/360013139412.json",
+        "post_id": 360067974451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360067786311,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011078972,
+        "body": "<p>I think in most cases you want it to be global.<br>If you turn off mob griefing while being in the overworld, you also want it to be turned off in the nether.<br><br>However, with either a new command like /dimensionrule or a new parameter like /gamerule &lt;rule&gt; &lt;value&gt; [&lt;context&gt;] where context is either global or dimension, this could work.</p>\n<p>Also some commands like /worldborder are already sort-of dimension-specific but only work propely in the overworld (see <a href=\"https://bugs.mojang.com/browse/MC-121997\" rel=\"nofollow noreferrer\">https://bugs.mojang.com/browse/MC-121997</a>)</p>",
+        "author_id": 389291276452,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067786311--Java-More-commands-work-relative-to-your-dimension/comments/360011078972",
+        "created_at": "2020-06-21T15:27:02Z",
+        "updated_at": "2020-06-22T18:55:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067786311/comments/360011078972.json",
+        "post_id": 360067786311,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360015369032,
+        "body": "<p>Yip, and I'd like weather to be tied uniquely to dimensions too. I want a stormy world where thunderstorms are more frequent and I can achieve that in some ways with a data pack, but it means that if someone is in the stormy world, then every world becomes stormy, which is not what I want! Nor does it make sense.</p>",
+        "author_id": 387834490452,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067786311--Java-More-commands-work-relative-to-your-dimension/comments/360015369032",
+        "created_at": "2021-04-30T00:02:57Z",
+        "updated_at": "2021-04-30T03:32:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067786311/comments/360015369032.json",
+        "post_id": 360067786311,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360063469592,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010668152,
+        "body": "<p>I suggest this command:</p>\n<pre>/math &lt;operation&gt;</pre>\n<p>Where the output can be gotten through /execute store result...</p>\n<p>&lt;operation&gt; would be used like this:</p>\n<pre>&lt;operation_name operands...&gt; OR &lt;operand operation operand&gt;</pre>\n<p>and operand could be:</p>\n<pre>any number literal (double) OR entity &lt;selector&gt; &lt;path&gt; OR storage &lt;path&gt; OR run &lt;chained command&gt;</pre>\n<p>Any number is converted to a double before operation. Chained run commands must come last, and their result value is used.&nbsp;</p>\n<p>Here is an example for trig:</p>\n<pre>/math sin entity @s Rotation[0]</pre>\n<p>or, alternatively:</p>\n<pre>/math 3 + 3</pre>\n<p>If you wanted to store the value to a scoreboard, you could do:</p>\n<pre>/execute store result score #myScore myObjective run math 3 + 3</pre>\n<p>It would be much better if Minecraft would just implement a scripting language like JavaScript or Python. I know that JavaScript has ways to sandbox it so it can't access the user's filesystem, network or spawn new processes, and it could be set up to interact with a Minecraft-specific API only. Since JS is a scripting language, datapacks could be added and removed at runtime without restarting the game (unlike Java mods). JS already has built-in objects like Math that allow for calculations like this. This would be much better than re-inventing the wheel one piece at a time through a command system.</p>\n<p>&nbsp;</p>",
+        "author_id": 380741653551,
+        "vote_sum": 4,
+        "vote_count": 4,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360063469592-Trigonometry-functions/comments/360010668152",
+        "created_at": "2020-05-24T20:45:21Z",
+        "updated_at": "2023-06-22T01:02:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360063469592/comments/360010668152.json",
+        "post_id": 360063469592,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010692312,
+        "body": "<p><x-zendesk-user data-user-name=\"Splox Fox\">380741653551</x-zendesk-user></p>\n<p>Great idea; you might want to make that its own post.</p>",
+        "author_id": 384380991192,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360063469592-Trigonometry-functions/comments/360010692312",
+        "created_at": "2020-05-26T21:56:25Z",
+        "updated_at": "2020-05-26T21:56:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360063469592/comments/360010692312.json",
+        "post_id": 360063469592,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

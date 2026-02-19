@@ -1,0 +1,652 @@
+[
+  {
+    "post_id": 40429882237837,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40632603942157,
+        "body": "<p>Consoles can't handle RTX most of the time, it's very intensive on the CPU/GPU.</p>",
+        "author_id": 40632573781645,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40429882237837-PLEASE-MOJANG-US-CONSOLE-PLAYERS-NEED-IT/comments/40632603942157",
+        "created_at": "2025-10-26T16:14:32Z",
+        "updated_at": "2025-10-26T16:14:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40429882237837/comments/40632603942157.json",
+        "post_id": 40429882237837,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38698318733069,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38698316001933,
+        "body": "<p>Deja fluir tu imajinacion</p>",
+        "author_id": 38698328155789,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38698318733069-Construye-sin-l%C3%ADmites/comments/38698316001933",
+        "created_at": "2025-08-09T17:54:58Z",
+        "updated_at": "2025-08-09T17:54:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38698318733069/comments/38698316001933.json",
+        "post_id": 38698318733069,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38429838469517,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38774269251725,
+        "body": "<p>colored lights do not have much of a hit on performance, so that could be in regular VV, and advance global illumination etc. are already all part of Minecraft RTX, otherwise this is a pretty good idea it might require more/different optimizations to run on phones/ all the devices that don't currently support it.</p>",
+        "author_id": 22770063723405,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38429838469517-Vibrant-Visuals-Lite-and-Vibrant-Visuals-PLUS/comments/38774269251725",
+        "created_at": "2025-08-13T02:42:26Z",
+        "updated_at": "2025-08-13T02:42:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38429838469517/comments/38774269251725.json",
+        "post_id": 38429838469517,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37835635294605,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38774322385677,
+        "body": "<p>for devices that low sadly even normal Minecraft visuals do not run well, its probably not possible to get vibrant visuals level of graphics on that kidn of device, not without dropping alot of features anyway</p>",
+        "author_id": 22770063723405,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37835635294605-Add-a-new-graphics-option-for-low-end-device-s/comments/38774322385677",
+        "created_at": "2025-08-13T02:51:33Z",
+        "updated_at": "2025-08-13T02:51:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37835635294605/comments/38774322385677.json",
+        "post_id": 37835635294605,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37515129616653,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 37533416021773,
+        "body": "<p>i think you're talking about vibrant visuals if so its changeable your global settings:</p>\n<p><strong>video → graphics mode → </strong><em>change the thing that says</em><strong> vibrant visuals </strong><em>to</em><strong> fancy </strong><em>or</em><strong> simple</strong></p>",
+        "author_id": 19955540252685,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37515129616653-Add-Option-to-revert-back-to-old-rendering-engine-in-bedrcck/comments/37533416021773",
+        "created_at": "2025-06-21T20:45:07Z",
+        "updated_at": "2025-06-21T22:47:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37515129616653/comments/37533416021773.json",
+        "post_id": 37515129616653,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37686987581965,
+        "body": "<blockquote>\n<section class=\"comment-body\">\n<p>i think you're talking about vibrant visuals if so its changeable your global settings:</p>\n<p><strong>video → graphics mode → </strong><em>change the thing that says</em><strong> vibrant visuals </strong><em>to</em><strong> fancy </strong><em>or</em><strong> simple</strong></p>\n</section>\n</blockquote>\n<section class=\"comment-body\">\n<p>I'm talking about the rendering engine before Renderdragon.</p>\n</section>",
+        "author_id": 422638129732,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37515129616653-Add-Option-to-revert-back-to-old-rendering-engine-in-bedrcck/comments/37686987581965",
+        "created_at": "2025-06-28T09:26:04Z",
+        "updated_at": "2025-06-28T14:56:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37515129616653/comments/37686987581965.json",
+        "post_id": 37515129616653,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 33931963231885,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 34443567450125,
+        "body": "<p>the yellow text next to the logo screen is called splash text btw :-)</p>",
+        "author_id": 30738692558093,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33931963231885-Logo-screen-yellow-text/comments/34443567450125",
+        "created_at": "2025-02-20T20:33:11Z",
+        "updated_at": "2025-02-21T15:38:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33931963231885/comments/34443567450125.json",
+        "post_id": 33931963231885,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 32981504875533,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36456053643021,
+        "body": "<p>Merry Christmas to you too!</p>",
+        "author_id": 36410680621069,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/32981504875533-Minecraft-main-screen-is-awfuly-colored-in-grey/comments/36456053643021",
+        "created_at": "2025-05-08T15:36:58Z",
+        "updated_at": "2025-05-08T15:36:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/32981504875533/comments/36456053643021.json",
+        "post_id": 32981504875533,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 29149164784653,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 29151823344653,
+        "body": "<p>Someone needs to fix the update and submit buttons, i keep having to inspect element to make it usable, and i can't even update the post to fix an error in what i said<br><br>if its not jappa who did most of the textures, then whatever people specificly, i just say this as i thought jappa was who did most of the textures from the texture update a few years ago</p>",
+        "author_id": 23086843242253,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/29149164784653-Minecraft-Needs-another-Texture-update/comments/29151823344653",
+        "created_at": "2024-08-10T08:20:34Z",
+        "updated_at": "2024-08-10T16:06:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/29149164784653/comments/29151823344653.json",
+        "post_id": 29149164784653,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 26825241163021,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 26825272802701,
+        "body": "<p><strong>si molanj</strong></p>",
+        "author_id": 26070933445773,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26825241163021-Mejorar-el-rendimiento-de-la-versi%C3%B3n-pe/comments/26825272802701",
+        "created_at": "2024-05-18T03:26:47Z",
+        "updated_at": "2024-05-18T03:26:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26825241163021/comments/26825272802701.json",
+        "post_id": 26825241163021,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25996814036237,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25996818659085,
+        "body": "<p>Warden portalı acılmıyor</p>",
+        "author_id": 25996705411725,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25996814036237-Hatalar-Ve-bilmediklerim/comments/25996818659085",
+        "created_at": "2024-04-18T11:23:00Z",
+        "updated_at": "2024-04-18T11:23:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25996814036237/comments/25996818659085.json",
+        "post_id": 25996814036237,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 25996832566541,
+        "body": "<p>Cennet portalı androidede gelse çok iyi oluri</p>",
+        "author_id": 25996705411725,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25996814036237-Hatalar-Ve-bilmediklerim/comments/25996832566541",
+        "created_at": "2024-04-18T11:23:39Z",
+        "updated_at": "2024-04-18T11:23:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25996814036237/comments/25996832566541.json",
+        "post_id": 25996814036237,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 18163404366733,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 18163496813325,
+        "body": "<p>MEJORAR LAS ANIMACIONES</p>",
+        "author_id": 18163238353421,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/18163404366733-MAS-EFECTO-EN-LAS-ANIMACIONES/comments/18163496813325",
+        "created_at": "2023-08-02T16:03:22Z",
+        "updated_at": "2023-08-02T16:03:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/18163404366733/comments/18163496813325.json",
+        "post_id": 18163404366733,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 17845487875469,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 17845618531213,
+        "body": "<p>This is something that has been annoying me for a long time. The spinoff games (Dungeons and Legends) look so much better than base minecraft. I realize that this is for the best overall, I'm not asking for RTX or anything, and Minecraft should be able to play on as many devices as possible. But simply having lava glow ruddy orange deep in the caves, and a warm yellow glow from your furnace in the home base would do SO MUCH for mood and atmosphere.</p>",
+        "author_id": 12400153827085,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/17845487875469-Colored-Moody-Lighting/comments/17845618531213",
+        "created_at": "2023-07-22T13:57:25Z",
+        "updated_at": "2023-09-22T18:53:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/17845487875469/comments/17845618531213.json",
+        "post_id": 17845487875469,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 15230123678605,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 15231007454093,
+        "body": "<p>umm there's already enchanted armor dude, but if you mean different colors for enchantment glint then maybe that's a better option</p>",
+        "author_id": 10690828055949,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/15230123678605-Enchanted-Armour/comments/15231007454093",
+        "created_at": "2023-04-26T02:29:55Z",
+        "updated_at": "2023-04-27T15:44:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/15230123678605/comments/15231007454093.json",
+        "post_id": 15230123678605,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 13111730077709,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 13456922621197,
+        "body": "<p>You're saying that it's a little too green? You really think 32 pixels off 256 pixels is too much? Some people have made it even more green so I think the current one is good</p>",
+        "author_id": 366737632052,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13111730077709-About-the-cherry-blossom/comments/13456922621197",
+        "created_at": "2023-02-27T15:09:42Z",
+        "updated_at": "2023-05-09T22:39:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13111730077709/comments/13456922621197.json",
+        "post_id": 13111730077709,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 8911542768141,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8911567245837,
+        "body": "<p>Hola solo quiero recuperar la cuenta de Microsoft y iniciar sesion</p>",
+        "author_id": 8911533186317,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8911542768141-Bueno-jugaba-y-ya-por-supuesto/comments/8911567245837",
+        "created_at": "2022-09-04T00:08:21Z",
+        "updated_at": "2022-09-04T00:08:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8911542768141/comments/8911567245837.json",
+        "post_id": 8911542768141,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 8911583459341,
+        "body": "<p>Pero bueno xd</p>",
+        "author_id": 8911533186317,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8911542768141-Bueno-jugaba-y-ya-por-supuesto/comments/8911583459341",
+        "created_at": "2022-09-04T00:08:59Z",
+        "updated_at": "2022-09-04T00:08:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8911542768141/comments/8911583459341.json",
+        "post_id": 8911542768141,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 8911583889805,
+        "body": "<p>Nada mas</p>",
+        "author_id": 8911533186317,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8911542768141-Bueno-jugaba-y-ya-por-supuesto/comments/8911583889805",
+        "created_at": "2022-09-04T00:09:15Z",
+        "updated_at": "2022-09-04T00:09:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8911542768141/comments/8911583889805.json",
+        "post_id": 8911542768141,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 8728696748685,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8728697288205,
+        "body": "<p>Débora Ester dos Santos </p>",
+        "author_id": 8728689789069,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8728696748685-D%C3%A9bora-Ester-dos-Santos/comments/8728697288205",
+        "created_at": "2022-08-27T03:10:07Z",
+        "updated_at": "2022-08-27T03:10:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8728696748685/comments/8728697288205.json",
+        "post_id": 8728696748685,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4407185651853,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4407224846093,
+        "body": "<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\">Hello, this appears to be a non-English post. Below you will find a transcription of the topic being discussed.&nbsp;&nbsp;</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\"><span style=\"font-weight: bold;\">Title:</span>&nbsp;“Elytra”&nbsp;&nbsp;</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\"><span style=\"font-weight: bold;\">Text:</span>&nbsp;“Similar to Minecraft legacy when you were flying with elytra.”&nbsp;</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\">- Translated by Admin&nbsp;</p>",
+        "author_id": 416747908552,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4407185651853-Elitras/comments/4407224846093",
+        "created_at": "2021-08-16T21:03:42Z",
+        "updated_at": "2021-08-16T21:03:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4407185651853/comments/4407224846093.json",
+        "post_id": 4407185651853,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078219631,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360016008351,
+        "body": "<p><span data-contrast=\"none\">Hello, this appears to be a non-English post. Below you will find a transcription of the topic being discussed.  </span>&nbsp;</p>\n<p><strong><span data-contrast=\"none\">Title:</span></strong><span data-contrast=\"none\"> “Updating next-generation consoles”  </span>&nbsp;</p>\n<p><strong><span data-contrast=\"none\">Text:</span></strong><span data-contrast=\"none\"> “Ray Tracing for the consoles of the new generation.” </span>&nbsp;</p>\n<p><span data-contrast=\"none\">- Translated by Admin </span>&nbsp;</p>",
+        "author_id": 416747908552,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078219631-Atualiza%C3%A7%C3%A3o-dos-consoles-da-nova-gera%C3%A7%C3%A3o/comments/360016008351",
+        "created_at": "2021-06-08T00:17:00Z",
+        "updated_at": "2021-06-08T00:17:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078219631/comments/360016008351.json",
+        "post_id": 360078219631,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078079811,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015595051,
+        "body": "<p>Why would it look like Diamond or Iron? It looks fine the way it is. In case you hadn't noticed, it looks unique and to a lot of people it looks really cool.</p>",
+        "author_id": 412314468832,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078079811-Netherite/comments/360015595051",
+        "created_at": "2021-05-31T03:40:41Z",
+        "updated_at": "2021-05-31T04:45:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078079811/comments/360015595051.json",
+        "post_id": 360078079811,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077442971,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014756451,
+        "body": "<p>This is not a bug report site, report this on the proper website for it.</p>",
+        "author_id": 408546020751,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077442971-holding-shift-well-trying-to-open-inventory/comments/360014756451",
+        "created_at": "2021-04-05T18:24:28Z",
+        "updated_at": "2021-04-05T18:24:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077442971/comments/360014756451.json",
+        "post_id": 360077442971,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076882851,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014240931,
+        "body": "<p>The game is not made to be realistic and the addition of circles would ruin classic Minecraft. In my opinion at least.</p>",
+        "author_id": 410836834491,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076882851-Needs-more-circles/comments/360014240931",
+        "created_at": "2021-02-07T21:26:04Z",
+        "updated_at": "2023-02-20T20:16:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076882851/comments/360014240931.json",
+        "post_id": 360076882851,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076496511,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014138892,
+        "body": "<p>That already exists, you can find it in the marketplace.</p>\n<p>&nbsp;</p>",
+        "author_id": 409599017031,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076496511-Minecraft-Textures/comments/360014138892",
+        "created_at": "2021-01-21T07:15:26Z",
+        "updated_at": "2021-01-21T07:15:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076496511/comments/360014138892.json",
+        "post_id": 360076496511,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075553612,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013825312,
+        "body": "<p>Please support my idea.</p>",
+        "author_id": 400803993952,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075553612--add-high-graphic-texture-only-for-mcpe/comments/360013825312",
+        "created_at": "2020-12-13T09:19:28Z",
+        "updated_at": "2020-12-23T17:59:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075553612/comments/360013825312.json",
+        "post_id": 360075553612,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013976152,
+        "body": "<p>Switch, Xbox One, mcpe (technically all), ps4 and most pcs also dont suport it. why ONLY mcpe?</p>",
+        "author_id": 407222333691,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075553612--add-high-graphic-texture-only-for-mcpe/comments/360013976152",
+        "created_at": "2021-01-03T05:15:27Z",
+        "updated_at": "2021-01-03T23:02:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075553612/comments/360013976152.json",
+        "post_id": 360075553612,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073173712,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012741831,
+        "body": "<p>Hello, this appears to be a non-English post. Below you will find a transcription of the topic being discussed. <br><br><strong>Title:</strong> “Improve lighting” <br><br><strong>Text:</strong> “When one goes to sleep in the game, sometimes the entire area of ​​the Chinese surroundings is blacked except where there is a torch or luminous block and sometimes that is annoying due to the spawning of hostile mobs”</p>\n<p>- Translated by Admin</p>",
+        "author_id": 393372541031,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073173712-Mejorar-la-iluminaci%C3%B3n/comments/360012741831",
+        "created_at": "2020-09-10T20:05:55Z",
+        "updated_at": "2020-09-10T20:05:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073173712/comments/360012741831.json",
+        "post_id": 360073173712,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360069999651,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011130271,
+        "body": "<p>Hello, this appears to be a non-English post. The Translation is as follows:</p>\n<p>Title: \"Settings\"</p>\n<p>Text: \"I hope that you add an option that allows us to turn off the tools dimension feature in order not to slow down the game\"</p>\n<p>-Translated by Admin</p>",
+        "author_id": 393372783291,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360069999651-%D8%A7%D9%84%D8%A7%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7%D8%AA/comments/360011130271",
+        "created_at": "2020-06-25T16:39:01Z",
+        "updated_at": "2020-06-25T16:39:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360069999651/comments/360011130271.json",
+        "post_id": 360069999651,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

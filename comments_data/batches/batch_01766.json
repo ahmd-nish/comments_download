@@ -1,0 +1,862 @@
+[
+  {
+    "post_id": 360029263432,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360002877392,
+        "body": "<p>Sometimes multiple components can be added and removed at the same time. I suggest to make an \"on_component_change\" event with properties \"addedComponents\" and \"removedComponents\".</p>",
+        "author_id": 371702386892,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360029263432-Add-on-component-change-Event/comments/360002877392",
+        "created_at": "2018-11-01T11:43:26Z",
+        "updated_at": "2018-11-01T11:43:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360029263432/comments/360002877392.json",
+        "post_id": 360029263432,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002883971,
+        "body": "<p>Also i'm not sure if this is for components or component <em>groups</em>. Both could be useful, so another suggestion is to add not only \"on_component_change\" but also \"on_component_group_change\".</p>",
+        "author_id": 371702386892,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360029263432-Add-on-component-change-Event/comments/360002883971",
+        "created_at": "2018-11-01T11:49:39Z",
+        "updated_at": "2018-11-01T11:49:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360029263432/comments/360002883971.json",
+        "post_id": 360029263432,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360011039392,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 23384748378381,
+        "body": "<p>I was thinking something like:<br><a href=\"https://feedback.minecraft.net/hc/en-us/community/posts/22289243925901-Detecting-Chat-Messages-In-Minecraft-Bedrock-Edition-With-Only-Commands\" target=\"_blank\" rel=\"nofollow noreferrer\">https://feedback.minecraft.net/hc/en-us/community/posts/22289243925901-Detecting-Chat-Messages-In-Minecraft-Bedrock-Edition-With-Only-Commands</a></p>",
+        "author_id": 400271757932,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360011039392-new-entity-selectors/comments/23384748378381",
+        "created_at": "2024-01-20T18:12:08Z",
+        "updated_at": "2024-01-22T18:12:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360011039392/comments/23384748378381.json",
+        "post_id": 360011039392,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 12694248227213,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 17135722573069,
+        "body": "<p>A note about breaking changes for&nbsp;<em>Java Edition</em> mods: If you have a way to alter the game code arbitrarily (such as with mixins), then <em>any</em> change has the potential to break some mod that does so. And some mods will want to do things that require this sort of ability.</p>",
+        "author_id": 378842547612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12694248227213-Drop-the-major-version-number/comments/17135722573069",
+        "created_at": "2023-06-28T03:49:13Z",
+        "updated_at": "2023-09-21T15:00:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12694248227213/comments/17135722573069.json",
+        "post_id": 12694248227213,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41607345592461,
+        "body": "<p>I think this would be a much better change than versioning with year like mojang is saying they are going to do now</p>",
+        "author_id": 381473317592,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12694248227213-Drop-the-major-version-number/comments/41607345592461",
+        "created_at": "2025-12-02T22:37:31Z",
+        "updated_at": "2025-12-02T22:37:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12694248227213/comments/41607345592461.json",
+        "post_id": 12694248227213,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 12078071138957,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 13214637111437,
+        "body": "<p>Some people express concerns about how this can be used to cheat, or generate a falsified gamerscore.&nbsp; I believe that that would be easy enough to resolve by simple doing the same thing that is done when any behaviour pack or marketplace mod is loaded. Simply disable achievements for that world.&nbsp; That removes about 95% of the challenges that doing this faces.&nbsp; The rest could potentially be made entirely out of F# which has the ability to speak with C++ and Java.</p>\n<p>This definitely should have happened a long time ago, and not only for the benefit of Microsoft, but also to benefit the people who have made Minecraft so popular over the years, the modding community, a small way in which Microsoft can pay them back without actually paying them back, even though, it's clear that many mods have created millions of new user accounts from their offerings and it's likely that the mod makers have driven more people to buy Minecraft than any other marketing source.&nbsp; So, well, they kinda owe it to the modders to let 'em have their stuff on Bedrock as well as Java, so players, and families who play together, can be able to experience a true modded crossplay server experience.</p>\n<p>Finally, it will also add educational benefits and create ways to teach people about complex technologies and resource management. I'd love to show my kids Mekanism for it's educational value, but they prefer their Xbox and Phone for Minecraft, rather than mouse and keyboard on a PC.</p>",
+        "author_id": 7472985714061,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12078071138957-Add-official-and-optional-in-game-support-for-mods-to-Minecraft/comments/13214637111437",
+        "created_at": "2023-02-17T21:42:06Z",
+        "updated_at": "2023-04-27T20:24:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12078071138957/comments/13214637111437.json",
+        "post_id": 12078071138957,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 14585500633997,
+        "body": "<p>se necesita esto para hacerlo mas comodo y dar un apoyo a la comunidad</p>",
+        "author_id": 6691912187917,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12078071138957-Add-official-and-optional-in-game-support-for-mods-to-Minecraft/comments/14585500633997",
+        "created_at": "2023-04-05T03:40:15Z",
+        "updated_at": "2023-05-19T07:50:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12078071138957/comments/14585500633997.json",
+        "post_id": 12078071138957,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 9651279076621,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 13187958606605,
+        "body": "<p>Can we also get this on mobile</p>",
+        "author_id": 13187732163597,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/9651279076621-Bedrock-And-Java-Modding-Capabilities/comments/13187958606605",
+        "created_at": "2023-02-17T00:30:38Z",
+        "updated_at": "2023-02-17T00:30:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/9651279076621/comments/13187958606605.json",
+        "post_id": 9651279076621,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 13187984568461,
+        "body": "<p>Please no. Prefer mods to be free and not under their control.</p>",
+        "author_id": 419344921172,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/9651279076621-Bedrock-And-Java-Modding-Capabilities/comments/13187984568461",
+        "created_at": "2023-02-17T00:32:27Z",
+        "updated_at": "2023-02-17T16:09:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/9651279076621/comments/13187984568461.json",
+        "post_id": 9651279076621,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077866351,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015413912,
+        "body": "<p>im making a mod but i need input it is a end,nether, and overworld updating mod.</p>\n<p>if you want to help put your idea in the comments&nbsp;</p>\n<p>ps:it is a mod that needs a LOT OF MOBS</p>",
+        "author_id": 410858339592,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077866351-MOD-CREATING-PLATFORM-IN-MINECRAFT/comments/360015413912",
+        "created_at": "2021-05-05T14:12:45Z",
+        "updated_at": "2021-05-06T00:28:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077866351/comments/360015413912.json",
+        "post_id": 360077866351,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077323551,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015561992,
+        "body": "<p>Y</p>",
+        "author_id": 416948394411,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077323551-mod-update-choose-mods-for-your-world-in-the-Minecraft-title-screen/comments/360015561992",
+        "created_at": "2021-05-25T21:32:40Z",
+        "updated_at": "2021-05-25T21:32:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077323551/comments/360015561992.json",
+        "post_id": 360077323551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077128672,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014339912,
+        "body": "<p>just download optifine and an texturepack. there is a name and change texture thing for optifine texturepacks</p>",
+        "author_id": 398769504632,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077128672-multiple-textures-for-one-item/comments/360014339912",
+        "created_at": "2021-02-11T07:56:57Z",
+        "updated_at": "2021-02-11T23:25:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077128672/comments/360014339912.json",
+        "post_id": 360077128672,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014676811,
+        "body": "<p>then you need to use Optifine leaving specific disadvantages:</p>\n<p>Optifine does not update as fast as the base game</p>\n<p>you need Optifine</p>\n<p>you have to manually update Optifine</p>\n<p>(I don't know, but) making a texture pack that works with Optifine may be more difficult...</p>",
+        "author_id": 399265256131,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077128672-multiple-textures-for-one-item/comments/360014676811",
+        "created_at": "2021-03-25T03:32:36Z",
+        "updated_at": "2021-03-25T05:29:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077128672/comments/360014676811.json",
+        "post_id": 360077128672,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014797631,
+        "body": "<p>One of two options...</p>\n<p>1. Use Optifine. Because there are many resourcepacks that do exactly what you asked for.</p>\n<p>2. Use CustomModelData.</p>",
+        "author_id": 412314468832,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077128672-multiple-textures-for-one-item/comments/360014797631",
+        "created_at": "2021-04-11T01:51:34Z",
+        "updated_at": "2021-04-11T04:11:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077128672/comments/360014797631.json",
+        "post_id": 360077128672,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4501898688781,
+        "body": "<p>Obviously, these are different weapons with different characteristics, even if the main idea is the same. You just need to do the customization of weapons and armor on the blacksmith table using the material and blueprint (just like on a loom). This is not a replacement for more optimal materials and enchantments, just an improvement in some characteristics at the expense of others.</p>",
+        "author_id": 416461943171,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077128672-multiple-textures-for-one-item/comments/4501898688781",
+        "created_at": "2022-02-25T14:50:12Z",
+        "updated_at": "2022-02-25T14:50:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077128672/comments/4501898688781.json",
+        "post_id": 360077128672,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 11617524192653,
+        "body": "<p>I really want this for Bedrock edition, as Java already has this in the form of Optifine</p>",
+        "author_id": 11617407167629,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077128672-multiple-textures-for-one-item/comments/11617524192653",
+        "created_at": "2022-12-20T19:33:14Z",
+        "updated_at": "2023-01-26T00:36:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077128672/comments/11617524192653.json",
+        "post_id": 360077128672,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071511532,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 30145516354829,
+        "body": "<p>Yes!!! it'd be so convenient to have those sorts of tags, to allow players to hold whatever they want, to make secrets findable without needing to try clicking Every block with Every tool... so much potential!!!</p>",
+        "author_id": 7342879973261,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071511532-Global-CanPlaceOn-and-CanDestroy-block-tags/comments/30145516354829",
+        "created_at": "2024-09-10T21:53:41Z",
+        "updated_at": "2024-09-10T22:05:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071511532/comments/30145516354829.json",
+        "post_id": 360071511532,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360063480152,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012382491,
+        "body": "<p>For me <strong>\"minecraft.custom:minecraft.rotate_item_frame\"</strong> should only be called when you rotate an object in a frame item.<br>So <strong>\"minecraft.custom:minecraft.interact_with_item_frame\"</strong> should be called when you put or remove an object in a frame item and not when the object is running.</p>",
+        "author_id": 389352733271,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360063480152-Scoreboard-objective-for-item-frame-rotating/comments/360012382491",
+        "created_at": "2020-08-13T14:17:50Z",
+        "updated_at": "2022-08-07T17:44:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360063480152/comments/360012382491.json",
+        "post_id": 360063480152,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360062352471,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012089211,
+        "body": "<p>Huh neat</p>",
+        "author_id": 400728861932,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062352471-Advancement-Pointless-Revival/comments/360012089211",
+        "created_at": "2020-07-20T00:44:45Z",
+        "updated_at": "2020-07-20T00:44:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062352471/comments/360012089211.json",
+        "post_id": 360062352471,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360050456132,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013901752,
+        "body": "<p>I was idly considering whether it would be possible and what it would take to port El_Minadero's OreVeins/GeoWorld realistic ore generation mod to Bedrock.&nbsp; Unfortunately, it's not possible without the ability to alter block generation (or somehow alter blocks in a chunk after initial generation).</p>",
+        "author_id": 408334626571,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050456132-Controlling-world-generation-with-script/comments/360013901752",
+        "created_at": "2020-12-22T00:08:18Z",
+        "updated_at": "2020-12-23T19:03:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050456132/comments/360013901752.json",
+        "post_id": 360050456132,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048074132,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007015411,
+        "body": "<p>You should be able to do that<strong> BUT&nbsp;</strong>you can’t do that In certain servers like pvp servers because if your really small it’s harder to hit them.</p>",
+        "author_id": 385894690671,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048074132-be-able-change-the-height-of-your-avatar-s/comments/360007015411",
+        "created_at": "2019-08-14T09:34:40Z",
+        "updated_at": "2019-08-14T09:34:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048074132/comments/360007015411.json",
+        "post_id": 360048074132,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4408035761165,
+        "body": "<p>e</p>",
+        "author_id": 380680591492,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048074132-be-able-change-the-height-of-your-avatar-s/comments/4408035761165",
+        "created_at": "2021-08-27T22:38:22Z",
+        "updated_at": "2021-08-27T22:38:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048074132/comments/4408035761165.json",
+        "post_id": 360048074132,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360028832912,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36154491639821,
+        "body": "<p>I would love this! It would be nice to be able to add simple overlays, I personally would just love a full rehaul of server-ui, that adds more customizable ui and the ability to modify existing (in-game, not pause menu) data.</p>",
+        "author_id": 36154367434381,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360028832912-Allow-scripts-to-manipulate-vanilla-ui-and-display/comments/36154491639821",
+        "created_at": "2025-04-27T03:57:43Z",
+        "updated_at": "2025-04-28T16:46:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360028832912/comments/36154491639821.json",
+        "post_id": 360028832912,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360022354811,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360002316692,
+        "body": "<p>\"Inventory:[Slot1:{id:\"minecraft:stone\",Count:1b},Slot4:{id:\"minecraft:dirt\",Count:2b}}\" this is invalid NBT (lists objects can't have names)<br><br>What I'd suggest instead is this:<br><br>Inventory:{&lt;slot as used in the replaceitem command&gt;:{&lt;item data without the slot tag&gt;}}<br>for example:<br>Inventory:{weapon.offhand:{id:\"minecraft:stone\",Count:1b}}</p>",
+        "author_id": 365162152092,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360022354811-Changing-Inventory-tag-structure/comments/360002316692",
+        "created_at": "2018-09-19T18:04:31Z",
+        "updated_at": "2018-09-19T18:38:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360022354811/comments/360002316692.json",
+        "post_id": 360022354811,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002486971,
+        "body": "<p>I really looking for this change, Im making a datapack with custom crafting table and it was a PAIN to make it.</p>",
+        "author_id": 369340567472,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360022354811-Changing-Inventory-tag-structure/comments/360002486971",
+        "created_at": "2018-10-06T17:56:33Z",
+        "updated_at": "2018-10-06T17:56:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360022354811/comments/360002486971.json",
+        "post_id": 360022354811,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005470512,
+        "body": "<p>I wouldn't suggest removing the Slot tag, as currently you can do Inventory[{id:\"minecraft:stone\"].Slot to figure out the slot number, but I do understand the annoyance of the array index vs the Slot id.</p>",
+        "author_id": 378119577011,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360022354811-Changing-Inventory-tag-structure/comments/360005470512",
+        "created_at": "2019-05-01T21:14:44Z",
+        "updated_at": "2019-05-01T21:14:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360022354811/comments/360005470512.json",
+        "post_id": 360022354811,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360022343712,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360002169951,
+        "body": "<p>You could type “/kill @r” into a repeating command block and turn it on unil there are a reasonable amount of entities.</p>",
+        "author_id": 367005687131,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360022343712--half-kill-command/comments/360002169951",
+        "created_at": "2018-09-03T19:03:33Z",
+        "updated_at": "2020-05-25T01:49:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360022343712/comments/360002169951.json",
+        "post_id": 360022343712,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002212252,
+        "body": "<p>What about /kill all players or /kill all entities. Especially the ‘entities’ when you’re being overwhelmed. </p>",
+        "author_id": 369456008011,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360022343712--half-kill-command/comments/360002212252",
+        "created_at": "2018-09-07T19:40:46Z",
+        "updated_at": "2018-09-07T19:40:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360022343712/comments/360002212252.json",
+        "post_id": 360022343712,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002210931,
+        "body": "<p>Kill all players: /kill @e[type=player]</p>",
+        "author_id": 367005687131,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360022343712--half-kill-command/comments/360002210931",
+        "created_at": "2018-09-08T00:15:32Z",
+        "updated_at": "2020-05-25T01:49:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360022343712/comments/360002210931.json",
+        "post_id": 360022343712,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009614732,
+        "body": "<p>btw, there can be no spaces in command names, so maybe /killhalf</p>\n<p>&nbsp;</p>\n<p>Also, this may be a bit to specific to become a command.</p>",
+        "author_id": 394143378471,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360022343712--half-kill-command/comments/360009614732",
+        "created_at": "2020-03-09T14:09:23Z",
+        "updated_at": "2022-06-21T18:18:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360022343712/comments/360009614732.json",
+        "post_id": 360022343712,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360019076771,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360002067831,
+        "body": "<p>I'm pretty positive that all you mentioned can already be done with the /data command.</p>",
+        "author_id": 368696345672,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360019076771-adding-and-changing-data-of-array-elements/comments/360002067831",
+        "created_at": "2018-08-22T01:28:52Z",
+        "updated_at": "2018-08-22T01:28:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360019076771/comments/360002067831.json",
+        "post_id": 360019076771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002096011,
+        "body": "<p>@Pe brito you can only overwrite the entire array and not add or modify elements with the data merge command.</p>\n<p>Tested in 1.13.1.</p>",
+        "author_id": 368224934991,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360019076771-adding-and-changing-data-of-array-elements/comments/360002096011",
+        "created_at": "2018-08-24T18:33:16Z",
+        "updated_at": "2018-08-24T18:57:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360019076771/comments/360002096011.json",
+        "post_id": 360019076771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37106606227853,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 37230969898637,
+        "body": "<p>Even the Java edition is obfuscated why not windows too?🤣</p>",
+        "author_id": 36892097523341,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37106606227853-Make-Bedrock-open-source/comments/37230969898637",
+        "created_at": "2025-06-09T08:16:13Z",
+        "updated_at": "2025-06-09T18:11:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37106606227853/comments/37230969898637.json",
+        "post_id": 37106606227853,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 42057079083021,
+        "body": "<p>Minecraft Bedrock cannot be fully open sourced unfortunately because&nbsp;&nbsp;Minecraft Bedrock has proprietary licensed code Microsoft can't open source. Anything related to the way Minecoin purchases and how the Marketplace works also can't be open sourced by Mojang, in case the real issue of other players pirating marketplace content arises.&nbsp;<br><br>&nbsp;</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37106606227853-Make-Bedrock-open-source/comments/42057079083021",
+        "created_at": "2025-12-18T21:37:46Z",
+        "updated_at": "2025-12-18T21:37:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37106606227853/comments/42057079083021.json",
+        "post_id": 37106606227853,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 13090200187917,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 23389893650445,
+        "body": "<p>I know its been a year since this post but I would really love to have a Cherokee translation for Minecraft.</p>",
+        "author_id": 14370560880141,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13090200187917-Cherokee/comments/23389893650445",
+        "created_at": "2024-01-20T23:09:35Z",
+        "updated_at": "2024-01-22T22:50:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13090200187917/comments/23389893650445.json",
+        "post_id": 13090200187917,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7650724457357,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7654465840013,
+        "body": "<p>This is an imaging idea but isn't bedrock going to take over about 5his? +1 vote</p>",
+        "author_id": 6078768966797,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7650724457357-Java-mods-availability-on-bedrock/comments/7654465840013",
+        "created_at": "2022-07-13T17:06:07Z",
+        "updated_at": "2022-07-24T15:55:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7650724457357/comments/7654465840013.json",
+        "post_id": 7650724457357,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7833990663437,
+        "body": "<p>I agree with you that this should be a thing but it's impossible because they are two separate coding languages so its impossible.</p>",
+        "author_id": 1904935940607,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7650724457357-Java-mods-availability-on-bedrock/comments/7833990663437",
+        "created_at": "2022-07-21T02:55:42Z",
+        "updated_at": "2022-07-21T08:28:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7650724457357/comments/7833990663437.json",
+        "post_id": 7650724457357,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4406803032077,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4406803048205,
+        "body": "<p>Oops i thought it said mobs not mods</p>",
+        "author_id": 1900663672167,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4406803032077-The-mob-I-think-would-fit-in-the-game/comments/4406803048205",
+        "created_at": "2021-08-10T15:23:11Z",
+        "updated_at": "2021-08-12T00:07:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4406803032077/comments/4406803048205.json",
+        "post_id": 4406803032077,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4408663000973,
+        "body": "<p>Elo</p>\n<p>&nbsp;</p>",
+        "author_id": 417865177391,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4406803032077-The-mob-I-think-would-fit-in-the-game/comments/4408663000973",
+        "created_at": "2021-09-06T16:01:13Z",
+        "updated_at": "2021-09-06T16:01:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4406803032077/comments/4408663000973.json",
+        "post_id": 4406803032077,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4406704442381,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7907377915789,
+        "body": "<p>Minecraft has already said there will never be a /undo command.&nbsp;</p>",
+        "author_id": 417766993352,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4406704442381-Minecraft-should-add-a-undo-or-reverse-command/comments/7907377915789",
+        "created_at": "2022-07-24T14:48:14Z",
+        "updated_at": "2022-07-29T21:34:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4406704442381/comments/7907377915789.json",
+        "post_id": 4406704442381,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078449351,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360016874272,
+        "body": "<p>When you're done love should replace you with all your items and they don't respond when you leave the chunk\n</p>",
+        "author_id": 402206645291,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078449351-Mobs-replace-you-on-death/comments/360016874272",
+        "created_at": "2021-06-13T23:27:36Z",
+        "updated_at": "2021-06-14T00:30:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078449351/comments/360016874272.json",
+        "post_id": 360078449351,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4409826222733,
+        "body": "<p>Good</p>",
+        "author_id": 1901864798027,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078449351-Mobs-replace-you-on-death/comments/4409826222733",
+        "created_at": "2021-09-22T22:20:07Z",
+        "updated_at": "2021-09-22T22:20:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078449351/comments/4409826222733.json",
+        "post_id": 360078449351,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077709711,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360016274251,
+        "body": "<p>I think it should be more like how fallout have it where it said mods and creater club I believe that it would make it more easier and would allow there to be better mods like Galaxcraft</p>",
+        "author_id": 368791983271,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077709711-more-convenient-way-to-add-mods/comments/360016274251",
+        "created_at": "2021-06-09T17:10:14Z",
+        "updated_at": "2021-06-09T17:10:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077709711/comments/360016274251.json",
+        "post_id": 360077709711,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077536571,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015452452,
+        "body": "<p>Are you suggesting something like how bedrock has 3d skins, adding layers and 3d textures to items?</p>",
+        "author_id": 386755456471,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077536571-CustomTextureData/comments/360015452452",
+        "created_at": "2021-05-10T21:47:01Z",
+        "updated_at": "2021-05-10T22:40:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077536571/comments/360015452452.json",
+        "post_id": 360077536571,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

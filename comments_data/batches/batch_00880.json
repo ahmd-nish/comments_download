@@ -1,0 +1,742 @@
+[
+  {
+    "post_id": 360077303071,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014622632,
+        "body": "<p>Please add these Criterion</p>\n\n<p>trigger\n<br />deathCount\n<br />playerKillCount\n<br />totalKillCount\n<br />health\n<br />xp\n<br />level\n<br />food\n<br />air\n<br />armor\n<br />And Compund Criterias Too! Please </p>",
+        "author_id": 412372575312,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077303071-More-Critera-In-Scoreboard-Commands/comments/360014622632",
+        "created_at": "2021-03-09T19:06:16Z",
+        "updated_at": "2021-03-10T03:57:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077303071/comments/360014622632.json",
+        "post_id": 360077303071,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077374112,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014534791,
+        "body": "<p>I really like this idea</p>",
+        "author_id": 403778697331,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077374112--hunger-command-and-health-command/comments/360014534791",
+        "created_at": "2021-03-05T18:07:47Z",
+        "updated_at": "2021-03-06T03:51:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077374112/comments/360014534791.json",
+        "post_id": 360077374112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077264091,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360016768251,
+        "body": "<p>It already exists. It is named '/item modify'</p>",
+        "author_id": 375848865892,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077264091-The-lore-command/comments/360016768251",
+        "created_at": "2021-06-14T07:41:02Z",
+        "updated_at": "2021-06-14T07:41:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077264091/comments/360016768251.json",
+        "post_id": 360077264091,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077244311,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014515471,
+        "body": "<p>Pretty good idea, especially the leather block, I would’ve never thought of that.</p>",
+        "author_id": 412058528612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077244311-Dyed-Leather-Blocks-and-Color-data-tag-for-all-colorable-blocks-and-fire/comments/360014515471",
+        "created_at": "2021-03-03T18:25:09Z",
+        "updated_at": "2021-03-03T18:25:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077244311/comments/360014515471.json",
+        "post_id": 360077244311,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076904531,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014219631,
+        "body": "<p>It would have to bypass the mobs not spawning too close to players game logic or not be able to run too close to the player.</p>",
+        "author_id": 397680516572,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076904531--mobspawn-mob-range/comments/360014219631",
+        "created_at": "2021-02-05T02:15:43Z",
+        "updated_at": "2021-04-20T18:41:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076904531/comments/360014219631.json",
+        "post_id": 360076904531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014932732,
+        "body": "<p><a href=\"/hc/en-us/profiles/397680516572-BounceAbout\" data-bi-name=\"bounceabout\" data-bi-id=\"n11a3\" data-bi-type=\"text\" rel=\"nofollow noreferrer\">BounceAbout</a>, would it? My suggestion is just for mobs to be able to naturally spawnable in areas where they would not usually be able to naturally spawn. It can still follow the other game logic, just think of it as covering every other block in a biome with carpet or something so they can only spawn in one spot.</p>",
+        "author_id": 404290336312,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076904531--mobspawn-mob-range/comments/360014932732",
+        "created_at": "2021-04-20T18:44:34Z",
+        "updated_at": "2021-04-20T18:44:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076904531/comments/360014932732.json",
+        "post_id": 360076904531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076760671,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014204472,
+        "body": "<p>Java Edition does this gracefully with the <code>/execute at</code> command:</p>\n<pre>execute at @e[type=snowball] setblock ^ ^ ^1 air</pre>",
+        "author_id": 396590871911,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076760671-Focusing-relative-and-local-coordinates/comments/360014204472",
+        "created_at": "2021-01-28T00:06:31Z",
+        "updated_at": "2021-02-02T17:31:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076760671/comments/360014204472.json",
+        "post_id": 360076760671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014141091,
+        "body": "<p>Oh, I only do bedrock edition, and my examples followed so.</p>",
+        "author_id": 406374590912,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076760671-Focusing-relative-and-local-coordinates/comments/360014141091",
+        "created_at": "2021-01-28T12:59:26Z",
+        "updated_at": "2021-10-19T07:55:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076760671/comments/360014141091.json",
+        "post_id": 360076760671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014215452,
+        "body": "<p><x-zendesk-user data-user-name=\"RegularCube7388\">406374590912</x-zendesk-user>&nbsp;I understand most of the users here are MCBE players. While it would be nice to have the new version of <code>/execute</code> in Bedrock Edition, something tells me that it might not happen for a little while. Your idea with the colon (<code>:</code>), unfortunately, makes the syntax needlessly complicated. Commands are optimized for ease of entry, not for shortest length. Therefore, I have an alternative proposal:</p>\n<p>Allow the entry of a target selector instead of coordinates in the <code>/execute</code> command specifying the position to execute at. Syntax:</p>\n<pre>execute &lt;origin: target&gt; &lt;position: x y z&gt; &lt;command: command&gt; # old behaviour<br>execute &lt;origin: target&gt; &lt;position: target&gt; &lt;command: command&gt; # allows entity selection<br>execute &lt;position: target&gt; &lt;command: command&gt;</pre>\n<p>The first two examples are the old behaviour, plus the allowance of selecting an entity by using a target selector instead. The reason I also put a third example is if you want to put it in a command block, because the selector <code>@s</code> doesn't work with that.</p>",
+        "author_id": 396590871911,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076760671-Focusing-relative-and-local-coordinates/comments/360014215452",
+        "created_at": "2021-01-29T04:47:39Z",
+        "updated_at": "2021-10-19T07:55:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076760671/comments/360014215452.json",
+        "post_id": 360076760671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076581852,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014050911,
+        "body": "<p>This is a&nbsp; good idea, but what we really need is per-player gamerules, so that some players have keepInventory and others don't, etc.</p>",
+        "author_id": 409663062892,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076581852-gamerule-blocks/comments/360014050911",
+        "created_at": "2021-01-19T18:10:49Z",
+        "updated_at": "2021-01-19T23:33:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076581852/comments/360014050911.json",
+        "post_id": 360076581852,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014050951,
+        "body": "<p>You can already do this with command blocks pretty easily.</p>",
+        "author_id": 375842249851,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076581852-gamerule-blocks/comments/360014050951",
+        "created_at": "2021-01-19T18:15:55Z",
+        "updated_at": "2021-01-19T23:33:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076581852/comments/360014050951.json",
+        "post_id": 360076581852,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076167231,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4411258080269,
+        "body": "<p>I would prefer they copy the java version over to bedrock.</p>",
+        "author_id": 391463833771,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076167231--execute-for-bedrock-same-as-java/comments/4411258080269",
+        "created_at": "2021-10-14T00:27:35Z",
+        "updated_at": "2021-10-14T00:27:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076167231/comments/4411258080269.json",
+        "post_id": 360076167231,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075962931,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013920671,
+        "body": "<p>This is already possible, using target selector arguments. You may know about <code>r</code> and <code>rm</code> selecting targets within a spherical radius, but if you are trying to make a rectangular selection box, you should learn the arguments <code>dx</code>, <code>dy</code>, and <code>dz</code>, which allow you to set up a rectangular prismic \"selection box\". When used, only entities within that box will be selected.</p>\n<h3>How to Use</h3>\n<p>You place these arguments in the square brackets of a target selector, just like all other arguments:</p>\n<pre>@a[x=__,y=__,z=__,dx=__,dy=__,dz=__]</pre>\n<p>The tricky part is knowing what values to fill in. You fill in dx, dy, and dz with the length, height, and depth of the selection box. For example, for 3 blocks long, 4 blocks high and 5 blocks deep, fill in 3 for <code>dx</code>, 4 for <code>dy</code>, and 5 for <code>dz</code>.</p>\n<p>For the <code>x</code>, <code>y</code>, and <code>z</code> arguments, fill those in with the coordinates of the&nbsp;<em>lower northwest corner</em> of the desired target area.</p>\n<h3>Your examples</h3>\n<p>Here are your examples in the correct form:</p>\n<pre>effect @a[x=~,y=~,z=~,dx=9,dy=9,dz=9] jump_boost 1 1 true<br>clear @a[name=afterlifepro794,x=20,y=60,z=20,dx=19,dy=0,dz=19]</pre>\n<p>Target selector arguments are very useful for selecting targets in a certain range. This should solve your problem.</p>\n",
+        "author_id": 396590871911,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075962931-A-range-Command/comments/360013920671",
+        "created_at": "2021-01-04T22:55:21Z",
+        "updated_at": "2021-02-03T18:45:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075962931/comments/360013920671.json",
+        "post_id": 360075962931,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076079212,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013892411,
+        "body": "<p>I agree that the <code>/stopsound</code> command should show a red message and fail if there are no sounds to stop. This makes more sense than if it succeeds every time, even if there are no sounds to stop.</p>\n<p>And would you mind removing the extra paragraph breaks from your post? It makes your idea concise and easier to read.</p>",
+        "author_id": 396590871911,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076079212-Stopsound-Command-Should-Only-Be-Conditional-When-Stopping-A-Sound/comments/360013892411",
+        "created_at": "2020-12-31T04:38:08Z",
+        "updated_at": "2021-04-02T19:36:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076079212/comments/360013892411.json",
+        "post_id": 360076079212,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076051492,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013878471,
+        "body": "<p>Hmm not bad</p>",
+        "author_id": 408590258532,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076051492-New-scoreboard-mouse-objective/comments/360013878471",
+        "created_at": "2020-12-29T14:09:36Z",
+        "updated_at": "2021-02-05T11:40:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076051492/comments/360013878471.json",
+        "post_id": 360076051492,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075788692,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013853351,
+        "body": "<p>You are very close. This is possible, but your approach was incorrect.</p>\n<p>Instead of the <code>value</code> field being another JSON text component, try setting the inner command to <code>/tellraw</code> and including JSON inside the value. Like this:</p>\n<pre>tellraw @a<br>{<br>    \"text\":\"Click to Show Health\",<br>    \"clickEvent\":{<br>        \"action\":\"run_command\",<br>        \"value\":\"/tellraw @s [{\\\"text\\\":\\\"My health is\\\"},{\\\"score\\\":{\\\"name\\\":\\\"@s\\\",\\\"objective\\\":\\\"health\\\"}}]\"<br>    }<br>}</pre>\n<p>&nbsp;</p>",
+        "author_id": 396590871911,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075788692--tellraw-clickEvent-trigger-score-Make-clickEvent-use-JSON-components/comments/360013853351",
+        "created_at": "2020-12-24T22:14:00Z",
+        "updated_at": "2021-01-07T03:29:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075788692/comments/360013853351.json",
+        "post_id": 360075788692,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075267951,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013915592,
+        "body": "<p><p>Can't you just use <code>/gamemode</code> to get into spectator?</p></p>",
+        "author_id": 396590871911,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075267951-vansh-and-unvansh-command/comments/360013915592",
+        "created_at": "2020-12-23T18:19:51Z",
+        "updated_at": "2022-05-20T16:14:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075267951/comments/360013915592.json",
+        "post_id": 360075267951,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075164091,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013902672,
+        "body": "<p><p>That makes total sense. I would say though, that this will desync the result vs the success, returning -1 for result but returning 0 for success.</p></p>",
+        "author_id": 396590871911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075164091-Find-Biome-command-to-return-1-if-Biome-can-not-be-found/comments/360013902672",
+        "created_at": "2020-12-22T03:30:49Z",
+        "updated_at": "2020-12-22T03:30:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075164091/comments/360013902672.json",
+        "post_id": 360075164091,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075113091,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013702311,
+        "body": "<p>To count players and store the result in scoreboard:</p>\n<pre>execute store result score playerCount data if entity @a[...]</pre>\n<p>To count entities:</p>\n<pre>execute store result score playerCount data if entity @e[...]</pre>",
+        "author_id": 396590871911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075113091-Block-entity-player-count-command/comments/360013702311",
+        "created_at": "2020-12-08T01:03:45Z",
+        "updated_at": "2020-12-22T00:19:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075113091/comments/360013702311.json",
+        "post_id": 360075113091,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074726051,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013600792,
+        "body": "<p>That's already possible, just using a different tag name. You can find the correct painting item structure on the Minecraft Wiki.</p>\n<pre>/summon minecraft:painting ~ ~ ~ {Motive:\"minecraft:skull_and_roses\"}</pre>",
+        "author_id": 396590871911,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074726051-Painting-NBT/comments/360013600792",
+        "created_at": "2020-11-23T04:14:32Z",
+        "updated_at": "2020-12-22T01:40:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074726051/comments/360013600792.json",
+        "post_id": 360074726051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013888352,
+        "body": "<p>Well, I'm not as&nbsp;<em>expert</em> of a&nbsp;<em>coder</em> as you. Didn't know. No need to tell me \"Do your research!\" :(</p>",
+        "author_id": 403312726291,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074726051-Painting-NBT/comments/360013888352",
+        "created_at": "2020-12-20T05:12:11Z",
+        "updated_at": "2020-12-20T05:12:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074726051/comments/360013888352.json",
+        "post_id": 360074726051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013831831,
+        "body": "<p><x-zendesk-user data-user-name=\"Error5084\">403312726291</x-zendesk-user>&nbsp;Terribly sorry, that was not meant to be a taunt or anything. Just a friendly reminder, because it's&nbsp;<em>pretty</em> easy to find the info I conveyed on the Minecraft Wiki on Paintings, under the Data Values section. Maybe you didn't notice it or something.</p>\n<p>Sorry if my last comment bothered you, it was only meant to encourage you to see if your problem may have already been solved in a different way! In your case, the NBT tag had a different name.</p>\n<p>I've edited my previous comment if it makes you feel better.</p>",
+        "author_id": 396590871911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074726051-Painting-NBT/comments/360013831831",
+        "created_at": "2020-12-22T01:34:59Z",
+        "updated_at": "2020-12-23T18:05:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074726051/comments/360013831831.json",
+        "post_id": 360074726051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074793192,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013574952,
+        "body": "<p>Well, how else will Minecraft know the range you want to fill? If you are suggesting removing the need to enter a second trio of coordinates, how do you suggest it be replaced?</p>",
+        "author_id": 396590871911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074793192-Easy-fill-command/comments/360013574952",
+        "created_at": "2020-11-20T04:37:40Z",
+        "updated_at": "2020-11-20T04:37:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074793192/comments/360013574952.json",
+        "post_id": 360074793192,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074533812,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013439612,
+        "body": "<p>The <code>/execute</code> command wasn't meant for scheduling things to happen, it was meant for modifying execution properties. In layman's terms, it modifies the <em>who</em>, <em>what</em>, and <em>where</em> attributes, but wasn't designed to modify the <em>when</em>.</p>\n<p>A better way to do this would probably be to add a scoreboard criteria for these triggers and set up updates - I know this can get a bit cumbersome, but I know that /execute is probably not the best way to go for this.</p>",
+        "author_id": 396590871911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074533812-On-Use/comments/360013439612",
+        "created_at": "2020-11-09T04:01:06Z",
+        "updated_at": "2020-11-09T05:41:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074533812/comments/360013439612.json",
+        "post_id": 360074533812,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013452552,
+        "body": "<p><x-zendesk-user data-user-name=\"ExpertCoder2306\">396590871911</x-zendesk-user>&nbsp;the reason I did example syntax at the execute command was just for the Bedrock Edition example, because let’s be honest: are they gonna add scoreboard criteria in Bedrock Edition? If they do, that would have to be an entire thing separately - the introduction of that - and I can’t see that coming the way things are. The most complicated thing like that is the execute detect, which is what I took a spin off of. While it would be better, the Bedrock Team seems to not to want to add things like that and asking for something in that form seems like asking for two things at once.</p>",
+        "author_id": 401256604931,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074533812-On-Use/comments/360013452552",
+        "created_at": "2020-11-10T05:26:38Z",
+        "updated_at": "2020-11-10T06:58:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074533812/comments/360013452552.json",
+        "post_id": 360074533812,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 36747739782285,
+        "body": "<p>No</p>\n<p>The best way is, adding the \"use\" or \"using\" item component, and use advancement to detect the use (or a fild in the item component that execute a command if the item is used or it's using)</p>",
+        "author_id": 408582875291,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074533812-On-Use/comments/36747739782285",
+        "created_at": "2025-05-20T09:00:18Z",
+        "updated_at": "2025-05-20T21:55:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074533812/comments/36747739782285.json",
+        "post_id": 360074533812,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074204512,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013282272,
+        "body": "<p>Dunno, just see lag potencial.... Isn't there a command already to prevent entity despawn? If not, there should be a gamerule...</p>",
+        "author_id": 392682213611,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074204512-Entities-spawned-changed-from-commands-should-never-despawn/comments/360013282272",
+        "created_at": "2020-10-24T23:18:37Z",
+        "updated_at": "2020-11-18T16:17:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074204512/comments/360013282272.json",
+        "post_id": 360074204512,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013363611,
+        "body": "<p>No! This has a lot of potential for bad things to happen! If you don't want a summoned entity to despawn, give it a nametag!</p>",
+        "author_id": 401256604931,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074204512-Entities-spawned-changed-from-commands-should-never-despawn/comments/360013363611",
+        "created_at": "2020-11-08T18:58:02Z",
+        "updated_at": "2020-11-08T18:58:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074204512/comments/360013363611.json",
+        "post_id": 360074204512,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013499812,
+        "body": "<p>There's already an nbt tag to prevent entities that were summoned from despawning, its called \"PersistanceRequired\" If you set it to one, the entity you just summoned will not despawn, and you should be fine.&nbsp;</p>\n<p>So, in a way, this is already a feature in minecraft.</p>",
+        "author_id": 406174433112,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074204512-Entities-spawned-changed-from-commands-should-never-despawn/comments/360013499812",
+        "created_at": "2020-11-13T18:57:39Z",
+        "updated_at": "2022-08-14T23:59:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074204512/comments/360013499812.json",
+        "post_id": 360074204512,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4405902757261,
+        "body": "<p>you can add tags to your Mob preventing Command Spawned Mobs from Despawning. MC Stacker would be a helpful tool.</p>",
+        "author_id": 1900356451927,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074204512-Entities-spawned-changed-from-commands-should-never-despawn/comments/4405902757261",
+        "created_at": "2021-07-27T19:02:46Z",
+        "updated_at": "2021-07-27T21:38:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074204512/comments/4405902757261.json",
+        "post_id": 360074204512,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074083311,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013210011,
+        "body": "<p>/execute as @e[nbt={Inventory:[{id:\"minecraft:grass_block\"}]}] run say hi</p>\n<p>&nbsp;</p>\n<p>All entities with grass block will say \"hi\"</p>",
+        "author_id": 405322298991,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074083311-Item-command-argument/comments/360013210011",
+        "created_at": "2020-10-24T17:34:36Z",
+        "updated_at": "2021-12-30T19:49:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074083311/comments/360013210011.json",
+        "post_id": 360074083311,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073617451,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013102531,
+        "body": "<p>btw you can do It with /attribute ir giving the sword attributes with /give, there's an attribute called attackSpeed</p>",
+        "author_id": 404836203952,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073617451-pvp-gamerule/comments/360013102531",
+        "created_at": "2020-10-15T06:30:28Z",
+        "updated_at": "2020-10-15T06:43:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073617451/comments/360013102531.json",
+        "post_id": 360073617451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073074532,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012837152,
+        "body": "<p>No</p>",
+        "author_id": 396393686272,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073074532-Adventure-fix/comments/360012837152",
+        "created_at": "2020-09-12T12:25:05Z",
+        "updated_at": "2020-09-14T01:50:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073074532/comments/360012837152.json",
+        "post_id": 360073074532,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360072715252,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012757651,
+        "body": "<p>Set worldspawn</p>",
+        "author_id": 396393686272,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072715252--spawnpoint-doesn-t-overwrite-the-previous-spawnpoint-if-invalid/comments/360012757651",
+        "created_at": "2020-09-12T12:31:55Z",
+        "updated_at": "2020-09-14T15:38:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072715252/comments/360012757651.json",
+        "post_id": 360072715252,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360072065112,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012631071,
+        "body": "<p>I think this is a good idea, but keep in mind: gamerules are global and not specific to an area</p>",
+        "author_id": 384862341491,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072065112-Add-DoCrafting-to-gamerule/comments/360012631071",
+        "created_at": "2020-08-29T17:03:48Z",
+        "updated_at": "2020-08-29T17:03:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072065112/comments/360012631071.json",
+        "post_id": 360072065112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071469391,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011372631,
+        "body": "<p>This would be useful for adventure maps. I vote!</p>",
+        "author_id": 397133787452,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071469391-Crafting-Permission/comments/360011372631",
+        "created_at": "2020-07-15T00:53:28Z",
+        "updated_at": "2020-07-15T01:10:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071469391/comments/360011372631.json",
+        "post_id": 360071469391,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

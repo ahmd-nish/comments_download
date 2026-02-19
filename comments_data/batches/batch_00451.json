@@ -1,0 +1,787 @@
+[
+  {
+    "post_id": 360040992951,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004405452,
+        "body": "<p>New types of \"iron\" and \"diamonds\" are tooo boring!</p>",
+        "author_id": 374601512872,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040992951-Souls/comments/360004405452",
+        "created_at": "2019-02-11T15:51:45Z",
+        "updated_at": "2019-02-11T16:23:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040992951/comments/360004405452.json",
+        "post_id": 360040992951,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360041051672,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004385271,
+        "body": "<p>It already does that. It goes until the block building limit.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041051672-Beacan/comments/360004385271",
+        "created_at": "2019-02-09T03:24:51Z",
+        "updated_at": "2019-02-09T03:24:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041051672/comments/360004385271.json",
+        "post_id": 360041051672,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360040862572,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004358972,
+        "body": "<p>Lanterns are in the 1.14 Snapshots</p>",
+        "author_id": 373844819272,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040862572-Lantern/comments/360004358972",
+        "created_at": "2019-02-06T23:26:58Z",
+        "updated_at": "2019-02-06T23:26:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040862572/comments/360004358972.json",
+        "post_id": 360040862572,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360004359052,
+        "body": "<p>Lanterns are already in game.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040862572-Lantern/comments/360004359052",
+        "created_at": "2019-02-06T23:47:09Z",
+        "updated_at": "2019-02-06T23:47:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040862572/comments/360004359052.json",
+        "post_id": 360040862572,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360040225411,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004336851,
+        "body": "<p>This is confusing.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040225411-Ore/comments/360004336851",
+        "created_at": "2019-02-06T03:16:05Z",
+        "updated_at": "2019-02-06T03:16:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040225411/comments/360004336851.json",
+        "post_id": 360040225411,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360004336891,
+        "body": "<p>Uh mining and Silk Touch? Um I'm sorry but why did you put this up?</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040225411-Ore/comments/360004336891",
+        "created_at": "2019-02-06T03:17:13Z",
+        "updated_at": "2019-02-06T03:17:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040225411/comments/360004336891.json",
+        "post_id": 360040225411,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012257371,
+        "body": "<p>well I think iron and gold ores drop them self because they are metals and it like this irl</p>",
+        "author_id": 395247121111,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040225411-Ore/comments/360012257371",
+        "created_at": "2020-08-03T12:39:30Z",
+        "updated_at": "2020-08-03T12:39:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040225411/comments/360012257371.json",
+        "post_id": 360040225411,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 10529707454221,
+        "body": "<p>?????????????????????????????????????????????????????????????????????</p>",
+        "author_id": 10529159179021,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040225411-Ore/comments/10529707454221",
+        "created_at": "2022-11-10T11:49:59Z",
+        "updated_at": "2022-11-10T11:49:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040225411/comments/10529707454221.json",
+        "post_id": 360040225411,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360040220771,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005108912,
+        "body": "<p>Is this a troll?</p>",
+        "author_id": 379267384772,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040220771-Vex-shards-and-what-they-do/comments/360005108912",
+        "created_at": "2019-04-02T21:47:07Z",
+        "updated_at": "2019-04-02T21:47:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040220771/comments/360005108912.json",
+        "post_id": 360040220771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005485651,
+        "body": "<p>This is a no.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040220771-Vex-shards-and-what-they-do/comments/360005485651",
+        "created_at": "2019-05-02T23:09:28Z",
+        "updated_at": "2019-05-02T23:09:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040220771/comments/360005485651.json",
+        "post_id": 360040220771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 24626601680909,
+        "body": "<p>Allays should also drop allay shards, which can be used to make allay shard blocks.&nbsp;</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040220771-Vex-shards-and-what-they-do/comments/24626601680909",
+        "created_at": "2024-03-02T10:11:50Z",
+        "updated_at": "2024-03-04T18:38:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040220771/comments/24626601680909.json",
+        "post_id": 360040220771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360040484632,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004285031,
+        "body": "<p>It doesn't have to be upgraded maybe some other word</p>",
+        "author_id": 376415446032,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040484632-Renaming-enchantments-to-upgrades/comments/360004285031",
+        "created_at": "2019-02-02T07:35:27Z",
+        "updated_at": "2019-02-02T07:35:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040484632/comments/360004285031.json",
+        "post_id": 360040484632,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360039117351,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4696165007501,
+        "body": "<p>Привет меня зовут Богдан я тоже недавно установил эту игру и ановые текстуры нормальные Маша хочешь ли ты поиграть на моём сиде ответь пж</p>",
+        "author_id": 4622727004173,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360039117351-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D1%83%D1%80%D1%8B/comments/4696165007501",
+        "created_at": "2022-03-10T07:05:13Z",
+        "updated_at": "2022-03-10T07:05:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360039117351/comments/4696165007501.json",
+        "post_id": 360039117351,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360038908492,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360003799232,
+        "body": "<p>?</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360038908492-Striped-log/comments/360003799232",
+        "created_at": "2019-01-15T01:00:33Z",
+        "updated_at": "2019-01-15T01:00:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360038908492/comments/360003799232.json",
+        "post_id": 360038908492,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360003792911,
+        "body": "<p>Then what?</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360038908492-Striped-log/comments/360003792911",
+        "created_at": "2019-01-15T01:01:02Z",
+        "updated_at": "2019-01-15T01:01:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360038908492/comments/360003792911.json",
+        "post_id": 360038908492,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360038905852,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360003798431,
+        "body": "<p>Wait, the only way to make sticks is by using bamboo? Are you sure about that because that would be flipping stupid. Please check if you really can't make sticks with wooden planks anymore.</p>",
+        "author_id": 366056004171,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360038905852-Sticks-Handle-Change/comments/360003798431",
+        "created_at": "2019-01-15T14:58:23Z",
+        "updated_at": "2019-01-15T16:21:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360038905852/comments/360003798431.json",
+        "post_id": 360038905852,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360003835991,
+        "body": "<p>This is literally the dumbest post I have ever seen. They just added a new way to make sticks, not remove the original recipe entirely</p>",
+        "author_id": 373844819272,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360038905852-Sticks-Handle-Change/comments/360003835991",
+        "created_at": "2019-01-17T22:54:18Z",
+        "updated_at": "2019-01-17T22:54:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360038905852/comments/360003835991.json",
+        "post_id": 360038905852,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360003857732,
+        "body": "<p>The bamboo to sticks recipe is only an alternative. You can still make sticks out of planks.</p>",
+        "author_id": 366156808571,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360038905852-Sticks-Handle-Change/comments/360003857732",
+        "created_at": "2019-01-18T23:05:41Z",
+        "updated_at": "2019-01-18T23:05:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360038905852/comments/360003857732.json",
+        "post_id": 360038905852,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360003926952,
+        "body": "<p>You can still make sticks with wooden planks...</p>",
+        "author_id": 373922122592,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360038905852-Sticks-Handle-Change/comments/360003926952",
+        "created_at": "2019-01-20T08:32:05Z",
+        "updated_at": "2019-01-20T08:32:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360038905852/comments/360003926952.json",
+        "post_id": 360038905852,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360037846411,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013167912,
+        "body": "<p>i also thought about this, and the crafting recipe would be</p>\n<p>&nbsp; &nbsp; 1&nbsp; &nbsp; &nbsp;2&nbsp; &nbsp; &nbsp;3</p>\n<p>1&nbsp; B&nbsp; &nbsp; B&nbsp; &nbsp; &nbsp;B</p>\n<p>2&nbsp; B&nbsp; &nbsp;G&nbsp; &nbsp; &nbsp;</p>\n<p>3&nbsp; S</p>\n<p>&nbsp;</p>\n<p>B = basalt</p>\n<p>G = gunpowder</p>\n<p>S = stick</p>",
+        "author_id": 399233955192,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360037846411-Dispenser-Launcher-weapon/comments/360013167912",
+        "created_at": "2020-10-14T18:34:42Z",
+        "updated_at": "2020-10-14T21:49:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360037846411/comments/360013167912.json",
+        "post_id": 360037846411,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360037676032,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013318371,
+        "body": "<p>connected to&nbsp;<a href=\"https://feedback.minecraft.net/hc/en-us/community/posts/360072394671-new-boss-astral-eye?page=1#community_comment_360013318351\" target=\"_blank\" rel=\"nofollow noreferrer\">https://feedback.minecraft.net/hc/en-us/community/posts/360072394671-new-boss-astral-eye?page=1#community_comment_360013318351</a>&nbsp;</p>",
+        "author_id": 398440071971,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360037676032-Astral-crystal/comments/360013318371",
+        "created_at": "2020-11-04T13:06:54Z",
+        "updated_at": "2020-11-04T13:29:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360037676032/comments/360013318371.json",
+        "post_id": 360037676032,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360037192491,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006786911,
+        "body": "<p>This would make sense, considering you can craft a stick with 2 bamboo. However, I'm not sure being able to craft it with sticks would match its texture. Even so, if you could craft scaffolding with sticks, there would have to be a new crafting recipe. Perhaps it could be almost the same as crafting a ladder, but with the middle stick on top...</p>\n<p>Edit: or just string in the top middle, since that's what the original scaffolding recipe requires.</p>",
+        "author_id": 385326428411,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360037192491-Scaffolding/comments/360006786911",
+        "created_at": "2019-07-30T00:16:09Z",
+        "updated_at": "2019-07-30T16:10:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360037192491/comments/360006786911.json",
+        "post_id": 360037192491,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360037391352,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360003650391,
+        "body": "<p>Translated:</p>\n<p class=\"p1\">Explosive missiles</p>\n<p class=\"p1\">They are only fired by active dispensers and when hitting they explode an adequate range and that pushes the player or enemy</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360037391352-Misiles-explosivos/comments/360003650391",
+        "created_at": "2019-01-04T20:49:00Z",
+        "updated_at": "2019-01-04T20:49:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360037391352/comments/360003650391.json",
+        "post_id": 360037391352,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360036584931,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360003625512,
+        "body": "<p>It has 3 pointy parts that can't really do any damage if it's sweeping against a target.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360036584931-Trident-Special-Attack-and-Animation/comments/360003625512",
+        "created_at": "2019-01-03T01:57:33Z",
+        "updated_at": "2019-01-03T01:57:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360036584931/comments/360003625512.json",
+        "post_id": 360036584931,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360033457531,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360003366472,
+        "body": "<p>Post refers specifically to an \"end game block\", moving it to proper category.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360033457531-Dimension-Builder-Block/comments/360003366472",
+        "created_at": "2018-12-13T18:44:38Z",
+        "updated_at": "2018-12-13T18:44:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360033457531/comments/360003366472.json",
+        "post_id": 360033457531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360029844951,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009814351,
+        "body": "<p>Its not really? If you get the right enchantments you're fine</p>",
+        "author_id": 395269370932,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360029844951-Crossbow-is-too-weak-to-kill-enemies/comments/360009814351",
+        "created_at": "2020-03-25T12:00:45Z",
+        "updated_at": "2020-03-25T15:39:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360029844951/comments/360009814351.json",
+        "post_id": 360029844951,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360029500472,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360002904571,
+        "body": "<p>Whats the point of having it but not being able to have it</p>",
+        "author_id": 367062621292,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360029500472-Crossbow-not-makeable/comments/360002904571",
+        "created_at": "2018-11-03T19:32:35Z",
+        "updated_at": "2018-11-03T19:32:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360029500472/comments/360002904571.json",
+        "post_id": 360029500472,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002905191,
+        "body": "<p>Did you try this recipe?</p>\n<p>&nbsp;</p>\n<p><img src=\"https://feedback.minecraft.net/hc/user_images/oJVFD3MiaIsOWkGLcx3hzQ.png\"></p>",
+        "author_id": 372041448931,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360029500472-Crossbow-not-makeable/comments/360002905191",
+        "created_at": "2018-11-03T22:49:21Z",
+        "updated_at": "2018-11-05T13:03:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360029500472/comments/360002905191.json",
+        "post_id": 360029500472,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002905451,
+        "body": "<p>The crossbow is available in development versions only, silly. What edition are you playing on, and what version of it are you using?</p>",
+        "author_id": 364950077372,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360029500472-Crossbow-not-makeable/comments/360002905451",
+        "created_at": "2018-11-04T02:12:40Z",
+        "updated_at": "2018-11-04T02:12:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360029500472/comments/360002905451.json",
+        "post_id": 360029500472,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360028765311,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360002847411,
+        "body": "<p>Translation via google:</p>\n<p>&nbsp;</p>\n<p>About Crossbow<br>Please, your computer may not cause any problems.</p>",
+        "author_id": 368126059471,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360028765311-%EC%84%9D%EA%B6%81%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC/comments/360002847411",
+        "created_at": "2018-10-28T17:15:56Z",
+        "updated_at": "2018-10-29T20:01:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360028765311/comments/360002847411.json",
+        "post_id": 360028765311,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360028754611,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005420352,
+        "body": "<p>Luckily, the 1.14 update added the grindstone, which allows you to repair and unenchant items!</p>",
+        "author_id": 365567148012,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360028754611-a-new-item-that-can-unenchant/comments/360005420352",
+        "created_at": "2019-04-28T10:08:19Z",
+        "updated_at": "2019-04-28T10:08:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360028754611/comments/360005420352.json",
+        "post_id": 360028754611,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360028724171,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360002830351,
+        "body": "<p>Just because you hate it, doesn’t mean everybody hates it.</p>\n<p>&nbsp;</p>\n<p>I personally love it. It provides a challenge and a lot more realism!</p>\n<p>&nbsp;</p>\n<p>They won’t change a single feature for one person.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+        "author_id": 368126059471,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360028724171-Sword/comments/360002830351",
+        "created_at": "2018-10-26T12:00:45Z",
+        "updated_at": "2018-10-26T19:48:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360028724171/comments/360002830351.json",
+        "post_id": 360028724171,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360028802052,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 24626568982797,
+        "body": "<p>Multishot now works on bows in 24w09a, so the same should happen to bows.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360028802052--18w43b-Crossbow-with-Multishot/comments/24626568982797",
+        "created_at": "2024-03-02T10:10:11Z",
+        "updated_at": "2024-03-02T10:10:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360028802052/comments/24626568982797.json",
+        "post_id": 360028802052,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360028062951,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360002841671,
+        "body": "<p>Du kannst mit Redstone-Fackeln den Tageslichtsensor umkehren, sodass er genau das tut.&nbsp;</p>",
+        "author_id": 369987069152,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360028062951-Nachtlicht-Senor/comments/360002841671",
+        "created_at": "2018-10-27T14:51:14Z",
+        "updated_at": "2018-10-27T14:51:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360028062951/comments/360002841671.json",
+        "post_id": 360028062951,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360028054872,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005754132,
+        "body": "<p>No. This is unnecessary.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360028054872-Speedboats/comments/360005754132",
+        "created_at": "2019-05-22T22:05:36Z",
+        "updated_at": "2019-05-22T22:05:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360028054872/comments/360005754132.json",
+        "post_id": 360028054872,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360026447272,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360002588912,
+        "body": "<p>What do you mean? Do you mean that if you tap the furnace you have the option of seeing what it takes to make different items? What items would these be? Food made with the furnace or everything, like wood and coal?</p>",
+        "author_id": 369229313631,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360026447272-Recipe-book/comments/360002588912",
+        "created_at": "2018-10-10T22:31:48Z",
+        "updated_at": "2018-10-10T22:41:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360026447272/comments/360002588912.json",
+        "post_id": 360026447272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002589512,
+        "body": "<p>It’s pretty easy to figure out what things smelt/burn/cook into. &nbsp;Just throw something flammable in the fuel slot, and put things in the smelting slot and see what happens.</p>",
+        "author_id": 367005687131,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360026447272-Recipe-book/comments/360002589512",
+        "created_at": "2018-10-11T00:30:00Z",
+        "updated_at": "2018-10-11T00:30:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360026447272/comments/360002589512.json",
+        "post_id": 360026447272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360026144692,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360002573232,
+        "body": "<p>Like which animals?</p>",
+        "author_id": 367005687131,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360026144692-Couro/comments/360002573232",
+        "created_at": "2018-10-10T03:56:10Z",
+        "updated_at": "2018-10-10T03:56:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360026144692/comments/360002573232.json",
+        "post_id": 360026144692,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002589572,
+        "body": "<p>“Couro”?</p>",
+        "author_id": 368126059471,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360026144692-Couro/comments/360002589572",
+        "created_at": "2018-10-11T00:40:21Z",
+        "updated_at": "2018-10-11T00:40:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360026144692/comments/360002589572.json",
+        "post_id": 360026144692,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,712 @@
+[
+  {
+    "post_id": 4404994632589,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4406196115341,
+        "body": "<p>This this seems interesting maybe this should be added</p>",
+        "author_id": 418822726132,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404994632589-player-update/comments/4406196115341",
+        "created_at": "2021-07-31T22:55:41Z",
+        "updated_at": "2021-07-31T22:55:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404994632589/comments/4406196115341.json",
+        "post_id": 4404994632589,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4404985302157,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4405081976077,
+        "body": "<p>I don't think it should be \"moved\" just added as an option to change that.<br>In my opinion the standard light level should be at 0 (as it is now in the experimental snapshot)&nbsp;&nbsp;</p>",
+        "author_id": 405533520391,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404985302157-Mob-spawning-light-levels-should-be-moved-to-a-gamerule/comments/4405081976077",
+        "created_at": "2021-07-15T15:50:07Z",
+        "updated_at": "2021-09-09T19:38:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404985302157/comments/4405081976077.json",
+        "post_id": 4404985302157,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4404456821005,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4404455090573,
+        "body": "<p>I second the idea of making saddles craftable. While I understand their purpose as a treasure item, I think it would be better for the game as a whole if we just replaced them something else in chests. Leather's  only purpose is to make books outside of item frames so making saddles craftable would give it another, much needed use.  Also, horse armor should be enchantable.</p>",
+        "author_id": 386349387511,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404456821005-Horse-Update/comments/4404455090573",
+        "created_at": "2021-07-06T18:53:43Z",
+        "updated_at": "2021-07-06T19:00:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404456821005/comments/4404455090573.json",
+        "post_id": 4404456821005,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4403898047885,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5691312671629,
+        "body": "<p>There are several reasons why this is a bad idea. The main reason is the huge community that is build on the modularity of Minecraft being a java application. Java is just way easier to work with when it comes to custom modifications. You can see this just by looking at communities like Forge or Spigot. Having the minecraft server ported to C++ would destroy thousands of modifications and probably millions of manhours that several communities put into the game. Also C++ is not \"way faster\" per se. The latest JVM is capable of matching the performance of C++ after a bit of runtime and some JIT compilation in some places.</p>",
+        "author_id": 5691163846797,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4403898047885-Port-The-Minecraft-Server-Jar-To-C/comments/5691312671629",
+        "created_at": "2022-04-21T18:56:09Z",
+        "updated_at": "2022-04-24T09:53:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4403898047885/comments/5691312671629.json",
+        "post_id": 4403898047885,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4403684062349,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4403751435917,
+        "body": "<p>Indeed, sensible remarks. But there are other ways to fix these problems. First, adjust the outflow of arrows or fix the inflow. The first thing that comes to mind is to remove the spawners, at least skeletons; make abusive mob farms less efficient. This way you will have much fewer arrows in your chests. You also need someone to buy arrows, but not a villager. These can be piglins.</p>",
+        "author_id": 417900420052,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4403684062349-Remove-the-infinity-and-mending-enchantments-to-give-use-to-items/comments/4403751435917",
+        "created_at": "2021-06-25T10:22:40Z",
+        "updated_at": "2021-06-25T11:40:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4403684062349/comments/4403751435917.json",
+        "post_id": 4403684062349,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4406225858061,
+        "body": "<p>What if, Mojang keep Mending but removes Infinity, with infinity the feathers and flints lost a lot of value.</p>",
+        "author_id": 418703374292,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4403684062349-Remove-the-infinity-and-mending-enchantments-to-give-use-to-items/comments/4406225858061",
+        "created_at": "2021-08-01T08:29:59Z",
+        "updated_at": "2021-08-01T13:03:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4403684062349/comments/4406225858061.json",
+        "post_id": 4403684062349,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4403656679821,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4404195422733,
+        "body": "<p>This is a grate idea but I think it should be tweaked a bit so that thoes who guain the extra hitpoints can keep them simmilarly to skills. Its like chopping wood in minecraft. You never forget that you need wood first before getting deep into the game. I think this sgould be tweeked so that the player doesent lose it from wither effect or fall damage or even poison. It would be better if they only lost it after dying. If its hard to obtane it should be difficult to lose. Like makeing a fire aspect sward. The only ways to actualy lose it arebif it breaks or if one looses it to lava, fire, or despawning from the timer.</p>",
+        "author_id": 418087201352,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4403656679821-A-way-to-permanently-increase-your-hearts/comments/4404195422733",
+        "created_at": "2021-07-02T01:00:39Z",
+        "updated_at": "2021-07-02T01:44:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4403656679821/comments/4404195422733.json",
+        "post_id": 4403656679821,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078508091,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4403424640141,
+        "body": "<p>This is a legitimate case because it will save time with higher output too and make sorting easier.</p>",
+        "author_id": 417954681271,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078508091-Improved-hopper-mechanics/comments/4403424640141",
+        "created_at": "2021-06-20T14:31:04Z",
+        "updated_at": "2021-06-20T14:31:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078508091/comments/4403424640141.json",
+        "post_id": 360078508091,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4403491288845,
+        "body": "<p>It is already possible to sort out nonstackable items to put them into furnaces using the built in hopper mechanics to sort the stackable items into chests first</p>",
+        "author_id": 417757259912,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078508091-Improved-hopper-mechanics/comments/4403491288845",
+        "created_at": "2021-06-21T18:30:25Z",
+        "updated_at": "2021-06-21T18:30:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078508091/comments/4403491288845.json",
+        "post_id": 360078508091,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078152271,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015748431,
+        "body": "<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\">It appears there is a similar post on this idea already being talked about! Help your ideas make it into Minecraft and join existing threads in progress, even if your idea isn't an exact match - we read ALL the comments. Thank you for putting your time and energy into this post. Players like yourself help drive forward the creative boundaries of Minecraft for our community. Don't forget to upvote good comments!&nbsp;</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt;\"><span style=\"color: black;\">Making Great Searches:</span><a rel=\"nofollow noreferrer\">https://feedback.minecraft.net/hc/en-us/articles/360035667771-Making-Great-Searches-on-the-Feedback-Site-</a><span style=\"color: black;\">&nbsp;</span></p>",
+        "author_id": 416783211012,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078152271-Dyeing-armor/comments/360015748431",
+        "created_at": "2021-06-04T21:22:51Z",
+        "updated_at": "2021-06-04T21:22:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078152271/comments/360015748431.json",
+        "post_id": 360078152271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078071791,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015585291,
+        "body": "<p>ooh... creepers are my fravriote mob!</p>\n<p>&nbsp;</p>",
+        "author_id": 413390570011,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078071791-More-creepers/comments/360015585291",
+        "created_at": "2021-05-29T05:57:22Z",
+        "updated_at": "2021-05-29T05:57:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078071791/comments/360015585291.json",
+        "post_id": 360078071791,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4408381003789,
+        "body": "<p>No</p>",
+        "author_id": 402669675451,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078071791-More-creepers/comments/4408381003789",
+        "created_at": "2021-09-01T22:12:07Z",
+        "updated_at": "2021-09-01T22:12:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078071791/comments/4408381003789.json",
+        "post_id": 360078071791,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4409581561997,
+        "body": "<p>nice! allready voted (four months ago)</p>",
+        "author_id": 413390570011,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078071791-More-creepers/comments/4409581561997",
+        "created_at": "2021-09-19T06:58:07Z",
+        "updated_at": "2021-09-19T12:52:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078071791/comments/4409581561997.json",
+        "post_id": 360078071791,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078010891,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015475771,
+        "body": "<p>Wow. This would be a good idea. I want to make a hide and seek map to play with my siblings, but we would see each other's nametags. This would be good for map making. More people should see this and vote for it!</p>",
+        "author_id": 402625625851,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078010891-Gamertag-command-for-bedrock/comments/360015475771",
+        "created_at": "2021-05-23T19:24:08Z",
+        "updated_at": "2021-05-23T19:24:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078010891/comments/360015475771.json",
+        "post_id": 360078010891,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078104312,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015475831,
+        "body": "<p>That would be good, but that wouldn't be good to other players because they couldn't move. Maybe it pauses in Singleplayer?</p>",
+        "author_id": 402625625851,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078104312-Command-Chat-Pauses-game-completely/comments/360015475831",
+        "created_at": "2021-05-23T19:30:52Z",
+        "updated_at": "2022-05-16T23:50:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078104312/comments/360015475831.json",
+        "post_id": 360078104312,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 6279580052749,
+        "body": "<p>Yep!</p>",
+        "author_id": 391049116092,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078104312-Command-Chat-Pauses-game-completely/comments/6279580052749",
+        "created_at": "2022-05-16T23:50:06Z",
+        "updated_at": "2024-01-02T20:49:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078104312/comments/6279580052749.json",
+        "post_id": 360078104312,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078098032,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015486591,
+        "body": "<p>I think a way to store lightning in or outside of your channeling trident would be great, since it is not very common to get lighting when you need it, and also have a trident on hand. The enchantment would be more fun, useful, and open space for minigames and things of the like :)</p>",
+        "author_id": 416653918052,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078098032-A-lightning-tank/comments/360015486591",
+        "created_at": "2021-05-25T01:47:50Z",
+        "updated_at": "2021-05-25T03:09:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078098032/comments/360015486591.json",
+        "post_id": 360078098032,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077983131,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015446171,
+        "body": "<p>Wouldn't that be \"neutral mode\" then?</p>",
+        "author_id": 412314468832,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077983131-Passive-Mode/comments/360015446171",
+        "created_at": "2021-05-19T16:16:59Z",
+        "updated_at": "2021-05-19T16:16:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077983131/comments/360015446171.json",
+        "post_id": 360077983131,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077886911,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015465912,
+        "body": "<p>&nbsp;No, this is to OP. Things with normal mending wont break if you have a high enough xp level.</p>",
+        "author_id": 416342319471,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077886911-Mending-100-Googolplex-Thousand-plus-7-12/comments/360015465912",
+        "created_at": "2021-05-12T12:22:51Z",
+        "updated_at": "2021-05-12T12:22:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077886911/comments/360015465912.json",
+        "post_id": 360077886911,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077943272,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015386392,
+        "body": "<p>It could also just be a new item, like a fire charge tipped arrow.&nbsp; This would make it a bit more expensive to make (maybe 1 arrow per, or up to 8 arrows per fire charge, and possibly could stack lower than 64 to make sure it isn't op.</p>",
+        "author_id": 415934169351,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077943272-Flame-arrows-burn-flammable-blocks/comments/360015386392",
+        "created_at": "2021-05-02T06:54:12Z",
+        "updated_at": "2021-05-02T06:54:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077943272/comments/360015386392.json",
+        "post_id": 360077943272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077942872,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015381272,
+        "body": "<p>Ok but give a example of this new difficulty than difficult for example.</p>",
+        "author_id": 414773005251,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077942872-Hostile-Difficulty/comments/360015381272",
+        "created_at": "2021-05-01T15:32:49Z",
+        "updated_at": "2021-05-01T15:32:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077942872/comments/360015381272.json",
+        "post_id": 360077942872,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360015384192,
+        "body": "<p>For example, a zombie in \"Hard\" will deal 4.5 damage and in \"Hostile\" will deal 9 damage.</p>",
+        "author_id": 400773365951,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077942872-Hostile-Difficulty/comments/360015384192",
+        "created_at": "2021-05-01T23:48:54Z",
+        "updated_at": "2021-05-01T23:48:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077942872/comments/360015384192.json",
+        "post_id": 360077942872,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360015309451,
+        "body": "<p>Basically, it is doubling the values \"Hard\" difficulty changes.</p>",
+        "author_id": 400773365951,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077942872-Hostile-Difficulty/comments/360015309451",
+        "created_at": "2021-05-02T00:16:33Z",
+        "updated_at": "2021-05-02T00:16:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077942872/comments/360015309451.json",
+        "post_id": 360077942872,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4408408568973,
+        "body": "<p>If you want the opposite of \"peaceful\" EVERY mobs are \"Hostile\" so<br>Ok ok I like this idea but devs must create the damage of cow, pig, etc etc</p>",
+        "author_id": 414773005251,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077942872-Hostile-Difficulty/comments/4408408568973",
+        "created_at": "2021-09-02T07:57:04Z",
+        "updated_at": "2021-09-02T12:54:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077942872/comments/4408408568973.json",
+        "post_id": 360077942872,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077792132,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014920831,
+        "body": "<p>This would be a big improvement, for example if you wanted to make a rollercoaster or just want to travel with friends, you won’t get separated</p>",
+        "author_id": 415706139311,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077792132-Let-us-connect-mine-carts-and-boats-with-ropes/comments/360014920831",
+        "created_at": "2021-04-26T20:49:22Z",
+        "updated_at": "2021-04-26T20:49:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077792132/comments/360014920831.json",
+        "post_id": 360077792132,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077693151,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014993772,
+        "body": "<p>To purify biogas, we would need to separate CH₄ from unwanted H₂S and NH₃. To remove hydrogen sulfide, there would be two ways. First one is using quicklime obtained by smelting calcite, second way to do is obtaining sulfur oxidizing microbes from ocean ravines (found as block of course). In case of ammonia, we would have to find and mine zeolite.  To make it work, we have to connect biogas reactors directly or with a pipe. Filling the first one (just like composter - by right clicking) with organic matter, and next ones with these I mentioned earlier.</p>",
+        "author_id": 376393692212,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077693151-Biogas/comments/360014993772",
+        "created_at": "2021-04-27T13:18:41Z",
+        "updated_at": "2021-07-26T11:09:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077693151/comments/360014993772.json",
+        "post_id": 360077693151,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077670811,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4411226874765,
+        "body": "<p>Really? I thought that when something lost the vote it was officially gone forever. This is a really good idea. Hope it gets implemented.</p>",
+        "author_id": 410681255872,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077670811-Combine-every-losing-features-in-past-Minecon-polls-into-one-update-more/comments/4411226874765",
+        "created_at": "2021-10-13T13:12:05Z",
+        "updated_at": "2022-06-25T13:31:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077670811/comments/4411226874765.json",
+        "post_id": 360077670811,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077704912,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4409291006221,
+        "body": "<p>I think one way to bring Minecraft Dungeons to Vanilla Minecraft would be to gateways that every so often (so many moons) open to a pocket dimension where large levels/dungeons/structure can be generated without affecting world gen, this would also create a space for more dangerous mobs and treasure loot from Minecraft dungeons without integrating them into the typical overworld for multiplayer servers where you have people just wanting to build or low in the progression process to deal with Dungeons mob threats. The pocket dimension would only be open for 12 in-game days, upon entering a player would hear gongs ringing off how many days are left (and a text notice), also at midnight the gong would sound off to let players know how much longer they have. On Hardcore and Hard failure to leave before the time end means you are tossed to the void, for Normal and Easy you are teleported to the gateway in the overworld. Items left in a dungeon are either lost or become loot for the next generation.&nbsp;</p>",
+        "author_id": 405125404971,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077704912-Minecraft-Crossover-with-Minecraft-Dungeons/comments/4409291006221",
+        "created_at": "2021-09-15T15:30:50Z",
+        "updated_at": "2021-11-06T18:10:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077704912/comments/4409291006221.json",
+        "post_id": 360077704912,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077684972,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014807051,
+        "body": "<p>It makes sense to me. \"Perfect\" armor should <em>not</em> be easy to get in any way shape or form.</p>",
+        "author_id": 412314468832,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077684972-Why-too-expensive-is-unfair-and-confusing/comments/360014807051",
+        "created_at": "2021-04-12T17:24:48Z",
+        "updated_at": "2021-04-12T17:24:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077684972/comments/360014807051.json",
+        "post_id": 360077684972,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077563871,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014858892,
+        "body": "<p>How would one go about making a more complicated boat? Although the idea of boats containing a chest could sound like an interesting concept, unless MoJang had decided otherwise.</p>",
+        "author_id": 411388622252,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077563871-Better-Ships/comments/360014858892",
+        "created_at": "2021-04-10T02:21:47Z",
+        "updated_at": "2021-04-10T11:13:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077563871/comments/360014858892.json",
+        "post_id": 360077563871,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077535231,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014766951,
+        "body": "<p>A new gamemode \n<br />A realistic gamemode</p>",
+        "author_id": 413555662812,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077535231-Survival-Gamemode/comments/360014766951",
+        "created_at": "2021-04-07T01:04:14Z",
+        "updated_at": "2021-04-07T03:25:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077535231/comments/360014766951.json",
+        "post_id": 360077535231,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014945372,
+        "body": "<p>It is there in rlcraft</p>",
+        "author_id": 415156962532,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077535231-Survival-Gamemode/comments/360014945372",
+        "created_at": "2021-04-22T07:08:00Z",
+        "updated_at": "2021-04-22T07:08:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077535231/comments/360014945372.json",
+        "post_id": 360077535231,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077474671,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014782072,
+        "body": "<p>Maybe there could also be Rooted Sand that generate under these trees, similar to the Rooted Dirt added in 1.17 snapshots, and that sand doesn't get affected by gravity and fall because the tree roots are holding it in place</p>",
+        "author_id": 396200603832,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077474671-Growing-spruce-trees-on-sand/comments/360014782072",
+        "created_at": "2021-03-30T16:21:56Z",
+        "updated_at": "2021-04-10T03:37:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077474671/comments/360014782072.json",
+        "post_id": 360077474671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077468271,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014887292,
+        "body": "<p>PE also doesn't support server-enabled scripting.</p>",
+        "author_id": 414939126752,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077468271-Improving-MCPE/comments/360014887292",
+        "created_at": "2021-04-14T12:53:24Z",
+        "updated_at": "2021-04-14T13:20:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077468271/comments/360014887292.json",
+        "post_id": 360077468271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

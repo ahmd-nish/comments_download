@@ -1,0 +1,982 @@
+[
+  {
+    "post_id": 360059614972,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009844332,
+        "body": "<p>So...just lingering milk...</p>",
+        "author_id": 395737914932,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360059614972-New-Food-Item-Katharifruit/comments/360009844332",
+        "created_at": "2020-03-26T22:58:17Z",
+        "updated_at": "2020-06-23T01:44:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360059614972/comments/360009844332.json",
+        "post_id": 360059614972,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360059216571,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009736892,
+        "body": "<p>I saw another post here about redstone lamps emitting more or less light depending on the redstone input. I fully support that idea but didn't include it here to avoid repetition. :)</p>",
+        "author_id": 383027227252,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360059216571-More-expensive-light-sources-should-provide-higher-light-levels/comments/360009736892",
+        "created_at": "2020-03-18T22:37:35Z",
+        "updated_at": "2021-10-17T19:09:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360059216571/comments/360009736892.json",
+        "post_id": 360059216571,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011257672,
+        "body": "<p>I was coming here to post this exact suggestion. This is a MUST imo. Having a 15 block max on light sources makes lighting larger areas almost impossible without basing your design around the lighting itself. The easiest solution is just like the OP said, a more powerful light source. Sea lanterns are the obvious answer without adding a new block. They're expensive and even look like they should be brighter than the other light sources lol. Increasing their light level to 25-30 would give the builder so many more options.&nbsp;</p>\n<p>The scale that people build on in this game is way larger than when these light levels were determined, it would make sense that the lighting options would change to accommodate.</p>",
+        "author_id": 400162895752,
+        "vote_sum": 4,
+        "vote_count": 4,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360059216571-More-expensive-light-sources-should-provide-higher-light-levels/comments/360011257672",
+        "created_at": "2020-07-05T21:55:53Z",
+        "updated_at": "2021-10-17T19:09:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360059216571/comments/360011257672.json",
+        "post_id": 360059216571,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360059083151,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009810851,
+        "body": "<p>Like the idea, but how would you prevent them from connecting if you don't want them to?</p>",
+        "author_id": 384220207952,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360059083151-Multiple-hanging-banners-next-to-each-other-should-connect-together/comments/360009810851",
+        "created_at": "2020-03-25T02:42:40Z",
+        "updated_at": "2021-08-12T19:04:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360059083151/comments/360009810851.json",
+        "post_id": 360059083151,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009815692,
+        "body": "<p>The fact that this isn't already a thing upsets me so much!!!</p>",
+        "author_id": 395772188671,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360059083151-Multiple-hanging-banners-next-to-each-other-should-connect-together/comments/360009815692",
+        "created_at": "2020-03-25T04:59:41Z",
+        "updated_at": "2021-08-12T19:04:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360059083151/comments/360009815692.json",
+        "post_id": 360059083151,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009811791,
+        "body": "<p>The fact that this isn't already a thing upsets me so much!!!</p>",
+        "author_id": 395772188671,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360059083151-Multiple-hanging-banners-next-to-each-other-should-connect-together/comments/360009811791",
+        "created_at": "2020-03-25T05:00:15Z",
+        "updated_at": "2021-08-12T19:04:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360059083151/comments/360009811791.json",
+        "post_id": 360059083151,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009824492,
+        "body": "<p>I'm sure you could place them while crouching to prevent them connecting, and place a banner while looking at the side of another banner to connect them if you have to crouch in order to place it. Same as chests in the current version.</p>",
+        "author_id": 395424174831,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360059083151-Multiple-hanging-banners-next-to-each-other-should-connect-together/comments/360009824492",
+        "created_at": "2020-03-25T19:23:27Z",
+        "updated_at": "2021-08-12T19:04:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360059083151/comments/360009824492.json",
+        "post_id": 360059083151,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4406954129933,
+        "body": "<p>I agree!!!!! This could help me out so much with my builds where i dont want to see light source!!</p>",
+        "author_id": 419119689591,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360059083151-Multiple-hanging-banners-next-to-each-other-should-connect-together/comments/4406954129933",
+        "created_at": "2021-08-12T19:04:17Z",
+        "updated_at": "2021-08-13T09:39:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360059083151/comments/4406954129933.json",
+        "post_id": 360059083151,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360058792251,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009752792,
+        "body": "<p>Hi! It looks like there's something very similar in subject, it's a list, has a previously rejected idea, is a bug or support issue, exists, or too general.&nbsp; Check out this link (<a href=\"https://feedback.minecraft.net/hc/en-us/articles/360004442111-Creating-Great-Ideas\" rel=\"nofollow noreferrer\">https://feedback.minecraft.net/hc/en-us/articles/360004442111-Creating-Great-Ideas</a>), search (<a href=\"https://feedback.minecraft.net/hc/en-us/articles/360035667771-Making-Great-Searches-on-the-Feedback-Site-\" rel=\"nofollow noreferrer\">https://feedback.minecraft.net/hc/en-us/articles/360035667771-Making-Great-Searches-on-the-Feedback-Site-</a>), &amp; join existing threads in progress (we read ALL the comments).&nbsp;</p>\n<p>&nbsp;</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360058792251-Stone-Cobblestone-in-the-Nether/comments/360009752792",
+        "created_at": "2020-03-19T23:18:40Z",
+        "updated_at": "2020-03-19T23:18:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360058792251/comments/360009752792.json",
+        "post_id": 360058792251,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009991412,
+        "body": "<p>You can't get netherite tools because you would need to smelt ancient debris and that requieres cobblestone</p>",
+        "author_id": 396217974492,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360058792251-Stone-Cobblestone-in-the-Nether/comments/360009991412",
+        "created_at": "2020-04-06T12:59:50Z",
+        "updated_at": "2020-04-06T12:59:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360058792251/comments/360009991412.json",
+        "post_id": 360058792251,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360058492251,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009657451,
+        "body": "<p>Sorry I meant Netherite not Netherine</p>",
+        "author_id": 394636389231,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360058492251-Totem-of-Unburning/comments/360009657451",
+        "created_at": "2020-03-12T12:01:01Z",
+        "updated_at": "2020-03-12T16:23:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360058492251/comments/360009657451.json",
+        "post_id": 360058492251,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360058281191,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013141371,
+        "body": "<p>This is so an underrated suggestion, I wish everyone would see your idea and the developers try to tweak the the huge warped fungus close to the shape of the sprite warped fungus itself :) I hope people see out your amazing idea!</p>",
+        "author_id": 397031979611,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360058281191-Different-huge-warped-fungus/comments/360013141371",
+        "created_at": "2020-10-19T16:11:07Z",
+        "updated_at": "2021-03-06T05:42:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360058281191/comments/360013141371.json",
+        "post_id": 360058281191,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360057957811,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 19474710660365,
+        "body": "<p>Yes, thank you! I feel that it's a major inconsistency that there is a fungus growing on another fungus as its leaves.</p>",
+        "author_id": 18917751534861,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360057957811-A-replacement-for-nether-wart-blocks-on-large-Fungi/comments/19474710660365",
+        "created_at": "2023-09-13T23:25:49Z",
+        "updated_at": "2023-09-20T04:12:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360057957811/comments/19474710660365.json",
+        "post_id": 360057957811,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 19474703275149,
+        "body": "<p>Yes, thank you! I feel that it's a major inconsistency that there is a fungus growing on another fungus as its leaves.</p>",
+        "author_id": 18917751534861,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360057957811-A-replacement-for-nether-wart-blocks-on-large-Fungi/comments/19474703275149",
+        "created_at": "2023-09-13T23:26:09Z",
+        "updated_at": "2023-09-19T08:53:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360057957811/comments/19474703275149.json",
+        "post_id": 360057957811,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360057876271,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7606643190285,
+        "body": "<p>si para que aumente la duración dependiendo del material y los encantamientos también estarían bien</p>",
+        "author_id": 1900991919747,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360057876271-ESCUDOS/comments/7606643190285",
+        "created_at": "2022-07-11T23:15:19Z",
+        "updated_at": "2022-07-21T17:08:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360057876271/comments/7606643190285.json",
+        "post_id": 360057876271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360057689351,
+    "expected_comment_count": 1,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009892452,
+        "body": "<p>This is a good idea</p>",
+        "author_id": 396030019171,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360057689351-Mythril-Ores/comments/360009892452",
+        "created_at": "2020-03-30T20:46:49Z",
+        "updated_at": "2020-03-30T20:46:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360057689351/comments/360009892452.json",
+        "post_id": 360057689351,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 43278179642381,
+        "body": "<p>Minecraft already has mythril Diamonds \n<br />Diamonds are used as if it's actually a metal so it's more like mythril that a crystal. \n<br />I think it would be cool but maybe just as a popular resource pack that changes the name of Diamonds to Mythril.</p>",
+        "author_id": 37818648838797,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360057689351-Mythril-Ores/comments/43278179642381",
+        "created_at": "2026-02-05T16:51:03Z",
+        "updated_at": "2026-02-05T16:51:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360057689351/comments/43278179642381.json",
+        "post_id": 360057689351,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 43278252903565,
+        "body": "<p>if it was a mod maybe just combine Diamonds and iron like how we already have netherite from gold and ancient debris. \n<br />to make a upgrade material. but what would it upgrade if not diamond?</p>",
+        "author_id": 37818648838797,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360057689351-Mythril-Ores/comments/43278252903565",
+        "created_at": "2026-02-05T16:53:19Z",
+        "updated_at": "2026-02-05T16:53:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360057689351/comments/43278252903565.json",
+        "post_id": 360057689351,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360057643871,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009520811,
+        "body": "<p>I like the Idea, just wondering how to craft and activate?</p>\n<p>&nbsp;</p>",
+        "author_id": 392609917271,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360057643871-Netherite-conduits/comments/360009520811",
+        "created_at": "2020-03-01T04:17:48Z",
+        "updated_at": "2024-01-13T10:23:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360057643871/comments/360009520811.json",
+        "post_id": 360057643871,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010423792,
+        "body": "<p>The outline should be made of netherite blocks</p>",
+        "author_id": 393948348372,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360057643871-Netherite-conduits/comments/360010423792",
+        "created_at": "2020-05-05T20:17:09Z",
+        "updated_at": "2024-01-13T10:23:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360057643871/comments/360010423792.json",
+        "post_id": 360057643871,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360056135811,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008996492,
+        "body": "<p>Why wouldn't you just make it with bamboo?</p>",
+        "author_id": 386884111171,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360056135811-Bamboo-Armour-In-Bedrock/comments/360008996492",
+        "created_at": "2020-01-16T23:28:14Z",
+        "updated_at": "2020-07-15T20:57:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360056135811/comments/360008996492.json",
+        "post_id": 360056135811,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009008071,
+        "body": "<p>also in java</p>",
+        "author_id": 385763760092,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360056135811-Bamboo-Armour-In-Bedrock/comments/360009008071",
+        "created_at": "2020-01-18T05:25:46Z",
+        "updated_at": "2020-07-15T20:58:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360056135811/comments/360009008071.json",
+        "post_id": 360056135811,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009131831,
+        "body": "<p>Java??</p>",
+        "author_id": 393457762511,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360056135811-Bamboo-Armour-In-Bedrock/comments/360009131831",
+        "created_at": "2020-01-31T02:20:09Z",
+        "updated_at": "2020-07-15T20:58:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360056135811/comments/360009131831.json",
+        "post_id": 360056135811,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 15768430810253,
+        "body": "<p>I would like to suggest the use of bamboo in clothes in Minecraft. </p>\n\n<p>You could have to dip the bamboo in a cauldron to soften it or just craft it straight into armour. </p>\n\n<p>Alternatively, you could make bamboo a food source. This is because bamboo doesn’t have much of a use other than for sticks and farming.</p>",
+        "author_id": 15767060482445,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360056135811-Bamboo-Armour-In-Bedrock/comments/15768430810253",
+        "created_at": "2023-05-14T16:31:07Z",
+        "updated_at": "2023-05-18T01:34:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360056135811/comments/15768430810253.json",
+        "post_id": 360056135811,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360055285571,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008989172,
+        "body": "<p>Probably add sugar to the recipe?</p>",
+        "author_id": 392635283071,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055285571-Pudding/comments/360008989172",
+        "created_at": "2020-01-16T14:38:19Z",
+        "updated_at": "2021-09-22T13:04:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055285571/comments/360008989172.json",
+        "post_id": 360055285571,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014604171,
+        "body": "<p>I think this is a great idea! I also think there should be bread pudding, which you would make with two pudding and one bread. It would be quicker to eat than regular pudding.</p>",
+        "author_id": 400087919372,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055285571-Pudding/comments/360014604171",
+        "created_at": "2021-03-15T13:30:22Z",
+        "updated_at": "2021-09-22T19:41:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055285571/comments/360014604171.json",
+        "post_id": 360055285571,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360055104872,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008473951,
+        "body": "<p>Block, not bloc</p>",
+        "author_id": 390048185311,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055104872-Less-or-more-Dripping-Water-Particles-from-blocs/comments/360008473951",
+        "created_at": "2019-11-20T23:43:50Z",
+        "updated_at": "2019-11-20T23:43:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055104872/comments/360008473951.json",
+        "post_id": 360055104872,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360054778751,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008337351,
+        "body": "<p>That sounds like a cool idea, but wouldn't that take away from the tridents?</p>",
+        "author_id": 376171718072,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054778751-Bow-or-possibly-Crossbow-Enchantment-Hydrodynamic/comments/360008337351",
+        "created_at": "2019-11-08T16:30:42Z",
+        "updated_at": "2019-11-08T16:30:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054778751/comments/360008337351.json",
+        "post_id": 360054778751,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360054918072,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008265972,
+        "body": "<p>The fog in the nether is to hide the chunks when the leave your tender distance. It’s in tho over world too, just less noticeable because of the color. </p>",
+        "author_id": 385989139892,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054918072-Nether-anti-fog-torch/comments/360008265972",
+        "created_at": "2019-11-01T16:13:40Z",
+        "updated_at": "2019-11-01T16:42:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054918072/comments/360008265972.json",
+        "post_id": 360054918072,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008271252,
+        "body": "<p>good point. I like it!</p>",
+        "author_id": 378981225751,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054918072-Nether-anti-fog-torch/comments/360008271252",
+        "created_at": "2019-11-02T00:25:12Z",
+        "updated_at": "2019-11-02T00:25:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054918072/comments/360008271252.json",
+        "post_id": 360054918072,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360054729451,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008241231,
+        "body": "<p>This would be useful when you have a lot of totem of undying and dead bush</p>",
+        "author_id": 382729567411,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054729451-Reviving-Dead-Bushes/comments/360008241231",
+        "created_at": "2019-10-31T01:48:30Z",
+        "updated_at": "2019-10-31T01:48:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054729451/comments/360008241231.json",
+        "post_id": 360054729451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008284432,
+        "body": "<p>I feel like totems of undying would be a tiny bit unbalanced. Maybe one could use bone meal instead? </p>",
+        "author_id": 369987069152,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054729451-Reviving-Dead-Bushes/comments/360008284432",
+        "created_at": "2019-11-04T09:23:44Z",
+        "updated_at": "2019-11-04T09:23:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054729451/comments/360008284432.json",
+        "post_id": 360054729451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008276311,
+        "body": "<p>Thanks for that suggestion but yeah I'll add that but bonemeal is kinda expensive but I think 5 bonemeal to do the job\n</p>",
+        "author_id": 382729567411,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054729451-Reviving-Dead-Bushes/comments/360008276311",
+        "created_at": "2019-11-04T09:53:50Z",
+        "updated_at": "2019-11-04T09:53:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054729451/comments/360008276311.json",
+        "post_id": 360054729451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360054815112,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011282592,
+        "body": "<p>And Viking villages</p>",
+        "author_id": 400255844012,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054815112-Spiked-or-Ram-Horn-Gear/comments/360011282592",
+        "created_at": "2020-07-07T17:39:10Z",
+        "updated_at": "2020-07-07T17:39:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054815112/comments/360011282592.json",
+        "post_id": 360054815112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360054811452,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008201491,
+        "body": "<p>I have one problem with this, people don't tend to have flint and steel on them, but frequently have shovels on them, also flint and steels are normally acquired slightly later in the game.</p>\n\n<p>Overall this means that it would be very easy for someone to turn off all of another person's torches, and slightly annoying to turn them back on. I don't see why in general they shouldn't just all be togglable by hand.</p>\n\n<p>Otherwise, good idea.</p>",
+        "author_id": 365326150692,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054811452-Using-Shovels-On-Torches-Laterns-Puts-the-Out/comments/360008201491",
+        "created_at": "2019-10-27T21:26:08Z",
+        "updated_at": "2020-10-15T17:23:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054811452/comments/360008201491.json",
+        "post_id": 360054811452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008215212,
+        "body": "<p>Moved to proper category.</p>\n<p>Thanks for your contribution.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054811452-Using-Shovels-On-Torches-Laterns-Puts-the-Out/comments/360008215212",
+        "created_at": "2019-10-28T16:37:40Z",
+        "updated_at": "2019-10-28T16:37:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054811452/comments/360008215212.json",
+        "post_id": 360054811452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011120092,
+        "body": "<p>You could relight torches with a lit torch, campfire, or lantern, but lanterns can only be lit using flint&amp;steel or torches. lanterns could only be put out with splash water bottles. Maybe there could be a new mob that puts out torches to make lanterns more desirable.</p>",
+        "author_id": 399265256131,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054811452-Using-Shovels-On-Torches-Laterns-Puts-the-Out/comments/360011120092",
+        "created_at": "2020-06-24T19:06:36Z",
+        "updated_at": "2020-06-24T19:14:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054811452/comments/360011120092.json",
+        "post_id": 360054811452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013109111,
+        "body": "<p>Good ideas</p>",
+        "author_id": 386010345111,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054811452-Using-Shovels-On-Torches-Laterns-Puts-the-Out/comments/360013109111",
+        "created_at": "2020-10-15T17:23:19Z",
+        "updated_at": "2020-10-15T17:23:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054811452/comments/360013109111.json",
+        "post_id": 360054811452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360054484531,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009150891,
+        "body": "<p>grear</p>\n<p>&nbsp;</p>",
+        "author_id": 393519878211,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054484531-Ice-Bone-Sword-Fire-Bone-Sword/comments/360009150891",
+        "created_at": "2020-02-02T18:16:14Z",
+        "updated_at": "2020-02-09T10:10:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054484531/comments/360009150891.json",
+        "post_id": 360054484531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013702291,
+        "body": "<p>Crafted from ice or magma blocks and bones, the bone weapons have the natural ability to inflict status conditions such as slowness or on fire-ness.</p>",
+        "author_id": 399265256131,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054484531-Ice-Bone-Sword-Fire-Bone-Sword/comments/360013702291",
+        "created_at": "2020-12-08T01:02:56Z",
+        "updated_at": "2020-12-08T01:03:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054484531/comments/360013702291.json",
+        "post_id": 360054484531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360054655032,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008073691,
+        "body": "<p>Has marvel copyrighted the soul stone?</p>",
+        "author_id": 388082225332,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054655032-Soul-Stone-new-material-used-for-tools-and-armor/comments/360008073691",
+        "created_at": "2019-10-15T09:49:46Z",
+        "updated_at": "2019-10-15T09:49:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054655032/comments/360008073691.json",
+        "post_id": 360054655032,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360054463891,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008089912,
+        "body": "<p>Y'know, I had this exact same idea; however, I suggested adding&nbsp;typical music-player functions like pausing, volume adjustment, and even pitch adjustment to the block. I even made a mock-up of an interface!<br>If desired, I can link to my post. I'd do it now, but I don't want to be considered begging for votes.<br>I do agree that jukeboxes are in need of a bit of a touch-up, though.</p>",
+        "author_id": 388664446971,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054463891-Give-Juke-Boxes-an-interface/comments/360008089912",
+        "created_at": "2019-10-16T05:23:16Z",
+        "updated_at": "2019-10-16T05:23:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054463891/comments/360008089912.json",
+        "post_id": 360054463891,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010169892,
+        "body": "<p>Minecraft is getting more music disks (Pigstep) and I always wanted to make auto-repeat system to my jukebox using redstone. I had same idea as you for a long time now and I read that on Bedrock edition you can make a queue to your jukebox using some hoppers and stuff but Im not sure about that, but I'd love to see it on Java edition anyway. Fans of Minecraft disks - unite and vote this post up!</p>",
+        "author_id": 396821780691,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054463891-Give-Juke-Boxes-an-interface/comments/360010169892",
+        "created_at": "2020-04-17T04:53:45Z",
+        "updated_at": "2020-04-17T13:56:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054463891/comments/360010169892.json",
+        "post_id": 360054463891,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360051009512,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007739471,
+        "body": "<p>Removed excess formatting.</p>\n<p>&nbsp;</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360051009512-Flying-Carpets/comments/360007739471",
+        "created_at": "2019-09-20T14:42:59Z",
+        "updated_at": "2019-09-20T14:43:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360051009512/comments/360007739471.json",
+        "post_id": 360051009512,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360050812132,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011007912,
+        "body": "<p>Good idea, but I think it should be the opposite --- it does damage to fiery mobs, like blazes, Magma Cubes, and Striders.</p>",
+        "author_id": 393845843091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050812132-Frost-Bite/comments/360011007912",
+        "created_at": "2020-06-17T15:47:52Z",
+        "updated_at": "2022-03-20T05:16:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050812132/comments/360011007912.json",
+        "post_id": 360050812132,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4934775129229,
+        "body": "<p>Nice play on words! I don't think many people will easily get the name, so I think it could be changed. Another idea I have for this enchantment could be that it could apply more damage to any mob that is freezing from powdered snow; but, in order for that idea to work there would have to be more ways a mob can freeze.</p>",
+        "author_id": 365536480952,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050812132-Frost-Bite/comments/4934775129229",
+        "created_at": "2022-03-20T05:14:52Z",
+        "updated_at": "2022-03-20T20:02:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050812132/comments/4934775129229.json",
+        "post_id": 360050812132,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360050512411,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007606632,
+        "body": "<p>Im sorry that i accedentaly added another \n<br />Ultra diamond armour that is unbreakable\n<br />Just dont mind it</p>",
+        "author_id": 386918834232,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050512411-Ultra-diamonds/comments/360007606632",
+        "created_at": "2019-09-16T12:11:59Z",
+        "updated_at": "2019-09-16T12:12:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050512411/comments/360007606632.json",
+        "post_id": 360050512411,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360007634011,
+        "body": "<p>That is well thought out but too OP even if they are rare</p>",
+        "author_id": 386478509091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050512411-Ultra-diamonds/comments/360007634011",
+        "created_at": "2019-09-17T21:06:02Z",
+        "updated_at": "2019-09-17T21:06:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050512411/comments/360007634011.json",
+        "post_id": 360050512411,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360007683751,
+        "body": "<p>ye</p>",
+        "author_id": 387167526832,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050512411-Ultra-diamonds/comments/360007683751",
+        "created_at": "2019-09-18T06:36:15Z",
+        "updated_at": "2019-09-18T06:36:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050512411/comments/360007683751.json",
+        "post_id": 360050512411,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360007686692,
+        "body": "<p>unless they do the same def as leather</p>",
+        "author_id": 387167526832,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050512411-Ultra-diamonds/comments/360007686692",
+        "created_at": "2019-09-18T06:36:38Z",
+        "updated_at": "2019-09-18T06:36:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050512411/comments/360007686692.json",
+        "post_id": 360050512411,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360007719771,
+        "body": "<p>I wish minecraft would do it the same as i said it would</p>",
+        "author_id": 386918834232,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050512411-Ultra-diamonds/comments/360007719771",
+        "created_at": "2019-09-19T00:06:53Z",
+        "updated_at": "2019-09-19T00:06:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050512411/comments/360007719771.json",
+        "post_id": 360050512411,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360050692612,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007688352,
+        "body": "<p>That sound like it would be realy funto use!</p>",
+        "author_id": 387326512692,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050692612-Elytra-Saddles/comments/360007688352",
+        "created_at": "2019-09-18T10:44:33Z",
+        "updated_at": "2019-09-18T10:44:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050692612/comments/360007688352.json",
+        "post_id": 360050692612,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

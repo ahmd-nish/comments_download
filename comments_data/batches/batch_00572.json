@@ -1,0 +1,817 @@
+[
+  {
+    "post_id": 360022490211,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360002482192,
+        "body": "<p>is it compatible with fortune?</p>",
+        "author_id": 368126059471,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360022490211-Moltening-enchantment-pickaxe/comments/360002482192",
+        "created_at": "2018-10-06T12:43:46Z",
+        "updated_at": "2018-10-06T12:43:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360022490211/comments/360002482192.json",
+        "post_id": 360022490211,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012700691,
+        "body": "<p>But it should be available on netherite pickaxes</p>\n<p>&nbsp;</p>",
+        "author_id": 403064439092,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360022490211-Moltening-enchantment-pickaxe/comments/360012700691",
+        "created_at": "2020-09-06T18:54:13Z",
+        "updated_at": "2020-09-06T18:54:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360022490211/comments/360012700691.json",
+        "post_id": 360022490211,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360022505112,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360002235432,
+        "body": "<p>It is already possible to make barrelish constructions. &nbsp;Place a cauldron where the barrel is. &nbsp;Place spruce trapdoors on the ground all around it while facing the cauldron. &nbsp;Open the trapdoors.</p>",
+        "author_id": 367005687131,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360022505112-Wood-Barrels/comments/360002235432",
+        "created_at": "2018-09-11T01:09:35Z",
+        "updated_at": "2018-09-11T01:09:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360022505112/comments/360002235432.json",
+        "post_id": 360022505112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002245432,
+        "body": "<p>This also seems a lot in functionality like the ex nihilio mod</p>",
+        "author_id": 365600155031,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360022505112-Wood-Barrels/comments/360002245432",
+        "created_at": "2018-09-11T21:42:24Z",
+        "updated_at": "2020-08-29T23:15:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360022505112/comments/360002245432.json",
+        "post_id": 360022505112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360022260051,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360002187352,
+        "body": "<p>This has been added in 1.13 on Java Edition</p>",
+        "author_id": 366458019591,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360022260051-Control-Chest-merges/comments/360002187352",
+        "created_at": "2018-09-05T15:30:48Z",
+        "updated_at": "2018-09-05T15:30:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360022260051/comments/360002187352.json",
+        "post_id": 360022260051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002190531,
+        "body": "<p>If you rotate one chest 90 degrees, they will not merge. &nbsp;I use this ALL THE TIME in survival.</p>",
+        "author_id": 367005687131,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360022260051-Control-Chest-merges/comments/360002190531",
+        "created_at": "2018-09-06T02:49:48Z",
+        "updated_at": "2018-09-06T02:50:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360022260051/comments/360002190531.json",
+        "post_id": 360022260051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002212291,
+        "body": "<p>While rotating every other chest will work, it looks and feels just plain clumsy. Also, while it is good that this was added to the Java version, the Bedrock version needs to change to match. Please don't make them match by using Bedrock as the model in this case.</p>",
+        "author_id": 364988263632,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360022260051-Control-Chest-merges/comments/360002212291",
+        "created_at": "2018-09-08T13:48:31Z",
+        "updated_at": "2018-09-08T13:48:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360022260051/comments/360002212291.json",
+        "post_id": 360022260051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002252571,
+        "body": "<p>You can also alternate between regular and trapped chests. The latches look slightly different but not too dramatic. </p>",
+        "author_id": 365167932192,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360022260051-Control-Chest-merges/comments/360002252571",
+        "created_at": "2018-09-12T21:17:37Z",
+        "updated_at": "2018-09-12T21:17:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360022260051/comments/360002252571.json",
+        "post_id": 360022260051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 12044176119053,
+        "body": "<p>A simple solution is to just use barrels I found that really easy</p>",
+        "author_id": 12044175163149,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360022260051-Control-Chest-merges/comments/12044176119053",
+        "created_at": "2023-01-07T03:14:35Z",
+        "updated_at": "2023-02-15T16:44:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360022260051/comments/12044176119053.json",
+        "post_id": 360022260051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360021877571,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360002162071,
+        "body": "<p>I do agree that the surface may need more attention and need, but this isn’t the right way to do it, ceramic tools are a silly idea from any viewpoint, but maybe you can come up with something with clay that would make it more useful. I would like to see clay have more use, so take that idea and run! U will think of something. Keep trying!</p>",
+        "author_id": 368705760011,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360021877571-Ceramic-tools-armor/comments/360002162071",
+        "created_at": "2018-09-02T01:22:18Z",
+        "updated_at": "2020-09-02T23:39:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360021877571/comments/360002162071.json",
+        "post_id": 360021877571,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011158432,
+        "body": "<p>This is a great idea! <br>Clay armor/tools should act as a sidegrade to Leather/Wood. It should offer more defense than Leather, and more attack than Wood, but have less durability overall.&nbsp;<br>These would be crafted with uncooked clay balls, which would then be smelted in a furnace to make the armor usable. So technically, it&nbsp;<em>does</em> require wood, but in different means. Clay tools could mine up to Redstone/Lapis ore, but not Diamond.<br><br>These items could also be dyable, although only in the 16 colors that terracotta is usually colored.<br><br>It's helpful to have any kind of armor early on, and this is a nice addition in my opinion.</p>",
+        "author_id": 388664446971,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360021877571-Ceramic-tools-armor/comments/360011158432",
+        "created_at": "2020-06-27T20:50:02Z",
+        "updated_at": "2021-07-03T22:15:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360021877571/comments/360011158432.json",
+        "post_id": 360021877571,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360019019011,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360001980491,
+        "body": "<p>It is a really bad idea to place in minecraft. It's too advance for minecraft. Maybe it could be a great mod but not an real block in minecraft.</p>",
+        "author_id": 368270589091,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360019019011-Virus-Nukes/comments/360001980491",
+        "created_at": "2018-08-12T01:16:29Z",
+        "updated_at": "2021-01-02T15:07:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360019019011/comments/360001980491.json",
+        "post_id": 360019019011,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009066171,
+        "body": "<p>Es muy bueno digo</p>",
+        "author_id": 393000498371,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360019019011-Virus-Nukes/comments/360009066171",
+        "created_at": "2020-01-23T23:56:05Z",
+        "updated_at": "2020-01-23T23:56:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360019019011/comments/360009066171.json",
+        "post_id": 360019019011,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360019089012,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360002967552,
+        "body": "<p>Hey?</p>",
+        "author_id": 368116413872,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360019089012-Photo-Blocks/comments/360002967552",
+        "created_at": "2018-11-10T15:53:35Z",
+        "updated_at": "2018-11-10T15:53:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360019089012/comments/360002967552.json",
+        "post_id": 360019089012,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360018995911,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360002907231,
+        "body": "<p>cool</p>\n<p>&nbsp;</p>",
+        "author_id": 372185879771,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360018995911-The-dungan-bow/comments/360002907231",
+        "created_at": "2018-11-04T14:12:34Z",
+        "updated_at": "2018-11-04T14:12:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360018995911/comments/360002907231.json",
+        "post_id": 360018995911,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360018172651,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360001800771,
+        "body": "<p>No. &nbsp;This would make excellent mod material, but poor update material.</p>",
+        "author_id": 367005687131,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360018172651-Obsideon-infused-iron/comments/360001800771",
+        "created_at": "2018-07-27T01:24:27Z",
+        "updated_at": "2018-07-27T01:24:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360018172651/comments/360001800771.json",
+        "post_id": 360018172651,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360011858531,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360001352792,
+        "body": "<p>The helium tools don't make any sense, but I would love to see the Education Edition helium balloons ported to the other versions.</p>",
+        "author_id": 366156808571,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360011858531-Helium/comments/360001352792",
+        "created_at": "2018-06-23T05:59:54Z",
+        "updated_at": "2018-06-23T05:59:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360011858531/comments/360001352792.json",
+        "post_id": 360011858531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360001370651,
+        "body": "<p>I think he meant that the helium makes other tools faster, not helium tools.</p>",
+        "author_id": 365548149791,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360011858531-Helium/comments/360001370651",
+        "created_at": "2018-06-23T15:58:09Z",
+        "updated_at": "2018-06-23T15:58:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360011858531/comments/360001370651.json",
+        "post_id": 360011858531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360011500891,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360001665172,
+        "body": "<p>Reordered the words above, but it's the same concept with no changes.</p>\n<p>An additional thought I had on this would be the ability to throw the Scorched block into the furnace an additional time.&nbsp; This would result in a Charred block that would be the same block despite the wood type used.&nbsp; Completely black wood planks.</p>\n<p>&nbsp;</p>",
+        "author_id": 366028635551,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360011500891-Shou-Sugi-Ban-Wood/comments/360001665172",
+        "created_at": "2018-07-15T18:47:27Z",
+        "updated_at": "2018-07-15T18:47:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360011500891/comments/360001665172.json",
+        "post_id": 360011500891,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360003495372,
+        "body": "<p>I was thinking of being able to set a tree on fire than break the blocks as they&nbsp; were burning . But I think your idea is even better&nbsp;</p>\n<p>&nbsp;</p>",
+        "author_id": 366510030091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360011500891-Shou-Sugi-Ban-Wood/comments/360003495372",
+        "created_at": "2018-12-22T06:20:23Z",
+        "updated_at": "2018-12-22T06:20:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360011500891/comments/360003495372.json",
+        "post_id": 360011500891,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360003495392,
+        "body": "<p>I was thinking of being able to set a tree on fire than break the blocks as they&nbsp; were burning . But I think your idea is even better&nbsp;</p>\n<p>&nbsp;</p>",
+        "author_id": 366510030091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360011500891-Shou-Sugi-Ban-Wood/comments/360003495392",
+        "created_at": "2018-12-22T06:20:57Z",
+        "updated_at": "2018-12-22T06:20:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360011500891/comments/360003495392.json",
+        "post_id": 360011500891,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360011407391,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360001294791,
+        "body": "<p>If there was a rope item, I would agree.&nbsp; However, I don't think vines would be able to be able to be made into something fine enough to be considered string.&nbsp; Especially when it's being compared to spider silk and string can be crafted into wool.</p>",
+        "author_id": 365008403592,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360011407391-Vines/comments/360001294791",
+        "created_at": "2018-06-16T03:12:05Z",
+        "updated_at": "2018-06-16T03:12:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360011407391/comments/360001294791.json",
+        "post_id": 360011407391,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360010432712,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4405688871437,
+        "body": "<p>Soul sand and soul soil should have the opposite effect and create columns of cold air that act as downdrafts that pull elytra users downwards.</p>",
+        "author_id": 418744012711,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360010432712-Magma-block-should-generate-lift-when-at-surface-elytra/comments/4405688871437",
+        "created_at": "2021-07-24T10:14:27Z",
+        "updated_at": "2021-07-24T13:59:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360010432712/comments/4405688871437.json",
+        "post_id": 360010432712,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 42041341310861,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 42071244949133,
+        "body": "<p>I think the rice crop should offer high healing (restore 8 hunger points, the same as beef) and offer players a more ethical way to get lots of well-healing food without having to kill cows. Also, I think rice should only be farmed in jungle and jungle-adjacent biomes. Try to farm them in deserts, and the rice will shrivel up and die.</p>",
+        "author_id": 13433524628365,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/42041341310861-Sushi-rice-paddy-fields-and-rice-cooker/comments/42071244949133",
+        "created_at": "2025-12-19T13:39:42Z",
+        "updated_at": "2025-12-19T13:39:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/42041341310861/comments/42071244949133.json",
+        "post_id": 42041341310861,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40628078011021,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40647406920973,
+        "body": "<p>Frick yes</p>",
+        "author_id": 38944596314381,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40628078011021-More-weapons/comments/40647406920973",
+        "created_at": "2025-10-27T13:53:25Z",
+        "updated_at": "2025-10-27T13:53:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40628078011021/comments/40647406920973.json",
+        "post_id": 40628078011021,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 39561799748493,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 39586884083725,
+        "body": "<p>Yes! I really want more \"stone transformations\" like cobblestone -&gt; diorite -&gt; andesite, diorite -&gt; granite. It promotes curiosity and creativity, plus, is a good (and simple) way to have more people (at least some kids) curious about science stuff. Example: Why adding together two white things gives out a red thing?</p>",
+        "author_id": 407000818272,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39561799748493-Dripstone-Blocks-can-be-smelted-into-Calcite/comments/39586884083725",
+        "created_at": "2025-09-15T17:54:59Z",
+        "updated_at": "2025-09-15T18:09:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39561799748493/comments/39586884083725.json",
+        "post_id": 39561799748493,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38147537376013,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 39072429150221,
+        "body": "<p>Here are links to more of my ideas:&nbsp;<a href=\"/hc/en-us/community/posts/38996802554637-Wool-golem\" rel=\"nofollow noreferrer\">Wool golem</a>,&nbsp;<a href=\"/hc/en-us/community/posts/38866014534029-All-of-the-categories-need-to-be-visible\" rel=\"nofollow noreferrer\">All of the categories need to be visible</a>,&nbsp;<a href=\"/hc/en-us/community/posts/38978267549709-Hive-golem\" rel=\"nofollow noreferrer\">Hive golem</a>,&nbsp;<a href=\"/hc/en-us/community/posts/38176385630861-Quartz-golem\" rel=\"nofollow noreferrer\">Quartz golem</a>,&nbsp;<a href=\"/hc/en-us/community/posts/38834450123277-Giant-flying-fish-It-s-not-as-weird-as-it-sounds\" rel=\"nofollow noreferrer\">Giant flying fish (It's not as weird as it sounds)</a>,&nbsp;<a href=\"/hc/en-us/community/posts/38763914310413-Bring-back-the-mob-vote-but-much-better-than-before\" rel=\"nofollow noreferrer\">Bring back the mob vote (but much better than before)</a>,&nbsp;<a href=\"/hc/en-us/community/posts/38162436775181-Ancient-mob-for-the-nether\" rel=\"nofollow noreferrer\">Ancient mob for the nether</a>,&nbsp;<a href=\"/hc/en-us/community/posts/38176294856973-Ancient-mob-for-the-end\" rel=\"nofollow noreferrer\">Ancient mob for the end</a>,&nbsp;<a href=\"/hc/en-us/community/posts/38147099143565-Enderite-for-easier-transportation\" rel=\"nofollow noreferrer\">Enderite (for easier transportation)</a>,&nbsp;<a href=\"/hc/en-us/community/posts/38173221121293-Wild-golem-grows-plants\" rel=\"nofollow noreferrer\">Wild golem (grows plants)</a>,&nbsp;<a href=\"/hc/en-us/community/posts/38949136644877-Copper-golems-should-be-able-to-wear-armor\" rel=\"nofollow noreferrer\">Copper golems should be able to wear armor</a>,&nbsp;<a href=\"/hc/en-us/community/posts/38949000226189-Copper-golems-should-be-a-bit-less-strict-about-sorting\" rel=\"nofollow noreferrer\">Copper golems should be a bit less strict about sorting</a>,&nbsp;<a href=\"/hc/en-us/community/posts/38949018893581-Copper-golems-should-become-charged-when-struck-by-lightning\" rel=\"nofollow noreferrer\">Copper golems should become charged when struck by lightning – Minecraft Feedback</a>, I know that is a lot, but I hope you still check out those ideas.</p>",
+        "author_id": 38139901507725,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38147537376013-Dragon-skin-material/comments/39072429150221",
+        "created_at": "2025-08-25T16:05:37Z",
+        "updated_at": "2025-08-25T17:33:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38147537376013/comments/39072429150221.json",
+        "post_id": 38147537376013,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37654255043853,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 37656604114061,
+        "body": "<p>pls no villager is best in song dude</p>",
+        "author_id": 37640152962829,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37654255043853-Remove-the-Villager-from-the-Lava-Chicken-Song/comments/37656604114061",
+        "created_at": "2025-06-26T23:21:25Z",
+        "updated_at": "2025-06-26T23:21:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37654255043853/comments/37656604114061.json",
+        "post_id": 37654255043853,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37656658463757,
+        "body": "<p>(also if you do remove my #1 version will be 1.21.7rc1)</p>",
+        "author_id": 37640152962829,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37654255043853-Remove-the-Villager-from-the-Lava-Chicken-Song/comments/37656658463757",
+        "created_at": "2025-06-26T23:28:53Z",
+        "updated_at": "2025-06-27T16:52:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37654255043853/comments/37656658463757.json",
+        "post_id": 37654255043853,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 36621136081677,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36628757620621,
+        "body": "<p>A fourth shade would be super useful for creating map art !<br>I'd be more in favor of the tinted glass idea because adding a new shade for steep slopes would create a discrepancy between slopes that rise to the north (2 shades) and slopes that rise to the south (1 shade) in normal maps of terrain.</p>",
+        "author_id": 28007336372621,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36621136081677-Display-the-4th-map-shading-in-survival/comments/36628757620621",
+        "created_at": "2025-05-15T11:16:21Z",
+        "updated_at": "2025-05-15T18:49:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36621136081677/comments/36628757620621.json",
+        "post_id": 36621136081677,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 36146308960013,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36285368172941,
+        "body": "<p>Yes except not just campfires but fires too. also if it is the soul sand variation then it will cook faster</p>",
+        "author_id": 36285215524749,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36146308960013-Stew-cooking/comments/36285368172941",
+        "created_at": "2025-05-01T23:55:54Z",
+        "updated_at": "2025-05-02T16:53:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36146308960013/comments/36285368172941.json",
+        "post_id": 36146308960013,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 39955228281741,
+        "body": "<p>I would like this, since the idea of making food in Minecraft isn't the best fleshed out right now.</p>",
+        "author_id": 39924991210637,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36146308960013-Stew-cooking/comments/39955228281741",
+        "created_at": "2025-09-29T21:28:49Z",
+        "updated_at": "2025-09-30T23:21:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36146308960013/comments/39955228281741.json",
+        "post_id": 36146308960013,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35512959922573,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35610429541133,
+        "body": "<p>Yes! Like Copper Armor And Copper Tools.</p>",
+        "author_id": 35610424848525,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35512959922573-Make-use-of-copper/comments/35610429541133",
+        "created_at": "2025-04-05T10:13:20Z",
+        "updated_at": "2025-04-05T22:03:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35512959922573/comments/35610429541133.json",
+        "post_id": 35512959922573,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 35813111694349,
+        "body": "<p>Copper Rails as a Cheap Rail would be awesome, especially if they can rust as well, making&nbsp; minecarts move 50% Slower over a rusted rail would be pretty cool.</p>",
+        "author_id": 32781380567309,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35512959922573-Make-use-of-copper/comments/35813111694349",
+        "created_at": "2025-04-13T14:50:18Z",
+        "updated_at": "2025-04-13T21:50:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35512959922573/comments/35813111694349.json",
+        "post_id": 35512959922573,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35497992933517,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41038164815885,
+        "body": "<p>a new craftable block that can redirect beacon beams would be awesome for this.<br>you could have it 1 block above the beacon, redirecting it back down to effectively cut off the beacons light, or you could make light beam art from placing them different places for aesthetic reasons</p>\n<p>beacons would retain effects if they have access to this new block, in place of open sky.</p>\n<p>it could also be a new mob in the nether that drops a component, giving us more late game reasons to explore</p>",
+        "author_id": 41038118452237,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35497992933517-Please-let-us-control-the-visibility-of-active-beacon-beams-again/comments/41038164815885",
+        "created_at": "2025-11-11T09:19:47Z",
+        "updated_at": "2025-11-11T09:19:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35497992933517/comments/41038164815885.json",
+        "post_id": 35497992933517,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 34972818774925,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 37251452414605,
+        "body": "<p>I'd love this! I try to organize the books best I can, but it would save me having to sit there taking all the books out looking for a certain one if I could just see what they're called.</p>",
+        "author_id": 419807711411,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/34972818774925-Book-names-visible-while-in-shelves/comments/37251452414605",
+        "created_at": "2025-06-09T20:56:46Z",
+        "updated_at": "2025-06-09T23:39:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/34972818774925/comments/37251452414605.json",
+        "post_id": 34972818774925,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 34851950807309,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 34881915405197,
+        "body": "<p>god idea!</p>",
+        "author_id": 34881898193421,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/34851950807309-Adding-Stone-Chests-to-Ancient-Cities/comments/34881915405197",
+        "created_at": "2025-03-10T16:40:14Z",
+        "updated_at": "2025-03-12T17:22:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/34851950807309/comments/34881915405197.json",
+        "post_id": 34851950807309,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 34881953827341,
+        "body": "<p>GOD idea</p>",
+        "author_id": 34881898193421,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/34851950807309-Adding-Stone-Chests-to-Ancient-Cities/comments/34881953827341",
+        "created_at": "2025-03-10T16:40:48Z",
+        "updated_at": "2025-03-12T17:22:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/34851950807309/comments/34881953827341.json",
+        "post_id": 34851950807309,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 33459172836749,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 33459582177293,
+        "body": "<p>I would like to supplement another idea I just come up.</p>\n<p><br>Introduce a new feature in resource packs that allows configuration of particle behavior for specific blocks. This would enable players to control whether certain blockstate of leaves generate falling particles on the clientside.</p>",
+        "author_id": 404317726812,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33459172836749-Optional-Falling-Leave-Particle/comments/33459582177293",
+        "created_at": "2025-01-14T07:31:50Z",
+        "updated_at": "2025-01-14T16:58:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33459172836749/comments/33459582177293.json",
+        "post_id": 33459172836749,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 33083011390989,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 33130045581837,
+        "body": "<p>Problem with this is it makes nether wart and blaze rods obtainable without finding a nether fortress (through nether wart blocks in crimson forests and brewing stands in villages) as well as making diamonds and netherite farmable through villager and piglin trades. It's a cool idea, but probably won't be implemented.</p>",
+        "author_id": 33129569254029,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33083011390989-Uncrafter/comments/33130045581837",
+        "created_at": "2024-12-31T23:04:41Z",
+        "updated_at": "2024-12-31T23:25:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33083011390989/comments/33130045581837.json",
+        "post_id": 33083011390989,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 33133977597453,
+        "body": "<p>I think if it gets implemented it wont work on all items like nether wart blocks and brewing stands but its a nice idea.</p>\n<p>&nbsp;</p>",
+        "author_id": 32754005200013,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33083011390989-Uncrafter/comments/33133977597453",
+        "created_at": "2025-01-01T10:37:29Z",
+        "updated_at": "2025-01-01T16:41:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33083011390989/comments/33133977597453.json",
+        "post_id": 33083011390989,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,862 @@
+[
+  {
+    "post_id": 37527571432845,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40706290797325,
+        "body": "<p>Water reflections would be a great option as they seem the worst for performance</p>",
+        "author_id": 40706251416461,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37527571432845-More-Vibrant-Visuals-toggles/comments/40706290797325",
+        "created_at": "2025-10-29T12:23:51Z",
+        "updated_at": "2025-10-29T12:23:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37527571432845/comments/40706290797325.json",
+        "post_id": 37527571432845,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37229379505677,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 37379878864653,
+        "body": "<p>Its going to run poorly on consoles and PCs with AMD GPU's, Microsoft has a partnership with Nvidia and the RTX for Minecraft promotion. From what I've seen nvidia GPU's are getting more than twice the FPS of equivalent AMD gpus its getting pushed to release like this unfortunately luckily we still have Java edition.</p>",
+        "author_id": 395497547491,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37229379505677-Add-DLSS-FSR-support-for-better-Vibrant-Visuals-PC-Console-performance/comments/37379878864653",
+        "created_at": "2025-06-14T23:50:16Z",
+        "updated_at": "2025-06-16T17:57:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37229379505677/comments/37379878864653.json",
+        "post_id": 37229379505677,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37063098702605,
+    "expected_comment_count": 3,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 39048138730765,
+        "body": "<p>I strongly agree.&nbsp; DLSS and XESS options should be available.</p>",
+        "author_id": 422394040151,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37063098702605-Add-DLSS-option-to-Vibrant-Visuals/comments/39048138730765",
+        "created_at": "2025-08-24T04:37:27Z",
+        "updated_at": "2025-08-24T04:37:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37063098702605/comments/39048138730765.json",
+        "post_id": 37063098702605,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 39381662949261,
+        "body": "<p>I agree</p>",
+        "author_id": 33630371508493,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37063098702605-Add-DLSS-option-to-Vibrant-Visuals/comments/39381662949261",
+        "created_at": "2025-09-07T04:35:39Z",
+        "updated_at": "2025-09-07T04:35:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37063098702605/comments/39381662949261.json",
+        "post_id": 37063098702605,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 42240138085389,
+        "body": "<p>I agree, i literally have an rtx 2060 super that drops even as much as bellow 60 FPS in some scenarios, and i dont want to play on render distance 8 just so i can have good performance, we should have FSR, DLSS and XESS with the resolution scale button from Ultra Performance to Native</p>",
+        "author_id": 33959956169101,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37063098702605-Add-DLSS-option-to-Vibrant-Visuals/comments/42240138085389",
+        "created_at": "2025-12-27T14:51:50Z",
+        "updated_at": "2025-12-27T14:52:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37063098702605/comments/42240138085389.json",
+        "post_id": 37063098702605,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 43169364587021,
+        "body": "<p>real, rtx performs better than VV, maybe because DLSS is better than TAA, not only that, but TAAU looks soooo noisy and pixelated</p>",
+        "author_id": 375749176131,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37063098702605-Add-DLSS-option-to-Vibrant-Visuals/comments/43169364587021",
+        "created_at": "2026-02-02T15:04:22Z",
+        "updated_at": "2026-02-02T15:04:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37063098702605/comments/43169364587021.json",
+        "post_id": 37063098702605,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 36169445091597,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36322991876877,
+        "body": "<p>Reduce fog quality and render percentage. Fog on max settings are broken and will cost 75% of your FPS</p>",
+        "author_id": 36017666386573,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36169445091597-Please-reduce-the-GPU-requirements-for-vibrant-visuals/comments/36322991876877",
+        "created_at": "2025-05-03T16:55:39Z",
+        "updated_at": "2025-05-03T16:55:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36169445091597/comments/36322991876877.json",
+        "post_id": 36169445091597,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37468003688845,
+        "body": "<p>im adreno 619 and it still doesn't work. shalll I uninstall and download it again??</p>\n<p>&nbsp;</p>",
+        "author_id": 37467974045325,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36169445091597-Please-reduce-the-GPU-requirements-for-vibrant-visuals/comments/37468003688845",
+        "created_at": "2025-06-18T19:02:15Z",
+        "updated_at": "2025-06-18T20:27:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36169445091597/comments/37468003688845.json",
+        "post_id": 36169445091597,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37468377712781,
+        "body": "<p>I reinstalled and it didn't work</p>",
+        "author_id": 37467974045325,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36169445091597-Please-reduce-the-GPU-requirements-for-vibrant-visuals/comments/37468377712781",
+        "created_at": "2025-06-18T19:13:09Z",
+        "updated_at": "2025-06-18T20:26:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36169445091597/comments/37468377712781.json",
+        "post_id": 36169445091597,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35987946424205,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36083770689933,
+        "body": "<p>This could also be added as a possibility for resource packs, which already can have dramatic effects on gameplay. Please make it possible.</p>",
+        "author_id": 27721697545741,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35987946424205-Vibrant-Visuals-in-Java/comments/36083770689933",
+        "created_at": "2025-04-24T09:46:23Z",
+        "updated_at": "2025-04-24T20:24:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35987946424205/comments/36083770689933.json",
+        "post_id": 35987946424205,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 36123774013965,
+        "body": "<p>why are you saying it like it's the end of the world, you java players are always saying bedrock is so much worse and no your complaining java is not getting something you guys had like 5 years before us with FREE mods!?!?!?!?</p>",
+        "author_id": 36123568617613,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35987946424205-Vibrant-Visuals-in-Java/comments/36123774013965",
+        "created_at": "2025-04-25T16:05:42Z",
+        "updated_at": "2025-04-29T15:28:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35987946424205/comments/36123774013965.json",
+        "post_id": 35987946424205,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37387098443405,
+        "body": "<p>java players always say bedrock is worse, now you're complaining when you have mods to do this</p>\n<p>also you still have vibrant visuals anyway</p>",
+        "author_id": 32350049437069,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35987946424205-Vibrant-Visuals-in-Java/comments/37387098443405",
+        "created_at": "2025-06-15T18:36:00Z",
+        "updated_at": "2025-06-15T23:47:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35987946424205/comments/37387098443405.json",
+        "post_id": 35987946424205,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40611272364045,
+        "body": "<p>There are third-party shaders for Java that have colored lighting. I don’t think I can name them here, but one even has pretty decent performance.</p>",
+        "author_id": 15396191213069,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35987946424205-Vibrant-Visuals-in-Java/comments/40611272364045",
+        "created_at": "2025-10-25T00:01:46Z",
+        "updated_at": "2025-10-25T00:01:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35987946424205/comments/40611272364045.json",
+        "post_id": 35987946424205,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41367737366925,
+        "body": "<p>It's not a critical issue but it's a big one for sure, Mojang stop being silly and just add colored lighting to java edition.&nbsp;</p>\n<p>IT'S NOT THAT HARD.</p>",
+        "author_id": 40433698704397,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35987946424205-Vibrant-Visuals-in-Java/comments/41367737366925",
+        "created_at": "2025-11-24T03:14:31Z",
+        "updated_at": "2025-11-24T03:14:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35987946424205/comments/41367737366925.json",
+        "post_id": 35987946424205,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35240259810189,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35608506452109,
+        "body": "<p>Colored lighting is already included in Vibrant Visuals. However, it is a feature exclusive to , and using Render Dragon, so to get the features you need to turn \"Render Dragon Features for Creators\" on in experiments as well as vibrant visuals. These will also cause torches and light sources (not all implemented in current version) to cast shadows.</p>\n<p>They look quite awesome, take a look at it.</p>",
+        "author_id": 35590369263117,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35240259810189-Colored-Shading-for-Vibrant-Visuals/comments/35608506452109",
+        "created_at": "2025-04-05T05:19:02Z",
+        "updated_at": "2025-04-05T21:59:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35240259810189/comments/35608506452109.json",
+        "post_id": 35240259810189,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 39914455326349,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 39952453768973,
+        "body": "<p>I play on switch and it is really annoying seeing people with vibrant visuals if the devs could just lower the GPU capacity needed it might work </p>",
+        "author_id": 39952232888333,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39914455326349-Vibrant-visual-on-Nintendo-switch-consoles/comments/39952453768973",
+        "created_at": "2025-09-29T20:25:32Z",
+        "updated_at": "2025-09-29T20:25:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39914455326349/comments/39952453768973.json",
+        "post_id": 39914455326349,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 39996392905485,
+        "body": "<p>I totally get it. It's so frustrating.</p>",
+        "author_id": 36228142186765,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39914455326349-Vibrant-visual-on-Nintendo-switch-consoles/comments/39996392905485",
+        "created_at": "2025-10-01T07:39:24Z",
+        "updated_at": "2025-10-01T07:39:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39914455326349/comments/39996392905485.json",
+        "post_id": 39914455326349,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40070370075149,
+        "body": "<p>I swapped from Nintendo to iPad to use vibrant visuals this means an iPad is better than a console built for gaming.</p>",
+        "author_id": 39918733612813,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39914455326349-Vibrant-visual-on-Nintendo-switch-consoles/comments/40070370075149",
+        "created_at": "2025-10-03T17:01:50Z",
+        "updated_at": "2025-10-03T17:01:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39914455326349/comments/40070370075149.json",
+        "post_id": 39914455326349,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41260811143565,
+        "body": "<p>Please swich on vibrant visual </p>",
+        "author_id": 41260799826829,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39914455326349-Vibrant-visual-on-Nintendo-switch-consoles/comments/41260811143565",
+        "created_at": "2025-11-19T13:20:23Z",
+        "updated_at": "2025-11-19T13:20:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39914455326349/comments/41260811143565.json",
+        "post_id": 39914455326349,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38806454371085,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38929331798413,
+        "body": "<p>To my knowledge, Minecraft on Nintendo Switch 2 runs as an emulation of Minecraft for the original Nintendo Switch. When a native Nintendo Switch 2 version comes out, it'll probably have Vibrant Visuals, though.</p>",
+        "author_id": 38928953305229,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38806454371085-Vibrant-Visuals-on-Nintendo-switch-2/comments/38929331798413",
+        "created_at": "2025-08-19T16:33:28Z",
+        "updated_at": "2025-08-19T16:33:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38806454371085/comments/38929331798413.json",
+        "post_id": 38806454371085,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37772724077581,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 37775643949325,
+        "body": "<p>Wait this is actually an insane yet so simple!</p>",
+        "author_id": 33598826249101,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37772724077581-In-vibrant-visual-there-Is-a-chance-to-see-waves/comments/37775643949325",
+        "created_at": "2025-07-02T14:14:05Z",
+        "updated_at": "2025-07-04T13:45:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37772724077581/comments/37775643949325.json",
+        "post_id": 37772724077581,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37793025694861,
+        "body": "<p>they should make it where ships can randomly spawn and ride on the wave</p>\n<p>&nbsp;</p>",
+        "author_id": 37792972799757,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37772724077581-In-vibrant-visual-there-Is-a-chance-to-see-waves/comments/37793025694861",
+        "created_at": "2025-07-02T22:35:35Z",
+        "updated_at": "2025-07-02T22:35:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37772724077581/comments/37793025694861.json",
+        "post_id": 37772724077581,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35564522773901,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35602617854221,
+        "body": "<p>I feel like this should have a threshold slider and toggle to configure the amount which cause this, as some people may want to push their hardware either more or less than most others.&nbsp;</p>",
+        "author_id": 394331826192,
+        "vote_sum": 4,
+        "vote_count": 4,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35564522773901-Automatically-disable-mob-caused-shadows-when-many-mobs-are-nearby/comments/35602617854221",
+        "created_at": "2025-04-04T22:08:41Z",
+        "updated_at": "2025-04-04T22:08:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35564522773901/comments/35602617854221.json",
+        "post_id": 35564522773901,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 39470047245325,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 39634546279565,
+        "body": "<p>Wholeheartedly agree. It will look so good on the Switch 2!</p>",
+        "author_id": 39634494811533,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39470047245325-Nintendo-Switch-2-needs-Vibrant-Visuals/comments/39634546279565",
+        "created_at": "2025-09-17T09:48:15Z",
+        "updated_at": "2025-09-17T09:48:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39470047245325/comments/39634546279565.json",
+        "post_id": 39470047245325,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 39913540465037,
+        "body": "<p>Yesss we really need a switch 2 edition! For langer chunks and vibrant visuals!!!</p>",
+        "author_id": 39913496026509,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39470047245325-Nintendo-Switch-2-needs-Vibrant-Visuals/comments/39913540465037",
+        "created_at": "2025-09-27T20:01:56Z",
+        "updated_at": "2025-09-27T20:01:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39470047245325/comments/39913540465037.json",
+        "post_id": 39470047245325,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37049219761933,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 37177788284813,
+        "body": "<p>I agree. This is a great idea, for like, low-key ray-tracing effects while keeping the Vibrant Visuals neat.</p>",
+        "author_id": 35848806521869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37049219761933-Add-Sun-rays-to-the-Vibrant-Visual-settings/comments/37177788284813",
+        "created_at": "2025-06-06T00:10:38Z",
+        "updated_at": "2025-06-06T15:55:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37049219761933/comments/37177788284813.json",
+        "post_id": 37049219761933,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35627913104781,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36072151914125,
+        "body": "<p>In the same vein as particle effects for rain, there should be ripples in water during storms.</p>",
+        "author_id": 372159030171,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35627913104781-Weather-in-Vibrant-Visuals/comments/36072151914125",
+        "created_at": "2025-04-23T19:58:57Z",
+        "updated_at": "2025-04-23T20:22:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35627913104781/comments/36072151914125.json",
+        "post_id": 35627913104781,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35624054306829,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35636962588813,
+        "body": "<p>By turning on render dragon features in experimental, settings for point lighting appear, which allows shadows to be cast by torches, lanterns and other light sources, but this still doesn't work for full light blocks such as glow-stone or froglights.</p>",
+        "author_id": 35625829774605,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35624054306829-Better-light-sources-for-vibrant-visuals/comments/35636962588813",
+        "created_at": "2025-04-07T07:00:14Z",
+        "updated_at": "2025-04-07T17:58:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35624054306829/comments/35636962588813.json",
+        "post_id": 35624054306829,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 35918153619853,
+        "body": "<p>I think torches should cast light similar to the sun in its affected area.</p>",
+        "author_id": 35918107455885,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35624054306829-Better-light-sources-for-vibrant-visuals/comments/35918153619853",
+        "created_at": "2025-04-16T22:57:18Z",
+        "updated_at": "2025-04-16T22:57:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35624054306829/comments/35918153619853.json",
+        "post_id": 35624054306829,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40092474917389,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40095549704077,
+        "body": "<p>Yes this needs to happen </p>",
+        "author_id": 37590515976077,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40092474917389-Vibrant-Visuals-For-Split-Screen/comments/40095549704077",
+        "created_at": "2025-10-04T21:29:18Z",
+        "updated_at": "2025-10-04T21:29:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40092474917389/comments/40095549704077.json",
+        "post_id": 40092474917389,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37387343707789,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40994563164173,
+        "body": "<p>Agreed</p>\n<p>&nbsp;</p>",
+        "author_id": 19466312264973,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37387343707789-Vibrant-visuals-splitscreen/comments/40994563164173",
+        "created_at": "2025-11-09T16:32:00Z",
+        "updated_at": "2025-11-09T16:32:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37387343707789/comments/40994563164173.json",
+        "post_id": 37387343707789,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 39422238603789,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 39538873709581,
+        "body": "<p>or i mean at least have an setting for it</p>",
+        "author_id": 423844956532,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39422238603789-Get-rid-of-the-fading-sugarcane-effect/comments/39538873709581",
+        "created_at": "2025-09-12T21:43:32Z",
+        "updated_at": "2025-09-12T21:43:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39422238603789/comments/39538873709581.json",
+        "post_id": 39422238603789,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 42236398750221,
+        "body": "<p>Con tan solo tener la opción de desactivar el efecto sería más que suficiente la verdad </p>",
+        "author_id": 27531969740045,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39422238603789-Get-rid-of-the-fading-sugarcane-effect/comments/42236398750221",
+        "created_at": "2025-12-27T08:55:24Z",
+        "updated_at": "2025-12-27T08:55:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39422238603789/comments/42236398750221.json",
+        "post_id": 39422238603789,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37683561434381,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38285410478477,
+        "body": "<p>I'm a Survival player, and the biome tint is the main reason I'm not using Vibrant Visuals yet. It actually makes me nauseous IRL.</p>",
+        "author_id": 379397684011,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37683561434381-Allow-for-the-option-to-disable-adjust-biome-overlays-in-Vibrant-Visuals/comments/38285410478477",
+        "created_at": "2025-07-23T23:31:38Z",
+        "updated_at": "2025-07-23T23:31:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37683561434381/comments/38285410478477.json",
+        "post_id": 37683561434381,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 39218372510221,
+        "body": "<p>Yes I agree! I was really looking forward to seeing my world with Vibrant Visuals, but a lot of my world is in a swamp biome and now it looks like a horror game. I would definitely appreciate the tints if it was my first play through in the world, but for now it just kinda bums me out.</p>",
+        "author_id": 8221384559373,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37683561434381-Allow-for-the-option-to-disable-adjust-biome-overlays-in-Vibrant-Visuals/comments/39218372510221",
+        "created_at": "2025-08-31T08:11:53Z",
+        "updated_at": "2025-08-31T08:11:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37683561434381/comments/39218372510221.json",
+        "post_id": 37683561434381,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37493381551245,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 37614833577997,
+        "body": "<p>This is not up to the dev team, this is up to the server Admin and the server HAS to be shutdown in order for this to take place. Similar to an update. Also this increases the amount of server resources required and increases server lag. I currently host a server for 4 people and have noticed a significant increase in drop of FPS due to the increased traffic and server lag. be careful what you ask for, the cost may not be worth the price until this feature is better refined.</p>",
+        "author_id": 37604367654157,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37493381551245-Vibrant-visuals-on-servers/comments/37614833577997",
+        "created_at": "2025-06-25T15:31:30Z",
+        "updated_at": "2025-06-25T17:08:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37493381551245/comments/37614833577997.json",
+        "post_id": 37493381551245,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38705073264653,
+        "body": "<p>Servers like the Hive and Cubecraft use texture packs you have to have enabled, and Vibrant Visuals doesnt work with texture packs, so if they do this they need to make Vibrant Visuals work with texture packs</p>",
+        "author_id": 38236154226829,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37493381551245-Vibrant-visuals-on-servers/comments/38705073264653",
+        "created_at": "2025-08-10T08:27:00Z",
+        "updated_at": "2025-08-10T17:38:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37493381551245/comments/38705073264653.json",
+        "post_id": 37493381551245,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 39216965869325,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 39223486415501,
+        "body": "<p>i vote for you</p>",
+        "author_id": 37049824293261,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39216965869325-Glass-Reflection-Vibrant-Visuals/comments/39223486415501",
+        "created_at": "2025-08-31T18:48:38Z",
+        "updated_at": "2025-08-31T18:48:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39216965869325/comments/39223486415501.json",
+        "post_id": 39216965869325,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38147689150861,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38173442934541,
+        "body": "<p>and the player too</p>",
+        "author_id": 37150200022669,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38147689150861-Add-logical-shadows-to-Vibrant-Visuals/comments/38173442934541",
+        "created_at": "2025-07-18T23:05:29Z",
+        "updated_at": "2025-07-18T23:05:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38147689150861/comments/38173442934541.json",
+        "post_id": 38147689150861,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37377870000397,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 37380980006157,
+        "body": "<p>That makes sense It it might give more aesthetic to the game.</p>",
+        "author_id": 37380943241869,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37377870000397-Biomes-should-affect-block-reflections-in-Vibrant-Visuals/comments/37380980006157",
+        "created_at": "2025-06-15T02:28:43Z",
+        "updated_at": "2025-06-15T02:28:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37377870000397/comments/37380980006157.json",
+        "post_id": 37377870000397,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37182969580557,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 37603772069261,
+        "body": "<p>Honestly this effect in the pale garden really bothers me, not because it makes the biome look spooky or anything, but because the sudden change in saturation to just about everything on screen gives a feeling that there's something wrong with the display.&nbsp; Since that release I've tried to limit my time in that biome to get the unique resources and get out as quickly as possible.&nbsp; These kinds of shifts look extremely unnatural and are horribly distracting.&nbsp; Vibrant visuals takes it even further by doing it to basically every biome so the effect happens multiple times in different ways while exploring.</p>\n<p>The water looks awesome in vibrant visuals, and the shadows are nice when in a biome that doesn't completely screw up the colors, but this issue is so severe and distracting that I've turned off vibrant visuals on all my devices that support it.</p>",
+        "author_id": 15569642620173,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37182969580557-Vibrant-visuals-colour-grading-option/comments/37603772069261",
+        "created_at": "2025-06-25T02:41:23Z",
+        "updated_at": "2025-06-25T17:11:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37182969580557/comments/37603772069261.json",
+        "post_id": 37182969580557,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 36959378592141,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38639281166989,
+        "body": "<p>I put in a suggestion to add a randomizer for brightness\\foggyness when it rains so we could get both foggy rain and sunshine rain.</p>",
+        "author_id": 38638730417805,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36959378592141-The-rain-atmosphere/comments/38639281166989",
+        "created_at": "2025-08-07T12:07:11Z",
+        "updated_at": "2025-08-07T12:07:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36959378592141/comments/38639281166989.json",
+        "post_id": 36959378592141,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 41102282727053,
+    "expected_comment_count": 1,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41133551732365,
+        "body": "<p>Yeah, just make a Nintendo switch 2 version with vibrant visuals. That would be sooo much fun!!</p>",
+        "author_id": 40805771376781,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41102282727053-Graphics-Update-on-Switch-2/comments/41133551732365",
+        "created_at": "2025-11-14T06:26:36Z",
+        "updated_at": "2025-11-14T06:26:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41102282727053/comments/41133551732365.json",
+        "post_id": 41102282727053,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 42301905561613,
+        "body": "<p>Vibrant visuals on switch two would be fire! And the console can handle it too.</p>",
+        "author_id": 42301819894029,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41102282727053-Graphics-Update-on-Switch-2/comments/42301905561613",
+        "created_at": "2025-12-30T15:38:43Z",
+        "updated_at": "2025-12-30T15:38:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41102282727053/comments/42301905561613.json",
+        "post_id": 41102282727053,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

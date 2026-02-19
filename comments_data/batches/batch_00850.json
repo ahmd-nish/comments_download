@@ -1,0 +1,1162 @@
+[
+  {
+    "post_id": 37774811590669,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 37787682273677,
+        "body": "<p>This nerf make no sense, you can mine regular iron ore and the deepslate with stone pickaxe, so what is making deepslate iron ore can't be mined?</p>",
+        "author_id": 30659399671949,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37774811590669-Anything-below-iron-tier-include-copper-pickaxe-can-t-mine-deepslate-ores/comments/37787682273677",
+        "created_at": "2025-07-02T19:32:36Z",
+        "updated_at": "2025-07-02T19:32:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37774811590669/comments/37787682273677.json",
+        "post_id": 37774811590669,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37790863399693,
+        "body": "<p>I'd love if deepslate (deep caves) were harder or scarier until you had decent gear, but you only need 3 iron for a pick and iron ore is all over the place at Y=0.&nbsp;</p>",
+        "author_id": 398099918792,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37774811590669-Anything-below-iron-tier-include-copper-pickaxe-can-t-mine-deepslate-ores/comments/37790863399693",
+        "created_at": "2025-07-02T21:13:52Z",
+        "updated_at": "2025-07-04T14:26:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37774811590669/comments/37790863399693.json",
+        "post_id": 37774811590669,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37765264859789,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 37786189120269,
+        "body": "<p>I can see times when I would want the golem to sort each item to separate chests and when I would want them grouped together. Could there be a toggle, separate toggles for each group if feasible, that would affect the golems grouping behavior?</p>",
+        "author_id": 393872726452,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37765264859789-Improve-Copper-Golem-s-Storage-Logic-Group-Similar-Items/comments/37786189120269",
+        "created_at": "2025-07-02T18:48:09Z",
+        "updated_at": "2025-07-02T18:48:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37765264859789/comments/37786189120269.json",
+        "post_id": 37765264859789,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37810726673549,
+        "body": "<p>I think the golem should have \"worse eyesight\" as it gets more oxidized, as in they become less and less strictly with what is a matching item.</p>\n<p>My suggestion is:</p>\n<p><strong>Regular Copper</strong>: Exact match (like it is currently)</p>\n<p><strong>Exposed Copper</strong>: Fuzzy match (same item but ignores NBT data)</p>\n<p><strong>Weathered Copper</strong>: Same tag matching (eg. oak, birch, wool, beds, swords, pickaxes, dirt, stone, etc.)&nbsp;</p>\n<p><strong>Oxidized Copper</strong>: Match items of same section (eg. Colored Blocks, Functional Blocks, Combat, Ingredients, etc.)</p>",
+        "author_id": 37808626977165,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37765264859789-Improve-Copper-Golem-s-Storage-Logic-Group-Similar-Items/comments/37810726673549",
+        "created_at": "2025-07-03T17:11:56Z",
+        "updated_at": "2025-07-04T18:59:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37765264859789/comments/37810726673549.json",
+        "post_id": 37765264859789,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 36598883839757,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36623144244877,
+        "body": "<p>Nah, I think the saddles' value has tanked to the point where those saddles are practically annoying to see in loot chests. I'd rather they replace it with something new related to horses, like a smithing template or some enchantment for their armor. Or even a couple of golden carrots to promote breeding for a better horse.</p>",
+        "author_id": 36215882134541,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36598883839757-Saddles-in-loot-chests/comments/36623144244877",
+        "created_at": "2025-05-15T00:36:55Z",
+        "updated_at": "2025-05-15T00:38:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36598883839757/comments/36623144244877.json",
+        "post_id": 36598883839757,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 36626115634573,
+        "body": "<p>Maybe saddles are not very valuable anymore, but I agree they should stay in the loot chests. It's fun to see how many saddles you can stockpile. I'm not sure about saddles being craft-able anyway.</p>",
+        "author_id": 34753690994957,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36598883839757-Saddles-in-loot-chests/comments/36626115634573",
+        "created_at": "2025-05-15T06:10:34Z",
+        "updated_at": "2025-05-15T18:44:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36598883839757/comments/36626115634573.json",
+        "post_id": 36598883839757,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 36746610291085,
+        "body": "<p>The devs are gonna change the saddle for leather, I think it's fine, I hope to see the leather armor more often at the start of the game, almost everyone just skips it because its pointless, we all go straight to iron armor. (at least I go straight to iron)</p>",
+        "author_id": 36625423434637,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36598883839757-Saddles-in-loot-chests/comments/36746610291085",
+        "created_at": "2025-05-20T06:36:34Z",
+        "updated_at": "2025-05-20T06:36:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36598883839757/comments/36746610291085.json",
+        "post_id": 36598883839757,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 36332530400909,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36471987484301,
+        "body": "<p>No sculk tools, maybe Warden Core Half 2, crafted together with Half 1 (gotten by killing the warden) to make Warden Core, which lights Ancient City Portal?</p>\n<p>&nbsp;</p>",
+        "author_id": 33609675003789,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36332530400909-New-sculk-features/comments/36471987484301",
+        "created_at": "2025-05-09T00:43:44Z",
+        "updated_at": "2025-05-09T15:02:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36332530400909/comments/36471987484301.json",
+        "post_id": 36332530400909,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 36543880411149,
+        "body": "<p>This is better suited for a mod. </p>\n<p>It clashes with the game play enforced by the Warden, and mimics that of the Trial Chambers. New tool </p>\n<p>The lore it adds doesn't make sense. Skulk is a strange, soft growth, so skulk tools make no sense. The Warden kills anything that makes a sound in the Deep Dark, so more mobs makes no sense. <br><br>If the Deep Dark needs anything else (and I'm not saying it does), then it should be something that explains or adds lore to the existing elements. It's set up for a possible future 4th dimension with the large gates in the End Cities, but it doesn't benefit from being Trail Chambers all over again. </p>",
+        "author_id": 18300195374605,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36332530400909-New-sculk-features/comments/36543880411149",
+        "created_at": "2025-05-12T16:40:12Z",
+        "updated_at": "2025-05-12T17:19:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36332530400909/comments/36543880411149.json",
+        "post_id": 36332530400909,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40297677776909,
+        "body": "<p>Mojang said they wont add mobs or natural disasters that destroy the world. Only the player can destroy the world. (yes I know Creepers and Ender men are the exception)</p>",
+        "author_id": 381736859431,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36332530400909-New-sculk-features/comments/40297677776909",
+        "created_at": "2025-10-13T16:50:21Z",
+        "updated_at": "2025-10-13T16:50:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36332530400909/comments/40297677776909.json",
+        "post_id": 36332530400909,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 36231349343373,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36231371827085,
+        "body": "<p>By extension other mobs gear could be enchantable like wolf armor or saddles</p>",
+        "author_id": 18919228872717,
+        "vote_sum": 4,
+        "vote_count": 4,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36231349343373-Harness-enchantments/comments/36231371827085",
+        "created_at": "2025-04-30T01:01:10Z",
+        "updated_at": "2025-04-30T01:01:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36231349343373/comments/36231371827085.json",
+        "post_id": 36231349343373,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35807161633549,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36063492137869,
+        "body": "<p>I was just about to request this! It would be very useful for survival datapacks. It is do-able with limiting the distance and teleporting armor stands but it's not at all smooth that way and somewhat difficult to manage. This feature would be greatly appreciated!</p>",
+        "author_id": 405437121531,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35807161633549-Locator-Bar-Per-Player-Waypoint-Visibility-cmd/comments/36063492137869",
+        "created_at": "2025-04-23T16:01:50Z",
+        "updated_at": "2025-04-23T19:00:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35807161633549/comments/36063492137869.json",
+        "post_id": 35807161633549,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37576088582029,
+        "body": "<p>This is exactly what I need for a datapack I'm working on and would be such an amazing addition! I think this is really all they'd need to add for me to feel like the locator bar is a solid feature that I can get a lot of use out of.</p>",
+        "author_id": 36868361912845,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35807161633549-Locator-Bar-Per-Player-Waypoint-Visibility-cmd/comments/37576088582029",
+        "created_at": "2025-06-24T03:36:39Z",
+        "updated_at": "2025-06-24T18:19:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35807161633549/comments/37576088582029.json",
+        "post_id": 35807161633549,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38696154562189,
+        "body": "<p>I feel like this would fit nicely into /team modify &lt;team&gt;, since it's quite similar to something like nametagVisibility, except longer distance.</p>",
+        "author_id": 397989124972,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35807161633549-Locator-Bar-Per-Player-Waypoint-Visibility-cmd/comments/38696154562189",
+        "created_at": "2025-08-09T15:17:52Z",
+        "updated_at": "2025-08-09T21:46:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35807161633549/comments/38696154562189.json",
+        "post_id": 35807161633549,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35690079564301,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35691689312909,
+        "body": "<p>This should be toggleable tho, I like how it works right now</p>",
+        "author_id": 18919228872717,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35690079564301-Make-piloting-the-Happy-Ghast-less-nauseating-by-changing-pilot-position/comments/35691689312909",
+        "created_at": "2025-04-08T19:40:26Z",
+        "updated_at": "2025-04-08T19:40:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35690079564301/comments/35691689312909.json",
+        "post_id": 35690079564301,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 35696172878989,
+        "body": "<p>Hello Mojang team!</p>\n<p>First thing is that - I want to say that the movie: \"Minecraft: Movie\", which was launched on 04.04 this year, is mega great, you did a great job, I congratulate you, because I am a fan of yours - that is; minecraft.</p>\n<p>And the second thing is that - I want to ask that in the next update, this smiling ghast should fly faster and be easier to control, if there is such a possibility, I will be happy and I want this smiling ghast to have chests, etc., various things (if you do everything with the smiling ghast, as it should, then please translate it into Polish, as always, when you add something new).</p>\n<p>And the thing is that - I want an update of the end, so that it is improved and has a good challenge in survival mode and also in the nether (hell) and improve the nether a bit, so that it is fun to play with friends.<br>Thank you for understanding my issues (requests) and I hope you will add and change it in the next update, I would really like it<br>All my issues, except the first issue, are my requests/ideas/suggestions/proposals to add/change to minecraft</p>",
+        "author_id": 35695808655757,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35690079564301-Make-piloting-the-Happy-Ghast-less-nauseating-by-changing-pilot-position/comments/35696172878989",
+        "created_at": "2025-04-08T21:56:33Z",
+        "updated_at": "2025-04-08T22:00:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35690079564301/comments/35696172878989.json",
+        "post_id": 35690079564301,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37828848580493,
+        "body": "<p>After an hour of flying with ghast i was feeling sick which has never happened to me in minecraft before. Looking sideways should turn the ghast instantly and preferably around player's axis and not ghast's.</p>",
+        "author_id": 418691092232,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35690079564301-Make-piloting-the-Happy-Ghast-less-nauseating-by-changing-pilot-position/comments/37828848580493",
+        "created_at": "2025-07-04T13:02:38Z",
+        "updated_at": "2025-07-04T17:20:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35690079564301/comments/37828848580493.json",
+        "post_id": 35690079564301,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35634198770573,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36286088893325,
+        "body": "<p>Mossy wood! Mossy wood! Mossy wood! Not just in water but also in forests. And it has a chance to spread after every rain.&nbsp;</p>\n<p>And shelf mushrooms!&nbsp;</p>\n<p>&nbsp;</p>",
+        "author_id": 34495023570957,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35634198770573-Moss-on-Underwater-Logs/comments/36286088893325",
+        "created_at": "2025-05-02T00:56:08Z",
+        "updated_at": "2025-05-02T00:56:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35634198770573/comments/36286088893325.json",
+        "post_id": 35634198770573,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35239547671181,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35803759928077,
+        "body": "<p>It might be because the regular ghast are much older than the happy ghast because they literally survived a extinction event that caused all of there kids to dry up (which probably one of the best reasons why they're sad in the 1st place).</p>",
+        "author_id": 35803084007821,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35239547671181-The-Happy-Ghast-s-should-have-longer-tentacles-like-the-Fiery-Ghasts/comments/35803759928077",
+        "created_at": "2025-04-12T18:42:41Z",
+        "updated_at": "2025-04-12T19:06:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35239547671181/comments/35803759928077.json",
+        "post_id": 35239547671181,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 34211479412237,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 34214254487181,
+        "body": "<p>See the posts \"Arrow's texture\", \"The firefly bush modification\", \"Jungle biome diversity\", \"Lilypad, and soul lilypad\", \"Dry, and fruit bush and a new bush drop\", \"Maple tree and ambar ore\", \"New fruit trees\", \"Tumbleweed\", \"Dry tall and short grass on savanas\", \"Abou the new cows\", \"About the new pigs\", \"Aether\", \"Crafiting and chest update\" and \"The Pale Boss\", this posts were all made by me, and is a continuation of this.</p>",
+        "author_id": 31560599647373,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/34211479412237-Dry-and-fruit-bush-and-a-new-bush-drop/comments/34214254487181",
+        "created_at": "2025-02-11T21:26:56Z",
+        "updated_at": "2025-02-11T21:45:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/34211479412237/comments/34214254487181.json",
+        "post_id": 34211479412237,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 34135594346125,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36714054999309,
+        "body": "<p>This reminds me of how much I have always wanted the stems of the Overworld mushrooms to be a source of planks and charcoal, which itself reminds me of how annoying it is to not be able to un-craft nether Wart blocks.</p>",
+        "author_id": 6459978357645,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/34135594346125-Mycelium-sprouts-and-roots/comments/36714054999309",
+        "created_at": "2025-05-19T10:55:11Z",
+        "updated_at": "2025-05-19T13:08:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/34135594346125/comments/36714054999309.json",
+        "post_id": 34135594346125,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 33418861862541,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40946739807373,
+        "body": "<p>Yes, the ocean is too shallow now, it doesn't feel like an ocean at all. I hope it becomes deeper and more reasonable. It would be better if matched with the updated Nautilus.</p>",
+        "author_id": 385838097192,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33418861862541-Vertical-ocean-biomes/comments/40946739807373",
+        "created_at": "2025-11-07T08:42:07Z",
+        "updated_at": "2025-11-07T08:42:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33418861862541/comments/40946739807373.json",
+        "post_id": 33418861862541,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 41341984218381,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41350593530125,
+        "body": "<p>yeah but maybe not that big maybe 72 spaces</p>",
+        "author_id": 39499990138509,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41341984218381-Player-inventories-are-too-small-They-need-increased-from-36-blocks-to-99/comments/41350593530125",
+        "created_at": "2025-11-22T19:23:44Z",
+        "updated_at": "2025-11-22T19:23:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41341984218381/comments/41350593530125.json",
+        "post_id": 41341984218381,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41354590175117,
+        "body": "<p>lol its already perfect</p>",
+        "author_id": 41026810154765,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41341984218381-Player-inventories-are-too-small-They-need-increased-from-36-blocks-to-99/comments/41354590175117",
+        "created_at": "2025-11-23T02:03:43Z",
+        "updated_at": "2025-11-24T01:30:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41341984218381/comments/41354590175117.json",
+        "post_id": 41341984218381,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41354559960845,
+        "body": "<p>use bundles:P</p>",
+        "author_id": 41026810154765,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41341984218381-Player-inventories-are-too-small-They-need-increased-from-36-blocks-to-99/comments/41354559960845",
+        "created_at": "2025-11-23T02:04:08Z",
+        "updated_at": "2025-11-23T02:04:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41341984218381/comments/41354559960845.json",
+        "post_id": 41341984218381,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41428583709453,
+        "body": "<p>Bundles and shulker boxes fix this already </p>",
+        "author_id": 37707459346189,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41341984218381-Player-inventories-are-too-small-They-need-increased-from-36-blocks-to-99/comments/41428583709453",
+        "created_at": "2025-11-25T22:29:39Z",
+        "updated_at": "2025-11-25T22:29:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41341984218381/comments/41428583709453.json",
+        "post_id": 41341984218381,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41431336670477,
+        "body": "<p>It’s that small because it make it a challenge to build huge builds and it’s already a good size </p>",
+        "author_id": 39925551591693,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41341984218381-Player-inventories-are-too-small-They-need-increased-from-36-blocks-to-99/comments/41431336670477",
+        "created_at": "2025-11-26T00:17:51Z",
+        "updated_at": "2025-11-26T00:17:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41341984218381/comments/41431336670477.json",
+        "post_id": 41341984218381,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 41294881835021,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41304676553485,
+        "body": "<p>I want to just be able to throw fire charges check out my post <a href=\"https://feedback.minecraft.net/hc/en-us/community/posts/41219050445709-New-long-ranged-weapons-Throwing-Stars-and-Throwable-Fire-Charges\" rel=\"nofollow noreferrer\">https://feedback.minecraft.net/hc/en-us/community/posts/41219050445709-New-long-ranged-weapons-Throwing-Stars-and-Throwable-Fire-Charges</a></p>",
+        "author_id": 40425855238285,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41294881835021-Feed-Fire-Charges-to-Happy-Ghasts-to-make-them-Shoot/comments/41304676553485",
+        "created_at": "2025-11-20T21:24:06Z",
+        "updated_at": "2025-11-20T22:02:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41294881835021/comments/41304676553485.json",
+        "post_id": 41294881835021,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41350591919501,
+        "body": "<p>no snowballs instead</p>\n<p>&nbsp;</p>",
+        "author_id": 39499990138509,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41294881835021-Feed-Fire-Charges-to-Happy-Ghasts-to-make-them-Shoot/comments/41350591919501",
+        "created_at": "2025-11-22T19:22:52Z",
+        "updated_at": "2025-11-22T19:22:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41294881835021/comments/41350591919501.json",
+        "post_id": 41294881835021,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41355290006285,
+        "body": "<p>Yes and, the happy gasth need your fire balls to shoot</p>",
+        "author_id": 41355265797773,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41294881835021-Feed-Fire-Charges-to-Happy-Ghasts-to-make-them-Shoot/comments/41355290006285",
+        "created_at": "2025-11-23T03:49:42Z",
+        "updated_at": "2025-11-23T03:49:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41294881835021/comments/41355290006285.json",
+        "post_id": 41294881835021,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41762395272717,
+        "body": "<p>Also with slimeballs?</p>\n<p>&nbsp;</p>",
+        "author_id": 41699712529805,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41294881835021-Feed-Fire-Charges-to-Happy-Ghasts-to-make-them-Shoot/comments/41762395272717",
+        "created_at": "2025-12-08T21:03:02Z",
+        "updated_at": "2025-12-08T21:03:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41294881835021/comments/41762395272717.json",
+        "post_id": 41294881835021,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 41283776375821,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41291851563405,
+        "body": "<p>perfect solution just genius.</p>\n<p>&nbsp;</p>",
+        "author_id": 39499990138509,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41283776375821-High-altitude-Wind-Currents-for-the-Happy-Ghast/comments/41291851563405",
+        "created_at": "2025-11-20T13:40:05Z",
+        "updated_at": "2025-11-20T13:40:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41283776375821/comments/41291851563405.json",
+        "post_id": 41283776375821,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41734665720461,
+        "body": "<p>greatest idea for the happy ghast ive ever heard yet. amazing idea</p>",
+        "author_id": 33216037286541,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41283776375821-High-altitude-Wind-Currents-for-the-Happy-Ghast/comments/41734665720461",
+        "created_at": "2025-12-07T22:00:24Z",
+        "updated_at": "2025-12-07T22:00:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41283776375821/comments/41734665720461.json",
+        "post_id": 41283776375821,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40346138879373,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40346195853325,
+        "body": "<p></p>\n\n<p>PT2-&gt;</p>\n\n<p>Players can use Honeycomb to wax their armor like copper blocks, however, every time the player is struck by lightning, the wax layering comes off and the player has to put another coating to prevent aging. Durability is not affected by the above btw.</p>\n\n<p>Lastly, I wanted to attach the ideas to make new enchantment for each armors! And I want to start it with copper armor, where enchantments could be made to have the armor to have Superconductivity[I-III] to increase the explosion radius of the Supercharge. You could make Divining Rod [I-III] to increase the chance of lightning to strike the player.</p>\n\n<p>Unfortunately I haven't thought past this part.\n<br />I hope the balancing and the making of Conduits more useful again to make cool stuff is good with you guys. Keep up the great work!</p>",
+        "author_id": 40345995076109,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40346138879373--Core-of-the-Storm-and-other-Copper-based-Armor-and-Unique-Enchantments/comments/40346195853325",
+        "created_at": "2025-10-15T09:59:54Z",
+        "updated_at": "2025-10-15T09:59:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40346138879373/comments/40346195853325.json",
+        "post_id": 40346138879373,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41718373582477,
+        "body": "<p>Love this idea! It makes copper armour considered for pvping or smps where there is a bunch of pvp</p>",
+        "author_id": 34814211293965,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40346138879373--Core-of-the-Storm-and-other-Copper-based-Armor-and-Unique-Enchantments/comments/41718373582477",
+        "created_at": "2025-12-06T18:12:21Z",
+        "updated_at": "2025-12-06T18:12:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40346138879373/comments/41718373582477.json",
+        "post_id": 40346138879373,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37798950860301,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 37857328629645,
+        "body": "<p>This is also good because it allows for Pumpkins to be placed on top of copper blocks with no issues.</p>",
+        "author_id": 37857237366669,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37798950860301-Summon-copper-golem-with-lightning-rod-atop-pumpkin/comments/37857328629645",
+        "created_at": "2025-07-06T05:42:02Z",
+        "updated_at": "2025-07-06T05:42:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37798950860301/comments/37857328629645.json",
+        "post_id": 37798950860301,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37762242710413,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 37762366238733,
+        "body": "<p>I really believe that this feature could help make randomized contraptions more compact and controlled.</p>",
+        "author_id": 10238140100237,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37762242710413-New-Mode-s-for-Copper-Golems-Operator-and-Sorter-Mode/comments/37762366238733",
+        "created_at": "2025-07-01T22:03:24Z",
+        "updated_at": "2025-07-03T20:09:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37762242710413/comments/37762366238733.json",
+        "post_id": 37762242710413,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37764269339405,
+        "body": "<p>This is actually such a cool idea!</p>\n<p>And it gives the player the option for lit up eyes or darker eyes to keep them in their house as just a pet or something. Not just as a machine.</p>",
+        "author_id": 22324386649229,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37762242710413-New-Mode-s-for-Copper-Golems-Operator-and-Sorter-Mode/comments/37764269339405",
+        "created_at": "2025-07-01T23:34:18Z",
+        "updated_at": "2025-07-03T21:20:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37762242710413/comments/37764269339405.json",
+        "post_id": 37762242710413,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37800642477965,
+        "body": "<p>Yes! I would love to see this functionality added. I personally loved the original concept for the copper golem to a degree, specifically I loved that it would interact with the world through copper buttons but I didn't like the randomization aspect of it. I think that having a set speed for when a copper golem would perform the task would be an excellent addition.</p>\n<p>And then for those that DO want the randomization of a crazy copper golem pressing buttons I think a cool idea would be to super charge them with a lightning strike. For this a player would need to deliberately move or set up some scenario for the golem to be struck by lightning similar to a super charged creeper. Redstoners would go wild for these additions to the copper golem, they can choose to either have a set timer or randomized chaos.&nbsp;</p>\n<p>Perhaps this is used to make the sorter mode faster as well. Overall though, I personally love both the original concept of the copper golem, and the idea being presented here, along with the new concept for sorting chests and would love for both to be implemented in the game!</p>",
+        "author_id": 378852239931,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37762242710413-New-Mode-s-for-Copper-Golems-Operator-and-Sorter-Mode/comments/37800642477965",
+        "created_at": "2025-07-03T11:33:32Z",
+        "updated_at": "2025-07-04T14:57:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37762242710413/comments/37800642477965.json",
+        "post_id": 37762242710413,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37968274145165,
+        "body": "<p>This desperately needs to be upvoted. I know that the new sorting feature for the copper golem will be popular with casual and survival players, and it's a great feature, but the reason why the copper golem was so immensely popular in the first place was it's initial redstone mechanic.</p>\n<p>Anyone who has used things like chicken randomisers etc knows how unreliable they are. Having an AI in the game that's purposeful towards making this happen would be such a positive game changer for the buildstone community and also survival minigame creators. Mojang please don't ignore these other parts of your community!</p>\n<p>If this little guy isn't given the feature his fanbase supported him on, I'll always have a twinge of sadness when I see him in my survival worlds.</p>",
+        "author_id": 410334169312,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37762242710413-New-Mode-s-for-Copper-Golems-Operator-and-Sorter-Mode/comments/37968274145165",
+        "created_at": "2025-07-10T17:49:50Z",
+        "updated_at": "2025-07-10T18:21:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37762242710413/comments/37968274145165.json",
+        "post_id": 37762242710413,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 39363495774349,
+        "body": "<p>One word for you ya' absolute genius: YES</p>",
+        "author_id": 39363331748749,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37762242710413-New-Mode-s-for-Copper-Golems-Operator-and-Sorter-Mode/comments/39363495774349",
+        "created_at": "2025-09-05T21:48:06Z",
+        "updated_at": "2025-09-05T21:48:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37762242710413/comments/39363495774349.json",
+        "post_id": 37762242710413,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 36703817303181,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36861175127309,
+        "body": "<p>YES! Decorated Pots need to be more controlled and player friendly.</p>",
+        "author_id": 29574754912141,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36703817303181-Be-Able-to-Remove-a-Single-Item-from-Pots/comments/36861175127309",
+        "created_at": "2025-05-23T16:15:35Z",
+        "updated_at": "2025-05-23T17:54:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36703817303181/comments/36861175127309.json",
+        "post_id": 36703817303181,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 36005630066701,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36140466509453,
+        "body": "<p>Thats too hard i think......</p>",
+        "author_id": 36140310795789,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36005630066701-Built-In-Modloader/comments/36140466509453",
+        "created_at": "2025-04-26T06:37:17Z",
+        "updated_at": "2025-04-26T06:37:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36005630066701/comments/36140466509453.json",
+        "post_id": 36005630066701,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 36502193017357,
+        "body": "<p>Are you saying that, when trying to log onto a multiplayer server with mods when you don't have them, a popup should appear prompting you to download said mods?&nbsp;</p>\n<p>I don't know that Mojang can add the modloader itself, but maybe a folder for the server-admin to add the files and then a prompt for you to download them would be doable?&nbsp;</p>\n<p>Still, that might be a security risk. What if a bad actor adds a virus? That could be why they haven't done this so far.&nbsp;</p>",
+        "author_id": 34495023570957,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36005630066701-Built-In-Modloader/comments/36502193017357",
+        "created_at": "2025-05-10T00:43:50Z",
+        "updated_at": "2025-05-10T14:58:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36005630066701/comments/36502193017357.json",
+        "post_id": 36005630066701,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 36714030461837,
+        "body": "<p>According to friends of mine who have made mods for multiple games in the recent past, Minecraft is consistently hostile to mods. Every single major update (and maybe every minor update if we're unlucky enough) causes mods to break, whereas other sandbox games that I love (such as KSP) require only minor fixes between similar versions regarding the mods people make. But, if we had a built-in method of adapting mods for other versions and sub-versions, as well as for the purpose you propose, Minecraft's modding community would thrive 3-fold.</p>",
+        "author_id": 6459978357645,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36005630066701-Built-In-Modloader/comments/36714030461837",
+        "created_at": "2025-05-19T10:50:12Z",
+        "updated_at": "2025-05-19T13:07:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36005630066701/comments/36714030461837.json",
+        "post_id": 36005630066701,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35930837863949,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35931554722829,
+        "body": "<p>I like this, perhaps they could receive extra damage from shears too, just like how blazes get more damage from snowballs</p>",
+        "author_id": 18919228872717,
+        "vote_sum": 6,
+        "vote_count": 6,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35930837863949-Creepers-drop-short-grass-fern-and-bush-if-killed-with-shears/comments/35931554722829",
+        "created_at": "2025-04-17T14:43:24Z",
+        "updated_at": "2025-04-17T14:43:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35930837863949/comments/35931554722829.json",
+        "post_id": 35930837863949,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 35942745609357,
+        "body": "<p>Maybe we can shave creepers :3</p>",
+        "author_id": 31611665000845,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35930837863949-Creepers-drop-short-grass-fern-and-bush-if-killed-with-shears/comments/35942745609357",
+        "created_at": "2025-04-17T20:07:56Z",
+        "updated_at": "2025-04-17T20:07:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35930837863949/comments/35942745609357.json",
+        "post_id": 35930837863949,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 36152491404941,
+        "body": "<p>I agree, but maybe they should drop leaf blocks or leaf litter. It would reinforce the fact that creepers are made of leaves.</p>",
+        "author_id": 12270814940301,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35930837863949-Creepers-drop-short-grass-fern-and-bush-if-killed-with-shears/comments/36152491404941",
+        "created_at": "2025-04-26T23:13:14Z",
+        "updated_at": "2025-04-28T16:04:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35930837863949/comments/36152491404941.json",
+        "post_id": 35930837863949,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 36166810812941,
+        "body": "<p>I think this is a great idea. Though I think removing the shears requirement is a good idea as I don't often kill creepers with shears and otherwise it's a very niche feature and can't be used in farms.</p>",
+        "author_id": 26581285659533,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35930837863949-Creepers-drop-short-grass-fern-and-bush-if-killed-with-shears/comments/36166810812941",
+        "created_at": "2025-04-28T05:50:53Z",
+        "updated_at": "2025-04-28T05:51:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35930837863949/comments/36166810812941.json",
+        "post_id": 35930837863949,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35873980969357,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35951613462541,
+        "body": "<p>A cuter texture would definitely help in my opinion.<br>Years of minecraft had given me a sense of slight megalophobia when fighting the nether ghasts, especially up close.</p>",
+        "author_id": 35951475980813,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35873980969357-Suggestion-for-a-cuter-texture-from-Happyghast-Not-related-to-resolution/comments/35951613462541",
+        "created_at": "2025-04-18T07:03:30Z",
+        "updated_at": "2025-04-18T20:11:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35873980969357/comments/35951613462541.json",
+        "post_id": 35873980969357,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 35969233557901,
+        "body": "<p>i think the mouth could be moved up a pixel or two. that'd help a lot. there's just a lot of distance between the eyes and the mouth man idk</p>",
+        "author_id": 35969049694349,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35873980969357-Suggestion-for-a-cuter-texture-from-Happyghast-Not-related-to-resolution/comments/35969233557901",
+        "created_at": "2025-04-19T04:14:06Z",
+        "updated_at": "2025-04-19T16:10:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35873980969357/comments/35969233557901.json",
+        "post_id": 35873980969357,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 36140506696077,
+        "body": "<p>Yes，ghasting is cute.</p>\n<p>But happy ghast's face makes me really unconfortable.TEXTURE should be CHANGED</p>\n<p>&nbsp;</p>",
+        "author_id": 36140310795789,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35873980969357-Suggestion-for-a-cuter-texture-from-Happyghast-Not-related-to-resolution/comments/36140506696077",
+        "created_at": "2025-04-26T06:31:32Z",
+        "updated_at": "2025-04-26T21:49:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35873980969357/comments/36140506696077.json",
+        "post_id": 35873980969357,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35674035163021,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35674513805709,
+        "body": "<p>That's unnecessary, we already got the creaking heart to create it. Btw how do posts like this get through but my feedback gets deleted? 💀</p>",
+        "author_id": 18919228872717,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35674035163021-White-Pumpkin/comments/35674513805709",
+        "created_at": "2025-04-08T12:06:26Z",
+        "updated_at": "2025-04-08T16:52:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35674035163021/comments/35674513805709.json",
+        "post_id": 35674035163021,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 36162267434765,
+        "body": "<p>A pet creaking? Is that what you mean?&nbsp;</p>\n<p>I always vote for white pumpkin. With a jack'o'lantern using a soul fire torch.&nbsp;</p>",
+        "author_id": 34495023570957,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35674035163021-White-Pumpkin/comments/36162267434765",
+        "created_at": "2025-04-27T20:25:29Z",
+        "updated_at": "2025-04-27T20:25:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35674035163021/comments/36162267434765.json",
+        "post_id": 35674035163021,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 36217608296333,
+        "body": "<p><strong>Ivor:</strong>&nbsp;White pumpkin? No such thing as white pumpkins!</p>",
+        "author_id": 36217443778317,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35674035163021-White-Pumpkin/comments/36217608296333",
+        "created_at": "2025-04-29T17:42:15Z",
+        "updated_at": "2025-04-29T17:42:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35674035163021/comments/36217608296333.json",
+        "post_id": 35674035163021,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 36217945515149,
+        "body": "<p>My mom grew small white pumpkins. They are so cute!</p>",
+        "author_id": 34495023570957,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35674035163021-White-Pumpkin/comments/36217945515149",
+        "created_at": "2025-04-29T17:50:01Z",
+        "updated_at": "2025-04-29T19:47:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35674035163021/comments/36217945515149.json",
+        "post_id": 35674035163021,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 42202831862925,
+    "expected_comment_count": 2,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 42202889307789,
+        "body": "<p>We need dark clouds when its rains&nbsp;</p>",
+        "author_id": 40086639400333,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/42202831862925-Dark-clouds-during-rain-showers-in-the-game/comments/42202889307789",
+        "created_at": "2025-12-25T07:34:55Z",
+        "updated_at": "2025-12-25T07:34:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/42202831862925/comments/42202889307789.json",
+        "post_id": 42202831862925,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 42209492378509,
+        "body": "<p>please add mojang its perfect vibrant visuals</p>\n<p>&nbsp;</p>",
+        "author_id": 39499990138509,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/42202831862925-Dark-clouds-during-rain-showers-in-the-game/comments/42209492378509",
+        "created_at": "2025-12-25T21:38:24Z",
+        "updated_at": "2025-12-25T21:38:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/42202831862925/comments/42209492378509.json",
+        "post_id": 42202831862925,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 42960759209485,
+        "body": "<p>I play java so I can just have a mod do this</p>",
+        "author_id": 42697984471565,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/42202831862925-Dark-clouds-during-rain-showers-in-the-game/comments/42960759209485",
+        "created_at": "2026-01-25T22:22:09Z",
+        "updated_at": "2026-01-25T22:22:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/42202831862925/comments/42960759209485.json",
+        "post_id": 42202831862925,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 42194244145933,
+    "expected_comment_count": 2,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 42203752584973,
+        "body": "<p>Yeaaa lower the fire catching animation by at least 50%</p>",
+        "author_id": 27845036035213,
+        "vote_sum": 4,
+        "vote_count": 4,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/42194244145933-fire-not-covering-the-WHOLE-ENTIRE-SCREEN/comments/42203752584973",
+        "created_at": "2025-12-25T10:31:16Z",
+        "updated_at": "2025-12-25T10:31:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/42194244145933/comments/42203752584973.json",
+        "post_id": 42194244145933,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 42205127583757,
+        "body": "<p>Yes, in bedrock edition the fire covers the entire screen, in Java edition it is different, and Java edition you play in A COMPUTER, and this in phones with bedrock is the worst.</p>",
+        "author_id": 42205089642893,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/42194244145933-fire-not-covering-the-WHOLE-ENTIRE-SCREEN/comments/42205127583757",
+        "created_at": "2025-12-25T13:38:13Z",
+        "updated_at": "2025-12-25T13:38:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/42194244145933/comments/42205127583757.json",
+        "post_id": 42194244145933,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 42468766291469,
+        "body": "<p>UGHHHH YEEESSSSSS PLEEEAAAASSSSSS :/</p>",
+        "author_id": 41578664613901,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/42194244145933-fire-not-covering-the-WHOLE-ENTIRE-SCREEN/comments/42468766291469",
+        "created_at": "2026-01-07T03:43:55Z",
+        "updated_at": "2026-01-07T03:43:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/42194244145933/comments/42468766291469.json",
+        "post_id": 42194244145933,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 42527826560781,
+        "body": "<p>At the very minimum at least provide a accessibility option. It's absurd they don't have one </p>",
+        "author_id": 416747338392,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/42194244145933-fire-not-covering-the-WHOLE-ENTIRE-SCREEN/comments/42527826560781",
+        "created_at": "2026-01-08T21:25:39Z",
+        "updated_at": "2026-01-08T21:25:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/42194244145933/comments/42527826560781.json",
+        "post_id": 42194244145933,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 42775150738957,
+        "body": "<p>I CAN RELATE I SUFURED THROUGH THIS CAUSE SO MUCH\n</p>",
+        "author_id": 42774899488781,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/42194244145933-fire-not-covering-the-WHOLE-ENTIRE-SCREEN/comments/42775150738957",
+        "created_at": "2026-01-18T23:45:50Z",
+        "updated_at": "2026-01-18T23:45:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/42194244145933/comments/42775150738957.json",
+        "post_id": 42194244145933,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

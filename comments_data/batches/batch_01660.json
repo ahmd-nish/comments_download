@@ -1,0 +1,757 @@
+[
+  {
+    "post_id": 40624061244429,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40624052765709,
+        "body": "<p>Vote!</p>",
+        "author_id": 35626987126925,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40624061244429-Shell-block-of-nautilus-and-nautilus-zombie-block-Red-Sea-grass/comments/40624052765709",
+        "created_at": "2025-10-25T21:01:56Z",
+        "updated_at": "2025-10-25T21:01:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40624061244429/comments/40624052765709.json",
+        "post_id": 40624061244429,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40694387002125,
+        "body": "<p>I like the idea of placeable Nautilus blocks but maybe only the armor</p>",
+        "author_id": 40693998065293,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40624061244429-Shell-block-of-nautilus-and-nautilus-zombie-block-Red-Sea-grass/comments/40694387002125",
+        "created_at": "2025-10-28T20:47:33Z",
+        "updated_at": "2025-10-28T20:47:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40624061244429/comments/40694387002125.json",
+        "post_id": 40624061244429,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40575657638413,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40600693712909,
+        "body": "<p>Noooooooooo</p>",
+        "author_id": 40600126634509,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40575657638413-Spear-Usage/comments/40600693712909",
+        "created_at": "2025-10-24T17:31:17Z",
+        "updated_at": "2025-10-24T17:31:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40575657638413/comments/40600693712909.json",
+        "post_id": 40575657638413,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40535699627149,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40538556621709,
+        "body": "<p>Basically no charge but you can attack even with shield? Not bad really</p>",
+        "author_id": 404423904512,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40535699627149-New-spear-enchantment/comments/40538556621709",
+        "created_at": "2025-10-22T16:59:56Z",
+        "updated_at": "2025-10-22T16:59:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40535699627149/comments/40538556621709.json",
+        "post_id": 40535699627149,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40511196436877,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40524875074829,
+        "body": "<p>\nI think it should take the same durability that riptide does on tridents, and maybe lower the hunger cost to 4 for lunge I, 3 for lunge II, and 2 for lunge III. </p>\n\n<p>I feel like it costing hunger is a fair price for an otherwise infinite dash move. Food has always been something that isn't a problem you need to worry about in most worlds, but this makes it so you need to invest in high saturation food if you want to be wavedashing around your world. If you want a quick food source you can bring a cake to place down and eat since it is eaten instantly.</p>",
+        "author_id": 410684562491,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40511196436877-lunge-is-poorly-adjusted/comments/40524875074829",
+        "created_at": "2025-10-22T07:32:11Z",
+        "updated_at": "2025-10-22T16:13:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40511196436877/comments/40524875074829.json",
+        "post_id": 40511196436877,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40453083661581,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40466235598989,
+        "body": "<p>Something like this already exists called zombie sieges, but it's only on java and the way it's done is terrible.</p>",
+        "author_id": 38284557613837,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40453083661581-Zombie-raids/comments/40466235598989",
+        "created_at": "2025-10-20T13:56:51Z",
+        "updated_at": "2025-10-20T13:56:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40453083661581/comments/40466235598989.json",
+        "post_id": 40453083661581,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40444508831245,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40444509297293,
+        "body": "<p>I think so too</p>",
+        "author_id": 26109913647501,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40444508831245-Skeleton-horse/comments/40444509297293",
+        "created_at": "2025-10-18T21:25:17Z",
+        "updated_at": "2025-10-18T21:25:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40444508831245/comments/40444509297293.json",
+        "post_id": 40444508831245,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40443417808013,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40489063120269,
+        "body": "<p>You can change the controls in the main settings, including which buttons control what.</p>",
+        "author_id": 33332145995021,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40443417808013-Shield-functionality-in-Bedrock-Java-With-2-enchantments-as-well/comments/40489063120269",
+        "created_at": "2025-10-21T02:29:18Z",
+        "updated_at": "2025-10-21T19:22:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40443417808013/comments/40489063120269.json",
+        "post_id": 40443417808013,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40406726302605,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40421972965645,
+        "body": "<p>Already posted the same suggestion here, but Mojang should certainly add this.</p>",
+        "author_id": 20383459932301,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40406726302605-Heraldry/comments/40421972965645",
+        "created_at": "2025-10-17T18:26:08Z",
+        "updated_at": "2025-10-17T18:26:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40406726302605/comments/40421972965645.json",
+        "post_id": 40406726302605,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40392813922445,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40422056847501,
+        "body": "<p>It needs some interesting feature first (like spear's joust mechanic) and I think daggers will fit into the game well.</p>",
+        "author_id": 20383459932301,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40392813922445-Daggers-new-tiered-weapon-like-the-spears/comments/40422056847501",
+        "created_at": "2025-10-17T18:28:17Z",
+        "updated_at": "2025-10-17T18:28:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40392813922445/comments/40422056847501.json",
+        "post_id": 40392813922445,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40440096412173,
+        "body": "<p>Hitting from the back deals more damage to entities</p>",
+        "author_id": 15191745331597,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40392813922445-Daggers-new-tiered-weapon-like-the-spears/comments/40440096412173",
+        "created_at": "2025-10-18T15:48:17Z",
+        "updated_at": "2025-10-18T17:13:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40392813922445/comments/40440096412173.json",
+        "post_id": 40392813922445,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40446288651661,
+        "body": "<p>Maybe the more you attack the more damage it does. However I would think there would be a cap to that because that would be op </p>",
+        "author_id": 399059721792,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40392813922445-Daggers-new-tiered-weapon-like-the-spears/comments/40446288651661",
+        "created_at": "2025-10-19T00:58:35Z",
+        "updated_at": "2025-10-19T00:58:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40392813922445/comments/40446288651661.json",
+        "post_id": 40392813922445,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40385135008269,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40466258389133,
+        "body": "<p>But Drowned do burn in daylight.</p>",
+        "author_id": 38284557613837,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40385135008269-Zombie-Nautilus-shouldn-t-burn-due-to-being-a-Drowned-Undead/comments/40466258389133",
+        "created_at": "2025-10-20T13:58:44Z",
+        "updated_at": "2025-10-20T13:58:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40385135008269/comments/40466258389133.json",
+        "post_id": 40385135008269,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40356972265741,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40363504183693,
+        "body": "<p>This would also make spear users need more skill to rapidly change to totem or shield when necessary so that's cool. I like this</p>",
+        "author_id": 404423904512,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40356972265741-Make-the-spear-two-handed/comments/40363504183693",
+        "created_at": "2025-10-15T19:18:19Z",
+        "updated_at": "2025-10-15T19:18:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40356972265741/comments/40363504183693.json",
+        "post_id": 40356972265741,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40524946727693,
+        "body": "<p>This would require a whole new system of one-handed and two-handed items though. What happens to items in your offhand when you switch to the spear?</p>",
+        "author_id": 410684562491,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40356972265741-Make-the-spear-two-handed/comments/40524946727693",
+        "created_at": "2025-10-22T07:41:39Z",
+        "updated_at": "2025-10-22T07:41:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40356972265741/comments/40524946727693.json",
+        "post_id": 40356972265741,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40344898944525,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40466391785741,
+        "body": "<p>I'd like the idea as long as it has something to make enchantment table still meaningful. Maybe lapis chests would give you a random enchantment that way enchanting tables would still be better because you can choose the enchantment.</p>",
+        "author_id": 38284557613837,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40344898944525-Better-chests-Lapis-chest-SHOULD-ADD-BLOCK/comments/40466391785741",
+        "created_at": "2025-10-20T14:01:33Z",
+        "updated_at": "2025-10-20T14:01:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40344898944525/comments/40466391785741.json",
+        "post_id": 40344898944525,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40325573047693,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40791013002893,
+        "body": "<p>Why would you want a wind farm? What would it do? Currently it just sounds like a visual thing which is fine but, and also what wind is it getting there is no wind in the game currently but this could be a good idea if it had more purpose</p>",
+        "author_id": 22791810439437,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40325573047693-Offshore-wind-frams/comments/40791013002893",
+        "created_at": "2025-11-01T09:31:29Z",
+        "updated_at": "2025-11-01T09:31:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40325573047693/comments/40791013002893.json",
+        "post_id": 40325573047693,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40312645956109,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40345371611533,
+        "body": "<p>What is the point of making armour out of STONE? It's not only unlogical, it also destroys the purpose of freshly added copper armour (you should try it out btw)</p>",
+        "author_id": 20383459932301,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40312645956109-New-armour-stone-armour/comments/40345371611533",
+        "created_at": "2025-10-15T08:18:22Z",
+        "updated_at": "2025-10-15T16:55:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40312645956109/comments/40345371611533.json",
+        "post_id": 40312645956109,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40305368348429,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40307236645645,
+        "body": "<p>i feel like this would add too many nautilus varients</p>",
+        "author_id": 40306502565773,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40305368348429-Livelier-lava/comments/40307236645645",
+        "created_at": "2025-10-13T22:00:26Z",
+        "updated_at": "2025-10-13T22:00:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40305368348429/comments/40307236645645.json",
+        "post_id": 40305368348429,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40331662284045,
+        "body": "<p>It won't. This one will be different because it lives in the nether.</p>",
+        "author_id": 34446995671821,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40305368348429-Livelier-lava/comments/40331662284045",
+        "created_at": "2025-10-14T19:21:28Z",
+        "updated_at": "2025-10-14T19:21:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40305368348429/comments/40331662284045.json",
+        "post_id": 40305368348429,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40447671340941,
+        "body": "<p>Why? We have striders already.</p>",
+        "author_id": 9915205663117,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40305368348429-Livelier-lava/comments/40447671340941",
+        "created_at": "2025-10-19T04:44:19Z",
+        "updated_at": "2025-10-19T04:44:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40305368348429/comments/40447671340941.json",
+        "post_id": 40305368348429,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40286758596877,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40311632102797,
+        "body": "<p>This would make the spear even more OP than it already is. Basically make the spear be able to block everything at all time and make the charge even better than it already is or make it a throwable weapon? This would make the mace and the trident completely useless.</p>\n<p>The ideas are not bad but need a lot of balancing to not be gamebreaking. It's the cheapest weapon in the game, it shouldn't replace every late-game weapon and be better in everything.</p>",
+        "author_id": 404423904512,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40286758596877-Ideas-To-Improve-The-Spear-In-Mounts-of-Mayhem/comments/40311632102797",
+        "created_at": "2025-10-14T04:05:58Z",
+        "updated_at": "2025-10-14T04:05:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40286758596877/comments/40311632102797.json",
+        "post_id": 40286758596877,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40311679964173,
+        "body": "<p>To Clarify: the Spear does Less Damage then the Trident so it would still be a weaker throwing weapon, since even though it's thing is based on speed you can't really throw it faster and a bubble chamber cannon is less likely to work on something that isn't an arrow<br><br>i'm not saying these things have to be super op, just make it more fun to use, like a jousting enchantment wouldn't majorly increase the things i listed, but it still makes more sense to have a jousting enchantment then Lunge since jousting is the spears main thing<br><br>the shield and spear thing just makes sense, plus the shield could still be disabled with an axe and wouldn't necessarily block all damage, since your not fully covering yourself you could take like half a heart or a heart of damage, and for the person who invoked this clarification: how is the spear replacing the mace? it's not a falling based weapon and can't use lunge to benefit the jousting attack, and the trident has more perks then she spear including doing more damage to water based mobs, and for a lot of people this i salready going to replace a lot of weapons for them because they more then likely just like the spear, keep in mind i don't mind how these things would be balanced for games sake i'm just listing obvious things that would make the spear more fun, look me in the eye and say you didn't think of the 300 when you saw the spear, bet most of you did, anyway, that was my clarification</p>",
+        "author_id": 40286350908941,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40286758596877-Ideas-To-Improve-The-Spear-In-Mounts-of-Mayhem/comments/40311679964173",
+        "created_at": "2025-10-14T04:18:24Z",
+        "updated_at": "2025-10-14T17:27:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40286758596877/comments/40311679964173.json",
+        "post_id": 40286758596877,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40331982048141,
+        "body": "<p>I like the idea of the spear working with a shield up, perhaps while doing this the shield simply gets disabled by any weapon instead of just the axe. Increasing the enchantment level increases the amount of consecutive hits required to disable the shield (because the spear has a minimum range players who get in close can disable your shield easily).</p>",
+        "author_id": 30930113048973,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40286758596877-Ideas-To-Improve-The-Spear-In-Mounts-of-Mayhem/comments/40331982048141",
+        "created_at": "2025-10-14T19:30:58Z",
+        "updated_at": "2025-10-14T19:30:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40286758596877/comments/40331982048141.json",
+        "post_id": 40286758596877,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40286618185613,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40311511215885,
+        "body": "<p>Basically pogo in Minecraft? I mean I like it but that would make the mace less useful than it already is</p>",
+        "author_id": 404423904512,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40286618185613-Being-able-to-negate-fall-damage-with-the-new-Spear-weapon/comments/40311511215885",
+        "created_at": "2025-10-14T03:54:22Z",
+        "updated_at": "2025-10-14T03:54:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40286618185613/comments/40311511215885.json",
+        "post_id": 40286618185613,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40281404827533,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40309239785613,
+        "body": "<p>Copper does oxidise underwater. Look at the hulls of boats, which are usually made of copper.</p>",
+        "author_id": 35244586794381,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40281404827533-Copper-Reinforced-Redstone-Components/comments/40309239785613",
+        "created_at": "2025-10-14T00:05:56Z",
+        "updated_at": "2025-10-14T00:05:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40281404827533/comments/40309239785613.json",
+        "post_id": 40281404827533,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40277831546253,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40279399382925,
+        "body": "<p>I just think that the enchantment that adds damage to the spear should be really rare, but I think once the spear has that enchantment, it should just be a horizontal version of the mace</p>",
+        "author_id": 1902686235767,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40277831546253-Limit-the-spear-to-on-ground-or-on-mobs-only-ofcourse-you-can-still-jump/comments/40279399382925",
+        "created_at": "2025-10-12T17:48:47Z",
+        "updated_at": "2025-10-12T23:55:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40277831546253/comments/40279399382925.json",
+        "post_id": 40277831546253,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40280293642765,
+        "body": "<p>maybe adding a damage cap at certain speed or making it stop charging faster the faster you move could fix this issue</p>",
+        "author_id": 404423904512,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40277831546253-Limit-the-spear-to-on-ground-or-on-mobs-only-ofcourse-you-can-still-jump/comments/40280293642765",
+        "created_at": "2025-10-12T19:13:03Z",
+        "updated_at": "2025-10-12T19:13:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40277831546253/comments/40280293642765.json",
+        "post_id": 40277831546253,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40285317355661,
+        "body": "<p>If it is a horizontal version of the mace it should be on the ground as you can just fly horizontally into people and that is op and easy. Where as the mace it's much more difficult </p>",
+        "author_id": 40277752753421,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40277831546253-Limit-the-spear-to-on-ground-or-on-mobs-only-ofcourse-you-can-still-jump/comments/40285317355661",
+        "created_at": "2025-10-13T05:54:10Z",
+        "updated_at": "2025-10-13T05:54:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40277831546253/comments/40285317355661.json",
+        "post_id": 40277831546253,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40269097191309,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40269257901709,
+        "body": "<p>Yeah this happened to me too and tried different banners. This happens with any banner depending of the view angle</p>",
+        "author_id": 404423904512,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40269097191309-bannar-visuall-glitch/comments/40269257901709",
+        "created_at": "2025-10-11T18:51:06Z",
+        "updated_at": "2025-10-11T18:51:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40269097191309/comments/40269257901709.json",
+        "post_id": 40269097191309,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40261257443213,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40261319360653,
+        "body": "<p>I go by ZudinGodofWar on YouTube and X</p>",
+        "author_id": 39919298517517,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40261257443213-Heavy-Zombie-Cavalry/comments/40261319360653",
+        "created_at": "2025-10-11T05:50:20Z",
+        "updated_at": "2025-10-11T13:46:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40261257443213/comments/40261319360653.json",
+        "post_id": 40261257443213,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40238680540045,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40252879858573,
+        "body": "<p>Zombies are already reskinned since 1.14</p>",
+        "author_id": 18181656869517,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40238680540045-Reskin-Zombie-too/comments/40252879858573",
+        "created_at": "2025-10-10T20:23:30Z",
+        "updated_at": "2025-10-10T20:23:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40238680540045/comments/40252879858573.json",
+        "post_id": 40238680540045,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40231263543053,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40248534164237,
+        "body": "<p>If this is added, spears should be slower and have less time in charge mode (they already have a lot)</p>",
+        "author_id": 404423904512,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40231263543053-Spear-Enchantment-Strongarm-Heavylifting/comments/40248534164237",
+        "created_at": "2025-10-10T18:15:21Z",
+        "updated_at": "2025-10-10T18:15:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40231263543053/comments/40248534164237.json",
+        "post_id": 40231263543053,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40226670937101,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40226728164877,
+        "body": "<p>Que que metan los mobs anteriores en la votación </p>",
+        "author_id": 40226673366413,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40226670937101-Lancen-un-Snapchat-de-la-lanza-en-bedrok/comments/40226728164877",
+        "created_at": "2025-10-09T22:23:43Z",
+        "updated_at": "2025-10-09T22:23:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40226670937101/comments/40226728164877.json",
+        "post_id": 40226670937101,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40226347073549,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40226812915597,
+        "body": "<p>This would be a good addition, and it could be added to the other rideable mobs aswell.</p>",
+        "author_id": 40226724392717,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40226347073549-Pig-Mount-Dash/comments/40226812915597",
+        "created_at": "2025-10-09T22:29:58Z",
+        "updated_at": "2025-10-09T22:29:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40226347073549/comments/40226812915597.json",
+        "post_id": 40226347073549,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40229703666189,
+        "body": "<p>they kinda already do this if you havent tried it</p>",
+        "author_id": 13271156768909,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40226347073549-Pig-Mount-Dash/comments/40229703666189",
+        "created_at": "2025-10-10T01:57:13Z",
+        "updated_at": "2025-10-10T01:57:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40226347073549/comments/40229703666189.json",
+        "post_id": 40226347073549,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40230668404237,
+        "body": "<p>So they do after trying it now. Its a neat bit of speed, but to keep up with all the new mounts, this could be a cool mechanic!</p>",
+        "author_id": 40226056719245,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40226347073549-Pig-Mount-Dash/comments/40230668404237",
+        "created_at": "2025-10-10T03:42:08Z",
+        "updated_at": "2025-10-10T03:42:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40226347073549/comments/40230668404237.json",
+        "post_id": 40226347073549,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

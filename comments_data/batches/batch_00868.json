@@ -1,0 +1,712 @@
+[
+  {
+    "post_id": 17063000267405,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 18047472683405,
+        "body": "<p>Hunger from Husk damage<br>Poison by Witch<br><br></p>",
+        "author_id": 18047341523213,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/17063000267405-Diseases/comments/18047472683405",
+        "created_at": "2023-07-29T14:51:18Z",
+        "updated_at": "2023-07-30T14:57:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/17063000267405/comments/18047472683405.json",
+        "post_id": 17063000267405,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 16939729827597,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 22729100180365,
+        "body": "<p>As a bedrock player myself, I definitely agree, but it isn't that limited on bedrock. for example, on bedrock, you can give yourself an item that can't be moved from it's slot, or one that you keep on death, by doing:</p>\n<p>/give @s barrier 1 0 {\"item_lock\":{\"mode\":\"lock_in_slot\"},\"keep_on_death\":{}}</p>\n<p>this is in vanilla minecraft, btw</p>\n<p>I still agree, though. we should be able to give ourselves items with enchants with commands</p>",
+        "author_id": 400271757932,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/16939729827597-The-give-command-and-how-it-s-very-limited-on-minecraft-bedrock/comments/22729100180365",
+        "created_at": "2023-12-27T23:16:41Z",
+        "updated_at": "2023-12-27T23:57:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/16939729827597/comments/22729100180365.json",
+        "post_id": 16939729827597,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 13106468225293,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 19154812020877,
+        "body": "<p>yes we need this!</p>",
+        "author_id": 16244716421773,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13106468225293--abilities-in-Java-edition/comments/19154812020877",
+        "created_at": "2023-09-03T10:31:32Z",
+        "updated_at": "2023-09-22T05:19:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13106468225293/comments/19154812020877.json",
+        "post_id": 13106468225293,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 11761979247757,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 12076740853901,
+        "body": "<p>Yes, this could make things way easier for parkour maps, just one command and one command block! Please add this!</p>",
+        "author_id": 12062659845773,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11761979247757-Make-spawnpoint-could-set-spawnpoint-to-entity-location/comments/12076740853901",
+        "created_at": "2023-01-09T04:46:51Z",
+        "updated_at": "2023-02-15T16:50:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11761979247757/comments/12076740853901.json",
+        "post_id": 11761979247757,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 12166862976525,
+        "body": "<p>That already exists, and it's with the /execute \n<br />Example:/execute at @a[x=x,y=x,z=x] run /spawnpoint @p ~ ~ ~</p>",
+        "author_id": 422874759771,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11761979247757-Make-spawnpoint-could-set-spawnpoint-to-entity-location/comments/12166862976525",
+        "created_at": "2023-01-11T21:52:06Z",
+        "updated_at": "2023-01-11T21:52:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11761979247757/comments/12166862976525.json",
+        "post_id": 11761979247757,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 11365020219789,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 11366992420237,
+        "body": "<p>In 1.19.3, they added a game rule that controls the drop decay for explosions of TNT, mobs, and blocks. Just set mobExplosionDropDecay to false, and creeper explosions of builds will become less punishing.</p>",
+        "author_id": 423562415371,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11365020219789-Make-mob-griefing-not-a-cheat/comments/11366992420237",
+        "created_at": "2022-12-12T02:36:37Z",
+        "updated_at": "2023-01-18T21:40:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11365020219789/comments/11366992420237.json",
+        "post_id": 11365020219789,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 11537472563085,
+        "body": "<p>That's the challenge of the intended gameplay experience. If players don't want that challenge, there are commands to disable them. Though, mob griefing&nbsp;<em>should</em> have subcategories to specify which mob to toggle on/off.</p>",
+        "author_id": 419344921172,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11365020219789-Make-mob-griefing-not-a-cheat/comments/11537472563085",
+        "created_at": "2022-12-17T17:31:42Z",
+        "updated_at": "2024-01-18T03:36:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11365020219789/comments/11537472563085.json",
+        "post_id": 11365020219789,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10402141845645,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 12440757324045,
+        "body": "<p>How do I turn off the new execute command? I miss the old execute command and I want it back in my 1.19.50 worlds. If you see this, Mojang, Please add a gamerule like \"newexecutecommand\" or \"newcommands\" for people who miss the old execute command.</p>\n<p>&nbsp;</p>",
+        "author_id": 12440756012941,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10402141845645-Automatically-update-command-blocks-with-execute-for-1-19-50/comments/12440757324045",
+        "created_at": "2023-01-21T18:30:23Z",
+        "updated_at": "2023-01-22T05:54:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10402141845645/comments/12440757324045.json",
+        "post_id": 10402141845645,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 17941627119117,
+        "body": "<p>There's something called a datapack...........</p>",
+        "author_id": 383217026151,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10402141845645-Automatically-update-command-blocks-with-execute-for-1-19-50/comments/17941627119117",
+        "created_at": "2023-07-26T03:26:57Z",
+        "updated_at": "2023-07-26T03:26:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10402141845645/comments/17941627119117.json",
+        "post_id": 10402141845645,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 8554523019277,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 9894085736205,
+        "body": "<p>Good idea! I LIKE DEEP DARKS</p>",
+        "author_id": 9890588927117,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8554523019277-New-command/comments/9894085736205",
+        "created_at": "2022-10-14T19:37:37Z",
+        "updated_at": "2022-10-14T19:37:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8554523019277/comments/9894085736205.json",
+        "post_id": 8554523019277,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7779743902733,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8681664911117,
+        "body": "<p>Radius is honestly something that the client should have full control over: attenuation distance is already a thing in sounds.json, which determines how far the sound can be heard... if total volume is equal to 1 that is.<br><br>Just removing the range requirement from the command, and letting the client decide whether it should hear it or not is much better.</p>",
+        "author_id": 365162152092,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7779743902733-Playsound-Radius-and-More/comments/8681664911117",
+        "created_at": "2022-08-25T13:40:47Z",
+        "updated_at": "2022-08-27T10:46:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7779743902733/comments/8681664911117.json",
+        "post_id": 7779743902733,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 31021928885773,
+        "body": "<p>Going hand in hand with this, some sounds aren't actually affected by the distance-volume thing like ambient.underwater.loop, they instead play with the same volume no matter how far the player is from the sound's source. I already filed a bug report for this but I think this is a much better solution than just having all the sounds be distance-dependant.</p>",
+        "author_id": 1900048435907,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7779743902733-Playsound-Radius-and-More/comments/31021928885773",
+        "created_at": "2024-10-13T13:28:20Z",
+        "updated_at": "2024-10-13T13:28:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7779743902733/comments/31021928885773.json",
+        "post_id": 7779743902733,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7541350394765,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7911594078861,
+        "body": "<p>I would love to see this too... <br><br>On my server we absolutely love the \"survival\" experience, but we have quite a few amazing builders that don't want their hard-earned work to be destroyed just randomly.&nbsp; Creepers can be triggered by more than just players, Withers can wreck havoc on entire cities, and Endermen are relentless thieves randomly destroying creations.&nbsp; We, quite literally, ONLY use the mobGriefing rule to stop those three mobs.&nbsp; However, that said, using the command has some drastic downsides.<br><br>Most importantly, the fact that it completely disables villager breeding.&nbsp; While mobGriefing is disabled, villages can't expand and breed because villagers can't pickup food.&nbsp; It would be awesome if the villagers and other friendly mobs were put on a separate \"mobGriefing\" command for this purpose.<br><br>Let's face it, \"Griefing\" is what hostile mobs do.&nbsp; Friendly mobs don't grief.</p>",
+        "author_id": 7911471099661,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7541350394765-Separate-command-for-mobGriefing-into-hostile-and-friendly/comments/7911594078861",
+        "created_at": "2022-07-24T21:06:19Z",
+        "updated_at": "2022-07-31T17:17:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7541350394765/comments/7911594078861.json",
+        "post_id": 7541350394765,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7387905512589,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7387958991885,
+        "body": "<p>Hi this is FadedNinja9694</p>",
+        "author_id": 422074994091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7387905512589-A-minecraft-command-the-detects-messages/comments/7387958991885",
+        "created_at": "2022-07-03T18:46:34Z",
+        "updated_at": "2022-07-03T18:46:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7387905512589/comments/7387958991885.json",
+        "post_id": 7387905512589,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7217253074701,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7410725295501,
+        "body": "<p>I want to because i keep loseing my dogs and cats and pets.......</p>\n<p>&nbsp;</p>",
+        "author_id": 6597884195085,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7217253074701-DoMobTeleporting-Gamerule/comments/7410725295501",
+        "created_at": "2022-07-04T21:24:20Z",
+        "updated_at": "2022-08-03T21:51:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7217253074701/comments/7410725295501.json",
+        "post_id": 7217253074701,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 8163623477133,
+        "body": "<p>I've always wanted something like this in the game without having to keep them in a box. Great idea!</p>",
+        "author_id": 8077931169293,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7217253074701-DoMobTeleporting-Gamerule/comments/8163623477133",
+        "created_at": "2022-08-03T21:56:59Z",
+        "updated_at": "2022-08-03T21:56:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7217253074701/comments/8163623477133.json",
+        "post_id": 7217253074701,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 6051818795021,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8682797652749,
+        "body": "<p>Just saying, this is already possible to do with a simple loot table that drops the player's head, and then getting said head's SkullOwner.Name value.</p>",
+        "author_id": 365162152092,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6051818795021-A-command-should-be-added-to-get-Player-Names/comments/8682797652749",
+        "created_at": "2022-08-25T14:17:38Z",
+        "updated_at": "2022-08-26T20:08:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6051818795021/comments/8682797652749.json",
+        "post_id": 6051818795021,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5957434838669,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 14755811641997,
+        "body": "<p>There is already a post :) <a href=\"https://feedback.minecraft.net/hc/en-us/community/posts/360062021351--container\" rel=\"nofollow noreferrer\">https://feedback.minecraft.net/hc/en-us/community/posts/360062021351--container</a></p>",
+        "author_id": 397246704892,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5957434838669-GUI-Command/comments/14755811641997",
+        "created_at": "2023-04-11T20:36:21Z",
+        "updated_at": "2023-05-23T09:01:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5957434838669/comments/14755811641997.json",
+        "post_id": 5957434838669,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5760071547533,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5761581567501,
+        "body": "<p>Can't you just do that by calling functions in main with scoreboards?</p>",
+        "author_id": 5670679175181,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5760071547533-Event-functions-in-datapacks/comments/5761581567501",
+        "created_at": "2022-04-25T03:33:24Z",
+        "updated_at": "2022-05-07T21:10:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5760071547533/comments/5761581567501.json",
+        "post_id": 5760071547533,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 8682971587597,
+        "body": "<p>This can be done with advancement function rewards (and revoking the advancement in the function).</p>",
+        "author_id": 365162152092,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5760071547533-Event-functions-in-datapacks/comments/8682971587597",
+        "created_at": "2022-08-25T14:22:27Z",
+        "updated_at": "2022-08-25T14:22:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5760071547533/comments/8682971587597.json",
+        "post_id": 5760071547533,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4858777873677,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4933654877069,
+        "body": "<p>Interesting idea. I doubt a whole lot of people would use it, but it coudn't hurt to add it none the less.</p>",
+        "author_id": 379397684011,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4858777873677-Gamerule-mobaging/comments/4933654877069",
+        "created_at": "2022-03-20T02:19:22Z",
+        "updated_at": "2022-06-03T09:51:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4858777873677/comments/4933654877069.json",
+        "post_id": 4858777873677,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 5057595158797,
+        "body": "<p>YESSS! This is a great idea! Especially with tadpoles being added now. They are like a totally different mob &amp; it sucks you wouldn’t be able to include them in a zoo!</p>",
+        "author_id": 1903501928327,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4858777873677-Gamerule-mobaging/comments/5057595158797",
+        "created_at": "2022-03-25T03:59:54Z",
+        "updated_at": "2022-05-09T20:00:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4858777873677/comments/5057595158797.json",
+        "post_id": 4858777873677,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4424784771213,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4425244102413,
+        "body": "<p>مراد سوي امر يخلي الاعب يعطش</p>",
+        "author_id": 1905378596587,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4424784771213--gamerule-PoisonedPork/comments/4425244102413",
+        "created_at": "2022-02-10T19:14:16Z",
+        "updated_at": "2022-02-10T19:51:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4424784771213/comments/4425244102413.json",
+        "post_id": 4424784771213,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4424342651789,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4541919062797,
+        "body": "<p>I Agree Im A Bedrock Player And I Would Be Very Happy To See This Command Come To Bedrock And It Would Help Bedrock 100 Days Youtubers</p>",
+        "author_id": 419265637732,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4424342651789--checktime-At-least-for-Bedrock/comments/4541919062797",
+        "created_at": "2022-03-01T08:22:48Z",
+        "updated_at": "2022-03-08T18:12:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4424342651789/comments/4541919062797.json",
+        "post_id": 4424342651789,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4419568464525,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4422859325197,
+        "body": "<p>Buena idea</p>",
+        "author_id": 423586785471,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4419568464525--extinguish-command/comments/4422859325197",
+        "created_at": "2022-01-25T17:41:36Z",
+        "updated_at": "2022-01-25T17:41:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4419568464525/comments/4422859325197.json",
+        "post_id": 4419568464525,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4415095922445,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4417299100301,
+        "body": "<p>As an advanced datapacker, I agree! It would be nice to see more ways to detect things like crafting, right click etc, without advancements.</p>",
+        "author_id": 407598286372,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4415095922445-Access-to-core-functions-via-datapacks/comments/4417299100301",
+        "created_at": "2021-12-21T13:05:00Z",
+        "updated_at": "2021-12-22T00:58:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4415095922445/comments/4417299100301.json",
+        "post_id": 4415095922445,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4414266935181,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4414481025421,
+        "body": "<p>*This would allow you to use it with /execute and have a command run if it's a certain value...</p>",
+        "author_id": 421893380372,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4414266935181-New-RNG-value-with-scoreboard/comments/4414481025421",
+        "created_at": "2021-11-23T19:10:57Z",
+        "updated_at": "2021-12-26T20:14:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4414266935181/comments/4414481025421.json",
+        "post_id": 4414266935181,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4409690472973,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4411831510029,
+        "body": "<p>What would be the point of this? These entities have no AI, no health, etc. they can't be affected by any effect.</p>",
+        "author_id": 365162152092,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4409690472973-Being-able-to-give-effects-to-boats-and-minecarts/comments/4411831510029",
+        "created_at": "2021-10-22T05:46:31Z",
+        "updated_at": "2021-11-26T10:51:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4409690472973/comments/4411831510029.json",
+        "post_id": 4409690472973,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4414734096397,
+        "body": "<p>yes!! i've needed invisible boats on multiple occasions</p>",
+        "author_id": 422221815791,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4409690472973-Being-able-to-give-effects-to-boats-and-minecarts/comments/4414734096397",
+        "created_at": "2021-11-26T10:52:07Z",
+        "updated_at": "2021-11-26T12:04:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4409690472973/comments/4414734096397.json",
+        "post_id": 4409690472973,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4408789322509,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4408859431949,
+        "body": "<p>Minecraft 😻☺️</p>",
+        "author_id": 420089696231,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4408789322509-Find-Structures-In-Biomes-Command/comments/4408859431949",
+        "created_at": "2021-09-09T13:27:47Z",
+        "updated_at": "2021-09-09T13:27:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4408789322509/comments/4408859431949.json",
+        "post_id": 4408789322509,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4408859433485,
+        "body": "<p>Dghgx</p>",
+        "author_id": 420089696231,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4408789322509-Find-Structures-In-Biomes-Command/comments/4408859433485",
+        "created_at": "2021-09-09T13:28:00Z",
+        "updated_at": "2021-09-09T13:28:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4408789322509/comments/4408859433485.json",
+        "post_id": 4408789322509,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4407634887437,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4411456980621,
+        "body": "<p>Isso seria bom se fosse botado no minecraft</p>",
+        "author_id": 1902531073507,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4407634887437-Cheat-blocker/comments/4411456980621",
+        "created_at": "2021-10-16T16:03:27Z",
+        "updated_at": "2021-10-16T16:03:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4407634887437/comments/4411456980621.json",
+        "post_id": 4407634887437,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4407234541965,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4407618321037,
+        "body": "<p>Or just /locatemob</p>",
+        "author_id": 383837939991,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4407234541965--locatemob-command/comments/4407618321037",
+        "created_at": "2021-08-22T01:38:29Z",
+        "updated_at": "2021-08-22T01:38:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4407234541965/comments/4407618321037.json",
+        "post_id": 4407234541965,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4407141118605,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4408442061069,
+        "body": "<p>good idea mojang,I would love that idea of a new @p mojang my idea would de an @d for example: /tp @d [type=mob] 1 nametag. would it be a good idea to implement it?</p>",
+        "author_id": 419926181371,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4407141118605-New-p/comments/4408442061069",
+        "created_at": "2021-09-02T19:36:26Z",
+        "updated_at": "2021-12-30T18:45:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4407141118605/comments/4408442061069.json",
+        "post_id": 4407141118605,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

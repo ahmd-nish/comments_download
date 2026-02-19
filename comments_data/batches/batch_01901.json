@@ -1,0 +1,967 @@
+[
+  {
+    "post_id": 13104050010765,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 13704910412429,
+        "body": "<p>i had the same idea, but not with the suspicious grass, and also jungle temples need some remodeling.</p>",
+        "author_id": 13703088871693,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13104050010765-jungle-temple-archeology/comments/13704910412429",
+        "created_at": "2023-03-04T00:04:05Z",
+        "updated_at": "2023-05-17T15:03:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13104050010765/comments/13704910412429.json",
+        "post_id": 13104050010765,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 13094981338253,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 13233482469133,
+        "body": "<p>I have wanted this ever since I saw someone using one, but found out it was java exclusive</p>",
+        "author_id": 13233381027085,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13094981338253-Shield-Banners-for-Bedrock/comments/13233482469133",
+        "created_at": "2023-02-18T20:07:56Z",
+        "updated_at": "2023-02-18T20:08:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13094981338253/comments/13233482469133.json",
+        "post_id": 13094981338253,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 12998999584141,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 13006044279181,
+        "body": "<p>Armor trims duribility is good idea when what material of ore you are using on your armor </p>",
+        "author_id": 13001234249101,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12998999584141-Armor-trim-duribility/comments/13006044279181",
+        "created_at": "2023-02-10T13:42:08Z",
+        "updated_at": "2023-05-18T11:26:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12998999584141/comments/13006044279181.json",
+        "post_id": 12998999584141,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 13052237919501,
+        "body": "<p>Trims are <em>intentionally</em> only cosmetic.</p>",
+        "author_id": 419344921172,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12998999584141-Armor-trim-duribility/comments/13052237919501",
+        "created_at": "2023-02-12T15:22:37Z",
+        "updated_at": "2023-03-13T15:06:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12998999584141/comments/13052237919501.json",
+        "post_id": 12998999584141,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 15883591676173,
+        "body": "<p><span id=\"[0,1]\" class=\"word\">I</span> <span id=\"[2,5]\" class=\"word\">don</span>'<span id=\"[6,7]\" class=\"word\">t</span> <span id=\"[8,18]\" class=\"word\">understand</span> <span id=\"[19,22]\" class=\"word\">why</span> <span id=\"[23,29]\" class=\"word\">mojang</span> <span id=\"[30,34]\" class=\"word\">didn</span>'<span id=\"[35,36]\" class=\"word\">t</span> <span id=\"[37,40]\" class=\"word\">put</span> <span id=\"[41,42]\" class=\"word\">a</span> <span id=\"[43,53]\" class=\"word\">durability</span> <span id=\"[54,58]\" class=\"word\">from</span> <span id=\"[59,62]\" class=\"word\">the</span> <span id=\"[63,72]\" class=\"word\">beginning</span>, <span id=\"[74,76]\" class=\"word\">it</span>'<span id=\"[77,78]\" class=\"word\">s</span> <span id=\"[79,81]\" class=\"word\">so</span> <span id=\"[82,86]\" class=\"word\">much</span> <span id=\"[87,91]\" class=\"word\">more</span> <span id=\"[92,94]\" class=\"word\">in</span> <span id=\"[95,98]\" class=\"word\">the</span> <span id=\"[99,104]\" class=\"word\">style</span> <span id=\"[105,107]\" class=\"word\">of</span> <span id=\"[108,117]\" class=\"word\">minecraft</span> <span id=\"[118,125]\" class=\"word\">without</span> <span id=\"[126,129]\" class=\"word\">mod</span>. <span id=\"[131,133]\" class=\"word\">To</span> <span id=\"[134,140]\" class=\"word\">repair</span> <span id=\"[141,143]\" class=\"word\">it</span>, <span id=\"[145,149]\" class=\"word\">only</span> <span id=\"[150,151]\" class=\"word\">1</span> <span id=\"[152,159]\" class=\"word\">diamond</span> <span id=\"[160,166]\" class=\"word\">should</span> <span id=\"[167,169]\" class=\"word\">be</span> <span id=\"[170,174]\" class=\"word\">used</span> <span id=\"[175,180]\" class=\"word\">since</span> <span id=\"[181,183]\" class=\"word\">it</span> <span id=\"[184,186]\" class=\"word\">is</span> <span id=\"[187,188]\" class=\"word\">a</span> <span id=\"[189,197]\" class=\"word\">cosmetic</span>.</p>",
+        "author_id": 10514777243405,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12998999584141-Armor-trim-duribility/comments/15883591676173",
+        "created_at": "2023-05-18T11:38:54Z",
+        "updated_at": "2023-05-19T06:28:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12998999584141/comments/15883591676173.json",
+        "post_id": 12998999584141,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 12847085261709,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 12852149706637,
+        "body": "<p>Yaaaaassasssss</p>",
+        "author_id": 12852106411917,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12847085261709-Dye-trail-from-arrows/comments/12852149706637",
+        "created_at": "2023-02-05T12:05:25Z",
+        "updated_at": "2023-02-05T12:05:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12847085261709/comments/12852149706637.json",
+        "post_id": 12847085261709,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 12811359399437,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 13024039521037,
+        "body": "<p>Kind of like a bundle tooltip but for shulker boxes</p>",
+        "author_id": 409663062892,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12811359399437-Visible-Shulker-Box-UI/comments/13024039521037",
+        "created_at": "2023-02-10T22:46:19Z",
+        "updated_at": "2023-02-10T22:46:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12811359399437/comments/13024039521037.json",
+        "post_id": 12811359399437,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 12802710949517,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 12909870866445,
+        "body": "<p>But wouldn’t the debug stick do that?</p>",
+        "author_id": 7818933136653,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12802710949517-Ice-Pick/comments/12909870866445",
+        "created_at": "2023-02-07T16:47:35Z",
+        "updated_at": "2023-02-07T16:47:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12802710949517/comments/12909870866445.json",
+        "post_id": 12802710949517,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 12925002368269,
+        "body": "<p>Yeah but how bout the people on Bedrock</p>",
+        "author_id": 7331804422413,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12802710949517-Ice-Pick/comments/12925002368269",
+        "created_at": "2023-02-08T00:03:50Z",
+        "updated_at": "2023-02-08T00:03:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12802710949517/comments/12925002368269.json",
+        "post_id": 12802710949517,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 12924996716941,
+        "body": "<p>Yeah but how bout the people on Bedrock\n</p>",
+        "author_id": 7331804422413,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12802710949517-Ice-Pick/comments/12924996716941",
+        "created_at": "2023-02-08T00:04:06Z",
+        "updated_at": "2023-02-08T00:04:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12802710949517/comments/12924996716941.json",
+        "post_id": 12802710949517,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 13086674789389,
+        "body": "<p>No the debug stick can't do that, as blue ice, packed ice and ice are different blocks.</p>\n<p>Also,. the ice pick should be able to mine ice like shears mine plants.</p>",
+        "author_id": 399265256131,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12802710949517-Ice-Pick/comments/13086674789389",
+        "created_at": "2023-02-13T21:29:05Z",
+        "updated_at": "2023-02-13T21:29:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12802710949517/comments/13086674789389.json",
+        "post_id": 12802710949517,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 13245576576909,
+        "body": "<p>People would use it on bedrock the same way they strip logs on bedrock</p>",
+        "author_id": 384218510071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12802710949517-Ice-Pick/comments/13245576576909",
+        "created_at": "2023-02-19T16:52:30Z",
+        "updated_at": "2023-02-19T16:52:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12802710949517/comments/13245576576909.json",
+        "post_id": 12802710949517,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 12634106550285,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 12766893976717,
+        "body": "<p>Barriers, an invisible block, already exist and have nearly the same function</p>",
+        "author_id": 401038146951,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12634106550285-Let-s-talk-about-Village-Borders/comments/12766893976717",
+        "created_at": "2023-02-02T01:28:55Z",
+        "updated_at": "2023-02-18T14:35:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12634106550285/comments/12766893976717.json",
+        "post_id": 12634106550285,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 13123248563597,
+        "body": "<p>There are already blocks like this!!! There is the barrier, an invisible block. There are also border blocks that look like stone blocks (but red) and stop players and mobs from going over (or under) them. However, border blocks do have a very annoying particle they should get rid of lol -- apologies if I'm wrong (I haven't been online in a while,) but I believe you can get these by the \"/give @s border_block\" and \"/give @s barrier\" commands. Hope this helps!! :-)</p>",
+        "author_id": 395594010052,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12634106550285-Let-s-talk-about-Village-Borders/comments/13123248563597",
+        "created_at": "2023-02-15T02:08:09Z",
+        "updated_at": "2023-02-15T17:02:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12634106550285/comments/13123248563597.json",
+        "post_id": 12634106550285,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 13228149366541,
+        "body": "<p>To those talking about barriers and border blocks, yes I am well aware of them, border blocks are just for education edition, so yeah you can see the issue with that, and barriers are pretty flawed, people can see the block outline, and you can't place above height limit for if you want no ceiling, plus it's kind of tedious to place barriers all there, especially without worldedit.</p>",
+        "author_id": 12633624398349,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12634106550285-Let-s-talk-about-Village-Borders/comments/13228149366541",
+        "created_at": "2023-02-18T14:39:23Z",
+        "updated_at": "2023-04-28T19:19:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12634106550285/comments/13228149366541.json",
+        "post_id": 12634106550285,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 12553859640077,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 12563320463757,
+        "body": "<p>No es una buena idea.</p>",
+        "author_id": 12563282311565,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12553859640077-Tame-Frogs/comments/12563320463757",
+        "created_at": "2023-01-26T04:24:46Z",
+        "updated_at": "2023-01-26T04:24:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12553859640077/comments/12563320463757.json",
+        "post_id": 12553859640077,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 12580288756877,
+        "body": "<p>There's no point.</p>",
+        "author_id": 419344921172,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12553859640077-Tame-Frogs/comments/12580288756877",
+        "created_at": "2023-01-26T18:36:08Z",
+        "updated_at": "2023-01-27T21:58:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12553859640077/comments/12580288756877.json",
+        "post_id": 12553859640077,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 12620967148045,
+        "body": "<p>The frog could fight for you, but only attack small slimes, small magma cubes, baby zombies and silverfish because these are mobs about a frogs size.</p>\n<p>The frog attacks by eating enemies by pulling them in with its tongue.</p>",
+        "author_id": 12562065501069,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12553859640077-Tame-Frogs/comments/12620967148045",
+        "created_at": "2023-01-27T21:55:32Z",
+        "updated_at": "2023-01-27T21:57:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12553859640077/comments/12620967148045.json",
+        "post_id": 12553859640077,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 12632189073037,
+        "body": "<p>Well MOJANG could put a more effort into taming frogs. Maybe it could give you a jump boost when tamed for 10-5 seconds</p>",
+        "author_id": 12631062143629,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12553859640077-Tame-Frogs/comments/12632189073037",
+        "created_at": "2023-01-28T11:05:34Z",
+        "updated_at": "2023-03-30T14:58:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12553859640077/comments/12632189073037.json",
+        "post_id": 12553859640077,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 12196902287501,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 12232665520653,
+        "body": "<p>We Need This In The Game As It Would Benifit so many clumsy players ( by clumsy I mean falls off of mountains easily) myself included </p>",
+        "author_id": 12232565102477,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12196902287501-Grappling-hook/comments/12232665520653",
+        "created_at": "2023-01-13T20:32:01Z",
+        "updated_at": "2023-01-13T20:32:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12196902287501/comments/12232665520653.json",
+        "post_id": 12196902287501,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 11716584742797,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 13016619506701,
+        "body": "<p>Sounds like Minecraft Comes Alive</p>",
+        "author_id": 412333800971,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11716584742797-Having-Children/comments/13016619506701",
+        "created_at": "2023-02-10T19:01:50Z",
+        "updated_at": "2023-02-11T09:45:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11716584742797/comments/13016619506701.json",
+        "post_id": 11716584742797,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 11173386911501,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 11209437230733,
+        "body": "<p>It would be nice but they might just add different terms for the specific leather like Peccary which is the Leather of a pig</p>",
+        "author_id": 398956379872,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11173386911501-more-leather/comments/11209437230733",
+        "created_at": "2022-12-06T01:43:02Z",
+        "updated_at": "2022-12-28T22:59:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11173386911501/comments/11209437230733.json",
+        "post_id": 11173386911501,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 12998668262413,
+        "body": "<p>OR LIKE RABBIT HIDE.</p>\n<p>IM NOT SHOUTING</p>\n<p>(CAPS COPYRIGHT :P)</p>",
+        "author_id": 12997501218445,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11173386911501-more-leather/comments/12998668262413",
+        "created_at": "2023-02-10T04:00:05Z",
+        "updated_at": "2023-02-10T04:00:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11173386911501/comments/12998668262413.json",
+        "post_id": 11173386911501,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 12998730627725,
+        "body": "<p>IF ANY THING , WE NEED MORE crafting recipes FOR LEATHER.</p>",
+        "author_id": 12997501218445,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11173386911501-more-leather/comments/12998730627725",
+        "created_at": "2023-02-10T04:04:55Z",
+        "updated_at": "2023-02-10T04:04:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11173386911501/comments/12998730627725.json",
+        "post_id": 11173386911501,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40279912361869,
+        "body": "<p>Although a bit OP, but what about Mycelium Leather?</p>",
+        "author_id": 39924991210637,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11173386911501-more-leather/comments/40279912361869",
+        "created_at": "2025-10-12T18:35:12Z",
+        "updated_at": "2025-10-12T18:35:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11173386911501/comments/40279912361869.json",
+        "post_id": 11173386911501,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 11014795033869,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 11151196422285,
+        "body": "<p>I personally created this mob and I have always wanted there to be a mob to be able to control your player for a few seconds and in the 2% chance &nbsp;of it controlling you it could make all mobs passive and Evan its self.&nbsp;</p>\n<p>Or give/lead you to them</p>",
+        "author_id": 11151108283405,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11014795033869-The-Infector/comments/11151196422285",
+        "created_at": "2022-12-04T03:12:32Z",
+        "updated_at": "2022-12-04T03:15:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11014795033869/comments/11151196422285.json",
+        "post_id": 11014795033869,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10941085374989,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 10963729536525,
+        "body": "<p>The mechanics sound great, obviously creative liberty when it comes to the mob itself and it's name. I would suggest something in the same family as the Vex and Allay.</p>",
+        "author_id": 387981470931,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10941085374989-New-mob-called-ancient-vex-and-1-new-potion/comments/10963729536525",
+        "created_at": "2022-11-28T15:32:44Z",
+        "updated_at": "2023-01-14T23:13:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10941085374989/comments/10963729536525.json",
+        "post_id": 10941085374989,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10921173992077,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 10925549821197,
+        "body": "<p>This would be really good for different mini-games as well as for getting the player into hard-to-reach places. I like this idea!</p>",
+        "author_id": 1901469155027,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10921173992077-slimy-enderpearls/comments/10925549821197",
+        "created_at": "2022-11-26T12:30:50Z",
+        "updated_at": "2023-02-10T04:31:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10921173992077/comments/10925549821197.json",
+        "post_id": 10921173992077,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 10933220731021,
+        "body": "<p>OoOoH...that genuis</p>\n<p>&nbsp;</p>",
+        "author_id": 7153842117773,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10921173992077-slimy-enderpearls/comments/10933220731021",
+        "created_at": "2022-11-26T20:50:10Z",
+        "updated_at": "2023-02-10T04:31:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10921173992077/comments/10933220731021.json",
+        "post_id": 10921173992077,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 12998967834509,
+        "body": "<p>How about surrounding it with slime balls/blocks.</p>",
+        "author_id": 12997501218445,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10921173992077-slimy-enderpearls/comments/12998967834509",
+        "created_at": "2023-02-10T04:31:40Z",
+        "updated_at": "2023-02-10T04:31:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10921173992077/comments/12998967834509.json",
+        "post_id": 10921173992077,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 12999028889485,
+        "body": "<p>How about surrounding it with slime balls/blocks.</p>",
+        "author_id": 12997501218445,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10921173992077-slimy-enderpearls/comments/12999028889485",
+        "created_at": "2023-02-10T04:44:50Z",
+        "updated_at": "2023-02-10T04:44:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10921173992077/comments/12999028889485.json",
+        "post_id": 10921173992077,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10871032090893,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 10874581462925,
+        "body": "<p>I like almost anything sculk.</p>",
+        "author_id": 10495498582029,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10871032090893-sculk-gauntlet/comments/10874581462925",
+        "created_at": "2022-11-24T03:08:12Z",
+        "updated_at": "2022-11-24T03:08:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10871032090893/comments/10874581462925.json",
+        "post_id": 10871032090893,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 10877235598605,
+        "body": "<p>If this cannot be worn on the arm on an ongoing basis, then it is more likely a cestus or brass knuckles.\n<br />If you suggest adding a separate arm armor slot, then you need to add gauntlets / bracers from all possible materials.</p>",
+        "author_id": 416461943171,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10871032090893-sculk-gauntlet/comments/10877235598605",
+        "created_at": "2022-11-24T08:54:48Z",
+        "updated_at": "2023-02-10T04:54:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10871032090893/comments/10877235598605.json",
+        "post_id": 10871032090893,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 10889143120141,
+        "body": "<p>Hmm.. Not a bad idea!</p>\n<p>&nbsp;</p>",
+        "author_id": 10888731995533,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10871032090893-sculk-gauntlet/comments/10889143120141",
+        "created_at": "2022-11-24T18:43:49Z",
+        "updated_at": "2022-11-24T18:43:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10871032090893/comments/10889143120141.json",
+        "post_id": 10871032090893,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 10910190458125,
+        "body": "<p>i always liked sculk</p>\n<p>&nbsp;</p>",
+        "author_id": 7216913338765,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10871032090893-sculk-gauntlet/comments/10910190458125",
+        "created_at": "2022-11-25T17:41:39Z",
+        "updated_at": "2022-11-25T17:41:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10871032090893/comments/10910190458125.json",
+        "post_id": 10871032090893,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 11110642097421,
+        "body": "<p>How would this be obtained? How would it be worn (bow or crossbow)?</p>",
+        "author_id": 7705152275725,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10871032090893-sculk-gauntlet/comments/11110642097421",
+        "created_at": "2022-12-02T18:33:25Z",
+        "updated_at": "2022-12-02T18:33:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10871032090893/comments/11110642097421.json",
+        "post_id": 10871032090893,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10689445457421,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 10689446103309,
+        "body": "<p>the ejector should be able to plant all the tree seedlings and also the vegetables.</p>",
+        "author_id": 395275796572,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10689445457421-Dispenser-to-plant-saplings/comments/10689446103309",
+        "created_at": "2022-11-17T02:08:21Z",
+        "updated_at": "2022-11-17T02:08:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10689445457421/comments/10689446103309.json",
+        "post_id": 10689445457421,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10600638334733,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 10621132100493,
+        "body": "<p>Indeed maybe when shift clicked or something so you can still just place when standing.</p>",
+        "author_id": 421146794791,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10600638334733-Make-an-interface-for-bookshelves/comments/10621132100493",
+        "created_at": "2022-11-14T17:28:31Z",
+        "updated_at": "2023-02-03T20:56:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10600638334733/comments/10621132100493.json",
+        "post_id": 10600638334733,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 10672371976333,
+        "body": "<p>You can forget.</p>",
+        "author_id": 416461943171,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10600638334733-Make-an-interface-for-bookshelves/comments/10672371976333",
+        "created_at": "2022-11-16T15:47:50Z",
+        "updated_at": "2022-11-17T20:47:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10600638334733/comments/10672371976333.json",
+        "post_id": 10600638334733,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10555849880077,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 10563652384525,
+        "body": "<p>that should spy mode. spectator should allow you to look through other player's and mobs' eyes, if it already doesn't</p>",
+        "author_id": 423697666412,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10555849880077-spectator-mode/comments/10563652384525",
+        "created_at": "2022-11-11T16:16:18Z",
+        "updated_at": "2023-01-19T04:23:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10555849880077/comments/10563652384525.json",
+        "post_id": 10555849880077,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 11542611661709,
+        "body": "<p>Yay</p>",
+        "author_id": 11542610754701,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10555849880077-spectator-mode/comments/11542611661709",
+        "created_at": "2022-12-17T23:00:31Z",
+        "updated_at": "2022-12-17T23:00:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10555849880077/comments/11542611661709.json",
+        "post_id": 10555849880077,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 12371230036237,
+        "body": "<p>We (Bedrock) should be able to see through mobs eyes like in Java.</p>",
+        "author_id": 9875875412877,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10555849880077-spectator-mode/comments/12371230036237",
+        "created_at": "2023-01-19T04:22:25Z",
+        "updated_at": "2023-03-01T21:36:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10555849880077/comments/12371230036237.json",
+        "post_id": 10555849880077,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10545806098957,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 10551484098829,
+        "body": "<p>Minor changes like these make Minecraft better! However, I’m not so sure about the spider one.</p>",
+        "author_id": 7705152275725,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10545806098957-Spiders-spawn-and-more/comments/10551484098829",
+        "created_at": "2022-11-11T01:56:20Z",
+        "updated_at": "2022-11-12T21:52:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10545806098957/comments/10551484098829.json",
+        "post_id": 10545806098957,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10316243871629,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 10621991212429,
+        "body": "<p>Maps are already an item. I get that things like nether portals don't appear on them, but I think it would be better to change existing maps, rather than add a new built in minimap.</p>",
+        "author_id": 9890343896845,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10316243871629-Minecraft-should-add-a-Minimap/comments/10621991212429",
+        "created_at": "2022-11-14T17:55:41Z",
+        "updated_at": "2024-03-30T20:53:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10316243871629/comments/10621991212429.json",
+        "post_id": 10316243871629,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10259119529357,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 10259221592589,
+        "body": "<p>Yes, but you need to create artificial intelligence support for the blind effect, otherwise the mobs will not react.\n<br />In older versions, mobs saw invisible players.</p>",
+        "author_id": 416461943171,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10259119529357-throw-potions-of-blindness/comments/10259221592589",
+        "created_at": "2022-10-30T17:57:50Z",
+        "updated_at": "2023-02-18T16:23:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10259119529357/comments/10259221592589.json",
+        "post_id": 10259119529357,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 10293616637709,
+        "body": "<p>Having blindness as an effect in the player's arsenal would be indeed quite neat, but you'd also need a brewing recipe for that effect. Problem is, the logical path of \"corrupting\" a night vision potion with a fermented spider eye is already taken up by the invisibility potion.</p>\n<p>Maybe ink sacks could find another use here by being the brewing ingredient for blindness potions.</p>",
+        "author_id": 10213108317069,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10259119529357-throw-potions-of-blindness/comments/10293616637709",
+        "created_at": "2022-11-01T02:34:12Z",
+        "updated_at": "2023-02-18T16:24:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10259119529357/comments/10293616637709.json",
+        "post_id": 10259119529357,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10110388802829,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 10608196985869,
+        "body": "<p>I agree. Cause judging based on coloration doesn't really help much (for example, the bat spawn egg and tadpole spawn egg are nearly identical except one is slightly brighter... not to mention the ghast and polar bear spawn eggs :/)</p>",
+        "author_id": 418873283952,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10110388802829--Creative-inventory-Sort-spawn-eggs-in-a-more-convenient-way/comments/10608196985869",
+        "created_at": "2022-11-14T06:36:47Z",
+        "updated_at": "2022-11-18T06:51:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10110388802829/comments/10608196985869.json",
+        "post_id": 10110388802829,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10033748973581,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 10689080806797,
+        "body": "<p>I mean, that's how camels look! Why not put it in Minecraft? Also, for aesthetic purposes, why not make it so that you can put carpets on camels too?&nbsp;</p>",
+        "author_id": 5954270160909,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10033748973581-Hanging-bags-on-camels/comments/10689080806797",
+        "created_at": "2022-11-17T01:41:25Z",
+        "updated_at": "2022-11-17T01:41:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10033748973581/comments/10689080806797.json",
+        "post_id": 10033748973581,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 11312316479117,
+        "body": "<p>The same goes for llamas, chests should no longer work.</p>",
+        "author_id": 416461943171,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10033748973581-Hanging-bags-on-camels/comments/11312316479117",
+        "created_at": "2022-12-09T10:05:15Z",
+        "updated_at": "2022-12-09T10:05:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10033748973581/comments/11312316479117.json",
+        "post_id": 10033748973581,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4411856340109,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4411872571277,
+        "body": "<p>I agree bedrock is better but also now that consles support mods why not allow them on bedrock</p>",
+        "author_id": 418868314732,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4411856340109-glow-armor-and-tools/comments/4411872571277",
+        "created_at": "2021-10-22T17:47:29Z",
+        "updated_at": "2021-12-11T21:57:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4411856340109/comments/4411872571277.json",
+        "post_id": 4411856340109,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 18104127000077,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 19829853836045,
+        "body": "<p>There’s not a way to place blocks on pink petals without breaking them first, I find this annoying too. I have made a suggestion to Minecraft.</p>",
+        "author_id": 19156399308429,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/18104127000077-More-Petals-Leaves/comments/19829853836045",
+        "created_at": "2023-09-25T22:56:45Z",
+        "updated_at": "2024-01-18T23:27:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/18104127000077/comments/19829853836045.json",
+        "post_id": 18104127000077,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,817 @@
+[
+  {
+    "post_id": 19551478008077,
+    "expected_comment_count": 3,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 24326176328973,
+        "body": "<p>I agree, the lack of similar accessibility tools in Bedrock compared to Java is what keeps me from playing Bedrock.&nbsp; Minecraft is a great family friendly game in many ways, but Java is more so since it has more accessibility options for people with physical challenges. This will only get more pronounced as the gaming community ages.&nbsp; Having the toggle for Sprint and Sneak is great for folks with hand/wrist problems.&nbsp; The visual toggles are fantastic for folks with sight and perception problems.&nbsp; Both of these problems become more pronounced as people age.&nbsp;&nbsp;<br><br></p>\n<p>The more accessibility, the more the game appeals to a broader player base.&nbsp; That will increase your game sales which is the goal of any company.&nbsp; This is particularly important as it appears that Bedrock is getting more and more features which puts it in a position to eliminate Java edition entirely.&nbsp; I know if that does happen and Bedrock doesn't get these accessibility features I'm not going to be able to play the game anymore.&nbsp;&nbsp;</p>",
+        "author_id": 19228322520589,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/19551478008077-Expansion-of-Minecraft-Bedrock-accessibility-settings/comments/24326176328973",
+        "created_at": "2024-02-21T16:58:26Z",
+        "updated_at": "2024-02-21T18:36:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/19551478008077/comments/24326176328973.json",
+        "post_id": 19551478008077,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 25165975725453,
+        "body": "<p>There is a mode for Java edition that let's blind players Play Minecraft should learn from this and implement a similar thing in bedrock</p>",
+        "author_id": 25166000482445,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/19551478008077-Expansion-of-Minecraft-Bedrock-accessibility-settings/comments/25165975725453",
+        "created_at": "2024-03-20T07:24:59Z",
+        "updated_at": "2024-03-20T14:45:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/19551478008077/comments/25165975725453.json",
+        "post_id": 19551478008077,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 28582635058957,
+        "body": "<p>The nether portal distortion effect is one of the biggest changes in settings that I’d like to see. My sense of direction gets completely thrown out the window when I go through a portal. I don’t usually get nauseous from it, but it has happened every now and then </p>",
+        "author_id": 28582577417485,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/19551478008077-Expansion-of-Minecraft-Bedrock-accessibility-settings/comments/28582635058957",
+        "created_at": "2024-07-20T17:15:58Z",
+        "updated_at": "2024-07-22T00:58:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/19551478008077/comments/28582635058957.json",
+        "post_id": 19551478008077,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 43566093224205,
+        "body": "<p>Please add an in-game voice chat feature to Minecraft Bedrock Edition 1.21.124.\n<br />Thank you.</p>",
+        "author_id": 43566058657549,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/19551478008077-Expansion-of-Minecraft-Bedrock-accessibility-settings/comments/43566093224205",
+        "created_at": "2026-02-16T18:25:08Z",
+        "updated_at": "2026-02-16T18:25:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/19551478008077/comments/43566093224205.json",
+        "post_id": 19551478008077,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 17795302449165,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 19564766675981,
+        "body": "<p>Nice idea but idk about the \"Quit without saving\" is a very good idea. As you can just crash minecraft and do it.</p>",
+        "author_id": 19564421331213,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/17795302449165-Saving-the-game/comments/19564766675981",
+        "created_at": "2023-09-16T22:04:45Z",
+        "updated_at": "2024-02-10T08:18:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/17795302449165/comments/19564766675981.json",
+        "post_id": 17795302449165,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 22290347683469,
+        "body": "<p>There is a way to crash the game. It involves a sticky piston and lectern with a book and quill.</p>\n<p>To reproduce:</p>\n<ol>\n<li>Power the piston</li>\n<li>Quickly open the Book and quill on the lectern, and flick the pages quickly back and forth until the piston retracts</li>\n<li>If it didn’t work try again</li>\n</ol>\n<p><em>This is an unreported crash on Bedrock Edition. Works on multiple platforms.</em></p>\n<p>&nbsp;</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/17795302449165-Saving-the-game/comments/22290347683469",
+        "created_at": "2023-12-12T21:13:14Z",
+        "updated_at": "2024-02-10T08:18:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/17795302449165/comments/22290347683469.json",
+        "post_id": 17795302449165,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 16971902455053,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 29801723680909,
+        "body": "<p>how?</p>",
+        "author_id": 29801689144077,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/16971902455053-New-Languages/comments/29801723680909",
+        "created_at": "2024-08-30T18:20:16Z",
+        "updated_at": "2024-08-30T18:20:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/16971902455053/comments/29801723680909.json",
+        "post_id": 16971902455053,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 14195358266893,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 14195409032973,
+        "body": "<p>VOTE SO WE CAN GET VOCIECHAT IN THE GAME!!!!!!</p>",
+        "author_id": 8168200565005,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/14195358266893-Vociechat/comments/14195409032973",
+        "created_at": "2023-03-21T22:33:24Z",
+        "updated_at": "2023-03-21T22:33:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/14195358266893/comments/14195409032973.json",
+        "post_id": 14195358266893,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 14252459798541,
+        "body": "<p>That's already been rejected. \"There's tons of other services you can use.\"</p>",
+        "author_id": 419344921172,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/14195358266893-Vociechat/comments/14252459798541",
+        "created_at": "2023-03-23T18:27:18Z",
+        "updated_at": "2023-03-23T18:27:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/14195358266893/comments/14252459798541.json",
+        "post_id": 14195358266893,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10846612592909,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 11552534649741,
+        "body": "<p>I feel bad for deaf people playing bedrock. They must die a lot more because they cannot hear a creeper hiss or a zombie moan!</p>",
+        "author_id": 10603563896845,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10846612592909-Playability-for-Deaf-Individuals/comments/11552534649741",
+        "created_at": "2022-12-18T16:28:48Z",
+        "updated_at": "2023-01-26T06:39:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10846612592909/comments/11552534649741.json",
+        "post_id": 10846612592909,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 12560290931981,
+        "body": "<p>100% agree with this </p>",
+        "author_id": 12560008301837,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10846612592909-Playability-for-Deaf-Individuals/comments/12560290931981",
+        "created_at": "2023-01-26T00:57:01Z",
+        "updated_at": "2023-01-26T04:57:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10846612592909/comments/12560290931981.json",
+        "post_id": 10846612592909,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10008209411725,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 16656820999181,
+        "body": "<p>On PC I can break blocks fast when I'm standing still and I can break blocks faster like a trail when I'm flying forward towards it. On mobile I break blocks slow like 1/2 of a second. on settings in minecraft, I suggest how fast or slow you can break them from 1/2 to 1/4 of a second and maybe the trail breaking can be added.</p>",
+        "author_id": 16656605594381,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10008209411725-Mining-speed-option-toggle-for-Creative-Mode-Variable-Speeds-Insta-mine/comments/16656820999181",
+        "created_at": "2023-06-12T00:39:55Z",
+        "updated_at": "2023-06-26T19:49:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10008209411725/comments/16656820999181.json",
+        "post_id": 10008209411725,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 17092224015629,
+        "body": "<p>I have to agree. I didn't notice this until now due to always playing in survival, but one thing I loved about Minecraft creative was that I could easily break blocks at a fast speed. I feel like this was changed because many people complained about how they kept accidentally destroying things, but now this new update is a big hindrance. I'm sorry that they went through the trouble to change it, but as a middle ground it would be nice if they gave us the option to change it back to the original speed (faster)</p>",
+        "author_id": 17092142799629,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10008209411725-Mining-speed-option-toggle-for-Creative-Mode-Variable-Speeds-Insta-mine/comments/17092224015629",
+        "created_at": "2023-06-26T19:49:04Z",
+        "updated_at": "2023-09-21T13:25:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10008209411725/comments/17092224015629.json",
+        "post_id": 10008209411725,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5497950293389,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 9845457792653,
+        "body": "<p>Ya this should have more votes I would like to see old invites because i was added to a realm and I need to know who invited me</p>",
+        "author_id": 9845381481613,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5497950293389-Some-way-to-see-invites-on-Minecraft-Pocket-Edition/comments/9845457792653",
+        "created_at": "2022-10-13T00:21:55Z",
+        "updated_at": "2022-10-13T10:06:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5497950293389/comments/9845457792653.json",
+        "post_id": 5497950293389,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4417015950349,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4423383131149,
+        "body": "<p>Yeah, I would like that.</p>",
+        "author_id": 422003056111,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4417015950349-Put-elytra-over-armour/comments/4423383131149",
+        "created_at": "2022-01-29T07:27:19Z",
+        "updated_at": "2022-01-29T07:27:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4417015950349/comments/4423383131149.json",
+        "post_id": 4417015950349,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4415983716237,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4421239553293,
+        "body": "<p>Defs need!!!</p>",
+        "author_id": 423170328472,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4415983716237-Private-server-access-on-consoles/comments/4421239553293",
+        "created_at": "2022-01-16T14:52:49Z",
+        "updated_at": "2022-01-16T14:52:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4415983716237/comments/4421239553293.json",
+        "post_id": 4415983716237,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4414148253325,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4423383192461,
+        "body": "<p>Oh yeah! &nbsp;lol</p>",
+        "author_id": 422003056111,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4414148253325-Rickroll-Splash-Text/comments/4423383192461",
+        "created_at": "2022-01-29T07:31:02Z",
+        "updated_at": "2022-03-13T22:32:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4414148253325/comments/4423383192461.json",
+        "post_id": 4414148253325,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4413151496973,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 32104625332749,
+        "body": "<p>&nbsp;</p>\n<p>really cool!</p>\n<p>they should also add the Axel type skin from Story Mode to Minecraft</p>\n<p>&nbsp;</p>",
+        "author_id": 32104563421837,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4413151496973-More-Player-Models-like-Slim-Alex/comments/32104625332749",
+        "created_at": "2024-11-22T18:00:12Z",
+        "updated_at": "2024-11-22T23:06:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4413151496973/comments/32104625332749.json",
+        "post_id": 4413151496973,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4410898871309,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 28107954789261,
+        "body": "<p>I agree with this Idea of having right to left hotbar, because as. a mobile player there's not much space for us to click properly the hotbar using our left hand because I am right handed and I am only capable of reaching the 6,7,8,9,10 boxes of the hotbar and it is very hard for me to reach the 1,2,3,4,5 I hope there's A pack that will help me with this or an option</p>",
+        "author_id": 28107781048845,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4410898871309-Reversed-Hotbar-option-bedrock/comments/28107954789261",
+        "created_at": "2024-07-03T13:23:15Z",
+        "updated_at": "2024-07-03T14:28:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4410898871309/comments/28107954789261.json",
+        "post_id": 4410898871309,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4404679302413,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5254853499405,
+        "body": "<p>I realized that this setting is quite deep. I think that to configure each type of weapon, C/D, damage, knockback, attack distance, a configuration chart is needed in a separate menu.<br>&nbsp; This will make it easier to create custom PVP maps and add BALANCED equipment, including FOR DEVELOPERS.</p>",
+        "author_id": 416461943171,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404679302413-Customisable-Combat-Settings/comments/5254853499405",
+        "created_at": "2022-04-02T18:11:22Z",
+        "updated_at": "2022-04-02T18:40:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404679302413/comments/5254853499405.json",
+        "post_id": 4404679302413,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078034592,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 18724437313293,
+        "body": "<ul>\n<li>yes man that would be amazing sometimes I play on big servers an then there is just like a big chunky scoreboard in my face... it really sucks</li>\n</ul>",
+        "author_id": 408522308012,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078034592-Hide-Scoreboard/comments/18724437313293",
+        "created_at": "2023-08-21T13:34:47Z",
+        "updated_at": "2023-09-29T17:02:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078034592/comments/18724437313293.json",
+        "post_id": 360078034592,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076968571,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4413322403981,
+        "body": "<p>Yes it makes me very sad that I can't 100% the trophy list for minecraft</p>",
+        "author_id": 421813687071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076968571-Remove-Minigames-Trophies-from-PlayStation/comments/4413322403981",
+        "created_at": "2021-11-11T06:32:24Z",
+        "updated_at": "2021-11-11T11:35:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076968571/comments/4413322403981.json",
+        "post_id": 360076968571,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 27036473324301,
+        "body": "<p>Yeah they should just delete it</p>",
+        "author_id": 9165914281101,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076968571-Remove-Minigames-Trophies-from-PlayStation/comments/27036473324301",
+        "created_at": "2024-05-25T16:39:52Z",
+        "updated_at": "2024-05-25T16:57:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076968571/comments/27036473324301.json",
+        "post_id": 360076968571,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 33327064560781,
+        "body": "<p>if this post gets popular enough they will Implement it into the game&nbsp;</p>",
+        "author_id": 28858251428621,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076968571-Remove-Minigames-Trophies-from-PlayStation/comments/33327064560781",
+        "created_at": "2025-01-08T22:50:28Z",
+        "updated_at": "2025-01-08T22:50:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076968571/comments/33327064560781.json",
+        "post_id": 360076968571,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077075332,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014304412,
+        "body": "<p>I strongly vouch for this.</p>\n<p>We get a lot of confused WorldEdit users asking us for help with this message, believing it's a WorldEdit error. They seem to accidentally get into a state where chat is disabled, and due to the confusing message have no idea what's going wrong.</p>",
+        "author_id": 407136794012,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077075332-Modify-the-Cannot-send-chat-message-message/comments/360014304412",
+        "created_at": "2021-02-08T12:10:00Z",
+        "updated_at": "2021-02-08T12:26:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077075332/comments/360014304412.json",
+        "post_id": 360077075332,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076220051,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 16325569962893,
+        "body": "<p>I completely agree, it's so hard playing with these scares</p>",
+        "author_id": 365512357751,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076220051-Jump-Scare-Controls-for-Mental-Health-Accessibility/comments/16325569962893",
+        "created_at": "2023-06-01T17:54:07Z",
+        "updated_at": "2023-06-01T18:12:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076220051/comments/16325569962893.json",
+        "post_id": 360076220051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076208892,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 14297353686029,
+        "body": "<p>It is so heck based thing, OMG. Why did they AT ALL need to add it when everything worked so well before? The recipe for the first wooden pick was passed from mouth to mouth, from older brother to younger, from father to son! Damn, i'm so missing the times when game was simpler...</p>",
+        "author_id": 387982490311,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076208892-Option-to-disable-recipe-book/comments/14297353686029",
+        "created_at": "2023-03-25T02:45:02Z",
+        "updated_at": "2023-10-19T21:20:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076208892/comments/14297353686029.json",
+        "post_id": 360076208892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074923931,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4407953240589,
+        "body": "<p>Hi. I agree with you. Persian and other Middle Eastern languages ​​should be added.</p>",
+        "author_id": 1901146047187,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074923931-Language/comments/4407953240589",
+        "created_at": "2021-08-26T22:17:05Z",
+        "updated_at": "2021-09-04T16:15:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074923931/comments/4407953240589.json",
+        "post_id": 360074923931,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4408548728333,
+        "body": "<p>Pls add afrikaans to bedrock</p>",
+        "author_id": 419980269571,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074923931-Language/comments/4408548728333",
+        "created_at": "2021-09-04T16:14:52Z",
+        "updated_at": "2021-09-27T19:05:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074923931/comments/4408548728333.json",
+        "post_id": 360074923931,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4410149495437,
+        "body": "<p>Has not the African language been added to Minecraft?</p>",
+        "author_id": 1901146047187,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074923931-Language/comments/4410149495437",
+        "created_at": "2021-09-27T19:06:09Z",
+        "updated_at": "2022-09-11T12:38:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074923931/comments/4410149495437.json",
+        "post_id": 360074923931,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074951892,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013624772,
+        "body": "<p>I think the Furnace Minecart simply acts as a cheaper alternative to placing down powered rails. On the other hand, they could be made to both be powered by coal and cook things at the same time.</p>",
+        "author_id": 406280981491,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074951892-Change-function-of-furnace-Minecart/comments/360013624772",
+        "created_at": "2020-11-25T02:50:47Z",
+        "updated_at": "2020-11-25T04:48:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074951892/comments/360013624772.json",
+        "post_id": 360074951892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013676191,
+        "body": "<p>I quite like the current use. It makes moving villagers into your farms significantly easier and cheaper as it will push other minecarts forward, and a furnace minecart can go a good hundred blocks before needing more coal.</p>\n<p><img src=\"https://feedback.minecraft.net/hc/user_images/KF9eOQ_qf3raqNCUJWO27A.png\"></p>",
+        "author_id": 407369730852,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074951892-Change-function-of-furnace-Minecart/comments/360013676191",
+        "created_at": "2020-12-04T19:49:06Z",
+        "updated_at": "2020-12-07T19:46:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074951892/comments/360013676191.json",
+        "post_id": 360074951892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013709711,
+        "body": "<p>It is slower and powered rail Is quite fast. If we use powered rail then moving villagers will be quite fast and save a lot of time</p>\n\n<p>If furnace minecart behave as movable furnace then it will give rise to quite a large no of contraption that involve smelting </p>",
+        "author_id": 391454224272,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074951892-Change-function-of-furnace-Minecart/comments/360013709711",
+        "created_at": "2020-12-08T16:10:43Z",
+        "updated_at": "2020-12-08T16:10:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074951892/comments/360013709711.json",
+        "post_id": 360074951892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4412843897485,
+        "body": "<p>yeah but you forgot that the furnace with minecart can connect up to 4 minecarts together (not sure if the furnace with minecart counts as one). Just make sure not to go through any turns. I think a better way would be to make it so that sneak+right-click with coal [or any fuel] in hand gives the original use [&amp; adds to the burn timer], whereas regular right-click will open the \"furnace\" gui.</p>",
+        "author_id": 414754245951,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074951892-Change-function-of-furnace-Minecart/comments/4412843897485",
+        "created_at": "2021-11-06T01:05:22Z",
+        "updated_at": "2021-11-06T01:05:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074951892/comments/4412843897485.json",
+        "post_id": 360074951892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074742272,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013811191,
+        "body": "<p>so it turns out I am not smart and it already exists in chat setting lol</p>",
+        "author_id": 386072654352,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074742272-More-accessible-chat-features-for-people-who-might-have-a-hard-time-reading/comments/360013811191",
+        "created_at": "2020-12-18T20:02:08Z",
+        "updated_at": "2020-12-23T17:46:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074742272/comments/360013811191.json",
+        "post_id": 360074742272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074625771,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013549412,
+        "body": "<p>It should be snapshot related</p>",
+        "author_id": 400423459952,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074625771-A-NEW-tag-for-items-that-have-been-recently-added/comments/360013549412",
+        "created_at": "2020-11-18T11:47:15Z",
+        "updated_at": "2020-11-18T11:47:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074625771/comments/360013549412.json",
+        "post_id": 360074625771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073592651,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013043931,
+        "body": "<p>The name is honestly weirder than azalea, but if that is the case, then i'll vote for it.</p>",
+        "author_id": 404559742051,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073592651-Rename-Azalea-trees-to-Rhododendron-trees-for-accuracy/comments/360013043931",
+        "created_at": "2020-10-09T14:26:03Z",
+        "updated_at": "2021-03-03T17:33:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073592651/comments/360013043931.json",
+        "post_id": 360073592651,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014374212,
+        "body": "<p>I think that the name doesn't need to be changed. \"Azalea\" is way simplier and easier to remember than \"Rhododendron\".</p>",
+        "author_id": 407793893611,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073592651-Rename-Azalea-trees-to-Rhododendron-trees-for-accuracy/comments/360014374212",
+        "created_at": "2021-02-14T19:12:43Z",
+        "updated_at": "2021-03-12T16:00:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073592651/comments/360014374212.json",
+        "post_id": 360073592651,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014649752,
+        "body": "<p>I vote for simplicity.</p>",
+        "author_id": 398830310812,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073592651-Rename-Azalea-trees-to-Rhododendron-trees-for-accuracy/comments/360014649752",
+        "created_at": "2021-03-12T16:00:26Z",
+        "updated_at": "2021-03-12T21:01:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073592651/comments/360014649752.json",
+        "post_id": 360073592651,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073511292,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015452052,
+        "body": "<p>Gamemode 1</p>",
+        "author_id": 415886295211,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073511292-Gabriel-s-ArchAngel-idea/comments/360015452052",
+        "created_at": "2021-05-10T21:07:51Z",
+        "updated_at": "2021-05-10T21:07:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073511292/comments/360015452052.json",
+        "post_id": 360073511292,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360067239731,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 19223201393165,
+        "body": "<p>I tend to play Bedrock on iOS, but across platforms it may be useful to have a wider variety of map pin styles and colors to mark locations for different purposes (i.e. villages in friendly territory, resourcing sites, hazards, points of interest, etc.).  A common convention for providing input to label pins between PC and mobile would also be helpful.</p>",
+        "author_id": 19222573333133,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067239731-The-locator-map-and-locator-pins/comments/19223201393165",
+        "created_at": "2023-09-05T19:54:43Z",
+        "updated_at": "2023-09-21T08:21:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067239731/comments/19223201393165.json",
+        "post_id": 360067239731,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,937 @@
+[
+  {
+    "post_id": 360043098071,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005224392,
+        "body": "<p>What's the point? Please explain.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043098071-Tech-Armor/comments/360005224392",
+        "created_at": "2019-04-11T22:54:19Z",
+        "updated_at": "2019-04-11T22:54:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043098071/comments/360005224392.json",
+        "post_id": 360043098071,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043276732,
+    "expected_comment_count": 7,
+    "actual_comment_count": 7,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005196632,
+        "body": "<p>Sorry but that's like saying there should be a potion for the Conduit.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043276732-Potion-for-Bad-Omen/comments/360005196632",
+        "created_at": "2019-04-09T23:31:08Z",
+        "updated_at": "2019-04-09T23:31:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043276732/comments/360005196632.json",
+        "post_id": 360043276732,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005210392,
+        "body": "<p>I don't see how starting an illager raid is like using or creating the conduit. Could you please explain? Thanks.</p>",
+        "author_id": 379769953871,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043276732-Potion-for-Bad-Omen/comments/360005210392",
+        "created_at": "2019-04-10T22:11:54Z",
+        "updated_at": "2019-04-10T22:17:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043276732/comments/360005210392.json",
+        "post_id": 360043276732,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005225911,
+        "body": "<p>Of course. First of all that's not what I'm saying. What I'm saying is that the Bad Omen and the Conduit Power effects aren't the kind of effects that can be brewed with a potion. Same for the Haste in a Beacon.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043276732-Potion-for-Bad-Omen/comments/360005225911",
+        "created_at": "2019-04-11T22:39:23Z",
+        "updated_at": "2019-04-11T22:39:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043276732/comments/360005225911.json",
+        "post_id": 360043276732,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005226811,
+        "body": "<p>I imagine it would be similar to the poison status effect which can also be gained from a potion. The ability to gain a bad omen status effect could be useful for summoning a raid to gain material or experience or to test defenses. </p>",
+        "author_id": 379769953871,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043276732-Potion-for-Bad-Omen/comments/360005226811",
+        "created_at": "2019-04-12T00:35:18Z",
+        "updated_at": "2019-04-12T15:45:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043276732/comments/360005226811.json",
+        "post_id": 360043276732,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005237332,
+        "body": "<p>You can just not through a potion. If you want to test things out then go into a creative world and test it there.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043276732-Potion-for-Bad-Omen/comments/360005237332",
+        "created_at": "2019-04-12T22:47:52Z",
+        "updated_at": "2019-04-13T04:14:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043276732/comments/360005237332.json",
+        "post_id": 360043276732,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010297751,
+        "body": "<p>Hey blast guess what there is a potion for a conduit its called a water breathing potion</p>",
+        "author_id": 394243573392,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043276732-Potion-for-Bad-Omen/comments/360010297751",
+        "created_at": "2020-04-26T20:39:35Z",
+        "updated_at": "2020-04-26T20:39:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043276732/comments/360010297751.json",
+        "post_id": 360043276732,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012653711,
+        "body": "<p>I like this, This could be used as a verifiable drop farm.&nbsp;</p>",
+        "author_id": 402714500952,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043276732-Potion-for-Bad-Omen/comments/360012653711",
+        "created_at": "2020-09-01T13:57:51Z",
+        "updated_at": "2020-09-01T13:57:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043276732/comments/360012653711.json",
+        "post_id": 360043276732,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043041751,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009444392,
+        "body": "<p>That's a cool idea because it could act like a compass. </p>",
+        "author_id": 394325232412,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043041751-Wind-for-Campfires/comments/360009444392",
+        "created_at": "2020-02-23T20:37:45Z",
+        "updated_at": "2020-02-24T17:10:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043041751/comments/360009444392.json",
+        "post_id": 360043041751,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043227792,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005604392,
+        "body": "<p><img src=\"https://feedback.minecraft.net/hc/user_images/5M86Z4BGmeHlMuNomhsCUA.png\">You mean, like Education Edition? Why don't we have this now already in MCBE/ MCJE?</p>",
+        "author_id": 365502762851,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043227792-big-sign/comments/360005604392",
+        "created_at": "2019-05-12T12:06:31Z",
+        "updated_at": "2019-05-13T15:51:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043227792/comments/360005604392.json",
+        "post_id": 360043227792,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043018391,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005125132,
+        "body": "<p>its kind of OP</p>",
+        "author_id": 379447157112,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043018391-the-dragon-egg/comments/360005125132",
+        "created_at": "2019-04-04T12:55:55Z",
+        "updated_at": "2022-06-24T18:50:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043018391/comments/360005125132.json",
+        "post_id": 360043018391,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005168651,
+        "body": "<p>But the Ender dragon is like the final boss, what are you going to use this OP potion on?</p>",
+        "author_id": 365295211332,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043018391-the-dragon-egg/comments/360005168651",
+        "created_at": "2019-04-08T07:36:05Z",
+        "updated_at": "2022-06-24T18:50:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043018391/comments/360005168651.json",
+        "post_id": 360043018391,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042981691,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005096551,
+        "body": "<p>I think this would be great for the next combat update, and doesn't seem far fetched from what's already in Minecraft, what do you guys think?</p>",
+        "author_id": 376004913171,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042981691-The-Curse-of-Betrayal/comments/360005096551",
+        "created_at": "2019-04-01T21:51:06Z",
+        "updated_at": "2019-04-02T04:24:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042981691/comments/360005096551.json",
+        "post_id": 360042981691,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042966531,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005101692,
+        "body": "<p>Moved to proper category.</p>\n<p>Thanks for your contribution.</p>\n<p>&nbsp;</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042966531-Variants-for-Melon-Blocks/comments/360005101692",
+        "created_at": "2019-04-02T14:41:01Z",
+        "updated_at": "2019-04-02T14:41:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042966531/comments/360005101692.json",
+        "post_id": 360042966531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005242191,
+        "body": "<p>Sorry, I need to clarify this: this is a suggestion for two new blocks, Bark Melon and Stripped Melon, that come from melon blocks. This is what I mean by 'variants.'</p>\n<p>Sorry for the confusion!</p>",
+        "author_id": 377931772131,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042966531-Variants-for-Melon-Blocks/comments/360005242191",
+        "created_at": "2019-04-13T11:08:12Z",
+        "updated_at": "2021-05-18T03:31:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042966531/comments/360005242191.json",
+        "post_id": 360042966531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043128072,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005064111,
+        "body": "<p>But how would it work I suggest it should be crafted by placeing a flower some iron nuggets and a piece of bone meal in the crafting table and it has a area effect that not only hydrates the soil and waters the plants but improves their growth speed but not too much and should have the same durability as the shears</p>",
+        "author_id": 378727425332,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043128072-Watering-Can/comments/360005064111",
+        "created_at": "2019-03-30T00:57:43Z",
+        "updated_at": "2019-03-30T00:58:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043128072/comments/360005064111.json",
+        "post_id": 360043128072,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043049432,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008446072,
+        "body": "<p>I like this idea. My only worry would be ice sheets forming in areas that don't usually have ice. That would be extremely annoying.</p>\n<p>But this behavior in the proper biomes and areas would be really cool.</p>",
+        "author_id": 389838296272,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043049432-Sheets-of-Ice/comments/360008446072",
+        "created_at": "2019-11-18T19:41:01Z",
+        "updated_at": "2019-11-18T19:41:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043049432/comments/360008446072.json",
+        "post_id": 360043049432,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043042552,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005098111,
+        "body": "<p>That's way too overpowered.</p>",
+        "author_id": 370958599952,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043042552-Graham-Crackers-The-snack-that-makes-your-heart-happy/comments/360005098111",
+        "created_at": "2019-04-02T00:16:50Z",
+        "updated_at": "2019-04-02T00:16:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043042552/comments/360005098111.json",
+        "post_id": 360043042552,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014617191,
+        "body": "<p>I like the idea of adding a golden apple to the recipe. I think if Minecraft adds cinnamon, you could use cinnamon instead of the golden apple, so it wouldn't be overpowered. But for now, the golden apple totally works!</p>",
+        "author_id": 400087919372,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043042552-Graham-Crackers-The-snack-that-makes-your-heart-happy/comments/360014617191",
+        "created_at": "2021-03-16T21:40:38Z",
+        "updated_at": "2021-03-16T21:40:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043042552/comments/360014617191.json",
+        "post_id": 360043042552,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042834891,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005023531,
+        "body": "<p>Adjusted title &amp; took out excessive formatting (please don't post in all bold and italics, it's hard to read).</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042834891-Make-any-block-transparent/comments/360005023531",
+        "created_at": "2019-03-27T22:33:50Z",
+        "updated_at": "2019-03-27T22:33:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042834891/comments/360005023531.json",
+        "post_id": 360042834891,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042959352,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004917491,
+        "body": "<p>But the beacon would have to be under the note block, which makes the beacon being used useless. Also it's a very expensive object to use.</p>",
+        "author_id": 365326150692,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042959352-Note-Block-Sounds-Beacon/comments/360004917491",
+        "created_at": "2019-03-20T16:12:11Z",
+        "updated_at": "2019-03-20T16:12:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042959352/comments/360004917491.json",
+        "post_id": 360042959352,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360004922711,
+        "body": "<p>Now Beacons are mainly used for giving the player effects and not mainly used for sounds. I'm just thinking for more sound possibilities for the Note Block.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042959352-Note-Block-Sounds-Beacon/comments/360004922711",
+        "created_at": "2019-03-20T22:23:20Z",
+        "updated_at": "2019-03-22T16:08:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042959352/comments/360004922711.json",
+        "post_id": 360042959352,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360004914892,
+        "body": "<p>We already get sounds from a Beacon getting fully activated so I don't think they would want to have a short note in survival. In creative mode however...</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042959352-Note-Block-Sounds-Beacon/comments/360004914892",
+        "created_at": "2019-03-20T22:24:52Z",
+        "updated_at": "2019-03-22T16:07:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042959352/comments/360004914892.json",
+        "post_id": 360042959352,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042936512,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005180552,
+        "body": "<p>Moved to proper category.</p>\n<p>Thanks for your contribution.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042936512-Campfire-Hot-Embers/comments/360005180552",
+        "created_at": "2019-04-09T01:47:39Z",
+        "updated_at": "2019-04-09T01:47:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042936512/comments/360005180552.json",
+        "post_id": 360042936512,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042666891,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004834971,
+        "body": "<p>It would affect the players near where the potion and projectile collided, wouldn't it?</p>",
+        "author_id": 365326150692,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042666891-Projectiles-and-Potion-Contact/comments/360004834971",
+        "created_at": "2019-03-13T18:10:31Z",
+        "updated_at": "2019-03-13T18:10:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042666891/comments/360004834971.json",
+        "post_id": 360042666891,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360004839051,
+        "body": "<p>If they're close enough then yes.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042666891-Projectiles-and-Potion-Contact/comments/360004839051",
+        "created_at": "2019-03-13T22:50:29Z",
+        "updated_at": "2019-03-13T22:50:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042666891/comments/360004839051.json",
+        "post_id": 360042666891,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042635091,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010183511,
+        "body": "<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">Si, estaríamos bien. </span><span style=\"vertical-align: inherit;\">Podría ser de limo ya que no tiene tantos usos&nbsp;</span></span></p>\n<p>&nbsp;</p>",
+        "author_id": 396881180391,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042635091-Bloques-de-herramienta-y-articulos/comments/360010183511",
+        "created_at": "2020-04-18T16:35:58Z",
+        "updated_at": "2020-04-21T14:31:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042635091/comments/360010183511.json",
+        "post_id": 360042635091,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012208452,
+        "body": "<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">Lo mismo se me ocurrió a mi.</span></span></p>",
+        "author_id": 400899915812,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042635091-Bloques-de-herramienta-y-articulos/comments/360012208452",
+        "created_at": "2020-07-21T22:13:15Z",
+        "updated_at": "2020-07-21T22:13:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042635091/comments/360012208452.json",
+        "post_id": 360042635091,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042820752,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004774692,
+        "body": "<p>I'm sorry but Creeper can't put any armor on because they don't have arms.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042820752-Creeper-Armor/comments/360004774692",
+        "created_at": "2019-03-09T00:03:22Z",
+        "updated_at": "2019-03-09T00:03:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042820752/comments/360004774692.json",
+        "post_id": 360042820752,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360004778791,
+        "body": "<p>These kinds of armor don't really make any sense.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042820752-Creeper-Armor/comments/360004778791",
+        "created_at": "2019-03-09T00:03:52Z",
+        "updated_at": "2019-03-09T00:03:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042820752/comments/360004778791.json",
+        "post_id": 360042820752,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042586371,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004768112,
+        "body": "<p>could you please review this suggestion and fix any errors as it is a tad bit hard to understand.&nbsp;</p>",
+        "author_id": 377958521712,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042586371-Heavy-Sword/comments/360004768112",
+        "created_at": "2019-03-08T15:23:11Z",
+        "updated_at": "2019-03-08T19:04:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042586371/comments/360004768112.json",
+        "post_id": 360042586371,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042531191,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004755291,
+        "body": "<p>It's called a Speed Potion.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042531191-Spider-agility-potion/comments/360004755291",
+        "created_at": "2019-03-07T03:42:56Z",
+        "updated_at": "2019-03-07T03:42:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042531191/comments/360004755291.json",
+        "post_id": 360042531191,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360004750592,
+        "body": "<p>Why is it called Spider Agility when it's not about Spiders but the players movements?</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042531191-Spider-agility-potion/comments/360004750592",
+        "created_at": "2019-03-07T03:43:55Z",
+        "updated_at": "2019-03-07T03:43:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042531191/comments/360004750592.json",
+        "post_id": 360042531191,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006235412,
+        "body": "<p>because the player gets the agility of a spider. sorry if i answer 2 months later.</p>",
+        "author_id": 377839931852,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042531191-Spider-agility-potion/comments/360006235412",
+        "created_at": "2019-06-27T12:50:16Z",
+        "updated_at": "2019-06-28T18:10:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042531191/comments/360006235412.json",
+        "post_id": 360042531191,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006235552,
+        "body": "<p>and a speed potion doesn't allow to move faster through cobwebs. I've checked. When i say \"move faster\", I say as fast as walking on a block with no cobweb</p>",
+        "author_id": 377839931852,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042531191-Spider-agility-potion/comments/360006235552",
+        "created_at": "2019-06-27T12:56:22Z",
+        "updated_at": "2019-06-28T18:10:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042531191/comments/360006235552.json",
+        "post_id": 360042531191,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042496291,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004738791,
+        "body": "<p>Emmm... ¿No deberias haberlo escrito en ingles?</p>",
+        "author_id": 376290024912,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042496291-nuevas-cosas/comments/360004738791",
+        "created_at": "2019-03-05T21:26:18Z",
+        "updated_at": "2019-03-05T21:26:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042496291/comments/360004738791.json",
+        "post_id": 360042496291,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360004773631,
+        "body": "<p>¿Cómo sería usadas estas armas? ¿Sería mejor que los diamantes? ¿Por que las crearían las personas, solo a tener una arma de color verde?</p>",
+        "author_id": 376999602972,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042496291-nuevas-cosas/comments/360004773631",
+        "created_at": "2019-03-08T16:33:01Z",
+        "updated_at": "2019-03-08T16:33:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042496291/comments/360004773631.json",
+        "post_id": 360042496291,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042194531,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004695772,
+        "body": "<p>Oooh, I like this. Nearly every other block or item in the game is renewable besides dirt, end stone, netherrack, quartz, and lava, as well as a few others. This would eliminate one of those. I do truly like this.</p>",
+        "author_id": 377773670532,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042194531-Mushrooms-turn-logs-into-dirt/comments/360004695772",
+        "created_at": "2019-03-03T00:46:58Z",
+        "updated_at": "2019-03-04T17:33:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042194531/comments/360004695772.json",
+        "post_id": 360042194531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005056811,
+        "body": "<p>Moved to proper category.Thanks for your contribution.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042194531-Mushrooms-turn-logs-into-dirt/comments/360005056811",
+        "created_at": "2019-03-29T19:03:49Z",
+        "updated_at": "2019-03-29T19:03:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042194531/comments/360005056811.json",
+        "post_id": 360042194531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 6861160702861,
+        "body": "<p>Dirt is now renewable because of stone generators which moss can turn to more moss. The moss can later be turned into podzol, then dirt. I suggest it could turn into another type of dirt like podzol. It should also occur naturally with logs that spawn on their side.</p>",
+        "author_id": 1902647993467,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042194531-Mushrooms-turn-logs-into-dirt/comments/6861160702861",
+        "created_at": "2022-06-12T21:39:30Z",
+        "updated_at": "2022-06-12T21:39:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042194531/comments/6861160702861.json",
+        "post_id": 360042194531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360041695531,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004587531,
+        "body": "<p>Someone already came up with that and it's under review.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041695531-Torchlight/comments/360004587531",
+        "created_at": "2019-02-23T22:32:54Z",
+        "updated_at": "2019-02-23T22:32:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041695531/comments/360004587531.json",
+        "post_id": 360041695531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360004599371,
+        "body": "<p>Copying a post that already exists is not okay.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041695531-Torchlight/comments/360004599371",
+        "created_at": "2019-02-24T03:52:36Z",
+        "updated_at": "2019-02-24T03:52:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041695531/comments/360004599371.json",
+        "post_id": 360041695531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360041860132,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004564311,
+        "body": "<p>What hints and hints for what?</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041860132-Robot-Potato/comments/360004564311",
+        "created_at": "2019-02-21T23:48:50Z",
+        "updated_at": "2019-02-21T23:48:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041860132/comments/360004564311.json",
+        "post_id": 360041860132,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360041629171,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004563452,
+        "body": "<p class=\"p1\">Translation:</p>\n<p class=\"p1\">Lapis armor and tools</p>\n<p class=\"p1\">I propose to use lapis lazuli to create lapis lazuli armor and tools for which lapis lazuli is not needed when brewing.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041629171-%D0%91%D1%80%D0%BE%D0%BD%D1%8F-%D0%B8-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-%D0%B8%D0%B7-%D0%BB%D0%B0%D0%B7%D1%83%D1%80%D0%B8%D1%82%D0%B0-Lapis-armor-and-tools/comments/360004563452",
+        "created_at": "2019-02-21T22:43:57Z",
+        "updated_at": "2019-02-21T22:43:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041629171/comments/360004563452.json",
+        "post_id": 360041629171,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013228231,
+        "body": "<p>Предлагаю креативно своими сделать руками мебель из всех материалов в майнкрафте. Это&nbsp; понравиться всем кто хочет играть на телефоне или плоншетах как дизайнер своего дома-сада. И еще добавить новую броню супер героев новые растение и больше матерьялов для стройки сданий и подлобное. Жителей нанимать как работников шахтеров, огородников рыболовов, строителей, и чтоб добавили машины и самолеты. Это понравится всем реализуйте хоть что то из перечисленного это реально необходимо&nbsp; особенно мебель и материалы разные и тгд... спасибо вам!☺👍</p>",
+        "author_id": 405427402972,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041629171-%D0%91%D1%80%D0%BE%D0%BD%D1%8F-%D0%B8-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-%D0%B8%D0%B7-%D0%BB%D0%B0%D0%B7%D1%83%D1%80%D0%B8%D1%82%D0%B0-Lapis-armor-and-tools/comments/360013228231",
+        "created_at": "2020-10-27T06:08:04Z",
+        "updated_at": "2020-10-27T06:08:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041629171/comments/360013228231.json",
+        "post_id": 360041629171,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360041839252,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004540511,
+        "body": "<p>can't you just take the items out? seems like a useless idea</p>",
+        "author_id": 377171737671,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041839252-Furnace-turn-off-button/comments/360004540511",
+        "created_at": "2019-02-21T02:28:24Z",
+        "updated_at": "2019-02-21T02:28:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041839252/comments/360004540511.json",
+        "post_id": 360041839252,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360004552772,
+        "body": "<p>I want this badly! It woukd be awesome for automatic smelters too!</p>",
+        "author_id": 377314064172,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041839252-Furnace-turn-off-button/comments/360004552772",
+        "created_at": "2019-02-21T08:15:05Z",
+        "updated_at": "2019-02-21T08:15:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041839252/comments/360004552772.json",
+        "post_id": 360041839252,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360041794352,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013198272,
+        "body": "<p>I think piercing should just pierce shields, but your idea is ok.</p>",
+        "author_id": 404968520932,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041794352-Piercing-Crossbow-enchantment/comments/360013198272",
+        "created_at": "2020-10-17T22:22:16Z",
+        "updated_at": "2020-10-17T22:22:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041794352/comments/360013198272.json",
+        "post_id": 360041794352,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014478032,
+        "body": "<p>Piercing 4 as a base enchant is basically a dmg boost to armored enemies to a full prot 4 netherite person with piercing 4 a normal arrow does 4 hearts about and instant dmg 2 does about 6 pretty good ideas though</p>",
+        "author_id": 410258959292,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041794352-Piercing-Crossbow-enchantment/comments/360014478032",
+        "created_at": "2021-02-24T03:52:28Z",
+        "updated_at": "2021-02-24T05:30:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041794352/comments/360014478032.json",
+        "post_id": 360041794352,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

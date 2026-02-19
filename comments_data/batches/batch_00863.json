@@ -1,0 +1,862 @@
+[
+  {
+    "post_id": 360061093752,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010440571,
+        "body": "<p>This would actually really help, and it would save a lot of time too. You have my vote!</p>",
+        "author_id": 382910346032,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360061093752-Power-Command/comments/360010440571",
+        "created_at": "2020-05-06T22:40:12Z",
+        "updated_at": "2020-05-07T14:39:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360061093752/comments/360010440571.json",
+        "post_id": 360061093752,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013729971,
+        "body": "<p>Most blocks you can power by doing a command /setblock &lt;coords&gt; &lt;block&gt;[powered=true]</p>\n<p>It works for redstone components like redstone lamp, redstone dust, repeater and so on. Unfortunately it looks like it doesn't work on dragon heads or command blocks</p>",
+        "author_id": 395340720251,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360061093752-Power-Command/comments/360013729971",
+        "created_at": "2020-12-10T10:37:40Z",
+        "updated_at": "2020-12-22T01:11:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360061093752/comments/360013729971.json",
+        "post_id": 360061093752,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360061091092,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010376291,
+        "body": "<p>They could add a gamerule for this called somthing like: enableQuickTp or enableFastTravel. When set to true those commands could be allowed.</p>",
+        "author_id": 397428015471,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360061091092-Minecraft-needs-a-SetHome-command/comments/360010376291",
+        "created_at": "2020-05-01T17:41:57Z",
+        "updated_at": "2020-05-01T20:21:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360061091092/comments/360010376291.json",
+        "post_id": 360061091092,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360059219591,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009798492,
+        "body": "<p>idk if this will work but try /execute in [dimension] run [rest of command]</p>",
+        "author_id": 395028485671,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360059219591-Spawnpoint-command-tweaks/comments/360009798492",
+        "created_at": "2020-03-24T06:33:34Z",
+        "updated_at": "2020-04-21T22:53:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360059219591/comments/360009798492.json",
+        "post_id": 360059219591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009799332,
+        "body": "<p>Good suggestion, makes sense</p>",
+        "author_id": 377096551712,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360059219591-Spawnpoint-command-tweaks/comments/360009799332",
+        "created_at": "2020-03-24T09:22:46Z",
+        "updated_at": "2020-03-24T09:22:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360059219591/comments/360009799332.json",
+        "post_id": 360059219591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360055363032,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009071232,
+        "body": "<p>nightvision already does precisely this</p>",
+        "author_id": 390486852572,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055363032-Fullbright-command/comments/360009071232",
+        "created_at": "2020-01-24T17:23:58Z",
+        "updated_at": "2020-01-24T18:09:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055363032/comments/360009071232.json",
+        "post_id": 360055363032,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360054485012,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013364571,
+        "body": "<p>This is possible using <code>/data remove</code>:</p>\n<pre>/data remove block 12 23 34 Items[{id:\"minecraft:diamond_sword\"}].tag.Enchantments[{id:\"minecraft:sharpness\"}]</pre>",
+        "author_id": 396590871911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054485012-Unenchanting-Command/comments/360013364571",
+        "created_at": "2020-11-08T21:07:25Z",
+        "updated_at": "2020-11-09T01:59:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054485012/comments/360013364571.json",
+        "post_id": 360054485012,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360051079911,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007868411,
+        "body": "<p>I'm all for more triggers ! I would use this.</p>",
+        "author_id": 370500513091,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360051079911-Advancement-trigger-minecraft-opened-chest/comments/360007868411",
+        "created_at": "2019-09-29T02:13:42Z",
+        "updated_at": "2020-03-07T11:52:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360051079911/comments/360007868411.json",
+        "post_id": 360051079911,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360050323191,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007700032,
+        "body": "<p>Light isn't really an entity if this where to be added light would probably have to become a block property in block nbt. This would also probably be really quite hard to develop.</p>",
+        "author_id": 375600302911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050323191--summon-minecraft-light-command/comments/360007700032",
+        "created_at": "2019-09-18T21:57:20Z",
+        "updated_at": "2019-09-18T21:59:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050323191/comments/360007700032.json",
+        "post_id": 360050323191,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 21655564824333,
+        "body": "<p>type</p>\n<p>/give @s light_block 1 15</p>\n<p>and spam that.</p>\n<p>light blocks are invisible light sources that range from light level 0 to 15.</p>",
+        "author_id": 400271757932,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050323191--summon-minecraft-light-command/comments/21655564824333",
+        "created_at": "2023-11-25T03:27:38Z",
+        "updated_at": "2023-11-25T03:27:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050323191/comments/21655564824333.json",
+        "post_id": 360050323191,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048203112,
+    "expected_comment_count": 4,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008265671,
+        "body": "<p>I would love this as well. It would open a lot of possibilities.</p>",
+        "author_id": 384170008191,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048203112-Player-NBT-Looking-At/comments/360008265671",
+        "created_at": "2019-11-02T09:50:01Z",
+        "updated_at": "2020-03-30T08:25:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048203112/comments/360008265671.json",
+        "post_id": 360048203112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010255612,
+        "body": "<p>This is actually doable with commands. You need to summon an armor stand facing the same direction as the player, and teleporting it (inside of a tick) until it hits a block.</p>\n<p>Would be cool if they added an official feature, though</p>",
+        "author_id": 397076560091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048203112-Player-NBT-Looking-At/comments/360010255612",
+        "created_at": "2020-04-23T06:11:00Z",
+        "updated_at": "2020-04-23T14:44:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048203112/comments/360010255612.json",
+        "post_id": 360048203112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010268311,
+        "body": "<p>This way you must wait some time for armorstand to reach block and if you are looking the very corner it can miss this block</p>",
+        "author_id": 395247242951,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048203112-Player-NBT-Looking-At/comments/360010268311",
+        "created_at": "2020-04-24T05:54:31Z",
+        "updated_at": "2020-04-24T17:57:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048203112/comments/360010268311.json",
+        "post_id": 360048203112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010276971,
+        "body": "<p>If you use a function loop, something like</p>\n<p>execute as @p[scores={foo=0}] run function file:function</p>\n<p>File:function being</p>\n<p>execute as @e[type=armor_stand] at @s run tp ^0.1 ^ ^ (dunno if this is correct)<br>execute as @e[type=armor_stand] at @s if block ~ ~ ~ air run scoreboard players set @p foo 1<br>execute as @p[scores={foo=0}] run function file:function</p>\n<p><br>This way, the armor stand will be teleported forward until it hits a block, all during a game tick (1/20 of a second). Obviously you need to set some restrictions, to prevent a softlock if you look in the air (this would make the loop endless, since the armor stand would never reach a block)<br>About the precision, you can adjust the ^0.1 value to a lower value, making it more precise.</p>\n<p>Anways i can't deny that having a nbt tag for this could make things really easier.</p>\n<p>I was just saying that it is already possible to do this, even if it's really clunky</p>",
+        "author_id": 397076560091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048203112-Player-NBT-Looking-At/comments/360010276971",
+        "created_at": "2020-04-24T18:10:18Z",
+        "updated_at": "2020-04-24T19:58:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048203112/comments/360010276971.json",
+        "post_id": 360048203112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 42755169784333,
+        "body": "<p>I also really need this feature. I think it could be made into a predicate. Although it can be achieved using ray casting at present, this method is not perfect because it cannot handle blocks that have an Interaction Box but whose Interaction Box does not occupy a whole block.</p>",
+        "author_id": 42754679474061,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048203112-Player-NBT-Looking-At/comments/42755169784333",
+        "created_at": "2026-01-17T14:55:50Z",
+        "updated_at": "2026-01-17T14:55:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048203112/comments/42755169784333.json",
+        "post_id": 360048203112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048007672,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006379932,
+        "body": "<p>The solution you are looking for is structure blocks. They can save a region in the world, which can optionally include entities, to either memory or disk. When loading a structure using structure blocks, you can rotate or mirror the structure using the GUI. <a href=\"https://minecraft.gamepedia.com/Structure_Block\" target=\"_blank\" rel=\"nofollow noreferrer\">Here</a> is some more information if you are interested. In my opinion, structure blocks are better than /clone because you can see an outline of where the structure would go before actually putting the structure there. If you need a command block or function to clone a structure, rather than doing it manually, you can just /setblock a structure block with the required NBT data and /setblock a redstone block next to the structure block, which will activate the structure block and load the structure.</p>",
+        "author_id": 384380991192,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048007672-Ability-to-change-directions-of-structures-when-cloning/comments/360006379932",
+        "created_at": "2019-07-08T21:09:03Z",
+        "updated_at": "2019-07-08T22:11:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048007672/comments/360006379932.json",
+        "post_id": 360048007672,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38419447322765,
+        "body": "<p>The structure block is not available in Java survival mode. It would be nice if it was added in Java, just like in Bedrock</p>",
+        "author_id": 38419146951309,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048007672-Ability-to-change-directions-of-structures-when-cloning/comments/38419447322765",
+        "created_at": "2025-07-29T20:06:06Z",
+        "updated_at": "2025-07-30T14:59:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048007672/comments/38419447322765.json",
+        "post_id": 360048007672,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360047609131,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006120791,
+        "body": "<p>This is already a thing.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047609131--gamerule-enablepvp-true-false/comments/360006120791",
+        "created_at": "2019-06-18T18:29:03Z",
+        "updated_at": "2019-06-18T18:29:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047609131/comments/360006120791.json",
+        "post_id": 360047609131,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006232711,
+        "body": "<p>This is already a thing</p>",
+        "author_id": 383838078931,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047609131--gamerule-enablepvp-true-false/comments/360006232711",
+        "created_at": "2019-06-27T03:50:37Z",
+        "updated_at": "2019-06-27T03:50:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047609131/comments/360006232711.json",
+        "post_id": 360047609131,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006246032,
+        "body": "<p>Here's a solution<br><br>/team add <em>example<br></em>/team modify <em>example</em>&nbsp;friendlyFire false<br>/team join&nbsp;<em>example</em> @a</p>",
+        "author_id": 369353414692,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047609131--gamerule-enablepvp-true-false/comments/360006246032",
+        "created_at": "2019-06-28T04:07:01Z",
+        "updated_at": "2019-06-28T04:07:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047609131/comments/360006246032.json",
+        "post_id": 360047609131,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006290272,
+        "body": "<p>What about a /gamerule oldcombat true or fales</p>",
+        "author_id": 376220369031,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047609131--gamerule-enablepvp-true-false/comments/360006290272",
+        "created_at": "2019-07-01T19:59:47Z",
+        "updated_at": "2019-07-01T19:59:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047609131/comments/360006290272.json",
+        "post_id": 360047609131,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006292211,
+        "body": "<p>Silas Ernstsen<br><br><a href=\"/hc/en-us/community/posts/360009325291-Add-option-for-legacy-combat-1-8-and-below-\" rel=\"nofollow noreferrer\">https://feedback.minecraft.net/hc/en-us/community/posts/360009325291-Add-option-for-legacy-combat-1-8-and-below-</a></p>",
+        "author_id": 369353414692,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047609131--gamerule-enablepvp-true-false/comments/360006292211",
+        "created_at": "2019-07-02T00:49:00Z",
+        "updated_at": "2019-07-02T00:49:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047609131/comments/360006292211.json",
+        "post_id": 360047609131,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360047601991,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006267411,
+        "body": "<p>I posted a similar request but it's still pending. Really want this paired with held item detectors that check for an item with a specific name so that I can set up classes with special abilities on my bedrock edition server.</p>",
+        "author_id": 378675044132,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047601991-Scoreboard-criteria-for-attack-and-use/comments/360006267411",
+        "created_at": "2019-06-30T05:33:38Z",
+        "updated_at": "2019-06-30T05:33:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047601991/comments/360006267411.json",
+        "post_id": 360047601991,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043041372,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008379111,
+        "body": "<p>I agree with you on this topic, but not on the way you would do it.<br><br>I'm coding Games with Commands and Datapacks for 2 years now and I think there would be an even better way to implement this.<br><br>First of all, it would be great if you could open a non-existing chest. [NBT DATA]</p>\n<p>So your chest would not be in the World. (Useful for servers and Adventure Maps.)<br><br>Second, you should be able to choose the type of Chest GUI. (Hopper, Minecart, Furnace, Crafting Table, Shulker box, chest, enchanting table, ...)<br><br>Interact with players and mobs inventory would be really great!<br>You could spawn an invisible Armor_Stand and get his armor per command.</p>\n<p>Opening an existing chest at a certain position is good. <br>But due to chunk loading it would just cause many problems.<br><br>A thing you should add is to modify the data of the GUI with /data merge<br>And also test for Data inside it /data get.<br><br>This new command would have a huge potential and would be used in many upcoming Maps and Functions.</p>",
+        "author_id": 389692926711,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043041372-The-interact-command/comments/360008379111",
+        "created_at": "2019-11-12T20:27:58Z",
+        "updated_at": "2020-01-23T03:05:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043041372/comments/360008379111.json",
+        "post_id": 360043041372,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008496451,
+        "body": "<p>@Alex Testria</p>\n<p>Hello!</p>\n<p>I lost the original account I've made this post on but I totally agree with everything!</p>\n<p>To solve the chunk loading problem you can easily /forceload the chunk and opening a non-existing chest wouldn't have any chunk loading issues.&nbsp;</p>",
+        "author_id": 383663350471,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043041372-The-interact-command/comments/360008496451",
+        "created_at": "2019-11-22T17:47:31Z",
+        "updated_at": "2019-11-22T17:50:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043041372/comments/360008496451.json",
+        "post_id": 360043041372,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009145812,
+        "body": "<p>It's a nice idea. It would be even better if you could use non-existing blocks or entities (as Alex Testria said) and for chests actually use 9/18/27/36/45/54 slots chests GUIs like in servers with GUIs plugins.</p>",
+        "author_id": 386119881492,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043041372-The-interact-command/comments/360009145812",
+        "created_at": "2020-02-01T09:03:14Z",
+        "updated_at": "2020-02-03T19:05:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043041372/comments/360009145812.json",
+        "post_id": 360043041372,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 26203412759053,
+        "body": "<p>I would do a more built-in approach like the <strong>/ride</strong> command, something like<br><br><em>/interact &lt;player&gt; entity @e[type=villager,limit=1]<br></em><strong>and</strong><em><br></em><em>/interact &lt;player&gt; block ~ ~ ~</em></p>\n<p>to stop an interaction and close the GUI, we could use</p>\n<p><em>/interact &lt;player&gt; close</em></p>",
+        "author_id": 26203156456333,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043041372-The-interact-command/comments/26203412759053",
+        "created_at": "2024-04-25T17:11:54Z",
+        "updated_at": "2024-04-25T18:44:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043041372/comments/26203412759053.json",
+        "post_id": 360043041372,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042893592,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004901192,
+        "body": "<p>Combine the data command with an execute command.</p>\n<p><strong>/execute as &lt;target&gt; run data merge entity @s &lt;NBT&gt;</strong></p>",
+        "author_id": 366131494412,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042893592--data-should-be-able-to-change-multiple-targets/comments/360004901192",
+        "created_at": "2019-03-19T23:28:35Z",
+        "updated_at": "2020-12-19T01:27:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042893592/comments/360004901192.json",
+        "post_id": 360042893592,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009635592,
+        "body": "<p>/execute is also helpful for doing gamemode changes</p>",
+        "author_id": 394143378471,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042893592--data-should-be-able-to-change-multiple-targets/comments/360009635592",
+        "created_at": "2020-03-10T16:57:04Z",
+        "updated_at": "2020-03-10T16:58:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042893592/comments/360009635592.json",
+        "post_id": 360042893592,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360039725552,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5249962149645,
+        "body": "<p>Yes Im not good at commands and that will be useful</p>",
+        "author_id": 5249582001549,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360039725552-Command-dictionary-Bedrock-edition/comments/5249962149645",
+        "created_at": "2022-04-02T13:01:00Z",
+        "updated_at": "2022-04-02T18:23:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360039725552/comments/5249962149645.json",
+        "post_id": 360039725552,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360039422591,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 21264764187917,
+        "body": "<p>This was in bedrock but they removed it which is really annoying</p>",
+        "author_id": 21264736508301,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360039422591-Command-Autofill/comments/21264764187917",
+        "created_at": "2023-11-12T17:22:37Z",
+        "updated_at": "2023-11-12T22:44:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360039422591/comments/21264764187917.json",
+        "post_id": 360039422591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360022473352,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360002234032,
+        "body": "<p>I like the idea. I wanted to do something similar and had to resort to filling the plane, then filling all but the outer edge with air. It would save 1 command block in my case and many in the case of 3D structures. You have my vote! </p>",
+        "author_id": 365167932192,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360022473352-fill-from-to-block-data-value-edge/comments/360002234032",
+        "created_at": "2018-09-10T21:25:24Z",
+        "updated_at": "2018-09-10T21:25:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360022473352/comments/360002234032.json",
+        "post_id": 360022473352,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360003405371,
+        "body": "<p>That's already what \"hollow\" does, if I understand you correctly.</p>",
+        "author_id": 372789097131,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360022473352-fill-from-to-block-data-value-edge/comments/360003405371",
+        "created_at": "2018-12-17T05:46:45Z",
+        "updated_at": "2018-12-17T05:46:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360022473352/comments/360003405371.json",
+        "post_id": 360022473352,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360011082012,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360001225771,
+        "body": "<p>Huh?</p>",
+        "author_id": 365546782631,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360011082012--Forcing-Command/comments/360001225771",
+        "created_at": "2018-06-09T15:44:15Z",
+        "updated_at": "2018-06-09T15:44:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360011082012/comments/360001225771.json",
+        "post_id": 360011082012,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013518732,
+        "body": "<p>This makes literally no sense. Also, that's not how the game works you can't just force a player to do something. The networking of the game literally does not allow that. It would just desynchronize the client from the server and you would just get disconnected.</p>",
+        "author_id": 376126334551,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360011082012--Forcing-Command/comments/360013518732",
+        "created_at": "2020-11-16T04:58:30Z",
+        "updated_at": "2020-11-16T06:26:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360011082012/comments/360013518732.json",
+        "post_id": 360011082012,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40790606164749,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 42120567138061,
+        "body": "<p>Hello! Are you referring to the fact that if you do \"/scoreboard objetives setdisplay list\" there will actually be no list because of this garbage new interface when you pause the game? If yes I have the exact same issue here and it is just sad to see mojang prioritise useless interface changes over the actual usefull mechanics like having more than 1 way to display a scoreboard. Now I can't have 2 different scoreboards displayed at the same time because of this and a lot of my projects make no sense.</p>",
+        "author_id": 42120577504781,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40790606164749-bedrock-1-21-121-1-ui-can-t-use-list/comments/42120567138061",
+        "created_at": "2025-12-21T21:21:30Z",
+        "updated_at": "2025-12-21T21:22:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40790606164749/comments/42120567138061.json",
+        "post_id": 40790606164749,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35246035644429,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35782546071949,
+        "body": "<p>I think this would be a great idea and it would add a lot more functionality to displays than it already has (which is already a lot). Although I feel it could lag out the game if the display was too big.</p>",
+        "author_id": 25862163899149,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35246035644429-Collisions-option-for-Block-Item-Display/comments/35782546071949",
+        "created_at": "2025-04-11T18:55:07Z",
+        "updated_at": "2025-04-11T18:55:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35246035644429/comments/35782546071949.json",
+        "post_id": 35246035644429,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 33398416858253,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 34663557763853,
+        "body": "<p>The \"intersects\" does not change so you can actually just remove it<br><br>And I think you can do it using</p>\n<pre>execute if entity @a[dx=,dy=,dz=]</pre>\n<p>but because of <a href=\"https://bugs.mojang.com/browse/MC/issues/MC-123441\" rel=\"nofollow noreferrer\">Mojira - Issue</a></p>\n<p>it's a little hard to use<br>I prefer to fix MC-123441 more then this</p>\n<p>&nbsp;</p>",
+        "author_id": 34663253262477,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33398416858253-Add-a-Hitbox-Intersection-Check-to-Minecraft-Commands/comments/34663557763853",
+        "created_at": "2025-03-01T19:10:50Z",
+        "updated_at": "2025-03-03T18:09:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33398416858253/comments/34663557763853.json",
+        "post_id": 33398416858253,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 24419609347341,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 24607150950541,
+        "body": "<p>Command block variables would be nice</p>",
+        "author_id": 396996315712,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24419609347341-Command-Block-Variables/comments/24607150950541",
+        "created_at": "2024-03-01T17:16:32Z",
+        "updated_at": "2024-03-01T19:01:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24419609347341/comments/24607150950541.json",
+        "post_id": 24419609347341,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 24003386913037,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 24590537942413,
+        "body": "<p>This!! I'm so tired of finding workarounds for this, it should be so simple.</p>",
+        "author_id": 417565564852,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24003386913037--force-command/comments/24590537942413",
+        "created_at": "2024-03-01T03:26:14Z",
+        "updated_at": "2024-03-01T18:02:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24003386913037/comments/24590537942413.json",
+        "post_id": 24003386913037,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 22426137474445,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 22661006745997,
+        "body": "<p>good idea</p>",
+        "author_id": 13229073398157,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/22426137474445-Snow-setting/comments/22661006745997",
+        "created_at": "2023-12-25T14:08:35Z",
+        "updated_at": "2023-12-25T14:08:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/22426137474445/comments/22661006745997.json",
+        "post_id": 22426137474445,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 20914430997901,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 32331253847565,
+        "body": "<p>This would add a lot of functionality. Think of adding custom scoreboard data and announcing it to the player just by doing something like (but in datapack advancement format):</p>\n<pre>/function pack:currency {add:10}</pre>\n<p>That way only one function has to be created to be used by normal functions and advancements.</p>",
+        "author_id": 14941114979469,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/20914430997901-Advancements-can-run-functions-as-macro/comments/32331253847565",
+        "created_at": "2024-12-02T01:16:11Z",
+        "updated_at": "2024-12-02T01:16:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/20914430997901/comments/32331253847565.json",
+        "post_id": 20914430997901,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 32332312874637,
+        "body": "<p>I don't see the use in accessing player nbt, since the function will be ran from the player getting the advancement. Something like the following would already be more than plenty useful:&nbsp;</p>\n<pre>\"function\": \"datapack:function {\\\"value\\\":\\\"10\\\"}\"</pre>\n<p>This would keep the same structure, or something like:</p>\n<pre>\"function\": {<br>    \"path\": \"datapack:function\",<br>    \"macro\": {<br>        \"value\": 10<br>    }<br>}<br><br></pre>",
+        "author_id": 32331293255821,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/20914430997901-Advancements-can-run-functions-as-macro/comments/32332312874637",
+        "created_at": "2024-12-02T02:30:51Z",
+        "updated_at": "2024-12-02T16:42:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/20914430997901/comments/32332312874637.json",
+        "post_id": 20914430997901,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 20853901595277,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 39423448253325,
+        "body": "<p>There are already plenty of ways to abuse command blocks as is. Being able to do /tick wouldn't be too much worse. Plus it would unlock tons of possibilities for map makers and datapack creators.</p>",
+        "author_id": 18180157479181,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/20853901595277-Command-block-level-permissions/comments/39423448253325",
+        "created_at": "2025-09-09T00:41:51Z",
+        "updated_at": "2025-09-09T00:41:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/20853901595277/comments/39423448253325.json",
+        "post_id": 20853901595277,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

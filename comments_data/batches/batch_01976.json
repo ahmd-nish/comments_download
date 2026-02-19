@@ -1,0 +1,742 @@
+[
+  {
+    "post_id": 360077951331,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015459931,
+        "body": "<p>Or you can accept that the changes that will happen won't be that crucial to the already existing generation of the seed; the biomes that are being added are cave biomes, so they won't mess up with the surface biomes, besides making the surface and underground blend better. The new Mountain biomes might do so, but they are usually 2000 blocks apart each, and given the split of the update their placement where they replace other biomes is probably temporary. I'd say it is likely that they would incorporate them better into the biome generation.The biomes might definitely change up a little bit, but it shouldn't be too big of a deal. Strongholds and Mineshafts generate in essentially the same spots, just usually lower down. Dungeons will be the most affected, changing spots completely, though other Dungeons usually generate somewhere around where you'd expect them to be previously. I see your logic, but the reason I'm being so critical is because it would be extremely complex and performance heavy to simulate an entire world without even opening it, or to lock a certain generation algorithm into such a simple file. From the technical side, this could be a nightmare. A much better solution to your problem would be to either accept how it is, or just give us the ability to load up older versions on Bedrock Edition, and I'd honestly like the second option.</p>",
+        "author_id": 396386292072,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077951331-Being-able-to-save-our-1-16-under-seeds-use-them-in-1-17/comments/360015459931",
+        "created_at": "2021-05-21T07:06:12Z",
+        "updated_at": "2021-05-21T12:15:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077951331/comments/360015459931.json",
+        "post_id": 360077951331,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360015537412,
+        "body": "<p>Thank you so much for telling me! I also agree that we should be able to use older versions on BE.</p>",
+        "author_id": 411461528872,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077951331-Being-able-to-save-our-1-16-under-seeds-use-them-in-1-17/comments/360015537412",
+        "created_at": "2021-05-22T02:59:37Z",
+        "updated_at": "2021-05-28T00:57:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077951331/comments/360015537412.json",
+        "post_id": 360077951331,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360015577291,
+        "body": "<p>No problem :) I'm sure this is something a lot of people are asking for. It is kind of unfair for it to be a Java exclusive (as with quite a few things), though there might be challenges I'm not aware of. Nevertheless, it would be really fun to see how Minecraft was in the past. I don't think it should be too challenging from a technical perspective, given that I can go back to Legacy Console Edition with one press of a button (I play PS4).</p>",
+        "author_id": 396386292072,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077951331-Being-able-to-save-our-1-16-under-seeds-use-them-in-1-17/comments/360015577291",
+        "created_at": "2021-05-28T01:01:55Z",
+        "updated_at": "2021-05-28T03:14:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077951331/comments/360015577291.json",
+        "post_id": 360077951331,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077448631,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4405625259277,
+        "body": "<p>Please Bring Off Hand\n</p>",
+        "author_id": 418603097072,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077448631-Optional-off-hand-Binding/comments/4405625259277",
+        "created_at": "2021-07-23T14:43:49Z",
+        "updated_at": "2021-07-23T14:43:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077448631/comments/4405625259277.json",
+        "post_id": 360077448631,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077513732,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7524908242701,
+        "body": "<p>Well, now the warning for loading a world in newer versions is also gone</p>",
+        "author_id": 7423518961549,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077513732-Warning-for-loading-up-older-versions-of-the-game/comments/7524908242701",
+        "created_at": "2022-07-08T12:28:29Z",
+        "updated_at": "2022-07-19T18:30:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077513732/comments/7524908242701.json",
+        "post_id": 360077513732,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077448992,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 6992813096845,
+        "body": "<p>I almost think this might be a bug. Banners practically offer tutorials to recreate themselves when advanced tooltips are enabled, but we can’t translate the words into patterns.</p>",
+        "author_id": 423562415371,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077448992-Names-of-Banner-patterns-display-when-you-mouse-over-each-pattern/comments/6992813096845",
+        "created_at": "2022-06-17T00:28:54Z",
+        "updated_at": "2022-06-18T19:37:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077448992/comments/6992813096845.json",
+        "post_id": 360077448992,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077417212,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 15503679915277,
+        "body": "<p>There are multiple others who have suggested this, but posted on other threads, even incorrectly under the Minecraft dungeons category, which happens to have around 68 up votes currently. A simple toggle on off button next to the armor icons in the UI or in the world settings would be simple to add. As it is currently, users playing survival worlds have no reason to purchase skins since armor basic will always hide them. This makes the entire category of skins for mine coin less useful  and profitable for the creators. Each of the users in our household laments the inability to hide armor. For those who may suggest mods, there are no mods for console that achieve this. Hours of research revealed a possible old mod for PC but that is no help to console players. Please! </p>",
+        "author_id": 15503501540109,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077417212-Hide-Armor-setting/comments/15503679915277",
+        "created_at": "2023-05-05T03:05:28Z",
+        "updated_at": "2023-05-12T07:29:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077417212/comments/15503679915277.json",
+        "post_id": 360077417212,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077290791,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4406594270989,
+        "body": "<p>I also appreciate to have this. It is a good idea to have 2 or more IPs per server, this add up flexibility to the people that hosts servers.</p>",
+        "author_id": 1900584777667,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077290791-Multiple-IPs-Per-Server/comments/4406594270989",
+        "created_at": "2021-08-06T18:06:51Z",
+        "updated_at": "2021-08-06T18:06:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077290791/comments/4406594270989.json",
+        "post_id": 360077290791,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077170292,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014373272,
+        "body": "<p>Agreed after 1.19 they should be.</p>",
+        "author_id": 399991485912,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077170292-New-Versions-Should-be-Named-2-0-From-Now-On/comments/360014373272",
+        "created_at": "2021-02-14T16:23:08Z",
+        "updated_at": "2021-02-14T18:51:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077170292/comments/360014373272.json",
+        "post_id": 360077170292,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076849291,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014297792,
+        "body": "<p>If its drop item so they get rid of it without getting it back, then just do /clear [player name] or just @a for all.</p>",
+        "author_id": 410794224331,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076849291-option-to-make-friends-anyone-drop-all-items/comments/360014297792",
+        "created_at": "2021-02-07T05:54:56Z",
+        "updated_at": "2021-02-07T05:54:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076849291/comments/360014297792.json",
+        "post_id": 360076849291,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074918791,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013621771,
+        "body": "<p>Do you tell these other players what \"platform\" to play Minecraft you are using?</p>",
+        "author_id": 407270490952,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074918791-Please-make-a-setting-to-turn-off-cross-compatibility/comments/360013621771",
+        "created_at": "2020-12-03T04:23:40Z",
+        "updated_at": "2020-12-03T04:23:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074918791/comments/360013621771.json",
+        "post_id": 360074918791,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074687771,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013569452,
+        "body": "<p>It could be used specifically for gilding gold, iron, and netherite</p>",
+        "author_id": 406280981491,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074687771-More-use-for-the-Smithing-table/comments/360013569452",
+        "created_at": "2020-11-19T19:12:49Z",
+        "updated_at": "2020-11-19T19:12:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074687771/comments/360013569452.json",
+        "post_id": 360074687771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013761732,
+        "body": "<p>Gilding could be used to trick people into thinkinf you have different types of tools/armor. It could also be used to pacify Piglins while still having good armor and tools</p>",
+        "author_id": 406280981491,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074687771-More-use-for-the-Smithing-table/comments/360013761732",
+        "created_at": "2020-12-07T04:03:42Z",
+        "updated_at": "2020-12-07T04:03:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074687771/comments/360013761732.json",
+        "post_id": 360074687771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014297532,
+        "body": "<p>If it was used for the next tier, that would be too op as all you need is an iron chestplate with only 1 diamond to make a diamond chestplate, and also, you cant really say \"then how comes you only need 1 netherite ingot to make netherite armour and tools\" because it comes in veins of 1 to 3 and it is quite hard for it to be found where as diamonds comes in veins of 1 to 8 or 10 and can be mined with fortune</p>",
+        "author_id": 410794224331,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074687771-More-use-for-the-Smithing-table/comments/360014297532",
+        "created_at": "2021-02-07T05:01:32Z",
+        "updated_at": "2021-02-07T11:25:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074687771/comments/360014297532.json",
+        "post_id": 360074687771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074715272,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013465091,
+        "body": "<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">oel f3 y el f4 para + velocidad y comodidad :)</span></span></p>",
+        "author_id": 406558271231,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074715272-Assigning-buttons/comments/360013465091",
+        "created_at": "2020-11-17T15:34:56Z",
+        "updated_at": "2020-11-17T20:50:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074715272/comments/360013465091.json",
+        "post_id": 360074715272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074448711,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013378971,
+        "body": "<p>Acho muito legal</p>",
+        "author_id": 406117341132,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074448711-Being-able-to-use-coordinates-without-having-it-in-world-options/comments/360013378971",
+        "created_at": "2020-11-10T00:13:09Z",
+        "updated_at": "2020-11-10T02:15:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074448711/comments/360013378971.json",
+        "post_id": 360074448711,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073805991,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4405269901709,
+        "body": "<p>This would be amazing if Mojang done this for Java, I'm hoping this is one of the reasons Mojang are starting to do the Account Migrations to Microsoft accounts as Friends Lists could be a future feature as well as Joining Singleplayer worlds easily like pressing a button to allow players from online to join and even turning it to Invite Only or something.</p>",
+        "author_id": 403287856192,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073805991--Bedrock-Parity-Ability-to-easily-host-worlds-to-friends-over-a-distance/comments/4405269901709",
+        "created_at": "2021-07-18T04:43:42Z",
+        "updated_at": "2021-07-18T04:49:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073805991/comments/4405269901709.json",
+        "post_id": 360073805991,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073742172,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013138412,
+        "body": "<p>Specification: Shift+E opens/closes crafting menu only while inventory or crafting table is open. <br>This does not apply for special inventory states (anvil, hopper, chest, shulker box, etc)</p>",
+        "author_id": 395735088752,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073742172-Crafting-Menu-Shortcut/comments/360013138412",
+        "created_at": "2020-10-12T06:38:06Z",
+        "updated_at": "2022-10-26T16:18:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073742172/comments/360013138412.json",
+        "post_id": 360073742172,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073638731,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013135472,
+        "body": "<p>Then what would they rename the difficulty?</p>",
+        "author_id": 404284667391,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073638731-Rename-survival-mode-to-normal-mode/comments/360013135472",
+        "created_at": "2020-10-11T19:52:12Z",
+        "updated_at": "2021-02-24T04:46:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073638731/comments/360013135472.json",
+        "post_id": 360073638731,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013062791,
+        "body": "<p>Nah, survival mode has been called it since the very start. I can see why u thought it, but I think it would be confusing with normal diff. There aswell&nbsp;</p>",
+        "author_id": 394352390852,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073638731-Rename-survival-mode-to-normal-mode/comments/360013062791",
+        "created_at": "2020-10-11T21:46:59Z",
+        "updated_at": "2021-02-24T04:46:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073638731/comments/360013062791.json",
+        "post_id": 360073638731,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013073991,
+        "body": "<p>no, some people consider some other modes to be normal</p>",
+        "author_id": 395584570051,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073638731-Rename-survival-mode-to-normal-mode/comments/360013073991",
+        "created_at": "2020-10-12T21:46:21Z",
+        "updated_at": "2021-02-24T04:46:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073638731/comments/360013073991.json",
+        "post_id": 360073638731,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073234712,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012838652,
+        "body": "<p>With the recent influx of cheaters griefing my world while in survival mode, my world has become very laggy and unable to handle much of anything</p>",
+        "author_id": 403328855212,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073234712-Data-Compression-methods/comments/360012838652",
+        "created_at": "2020-09-12T17:51:28Z",
+        "updated_at": "2020-09-14T15:57:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073234712/comments/360012838652.json",
+        "post_id": 360073234712,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014173671,
+        "body": "<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>To be able to join other players in there world</p>",
+        "author_id": 410464974291,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073234712-Data-Compression-methods/comments/360014173671",
+        "created_at": "2021-02-01T03:03:14Z",
+        "updated_at": "2021-02-01T05:42:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073234712/comments/360014173671.json",
+        "post_id": 360073234712,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360072021952,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8287988606349,
+        "body": "<p>We definitely need something like this, to make building redstone contraptions easier as well as quickly perfecting textures of builds (looking at you glazed terracotta).</p>\n\n<p>I think the best way to do this would be to right click a block with a compass and have it cycle through the different orientation states. Kinda like how the debug stick works, but just for orientation. And works in survival obviously.</p>\n\n<p>Personally, I'd love to be able to control wall/fence connectivity with the same mechanism.</p>",
+        "author_id": 420666469372,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072021952-block-orientation-accessibility/comments/8287988606349",
+        "created_at": "2022-08-09T13:53:43Z",
+        "updated_at": "2022-08-09T14:37:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072021952/comments/8287988606349.json",
+        "post_id": 360072021952,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071566512,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012241831,
+        "body": "<p>Recording on mobile would be a great feature but capturing the last 30 seconds is something i don’t agree on because it will be always recording which can make the game lag. And also the xbox one and windows 10 platforms record using Game DVR which isn't in minecraft. Screenshots on realms are a different thing and aren't a part of Game DVR</p>",
+        "author_id": 401371759271,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071566512-Let-Mobile-Players-Take-Captures-and-Game-Clips/comments/360012241831",
+        "created_at": "2020-08-01T16:20:23Z",
+        "updated_at": "2020-08-28T22:29:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071566512/comments/360012241831.json",
+        "post_id": 360071566512,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071146571,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 11636770398093,
+        "body": "<p>P L E A S E&nbsp; &nbsp; D O&nbsp; &nbsp;T H I S</p>\n<p>when my cousins come over we sometimes do 4p split-screen and it's a huge inconvenience. we all have to stop what we are doing when someone wants to type something out. we started joining the game on our phones just to type stuff.</p>",
+        "author_id": 392853800051,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071146571-Onscreen-keyboard-input-and-splitscreen/comments/11636770398093",
+        "created_at": "2022-12-21T14:23:15Z",
+        "updated_at": "2022-12-25T00:41:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071146571/comments/11636770398093.json",
+        "post_id": 360071146571,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 39010265437069,
+        "body": "<p>This would be a great feature if done correctly (and especially if it doesn't affect the frame rate)</p>",
+        "author_id": 390630707792,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071146571-Onscreen-keyboard-input-and-splitscreen/comments/39010265437069",
+        "created_at": "2025-08-22T11:18:02Z",
+        "updated_at": "2025-08-22T11:18:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071146571/comments/39010265437069.json",
+        "post_id": 360071146571,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360070454171,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011206711,
+        "body": "<p>Having similar \"issues\".</p>\n<p>This is a great idea and i hope it will be implemented!</p>\n<p>I also think that one should be able to set their own defaults, such that one can simply press \"Create New World\" and just press the button again in the world creation options without even having to go through them when one wants to make a \"standard\" world.</p>\n<p>This would, of course, vary from player to player and that's why I think they should be able to set it themselves.&nbsp;</p>",
+        "author_id": 369987069152,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070454171-Gamerule-profiles/comments/360011206711",
+        "created_at": "2020-07-01T18:01:43Z",
+        "updated_at": "2020-07-01T20:21:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070454171/comments/360011206711.json",
+        "post_id": 360070454171,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4415923303565,
+        "body": "<p>We need this.</p>",
+        "author_id": 1902247536967,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070454171-Gamerule-profiles/comments/4415923303565",
+        "created_at": "2021-12-08T01:04:18Z",
+        "updated_at": "2021-12-08T01:04:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070454171/comments/4415923303565.json",
+        "post_id": 360070454171,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360070138891,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012241971,
+        "body": "<p>same with xbox</p>",
+        "author_id": 401371759271,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070138891--For-The-Switch-Split-Screen-Typing/comments/360012241971",
+        "created_at": "2020-08-01T16:32:44Z",
+        "updated_at": "2020-08-01T16:32:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070138891/comments/360012241971.json",
+        "post_id": 360070138891,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360068183852,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4409063220493,
+        "body": "<p>Maybe this idea was gonna never be added into the game</p>",
+        "author_id": 394544769911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360068183852-Reconnect-Button-Connection-Lost/comments/4409063220493",
+        "created_at": "2021-09-12T12:48:03Z",
+        "updated_at": "2022-01-27T02:25:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360068183852/comments/4409063220493.json",
+        "post_id": 360068183852,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4418140967181,
+        "body": "<p>it is a mod and client that has this feature</p>",
+        "author_id": 394544769911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360068183852-Reconnect-Button-Connection-Lost/comments/4418140967181",
+        "created_at": "2021-12-30T08:17:34Z",
+        "updated_at": "2022-01-27T02:25:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360068183852/comments/4418140967181.json",
+        "post_id": 360068183852,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 13195424126861,
+        "body": "<p>When in a local game (in same house) I am getting a detected lost connection message after only a few minutes in the game.&nbsp; This issue happened a few weeks ago and seemed to be fixed for the last week or two, but is happening again.&nbsp; Please correct this issue as it takes all the fun out of the game.</p>",
+        "author_id": 12433921574285,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360068183852-Reconnect-Button-Connection-Lost/comments/13195424126861",
+        "created_at": "2023-02-17T09:50:57Z",
+        "updated_at": "2023-02-17T09:50:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360068183852/comments/13195424126861.json",
+        "post_id": 360068183852,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360067969732,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012354431,
+        "body": "<p>I second this!<br>I have limited reach in my hands and the new accessibility feature to toggle sneak makes playing a lot easier for me.<br><br>I find that especially when swimming, when using the sneak key to descend I find it difficult to determine if it's on or not and have a harder time navigating underwater because of that.<br><br>Just having a 3D portrait like bedrock edition has or just an icon somewhere doesn't matter to me. As long as there is a clear indication that my sneak is on or off, I would be happy!</p>",
+        "author_id": 401776400712,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067969732-Make-Indicator-for-Sprint-Sneak/comments/360012354431",
+        "created_at": "2020-08-11T15:51:16Z",
+        "updated_at": "2020-08-11T17:44:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067969732/comments/360012354431.json",
+        "post_id": 360067969732,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360067760372,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010805551,
+        "body": "<p>Or you could go a different route with it and just show the symbol for the potion effect slowly disappearing, basically the opposite of the sword cooldown.</p>",
+        "author_id": 390524379171,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067760372-Potion-Effect-display/comments/360010805551",
+        "created_at": "2020-05-31T03:07:13Z",
+        "updated_at": "2020-06-01T16:04:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067760372/comments/360010805551.json",
+        "post_id": 360067760372,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360067384751,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012332272,
+        "body": "<p>bruh you can disable it go down till u find the option o k ?</p>",
+        "author_id": 401371759271,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067384751-Add-Save-Structure-Block-Bounding-Box-Toggle/comments/360012332272",
+        "created_at": "2020-08-01T16:48:29Z",
+        "updated_at": "2020-08-01T16:48:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067384751/comments/360012332272.json",
+        "post_id": 360067384751,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

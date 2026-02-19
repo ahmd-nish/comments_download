@@ -1,0 +1,802 @@
+[
+  {
+    "post_id": 30049783930125,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 30216481798925,
+        "body": "<p>I also noticed a problem with usernames being displayed as Registered User even when I am logged in. I don't know, but I assume thats not meant to happen.</p>\n<p>&nbsp;</p>",
+        "author_id": 29574754912141,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/30049783930125-Improve-Feedback-Site/comments/30216481798925",
+        "created_at": "2024-09-13T02:36:50Z",
+        "updated_at": "2024-09-13T13:36:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/30049783930125/comments/30216481798925.json",
+        "post_id": 30049783930125,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 21526425757709,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25033782011917,
+        "body": "<p>Caves and Cliffs is still an optional category to view as well. It’s at the top of the list. Maybe categories to do with released updates should be moved down so that they are still accessible. There are probably a lot of good ideas on these categories that people can’t find. You shouldn’t be able to post suggestions on them after the update is released but it would be useful if you could still make comments about them </p>",
+        "author_id": 18482222196621,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/21526425757709-The-Minecraft-Feedback-Site-is-in-need-of-an-update/comments/25033782011917",
+        "created_at": "2024-03-15T14:54:26Z",
+        "updated_at": "2024-03-16T13:55:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/21526425757709/comments/25033782011917.json",
+        "post_id": 21526425757709,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 17148615536653,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25035410036749,
+        "body": "<p>The same thing has happened to me too. I submit posts with a lot of detail and care and all I got was the post being removed. Recently, I added a post that was pending approval for a long time. I kept checking on it until it was removed along with most of my other posts that were already approved and had been for a while! I made a dozen posts and I was left with 3. Mojang say they want feedback but the majority of feedback is more like spam posts with very little detail. Some don’t even make much sense. This website really needs to be improved so that everyone can get something out of it and so that we can understand why our posts get deleted (although I just feel that some of them get deleted because there is something wrong with the website not because there is something wrong with the posts)</p>",
+        "author_id": 18482222196621,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/17148615536653-Tell-us-why-out-posts-are-removed/comments/25035410036749",
+        "created_at": "2024-03-15T15:34:18Z",
+        "updated_at": "2024-03-16T14:09:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/17148615536653/comments/25035410036749.json",
+        "post_id": 17148615536653,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 34102079821581,
+        "body": "<p>i read all the rules after one post was removed (mushroom villages so was deserved) and tried again.</p>\n<p>after 3 posts let in i asked for a removal of politics in splash text. removed without informing me. (later read that real life politics are banned but kinda hypocritical ngl :/ ) and after that new villag<em>er</em>s since villages where forgotten since 1.14. termenated.</p>\n<p>then i made a post about an ocean revamp since its been a few years since one, involving pirates with ships, a swap of ocean and land generation (bigger oceans) and the crafting recipe for a sailboat. (boat+banner=sailboat.)</p>\n<p>im 4 for 7 right now and dont thing 4 removed posts over 10 days constututes for spam.</p>",
+        "author_id": 30738692558093,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/17148615536653-Tell-us-why-out-posts-are-removed/comments/34102079821581",
+        "created_at": "2025-02-06T21:08:45Z",
+        "updated_at": "2025-02-06T23:46:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/17148615536653/comments/34102079821581.json",
+        "post_id": 17148615536653,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 34102742217997,
+        "body": "<p>yeah same here. first thing i did was read&nbsp;<em>everything</em> that had rules (missed the \"no politics\" rule though.) and made a post asking for a few extra villager types. got removed. re-read rules. removed the mushroom villages. refined the post, BAM! removed again with no warning.</p>\n<p>asked for a removal of politics in splash messages, removed. commented something? Nuked for commenting&nbsp;<em>something related to the post</em>! (i.e. helping with an analogy on why politics in game is bad)</p>\n<p>basically i am sick and tired of not knowing where my posts are.</p>",
+        "author_id": 30738692558093,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/17148615536653-Tell-us-why-out-posts-are-removed/comments/34102742217997",
+        "created_at": "2025-02-06T21:27:33Z",
+        "updated_at": "2025-02-06T23:37:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/17148615536653/comments/34102742217997.json",
+        "post_id": 17148615536653,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10762789284237,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 14324823570829,
+        "body": "<p>Another thing to change: all caps should not be filtered all the time, such as with these exceptions:</p>\n<ul>\n<li>Roman numerals</li>\n<li>tnt</li>\n<li>ai</li>\n</ul>",
+        "author_id": 12270814940301,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10762789284237-Remove-Certain-Word-Filter-Posts/comments/14324823570829",
+        "created_at": "2023-03-26T18:26:43Z",
+        "updated_at": "2024-01-06T11:55:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10762789284237/comments/14324823570829.json",
+        "post_id": 10762789284237,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 6673535161997,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25606444936973,
+        "body": "<p>Maybe individual ideas could be advertised.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6673535161997-You-should-advertise-Minecraft-Feedback-more/comments/25606444936973",
+        "created_at": "2024-04-04T09:58:03Z",
+        "updated_at": "2024-04-04T09:58:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6673535161997/comments/25606444936973.json",
+        "post_id": 6673535161997,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5262194131981,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5496716116493,
+        "body": "<p>Add this</p>",
+        "author_id": 5179632331789,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5262194131981-Add-more-letter-slots/comments/5496716116493",
+        "created_at": "2022-04-12T20:42:25Z",
+        "updated_at": "2024-01-02T13:38:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5262194131981/comments/5496716116493.json",
+        "post_id": 5262194131981,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 5697451123725,
+        "body": "<p>Yep, an arbitrarily small character limit just stifles more detailed and better thought out suggestions, and promotes suggestions with less effort put into them. Something like 4000 or 5000 I could&nbsp;<em>maybe</em> understand but 1500 is way too few. For comparison discord messages cap at 2000, reddit comments at 10,000 and reddit posts at 40,000.</p>",
+        "author_id": 385458435892,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5262194131981-Add-more-letter-slots/comments/5697451123725",
+        "created_at": "2022-04-22T00:45:28Z",
+        "updated_at": "2024-01-02T13:38:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5262194131981/comments/5697451123725.json",
+        "post_id": 5262194131981,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4504934344589,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7940524968077,
+        "body": "<p>Keep losing characters&nbsp;</p>\n<p>&nbsp;</p>",
+        "author_id": 414777472651,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4504934344589-easier-way-to-report-bug/comments/7940524968077",
+        "created_at": "2022-07-25T22:35:30Z",
+        "updated_at": "2024-01-02T13:38:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4504934344589/comments/7940524968077.json",
+        "post_id": 4504934344589,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4418893693709,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4422577534477,
+        "body": "<p>Hello, I just wanted to give my criticism of this.</p>\n<p>You may already be aware or I will inform you now that players \"snipe\" usernames. The username you described was becoming freed up from the original owner, however, up until that point the owner had the possibility of retaking their name. If reservation of usernames included names which are not available just yet, that would mean the original owner of said name will be unable to take it back as you have \"reserved\" their name.</p>\n<p>I believe the consequences of this will be more destructive than beneficial. Although an owner chose to switch off of their username, it doesn't necessarily mean they were willing to give it up just yet. Allowing others to take their name before they are given the privilege to reclaim it is unfair to the owner of the desired username.</p>\n<p>If you want a username in particular, either change to it (if it's available, in which case reservation is unnecessary) or \"snipe\" it like the username mentioned in your thread- simply wait for it to free up and manually claim the name when possible. If you fail to get it, oh well; that's just how usernames go.</p>",
+        "author_id": 423530621251,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4418893693709-Reserved-Usernames/comments/4422577534477",
+        "created_at": "2022-01-22T21:24:04Z",
+        "updated_at": "2022-01-23T13:34:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4418893693709/comments/4422577534477.json",
+        "post_id": 4418893693709,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4413536256141,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4419781727373,
+        "body": "<p>i think the feedback site should be moved and not the bug tracker because the spam filters here do the opposite of what they were built to do</p>",
+        "author_id": 404817932711,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4413536256141-Remake-Minecraft-Bugtracker/comments/4419781727373",
+        "created_at": "2022-01-10T00:30:20Z",
+        "updated_at": "2022-01-20T17:12:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4413536256141/comments/4419781727373.json",
+        "post_id": 4413536256141,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4404604734861,
+    "expected_comment_count": 6,
+    "actual_comment_count": 6,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4404606279565,
+        "body": "<p>Hi Adam! Good news is we will be allowing images again in the near future but I am unsure exactly when, but please know it'll be allowed again soon. For now, you can join our Discord and share your great ideas with the community that way! Thank you for passion and thank you for creating great ideas to share!&nbsp;<span style=\"background: white;\">We want to help everyone have their ideas succeed. :)</span></p>\n<p>&nbsp;</p>",
+        "author_id": 416783211012,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404604734861-If-I-can-t-post-images-of-my-designs-how-do-I-show-off-my-3D-models/comments/4404606279565",
+        "created_at": "2021-07-08T18:19:49Z",
+        "updated_at": "2021-07-08T18:19:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404604734861/comments/4404606279565.json",
+        "post_id": 4404604734861,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4404928907661,
+        "body": "<p>While we can't post images here, maybe post them somewhere else and link them so we can still see them</p>",
+        "author_id": 387021208411,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404604734861-If-I-can-t-post-images-of-my-designs-how-do-I-show-off-my-3D-models/comments/4404928907661",
+        "created_at": "2021-07-13T13:28:38Z",
+        "updated_at": "2021-07-13T13:28:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404604734861/comments/4404928907661.json",
+        "post_id": 4404604734861,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4404935258509,
+        "body": "<p>I'll share a link on my main post about the Wildfire</p>",
+        "author_id": 406047515571,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404604734861-If-I-can-t-post-images-of-my-designs-how-do-I-show-off-my-3D-models/comments/4404935258509",
+        "created_at": "2021-07-13T13:38:44Z",
+        "updated_at": "2021-07-13T14:19:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404604734861/comments/4404935258509.json",
+        "post_id": 4404604734861,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 16817874296333,
+        "body": "<p>The near future has arrived and images still are not allowed. Hopefully this is due to a severe delay, but two years is sufficient evidence to me that images will not be returning.</p>",
+        "author_id": 381293468391,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404604734861-If-I-can-t-post-images-of-my-designs-how-do-I-show-off-my-3D-models/comments/16817874296333",
+        "created_at": "2023-06-16T17:04:11Z",
+        "updated_at": "2023-06-16T17:04:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404604734861/comments/16817874296333.json",
+        "post_id": 4404604734861,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 27000107450381,
+        "body": "<p>Apparently I have found a way to get images again. Just copy an image to the clipboard, then paste it once you edit your existing post or comment, as shown below:</p>\n<p><img src=\"https://feedback.minecraft.net/hc/user_images/01HYMS0T6B2Q26VHMBBZ13N5VD.jpeg\"><br><br></p>\n<p>Be careful not to put too many images, as this can slow down people on slow devices.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404604734861-If-I-can-t-post-images-of-my-designs-how-do-I-show-off-my-3D-models/comments/27000107450381",
+        "created_at": "2024-05-24T07:40:40Z",
+        "updated_at": "2024-05-24T18:29:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404604734861/comments/27000107450381.json",
+        "post_id": 4404604734861,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 36182204225421,
+        "body": "<p>i really wanted to post my pics, i didn't know we couldn't (i'm new btw)&nbsp; :c</p>",
+        "author_id": 36181511987213,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404604734861-If-I-can-t-post-images-of-my-designs-how-do-I-show-off-my-3D-models/comments/36182204225421",
+        "created_at": "2025-04-28T17:06:39Z",
+        "updated_at": "2025-04-29T00:38:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404604734861/comments/36182204225421.json",
+        "post_id": 4404604734861,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077340511,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8488256321677,
+        "body": "<p>It would be appreciated if we got feedback like a note for why a post was deleted instead of it vanishing without notice or even a trace. I would like to know what I did wrong so I could make suggestions fit Mojangs standards better.</p>",
+        "author_id": 7612219488269,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077340511-Please-give-better-clarity-to-suggestion-rules-and-make-searching-easier/comments/8488256321677",
+        "created_at": "2022-08-17T16:33:50Z",
+        "updated_at": "2022-11-13T13:03:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077340511/comments/8488256321677.json",
+        "post_id": 360077340511,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077269891,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014592112,
+        "body": "<p>yes please, I was also too late to join...</p>",
+        "author_id": 370551412552,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077269891-Open-a-second-Minecraft-Discord-server/comments/360014592112",
+        "created_at": "2021-03-05T19:03:37Z",
+        "updated_at": "2024-04-04T09:59:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077269891/comments/360014592112.json",
+        "post_id": 360077269891,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014863952,
+        "body": "<p>Hello, the Minecraft discord server is full, I was wondering if you could let me in somehow, please.</p>\n<p>&nbsp;</p>",
+        "author_id": 414860255331,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077269891-Open-a-second-Minecraft-Discord-server/comments/360014863952",
+        "created_at": "2021-04-11T12:42:31Z",
+        "updated_at": "2024-04-04T09:59:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077269891/comments/360014863952.json",
+        "post_id": 360077269891,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075946271,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013955152,
+        "body": "<p>I don't know if this is the right place to recommend suggestions be marked as announced but I can't think of any other.</p>",
+        "author_id": 386438306692,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075946271-Move-announced-posts-out-of-their-category-and-into-a-new-one/comments/360013955152",
+        "created_at": "2020-12-30T11:59:31Z",
+        "updated_at": "2020-12-30T22:28:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075946271/comments/360013955152.json",
+        "post_id": 360075946271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013960012,
+        "body": "<p>i think this is the right place to put this suggestion.. i had suggested a similar one for axolotls, but if mojang confirms any ideas here they need to move it to announced, same goes for nether gold ore during 1.16</p>",
+        "author_id": 398830310812,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075946271-Move-announced-posts-out-of-their-category-and-into-a-new-one/comments/360013960012",
+        "created_at": "2020-12-31T02:53:54Z",
+        "updated_at": "2021-01-08T18:27:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075946271/comments/360013960012.json",
+        "post_id": 360075946271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014229192,
+        "body": "<p>Very good</p>",
+        "author_id": 410059020411,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075946271-Move-announced-posts-out-of-their-category-and-into-a-new-one/comments/360014229192",
+        "created_at": "2021-01-30T16:30:42Z",
+        "updated_at": "2021-01-30T16:30:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075946271/comments/360014229192.json",
+        "post_id": 360075946271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014229212,
+        "body": "<p>Very good</p>",
+        "author_id": 410059020411,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075946271-Move-announced-posts-out-of-their-category-and-into-a-new-one/comments/360014229212",
+        "created_at": "2021-01-30T16:31:45Z",
+        "updated_at": "2021-01-30T16:31:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075946271/comments/360014229212.json",
+        "post_id": 360075946271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073233971,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012893952,
+        "body": "<p>Hi there,</p>\n<p>We do have additional staff moderators, you may have seen them lately (or not, because they're doing a lot of the invisible work to help keep things running smoothly around here, which means moderating and removing a lot of posts). We have been investigating implementing community-style moderators, however, we have no news to share on that at this time.</p>\n<p>In the meantime feel free to contribute efforts by continuing to report posts we may have missed. Every post has a report button in case of problems!</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073233971-People-can-Become-Moderators/comments/360012893952",
+        "created_at": "2020-09-18T14:57:04Z",
+        "updated_at": "2020-09-18T14:57:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073233971/comments/360012893952.json",
+        "post_id": 360073233971,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360072669491,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012590111,
+        "body": "<p>Please use the Previously Considered Feedback page to see these ideas. Thanks.</p>\n<p><a href=\"/hc/en-us/articles/360005029872-Previously-Considered-Suggestions\" rel=\"nofollow noreferrer\">https://feedback.minecraft.net/hc/en-us/articles/360005029872-Previously-Considered-Suggestions</a></p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072669491-Deconfirmed-Tab/comments/360012590111",
+        "created_at": "2020-08-25T17:23:19Z",
+        "updated_at": "2020-08-25T17:23:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072669491/comments/360012590111.json",
+        "post_id": 360072669491,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360061556992,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013361831,
+        "body": "<p>Yes, I fully agree with you here.</p>",
+        "author_id": 399058914632,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360061556992-Website-Music/comments/360013361831",
+        "created_at": "2020-11-08T15:16:24Z",
+        "updated_at": "2024-03-10T09:18:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360061556992/comments/360013361831.json",
+        "post_id": 360061556992,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 9417536070413,
+        "body": "<p>Wii music 10 hour loop</p>",
+        "author_id": 8077931169293,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360061556992-Website-Music/comments/9417536070413",
+        "created_at": "2022-09-25T02:32:01Z",
+        "updated_at": "2024-03-10T09:18:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360061556992/comments/9417536070413.json",
+        "post_id": 360061556992,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360057872792,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 11756737661069,
+        "body": "<p>For me it is just taking too long for just loading Bare Bones Texture pack in 1.19.51 on Android Tablet</p>",
+        "author_id": 11756666936973,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360057872792-Include-a-changelog-specifically-for-resource-pack-related-changes/comments/11756737661069",
+        "created_at": "2022-12-27T05:23:10Z",
+        "updated_at": "2023-02-01T18:58:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360057872792/comments/11756737661069.json",
+        "post_id": 360057872792,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35500443118221,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35626454340621,
+        "body": "<p>This is my idea for A MINECRAFT MOVIE 2<br>As you can see in the post credit scene the vice<br>principal falls in love with a villager, who asks<br>her to marry him. So they could have the<br>wedding in the overworld.<br>Then Steve goes back to his old house and<br>meets Alex, and they could become great<br>friends and even start a life together in the<br>overworld.<br>But there must also be something to do, and it<br>would be great if they went to look for the<br>stronghold to defeat the ENDER DRAGON, but<br>first they must equip themselves well, they will<br>go to look for the NETHERITE, and they must<br>get enough of it to improve the crew. They take<br>the EGG, go back home and create an<br>incredible construction to keep the egg and the<br>head.<br>In MIDPORT VILLAGE each of them will have<br>their own house to live in.</p>",
+        "author_id": 35626427521421,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35500443118221-Minecraft-movie-2/comments/35626454340621",
+        "created_at": "2025-04-06T11:17:15Z",
+        "updated_at": "2025-04-06T21:36:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35500443118221/comments/35626454340621.json",
+        "post_id": 35500443118221,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 39006230325005,
+        "body": "<p>Why? Also, there isn't enough time for them to do that.</p>",
+        "author_id": 38139901507725,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35500443118221-Minecraft-movie-2/comments/39006230325005",
+        "created_at": "2025-08-22T02:50:56Z",
+        "updated_at": "2025-08-22T02:50:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35500443118221/comments/39006230325005.json",
+        "post_id": 35500443118221,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 30845870280077,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35590277222157,
+        "body": "<p>the amount of times bots have removed things for me is insane.</p>",
+        "author_id": 30738692558093,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/30845870280077-Feedback-in-general-needs-a-redo/comments/35590277222157",
+        "created_at": "2025-04-04T16:27:30Z",
+        "updated_at": "2025-04-04T17:56:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/30845870280077/comments/35590277222157.json",
+        "post_id": 30845870280077,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 27817883512077,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 28549695014029,
+        "body": "<p>This is an amazing idea! As someone who sadly missed out on getting the Follower's cape due to my computer being broken for over a month, I would love to see this feature added! The only current way to possibly get a cape that is unavailible is to buy or trade Minecraft accounts. Also as a Minecraft Java player it would add more accessibility to customize and enjoy your avatar more, considering bedrock has so many ways of character customization. I back this idea up 100%!</p>",
+        "author_id": 28549613601805,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/27817883512077-Minecraft-Cape-Exchange-Feature/comments/28549695014029",
+        "created_at": "2024-07-19T10:53:22Z",
+        "updated_at": "2024-07-19T15:51:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/27817883512077/comments/28549695014029.json",
+        "post_id": 27817883512077,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 13188003208717,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 23878816779533,
+        "body": "<p>The Hive is a featured server, and it has the Chunker app.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13188003208717-Java-wold-and-mod-converter-on-the-Minecraft-website/comments/23878816779533",
+        "created_at": "2024-02-05T21:11:41Z",
+        "updated_at": "2024-02-05T21:11:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13188003208717/comments/23878816779533.json",
+        "post_id": 13188003208717,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 12286187064077,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 14125086624269,
+        "body": "<p>Totally</p>",
+        "author_id": 404482591052,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12286187064077-Sue-ripoffs/comments/14125086624269",
+        "created_at": "2023-03-19T07:33:56Z",
+        "updated_at": "2023-12-27T11:16:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12286187064077/comments/14125086624269.json",
+        "post_id": 12286187064077,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10970832218509,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 10976399217549,
+        "body": "<p>I agree. I posted my first feedback today and found that my idea fit into more than one category. Maybe a tag system instead of superordinate categories.</p>",
+        "author_id": 10973436456845,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10970832218509-Be-able-to-put-feedback-into-several-categories/comments/10976399217549",
+        "created_at": "2022-11-28T21:49:56Z",
+        "updated_at": "2023-01-07T14:57:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10970832218509/comments/10976399217549.json",
+        "post_id": 10970832218509,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10043506368781,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 12286238952589,
+        "body": "<p>They update the game to 1.19-1.20 etc. the website doesn’t work like that.</p>",
+        "author_id": 12276779616909,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10043506368781-Minecraft-1-20-the-FEEDBACK-UPDATE/comments/12286238952589",
+        "created_at": "2023-01-16T14:14:29Z",
+        "updated_at": "2024-02-20T23:56:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10043506368781/comments/12286238952589.json",
+        "post_id": 10043506368781,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 9775128605837,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 9794529940109,
+        "body": "<p>I demand to create an ARCHIVE without the ability to write a new post, but with the ability to view and comment on reviews already left.\n<br />  Some of the feedback can be slowly transferred to other categories when the moderators have time for this.</p>",
+        "author_id": 416461943171,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/9775128605837-Take-Caves-and-Cliffs-Category-Off-of-Minecraft-Feedback/comments/9794529940109",
+        "created_at": "2022-10-11T07:20:06Z",
+        "updated_at": "2023-12-27T11:27:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/9775128605837/comments/9794529940109.json",
+        "post_id": 9775128605837,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 9799762349709,
+        "body": "<p>Yes this is so needed I feel like this website is so underutilized that they do not even update the headings or have it current to the ongoing update happening.</p>",
+        "author_id": 403334192031,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/9775128605837-Take-Caves-and-Cliffs-Category-Off-of-Minecraft-Feedback/comments/9799762349709",
+        "created_at": "2022-10-11T13:23:29Z",
+        "updated_at": "2023-12-27T11:27:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/9775128605837/comments/9799762349709.json",
+        "post_id": 9775128605837,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

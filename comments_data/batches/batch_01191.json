@@ -1,0 +1,922 @@
+[
+  {
+    "post_id": 360048343232,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009784531,
+        "body": "<p>I feel like we should be able to combined colors together while they’re still dye to make unique colors instead of just haven’t the basic colors</p>",
+        "author_id": 395712279131,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048343232-New-colors-mint-lavender/comments/360009784531",
+        "created_at": "2020-03-23T19:14:11Z",
+        "updated_at": "2020-03-23T19:14:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048343232/comments/360009784531.json",
+        "post_id": 360048343232,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011080531,
+        "body": "<p>I would like to see mint green wool in Minecraft. Good Ideas.</p>",
+        "author_id": 396684414971,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048343232-New-colors-mint-lavender/comments/360011080531",
+        "created_at": "2020-06-22T04:16:07Z",
+        "updated_at": "2020-11-06T14:11:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048343232/comments/360011080531.json",
+        "post_id": 360048343232,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048092771,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006761371,
+        "body": "<p>the bottom part, the shadow part of the cracking lines are not transparent in Bedrock, therefore the animation is different, i also really want this but i don't know when this will come</p>",
+        "author_id": 365523157412,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048092771-Block-Cracking-Animation-and-Color-in-Bedrock/comments/360006761371",
+        "created_at": "2019-07-28T16:03:23Z",
+        "updated_at": "2019-07-28T16:03:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048092771/comments/360006761371.json",
+        "post_id": 360048092771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360047994332,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006348372,
+        "body": "<p>Part of my server player's grief with MCBE is not having the courtesy or decency of the ping bars we take for granted in MCJE. The lack of ping bars is one among many factors that had us bail on MCBE for Java. </p>",
+        "author_id": 365502762851,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047994332-Have-an-option-to-choose-between-bars-and-ping-values/comments/360006348372",
+        "created_at": "2019-07-05T19:47:39Z",
+        "updated_at": "2021-04-28T19:30:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047994332/comments/360006348372.json",
+        "post_id": 360047994332,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043312731,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005565111,
+        "body": "<p>I agree -- there seems to be a mechanism to accomplish this already since stairs change to accomodate blocks or other stairs nearby as well. Maybe blocks up or down and adjacent to other grass blocks should have grass fill in on the sides touching other grass blocks.</p>",
+        "author_id": 381306540652,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043312731-Grass-on-side-of-block/comments/360005565111",
+        "created_at": "2019-05-08T22:22:18Z",
+        "updated_at": "2022-09-25T12:08:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043312731/comments/360005565111.json",
+        "post_id": 360043312731,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005625432,
+        "body": "<p>Optifine already does this, it'd only make sense to put it into the base game.</p>",
+        "author_id": 381590735911,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043312731-Grass-on-side-of-block/comments/360005625432",
+        "created_at": "2019-05-13T22:06:14Z",
+        "updated_at": "2022-09-25T12:08:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043312731/comments/360005625432.json",
+        "post_id": 360043312731,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005632891,
+        "body": "<p>I agree, Optifine should just be a part of Minecraft.</p>",
+        "author_id": 365660413332,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043312731-Grass-on-side-of-block/comments/360005632891",
+        "created_at": "2019-05-14T12:43:42Z",
+        "updated_at": "2022-09-25T12:08:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043312731/comments/360005632891.json",
+        "post_id": 360043312731,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042727711,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013394572,
+        "body": "<p>Please do this</p>",
+        "author_id": 405887043971,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042727711-corsair-iCUE-support/comments/360013394572",
+        "created_at": "2020-11-04T18:33:59Z",
+        "updated_at": "2020-11-04T18:33:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042727711/comments/360013394572.json",
+        "post_id": 360042727711,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360032360632,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004686472,
+        "body": "<p>I agree. This would also be useful when building large rooms with high ceilings, as you would no longer have to hide lights in the floor.</p>\n<p>In addition, I think it would be nice if light blocks emitted&nbsp;different light levels based on how hard they are to get. Torches could stay at 15 (as they have to be placed on the wall anyway), but Glowstone could be increased to 30, and End Game light blocks like End Rods and Sea Lanterns can be as high as 60. Minecraft 1.14's new lighting engine improvements&nbsp;mean that this change would be very easy to implement.</p>\n<p>As torches and Glowstone are easy to get early game, you wouldn't want to buff them too much, but End Rods are post dragon blocks, you don't get them until the same time as Elytra. Sea Lanterns similarly are quite difficult to get, as you have to destroy a Guardian Temple and build a farm to get a reliable amount of the block.</p>",
+        "author_id": 377752127751,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360032360632-Light-Source-Blocks-Distance/comments/360004686472",
+        "created_at": "2019-03-01T23:38:12Z",
+        "updated_at": "2020-12-10T18:10:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360032360632/comments/360004686472.json",
+        "post_id": 360032360632,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008552531,
+        "body": "<p>I have a similar idea like this but not quite the same, I'm not sure if I should comment about it here or make a new post. Anyways, this should definitely be implemented.</p>",
+        "author_id": 380653877152,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360032360632-Light-Source-Blocks-Distance/comments/360008552531",
+        "created_at": "2019-11-29T02:49:28Z",
+        "updated_at": "2019-11-29T02:49:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360032360632/comments/360008552531.json",
+        "post_id": 360032360632,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360011325392,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360001357951,
+        "body": "<p>I think a moderator moved this to Graphics/Sounds.&nbsp; I'd say that this idea is a cross between Graphics and New Blocks.&nbsp; And mostly I'm focusing on the new blocks.</p>\n<p>&nbsp;</p>\n<p>My idea is to introduce blocks of Chorus Flower colors.&nbsp; You look out across the islands and see a forest of Purple Chorus plants.&nbsp; All the stems/trunks of the trees will remain the same purple.&nbsp; The top layer of this forest will be a sea of flower petals in Purple, Light Purple, and White.&nbsp;&nbsp; (With a spot of red, yellow, orange rarely.)</p>\n<p>&nbsp;</p>\n<p>I wouldn't want the color to overtake the \"purple\" atmosphere of the End.&nbsp; The more common flower colors would be Purple, Light Purple, and White for this reason.&nbsp; I think the End should maintain a dominant \"purple\" feel to it.</p>",
+        "author_id": 366028635551,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360011325392-Colorful-Chorus-Flowers/comments/360001357951",
+        "created_at": "2018-06-23T03:40:57Z",
+        "updated_at": "2018-07-16T15:02:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360011325392/comments/360001357951.json",
+        "post_id": 360011325392,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360001665472,
+        "body": "<p>Additional Thought:&nbsp; If adding any of the bold colors is too much, then perhaps don't include them.</p>\n<p>&nbsp;</p>\n<p>Have flowers of White, Purple, and Light Purple.&nbsp;&nbsp; Then an extremely rare Black flower you have to hunt thousands of blocks for.</p>\n<p>&nbsp;</p>\n<p>This way you retain the Exploration function of my idea, and not mess with the color theme of The End.</p>",
+        "author_id": 366028635551,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360011325392-Colorful-Chorus-Flowers/comments/360001665472",
+        "created_at": "2018-07-15T20:02:55Z",
+        "updated_at": "2018-07-16T15:27:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360011325392/comments/360001665472.json",
+        "post_id": 360011325392,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360009286372,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360001069971,
+        "body": "<p>I think you don’t know how to swim. &nbsp;Sprint in the water and you change to swimming mode. &nbsp;It’s amazing.</p>\n<p>As for being able to stay longer underwater, there is the respiration enchantment for the hemlet, the potion of water breathing, and the turtle helmet that gives water breathing that has been shown in the Java snapshots. =3</p>",
+        "author_id": 365008403592,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360009286372-Longer-Underwater-time-Better-underwater-movement/comments/360001069971",
+        "created_at": "2018-05-28T02:48:24Z",
+        "updated_at": "2018-05-28T02:48:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360009286372/comments/360001069971.json",
+        "post_id": 360009286372,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005379052,
+        "body": "<p>try going threw the game and making potions.</p>",
+        "author_id": 380495964952,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360009286372-Longer-Underwater-time-Better-underwater-movement/comments/360005379052",
+        "created_at": "2019-04-25T05:20:11Z",
+        "updated_at": "2019-04-25T05:20:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360009286372/comments/360005379052.json",
+        "post_id": 360009286372,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38023951217421,
+    "expected_comment_count": 1,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38774279686413,
+        "body": "<p>I don't think the switch 2 would be able to handle Minecraft RTX as we have seen in games like Cyberpunk the internal resolution has to drop very low to achieve a playable framerate and Minecraft RTX is path traced meaning it would probably not work well, but adding vibrant visuals and higher render distance would be cool, also the switch 1 version is not any slower then the other versions of bedrock its the og switch hardware thats slow.</p>",
+        "author_id": 22770063723405,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38023951217421-A-version-of-Minecraft-for-Nintendo-Switch-2/comments/38774279686413",
+        "created_at": "2025-08-13T02:49:05Z",
+        "updated_at": "2025-08-13T02:49:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38023951217421/comments/38774279686413.json",
+        "post_id": 38023951217421,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 42352513443981,
+        "body": "<p>I guess the Switch 2 could run 24 Chunks and vibrant visuals as well because manny mid range Phones can run Vibrant visuals.</p>",
+        "author_id": 42352474319629,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38023951217421-A-version-of-Minecraft-for-Nintendo-Switch-2/comments/42352513443981",
+        "created_at": "2026-01-02T09:10:11Z",
+        "updated_at": "2026-01-02T09:10:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38023951217421/comments/42352513443981.json",
+        "post_id": 38023951217421,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 36700736022285,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36704191750413,
+        "body": "<p>I've got i5 10th gen laptop with integrated intel graphics. This thing only runs Minecraft and few other games with the lowest possible graphics and resolution. I really love vibrant visuals, I'd really appreciate it is on low end devices too.</p>",
+        "author_id": 24414883739533,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36700736022285-vibrant-visuals-in-low-end-devices/comments/36704191750413",
+        "created_at": "2025-05-18T16:41:31Z",
+        "updated_at": "2025-05-18T20:26:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36700736022285/comments/36704191750413.json",
+        "post_id": 36700736022285,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 39628877055373,
+        "body": "<p>Let's make something clear.You know that most of the game lovers Minecraft Most of those who play the game play on weak devices. At least maybe at least the last processor to support this feature is Mali-G52 Yes, that's true. I'm talking about my phone in particular and all weak phones in general. This feature should be available on all devices. This feature is just an option in the game that can be enabled or disabled. Even if something happens to our phones, we are responsible for that. Believe me, many modifications have been installed on the game and it still surprises me with its smoothness.Prove me wrong developers by adding this feature.Finally, don't forget us, we are fans of your game, especially you.You are the ones who made this game for us and someone should doubt it.So I say thank you very much.I love the game Minecraft I hope to enter a new season of amazing drawings, so don't delay, we are waiting for you ☺️</p>",
+        "author_id": 39557847504525,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36700736022285-vibrant-visuals-in-low-end-devices/comments/39628877055373",
+        "created_at": "2025-09-16T23:55:32Z",
+        "updated_at": "2025-09-16T23:55:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36700736022285/comments/39628877055373.json",
+        "post_id": 36700736022285,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 39628906001421,
+        "body": "<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">دعونا نوضح شيئًا ما. كما تعلمون، فإن معظم محبي لعبة ماين كرافت يلعبون على أجهزة ضعيفة. على الأقل ربما يكون آخر معالج يدعم هذه الميزة هو Mali-G52. نعم، هذا صحيح. أنا أتحدث عن هاتفي بشكل خاص وجميع الهواتف الضعيفة بشكل عام. يجب أن تكون هذه الميزة متاحة على جميع الأجهزة. هذه الميزة مجرد خيار في اللعبة يمكن تمكينه أو تعطيله. حتى لو حدث شيء لهواتفنا، فنحن مسؤولون عن ذلك. صدقوني، تم تثبيت العديد من التعديلات على اللعبة وما زالت تفاجئني بسلاستها. أثبتوا لي أنني مخطأ بإضافة هذه الميزة. أخيرًا، لا تنسونا، نحن من محبي لعبتكم، وخاصة أنتم. أنتم من صنعتم هذه اللعبة لنا ويجب على أحد أن يشكركم على ذلك. لذلك أقول شكرًا جزيلاً لكم. أنا أحب لعبة ماين كرافت وأتمنى أن أدخل موسمًا جديدًا من الرسومات المذهلة، فلا تتأخروا، فنحن في انتظاركم ☺️</span></span></p>",
+        "author_id": 39557847504525,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36700736022285-vibrant-visuals-in-low-end-devices/comments/39628906001421",
+        "created_at": "2025-09-16T23:58:45Z",
+        "updated_at": "2025-09-16T23:58:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36700736022285/comments/39628906001421.json",
+        "post_id": 36700736022285,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 17860415264909,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 17877575313037,
+        "body": "<p>They should be particle effects to occur in specific biomes that way players can control the FPS, but I agree it would be a great way to add them to the game and give a little more life without a new mob or complicating it with interactions. Could be used for other small insects as well, again to add a sense of life.</p>",
+        "author_id": 405125404971,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/17860415264909-Fireflies-2-0/comments/17877575313037",
+        "created_at": "2023-07-24T12:24:29Z",
+        "updated_at": "2023-09-22T19:26:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/17860415264909/comments/17877575313037.json",
+        "post_id": 17860415264909,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 11080751009933,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 11091050092301,
+        "body": "<p>It would be great.</p>",
+        "author_id": 416461943171,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11080751009933-Doors-Align-with-Iron-bars-Walls/comments/11091050092301",
+        "created_at": "2022-12-02T07:28:42Z",
+        "updated_at": "2022-12-16T22:53:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11080751009933/comments/11091050092301.json",
+        "post_id": 11080751009933,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7616281640845,
+    "expected_comment_count": 11,
+    "actual_comment_count": 11,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7622454151949,
+        "body": "<p>They specifically avoided browner mud because it would've clashed/blended too much with the brown of the trees and their roots, and they want more of a contrasted look, which would be more varied and easier to distinguish quickly (especially with distinguishing the rooted mud block).</p>",
+        "author_id": 419344921172,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7616281640845-Make-Mud-look-like-Mud/comments/7622454151949",
+        "created_at": "2022-07-12T15:25:30Z",
+        "updated_at": "2022-08-22T12:24:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7616281640845/comments/7622454151949.json",
+        "post_id": 7616281640845,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7624955479437,
+        "body": "<p>Yeah, mud would certainly look better if it were a warmer color.</p>",
+        "author_id": 423562415371,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7616281640845-Make-Mud-look-like-Mud/comments/7624955479437",
+        "created_at": "2022-07-12T16:39:34Z",
+        "updated_at": "2022-12-13T15:34:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7616281640845/comments/7624955479437.json",
+        "post_id": 7616281640845,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7748592316045,
+        "body": "<p>I disagree. There is mud in real life that looks like that (specifically, in ACTUAL SWAMPS). It's rude to insult JAPPA by calling his textures crap, especially when you yourself probably can't actually make even close to a decent texture. It takes a lot of work to make a texture from scratch, and as an artist I'm deeply irritated that you would say that it's ugly just because it's not what you wanted, regardless of the thought behind it's design.</p>\n<p>Instead of changing mud's texture, they should just have multiple kinds of mud of varying shades of brown... gray, dark brown, and orange-brown (but all of them can be crafted into packed mud, there is no variant for packed mud).</p>",
+        "author_id": 418873283952,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7616281640845-Make-Mud-look-like-Mud/comments/7748592316045",
+        "created_at": "2022-07-18T03:24:23Z",
+        "updated_at": "2022-08-22T12:24:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7616281640845/comments/7748592316045.json",
+        "post_id": 7616281640845,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7751122949645,
+        "body": "<p>You do get mud that is that colour in some places and I think it suits the mangroves</p>",
+        "author_id": 1902021874407,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7616281640845-Make-Mud-look-like-Mud/comments/7751122949645",
+        "created_at": "2022-07-18T09:15:50Z",
+        "updated_at": "2022-08-22T12:24:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7616281640845/comments/7751122949645.json",
+        "post_id": 7616281640845,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7751166069517,
+        "body": "<p>But in biomes such as plains I just use soul soil for mud</p>",
+        "author_id": 1902021874407,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7616281640845-Make-Mud-look-like-Mud/comments/7751166069517",
+        "created_at": "2022-07-18T09:16:06Z",
+        "updated_at": "2022-07-18T13:16:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7616281640845/comments/7751166069517.json",
+        "post_id": 7616281640845,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7805337327757,
+        "body": "<p>Maybe the color of soul soil?</p>",
+        "author_id": 420562648152,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7616281640845-Make-Mud-look-like-Mud/comments/7805337327757",
+        "created_at": "2022-07-20T01:13:54Z",
+        "updated_at": "2022-07-20T01:13:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7616281640845/comments/7805337327757.json",
+        "post_id": 7616281640845,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7805368732429,
+        "body": "<p>Maybe the color of soul soil?</p>",
+        "author_id": 420562648152,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7616281640845-Make-Mud-look-like-Mud/comments/7805368732429",
+        "created_at": "2022-07-20T01:14:07Z",
+        "updated_at": "2022-07-20T01:14:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7616281640845/comments/7805368732429.json",
+        "post_id": 7616281640845,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 8090793571725,
+        "body": "<p>I think it’s texture should be based on the biome</p>",
+        "author_id": 4878318584717,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7616281640845-Make-Mud-look-like-Mud/comments/8090793571725",
+        "created_at": "2022-08-01T14:58:52Z",
+        "updated_at": "2022-12-13T15:34:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7616281640845/comments/8090793571725.json",
+        "post_id": 7616281640845,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 8091385740557,
+        "body": "<p>Maybe a new mud block that has browner colours in other specific biomes, so that we have <em>both</em> options of the grey mud and brown mud to build with.</p>",
+        "author_id": 419344921172,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7616281640845-Make-Mud-look-like-Mud/comments/8091385740557",
+        "created_at": "2022-08-01T15:14:05Z",
+        "updated_at": "2022-08-22T13:38:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7616281640845/comments/8091385740557.json",
+        "post_id": 7616281640845,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 11373806134541,
+        "body": "<p>Same post:<a href=\"https://feedback.minecraft.net/hc/en-us/community/posts/4411581218701-Not-so-black-mud\" rel=\"nofollow noreferrer\">https://feedback.minecraft.net/hc/en-us/community/posts/4411581218701-Not-so-black-mud</a></p>",
+        "author_id": 416461943171,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7616281640845-Make-Mud-look-like-Mud/comments/11373806134541",
+        "created_at": "2022-12-12T13:02:50Z",
+        "updated_at": "2023-01-19T07:04:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7616281640845/comments/11373806134541.json",
+        "post_id": 7616281640845,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 20751012134285,
+        "body": "<p>Although the mud in real mangrove forests are typically gray, I agree that the mud needs to be more brown. It'd be different if there were 2 variations of mud, 1 for mangrove swamps and another that can be made by combining water and dirt.<br><br>No offense to Jappa, but I agree that the mud block is simply unappealing and doesn't fit within the dirt/mud palette. How does it go from being a rich brown dirt color, to a desaturated grey with hints of brown, back to a light, rich brown for the bricks?<br><br>Like I said, it'd be different if there were 2 different variants of mud, but, seeing how there isn't, I think it should be a richer brown in color.&nbsp;</p>",
+        "author_id": 384260759151,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7616281640845-Make-Mud-look-like-Mud/comments/20751012134285",
+        "created_at": "2023-10-26T19:10:26Z",
+        "updated_at": "2023-10-27T00:22:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7616281640845/comments/20751012134285.json",
+        "post_id": 7616281640845,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4421714315149,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4421905799949,
+        "body": "<p>Seria muchisimo mas divertido que MINECRAFT JAVA Y MINECRAFT BECROCK si tuviera una oction en ajustes para poder quitar o ponerlos cuando nosostros queramos&nbsp;</p>",
+        "author_id": 423449818571,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4421714315149-Moving-leaves-and-moving-water-with-waves/comments/4421905799949",
+        "created_at": "2022-01-19T16:52:08Z",
+        "updated_at": "2022-02-07T17:45:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4421714315149/comments/4421905799949.json",
+        "post_id": 4421714315149,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4411038029069,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 17730819848333,
+        "body": "<p>I agree it sucks to not have rtx on xbox xs and ps5</p>\n<p>&nbsp;</p>",
+        "author_id": 16514585064589,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4411038029069-RTX-Needs-to-be-on-Vanilla-Minecraft/comments/17730819848333",
+        "created_at": "2023-07-18T20:01:11Z",
+        "updated_at": "2023-09-22T17:03:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4411038029069/comments/17730819848333.json",
+        "post_id": 4411038029069,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4405973309069,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4405984273933,
+        "body": "<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\">Hello, this appears to be a non-English post. Below you will find a transcription of the topic being discussed.&nbsp;&nbsp;</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\"><span style=\"font-weight: bold;\">Title:</span>&nbsp;“Realistic Shaders Like in Java”&nbsp;&nbsp;</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\"><span style=\"font-weight: bold;\">Text:</span>&nbsp;“The shader could be BSL Shader we only change it in resource packages.”&nbsp;</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\">- Translated by Admin&nbsp;</p>",
+        "author_id": 416747908552,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4405973309069-Shaders-realistas-como-en-java/comments/4405984273933",
+        "created_at": "2021-07-28T20:19:55Z",
+        "updated_at": "2021-07-28T20:19:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4405973309069/comments/4405984273933.json",
+        "post_id": 4405973309069,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077416192,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 17185150098573,
+        "body": "<p>I would like this setting for the exact opposite reason.&nbsp; I want to set it as high as my computer can manage, because seeing entities only 4 chunks away makes the game unplayable in my opinion, especially in the nether.&nbsp; We need at least 12 chunks on PC.</p>",
+        "author_id": 17184319451021,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077416192--All-Versions-Entity-Render-Distance/comments/17185150098573",
+        "created_at": "2023-06-29T13:19:31Z",
+        "updated_at": "2024-02-22T10:49:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077416192/comments/17185150098573.json",
+        "post_id": 360077416192,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075054392,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013670572,
+        "body": "<p>wouldn't this just ruin the death simplicity? too many entities and new death, but it would be funny. Theres mods for this if you want it so badly</p>",
+        "author_id": 407219066251,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075054392-Ragdoll-Animations-for-dead-mobs/comments/360013670572",
+        "created_at": "2020-11-30T23:12:56Z",
+        "updated_at": "2020-12-01T04:59:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075054392/comments/360013670572.json",
+        "post_id": 360075054392,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074388292,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013273111,
+        "body": "<p>hmm idk if this will work though, due to the fact that then people may import inappropriate accessories or ones that are to big which will make it harder to hit the players, also low end devices will have trouble rendering these&nbsp;</p>",
+        "author_id": 405646791031,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074388292-Customization/comments/360013273111",
+        "created_at": "2020-10-30T21:17:48Z",
+        "updated_at": "2020-12-18T20:58:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074388292/comments/360013273111.json",
+        "post_id": 360074388292,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360062943072,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013662132,
+        "body": "<p>IMO this should also apply to all foliage, not just leaves. (Grass, etc)</p>",
+        "author_id": 407136794012,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062943072-Leaves-should-reamin-as-usual-when-near-a-water-source-in-a-desert-biome/comments/360013662132",
+        "created_at": "2020-11-30T08:18:02Z",
+        "updated_at": "2021-02-03T11:59:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062943072/comments/360013662132.json",
+        "post_id": 360062943072,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360062780771,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012913631,
+        "body": "<p>texttures for gear sounds awsome</p>",
+        "author_id": 395232255051,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062780771-New-Textures-for-armour-tools-and-swords/comments/360012913631",
+        "created_at": "2020-09-28T22:05:01Z",
+        "updated_at": "2020-09-28T22:05:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062780771/comments/360012913631.json",
+        "post_id": 360062780771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360057358711,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009298652,
+        "body": "<p>cool!</p>",
+        "author_id": 378090129992,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360057358711-Animated-stripped-crimson-and-warped-stems/comments/360009298652",
+        "created_at": "2020-02-13T06:56:28Z",
+        "updated_at": "2020-07-01T12:29:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360057358711/comments/360009298652.json",
+        "post_id": 360057358711,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010067511,
+        "body": "<p>the texture would be a very slight change, like the glowing animation on sea lanterns no one would really notice it</p>",
+        "author_id": 393697679931,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360057358711-Animated-stripped-crimson-and-warped-stems/comments/360010067511",
+        "created_at": "2020-04-11T00:26:28Z",
+        "updated_at": "2020-07-01T12:29:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360057358711/comments/360010067511.json",
+        "post_id": 360057358711,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360056001932,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008796851,
+        "body": "<p>The anvil also shows cracks</p>",
+        "author_id": 391512027732,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360056001932-Damaged-boats-and-minecarts-should-crack/comments/360008796851",
+        "created_at": "2019-12-27T16:39:05Z",
+        "updated_at": "2019-12-27T16:39:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360056001932/comments/360008796851.json",
+        "post_id": 360056001932,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360054657671,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009361431,
+        "body": "<p>yes</p>",
+        "author_id": 394143378471,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054657671-Wolf-doggy-paddling/comments/360009361431",
+        "created_at": "2020-02-18T00:46:04Z",
+        "updated_at": "2020-11-10T05:22:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054657671/comments/360009361431.json",
+        "post_id": 360054657671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360050254971,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4413931458189,
+        "body": "<p>I agree, we got new ore textures so why not dye as well</p>",
+        "author_id": 398328318651,
+        "vote_sum": 4,
+        "vote_count": 4,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050254971-Please-Update-These-Textures-Of-Dye/comments/4413931458189",
+        "created_at": "2021-11-18T13:57:31Z",
+        "updated_at": "2024-03-02T04:42:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050254971/comments/4413931458189.json",
+        "post_id": 360050254971,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 14799585302925,
+        "body": "<p>This was honestly such a major oversight, and it wouldn't be that hard to fix!</p>",
+        "author_id": 8077931169293,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050254971-Please-Update-These-Textures-Of-Dye/comments/14799585302925",
+        "created_at": "2023-04-13T02:09:55Z",
+        "updated_at": "2024-03-02T04:42:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050254971/comments/14799585302925.json",
+        "post_id": 360050254971,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 24624393149069,
+        "body": "<p>Isn’t the yellow dye outdated as well?  Actually, I think even red, orange, pink, etc. may be outdated too, just a little more subtle than yellow and light blue.</p>",
+        "author_id": 24624398612237,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050254971-Please-Update-These-Textures-Of-Dye/comments/24624393149069",
+        "created_at": "2024-03-02T04:43:36Z",
+        "updated_at": "2024-03-04T18:10:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050254971/comments/24624393149069.json",
+        "post_id": 360050254971,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 24624409526029,
+        "body": "<p>I agree! It only took me a few hours to update the the oval shapes to something more unique, as well as update the colors. &nbsp;I even added dark red and beige to complete the gradient (black, gray, light gray, white, beige, brown, maroon, red, orange, yellow, lime, green, cyan, light blue, blue, purple, magenta, pink).</p>",
+        "author_id": 24624398612237,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050254971-Please-Update-These-Textures-Of-Dye/comments/24624409526029",
+        "created_at": "2024-03-02T04:44:36Z",
+        "updated_at": "2024-03-04T18:11:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050254971/comments/24624409526029.json",
+        "post_id": 360050254971,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

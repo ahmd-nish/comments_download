@@ -1,0 +1,727 @@
+[
+  {
+    "post_id": 360040043111,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004924431,
+        "body": "<p>It's suppose to be different then Java's though.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040043111--Java-Parity-Strength-weakness-potions/comments/360004924431",
+        "created_at": "2019-03-21T00:56:28Z",
+        "updated_at": "2019-03-21T00:56:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040043111/comments/360004924431.json",
+        "post_id": 360040043111,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360004924451,
+        "body": "<p>It's not that they have the wrong effect but it's their potential.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040043111--Java-Parity-Strength-weakness-potions/comments/360004924451",
+        "created_at": "2019-03-21T00:57:10Z",
+        "updated_at": "2019-03-21T00:57:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040043111/comments/360004924451.json",
+        "post_id": 360040043111,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 41601926136333,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41607238480269,
+        "body": "<p>If mojang is going to insist on versioning with the year, this is the way to do it and not cause confusion talking about bedrock vs java. I don't understand why they don't just make the first number what is currently the minor version number instead of the year though and just update it instead of having that second number. The year number is basically meaningless. Versioning by year feels like it just happens to change because another year went by, not because meaningful changes were made.</p>",
+        "author_id": 381473317592,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41601926136333-Revisit-version-numbering-for-parity/comments/41607238480269",
+        "created_at": "2025-12-02T22:34:44Z",
+        "updated_at": "2025-12-02T22:44:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41601926136333/comments/41607238480269.json",
+        "post_id": 41601926136333,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41609531158541,
+        "body": "<p>It could also work for bedrock:<br>26.18 -&gt; 26.19 -&gt; 26.1A -&gt; 26.1B .... for extreme cases where a drop needs more than 10 bugfixes yet still simpler than 1.21.124</p>",
+        "author_id": 35698601980557,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41601926136333-Revisit-version-numbering-for-parity/comments/41609531158541",
+        "created_at": "2025-12-03T00:15:41Z",
+        "updated_at": "2025-12-03T00:15:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41601926136333/comments/41609531158541.json",
+        "post_id": 41601926136333,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41613040276749,
+        "body": "<p>They could also go full ubuntu and go with the format \"YY.MM.HOTFIX\" with the year and month being when they start development for next version. Still would be a little confusing with the mid-cycle updates, but less than their current plan. Java versions for this year as an example would jump around like 25.01.0 -&gt; 25.04.0 -&gt; 25.07.0 -&gt; 25.10.0 and bedrock would go 25.01.0 -&gt; 25.03.0 -&gt; 25.04.0 -&gt; 25.06.0 -&gt; 25.07.0 -&gt; 25.09.0 -&gt; 25.10.0, then the java and bedrock versions would match at least most of the year and end of the year update like the mounts of mayhem would be 25.10.0 for both versions instead of 25.4 for java and 25.70 for bedrock</p>",
+        "author_id": 381473317592,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41601926136333-Revisit-version-numbering-for-parity/comments/41613040276749",
+        "created_at": "2025-12-03T04:45:21Z",
+        "updated_at": "2025-12-03T04:46:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41601926136333/comments/41613040276749.json",
+        "post_id": 41601926136333,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41633455402509,
+        "body": "<p>Exactly! Personally, I do not care what system or numbering they go with (though I do appreciate removing the \"1.\" from the start, as it's meaningless if it never changes for years). I just want them to, as you said, finally make both version numbers the exact same between Java and Bedrock. It's so confusing to remember \"this update/number is for Java and this is for Bedrock\" when it could literally just be one number for our sanity and parity! And as you said, it'll make it easier for update discussion than for us all to ask \"Java or Bedrock? And what update do you mean?\". So confusing! Please Mojang!</p>",
+        "author_id": 369774299851,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41601926136333-Revisit-version-numbering-for-parity/comments/41633455402509",
+        "created_at": "2025-12-03T19:41:28Z",
+        "updated_at": "2025-12-03T19:41:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41601926136333/comments/41633455402509.json",
+        "post_id": 41601926136333,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40263396972429,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40274204461837,
+        "body": "<p>yes just like the heart particles and the critical hit sound\n</p>",
+        "author_id": 20346924720781,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40263396972429-Sweeping-Edge-Attack-Animation-for-Bedrock-Edition/comments/40274204461837",
+        "created_at": "2025-10-12T04:43:11Z",
+        "updated_at": "2025-10-12T04:43:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40263396972429/comments/40274204461837.json",
+        "post_id": 40263396972429,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40459090727949,
+        "body": "<p>Pls import this or☠️☠️☠️☠️☠️</p>",
+        "author_id": 39563027589389,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40263396972429-Sweeping-Edge-Attack-Animation-for-Bedrock-Edition/comments/40459090727949",
+        "created_at": "2025-10-20T05:20:20Z",
+        "updated_at": "2025-10-20T05:20:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40263396972429/comments/40459090727949.json",
+        "post_id": 40263396972429,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35250864231821,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36263143113485,
+        "body": "<p>I disagree wholeheartedly. Legacy console edition is better than both Bedrock and Java.</p>",
+        "author_id": 29671047900813,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35250864231821-Java-Edition-Should-NOT-Be-The-SUPERIOR-Version-of-Minecraft/comments/36263143113485",
+        "created_at": "2025-05-01T01:53:23Z",
+        "updated_at": "2025-05-01T16:22:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35250864231821/comments/36263143113485.json",
+        "post_id": 35250864231821,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 34359346266509,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 34761516696205,
+        "body": "<p>On one hand, it would be nice. On the other hand, you should have it as a gamerule on Java, so that servers like 2B2T don't exploit it.</p>",
+        "author_id": 29671047900813,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/34359346266509--Legacy-Console-Parity-Message-when-players-enter-or-leave-End-Dimension/comments/34761516696205",
+        "created_at": "2025-03-05T21:02:17Z",
+        "updated_at": "2025-03-05T21:20:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/34359346266509/comments/34761516696205.json",
+        "post_id": 34359346266509,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 31616837520909,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 34593175394061,
+        "body": "<p>It is needed!</p>",
+        "author_id": 27711851686157,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/31616837520909--Bedrock-Parity-Bone-mealing-small-flowers/comments/34593175394061",
+        "created_at": "2025-02-27T11:36:49Z",
+        "updated_at": "2025-02-27T11:36:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/31616837520909/comments/34593175394061.json",
+        "post_id": 31616837520909,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 24850247517453,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25081784029837,
+        "body": "<p>Bedrock’s way should still be kept, but it should also have Java’s way.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24850247517453-Make-Dyed-Dog-Armour-Craftable-In-Bedrock/comments/25081784029837",
+        "created_at": "2024-03-17T17:40:51Z",
+        "updated_at": "2024-03-18T06:30:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24850247517453/comments/25081784029837.json",
+        "post_id": 24850247517453,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 26851410141837,
+        "body": "<p>Without this feature on Bedrock, fully playerless dog armor dyers are impossible to make on Bedrock, as you cannot auto-dye items with the cauldron without the need of a player.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24850247517453-Make-Dyed-Dog-Armour-Craftable-In-Bedrock/comments/26851410141837",
+        "created_at": "2024-05-19T20:13:51Z",
+        "updated_at": "2024-05-19T20:16:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24850247517453/comments/26851410141837.json",
+        "post_id": 24850247517453,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 17615582892429,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 18053941097101,
+        "body": "<p>I play on the switch, which has bedrock edition, and items don't lag behind your cursor unless the game is lagging.</p>",
+        "author_id": 12270814940301,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/17615582892429-Minecraft-Bedrock-And-java-inventory-parity/comments/18053941097101",
+        "created_at": "2023-07-29T21:54:07Z",
+        "updated_at": "2024-03-15T02:16:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/17615582892429/comments/18053941097101.json",
+        "post_id": 17615582892429,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 25022008722957,
+        "body": "<p>This is literally an input lag/optimization issue, it has nothing to do with parity.</p>",
+        "author_id": 24593017686925,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/17615582892429-Minecraft-Bedrock-And-java-inventory-parity/comments/25022008722957",
+        "created_at": "2024-03-15T02:15:58Z",
+        "updated_at": "2024-03-15T16:35:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/17615582892429/comments/25022008722957.json",
+        "post_id": 17615582892429,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 17240102182797,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 19784739334925,
+        "body": "<p>Yes i like to see my stats too!&nbsp;</p>",
+        "author_id": 19784701804941,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/17240102182797-Stats-Page/comments/19784739334925",
+        "created_at": "2023-09-24T14:12:26Z",
+        "updated_at": "2023-09-28T07:27:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/17240102182797/comments/19784739334925.json",
+        "post_id": 17240102182797,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 17202233228301,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25022155740941,
+        "body": "<p>Java combat system is bad, and not challenging at all, it doesn't make game easier nor harder, it just makes it boring, and you waste more time to kill mob because you need to wait, also swing animation is awful in java, and I think that java combat should be changed to bedrock edition one, and additionally decrease damage numbers for all weapon for balance if necessary</p>",
+        "author_id": 24593017686925,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/17202233228301-Java-combat-system-in-Bedrock/comments/25022155740941",
+        "created_at": "2024-03-15T02:26:40Z",
+        "updated_at": "2024-03-15T18:07:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/17202233228301/comments/25022155740941.json",
+        "post_id": 17202233228301,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 16956568204685,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25022208516237,
+        "body": "<p>No we don't, 2D bed textures are iconic and look much better and more professional rather than just rendering 3D model of bed that takes half of the screen in java</p>",
+        "author_id": 24593017686925,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/16956568204685-We-need-3D-bed-textures-on-bedrock/comments/25022208516237",
+        "created_at": "2024-03-15T02:30:26Z",
+        "updated_at": "2024-04-26T15:36:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/16956568204685/comments/25022208516237.json",
+        "post_id": 16956568204685,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 26233908209165,
+        "body": "<p>There could be 2D beds and 3D beds as a separate texture pack, built-in.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/16956568204685-We-need-3D-bed-textures-on-bedrock/comments/26233908209165",
+        "created_at": "2024-04-26T15:36:44Z",
+        "updated_at": "2024-04-26T15:36:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/16956568204685/comments/26233908209165.json",
+        "post_id": 16956568204685,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 28591171094925,
+        "body": "<p>Es mejor en 3d se ven mejores y son de paridad el logro de mojang no?</p>",
+        "author_id": 27995909508621,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/16956568204685-We-need-3D-bed-textures-on-bedrock/comments/28591171094925",
+        "created_at": "2024-07-21T06:04:44Z",
+        "updated_at": "2024-07-21T22:13:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/16956568204685/comments/28591171094925.json",
+        "post_id": 16956568204685,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 16328831038349,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25022274897421,
+        "body": "<p>That's because it's broken since 1.13.0 since persona service was added, and can't really be fixed without removing ability to change tallness of character</p>",
+        "author_id": 24593017686925,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/16328831038349-Make-Bedrock-s-arm-match-Java-s/comments/25022274897421",
+        "created_at": "2024-03-15T02:35:38Z",
+        "updated_at": "2024-03-15T18:14:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/16328831038349/comments/25022274897421.json",
+        "post_id": 16328831038349,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 15415549205773,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 16306475682957,
+        "body": "<p>I want sticky pistons spitting out blocks with one tick pulses :(</p>",
+        "author_id": 13741489303565,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/15415549205773--Java-Parity-Redstone-Java-and-Bedrock-are-different/comments/16306475682957",
+        "created_at": "2023-06-01T04:18:50Z",
+        "updated_at": "2023-06-01T04:22:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/15415549205773/comments/16306475682957.json",
+        "post_id": 15415549205773,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 15415400612621,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 18675398396685,
+        "body": "<p>This is going to be added in the next version most likely, as it’s been in betas for a while. Just wait a bit :)</p>",
+        "author_id": 17938635549965,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/15415400612621--Java-Parity-Crawl-on-the-ground-when-under-a-trapdoor/comments/18675398396685",
+        "created_at": "2023-08-18T20:56:18Z",
+        "updated_at": "2023-08-18T20:56:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/15415400612621/comments/18675398396685.json",
+        "post_id": 15415400612621,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 14132764394509,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 14644958428173,
+        "body": "<p>Could you please elaborate a bit more?</p>",
+        "author_id": 14644731492237,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/14132764394509--Java-parity-Block-display-entity/comments/14644958428173",
+        "created_at": "2023-04-07T05:55:39Z",
+        "updated_at": "2024-01-06T01:19:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/14132764394509/comments/14644958428173.json",
+        "post_id": 14132764394509,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10075575915533,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 26234092577421,
+        "body": "<p>This is for being able to waterlog cobwebs in Java.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10075575915533-cobweb-doesnt-break-by-water/comments/26234092577421",
+        "created_at": "2024-04-26T15:41:35Z",
+        "updated_at": "2024-04-26T15:41:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10075575915533/comments/26234092577421.json",
+        "post_id": 10075575915533,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7108058053133,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7240214727309,
+        "body": "<p>This already exists, I believe, but it should be a game feature rather than 3rd party plugin</p>\n<p>&nbsp;</p>",
+        "author_id": 417263648292,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7108058053133-Add-geyser-mc-plugin/comments/7240214727309",
+        "created_at": "2022-06-27T19:23:54Z",
+        "updated_at": "2022-11-18T16:50:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7108058053133/comments/7240214727309.json",
+        "post_id": 7108058053133,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 6720406919053,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 6728790542093,
+        "body": "<p>That's because item frames are entities in Java. In Bedrock they are only blocks...</p>",
+        "author_id": 5209025310477,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6720406919053-Vines-item-frames-and-carpets-should-be-the-same-as-Java-on-bedrock/comments/6728790542093",
+        "created_at": "2022-06-07T14:10:07Z",
+        "updated_at": "2022-06-08T21:14:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6720406919053/comments/6728790542093.json",
+        "post_id": 6720406919053,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 6667463860365,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7501471745677,
+        "body": "<p>I'm not a fan of the bedrock UI, but I'd definitely enjoy seeing controller support added to java edition at some point.</p>",
+        "author_id": 384032973392,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6667463860365-Bedrock-UI-Controller-Support-for-Java/comments/7501471745677",
+        "created_at": "2022-07-07T18:08:54Z",
+        "updated_at": "2022-07-17T21:57:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6667463860365/comments/7501471745677.json",
+        "post_id": 6667463860365,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4948741103117,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4959135540365,
+        "body": "<p>Great idea. By the way, here I suggested a similar idea about customization, but for any armor: <a href=\"https://feedback.minecraft.net/hc/en-us/community/posts/4404967586189-Expand-the-topic-of-armor\" rel=\"nofollow noreferrer\">https://feedback.minecraft.net/hc/en-us/community/posts/4404967586189-Expand-the-topic-of-armor</a></p>",
+        "author_id": 416461943171,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4948741103117-Leather-Patterns/comments/4959135540365",
+        "created_at": "2022-03-21T15:59:43Z",
+        "updated_at": "2022-03-21T20:53:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4948741103117/comments/4959135540365.json",
+        "post_id": 4948741103117,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4814729881485,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5277612206349,
+        "body": "<p>Do phantoms run from spiders on bedrock?</p>",
+        "author_id": 5277597563533,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4814729881485-Cats-scaring-phantoms-on-java/comments/5277612206349",
+        "created_at": "2022-04-04T03:56:32Z",
+        "updated_at": "2022-04-04T03:56:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4814729881485/comments/5277612206349.json",
+        "post_id": 4814729881485,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4619639925133,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4999898860557,
+        "body": "<p>The bedrock combat system is drastically different. Buffing sharpness on bedrock to match java means bedrock players deal more damage in the same amount of time. This is because there is an absence of the attack cooldown mechanic in bedrock.<br><br>A mob that takes 2 hits to die in java will last X amount of time.<br>The same mob in bedrock will take 3 hits, but die in x amount of time as well. (usually)<br><br>If sharpness is increased to match, the mob on bedrock will die in 2 hits, but take Y amount of time. (faster)<br>this decreases the currently intended difficulty level and would actually decrease parity unless the rest of combat was changed as well.</p>",
+        "author_id": 406882080391,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4619639925133-Increasing-Sharpness-Damage-Java-Parity/comments/4999898860557",
+        "created_at": "2022-03-23T00:07:31Z",
+        "updated_at": "2022-03-23T18:31:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4619639925133/comments/4999898860557.json",
+        "post_id": 4619639925133,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4426486743053,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5162471215629,
+        "body": "<p>I agree. Bedrock players need a better opportunity to build.</p>",
+        "author_id": 5126819843213,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4426486743053-Bedrock-Edition-Needs-More-Building-Techniques/comments/5162471215629",
+        "created_at": "2022-03-29T23:25:30Z",
+        "updated_at": "2022-03-30T18:02:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4426486743053/comments/5162471215629.json",
+        "post_id": 4426486743053,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4414260643853,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4414273274509,
+        "body": "<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\">Hello, this appears to be a non-English post. Below you will find a transcription of the topic being discussed.&nbsp;&nbsp;</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\"><span style=\"font-weight: bold;\">Title:</span>&nbsp;“Parity of beds from Java to bedrock”&nbsp;&nbsp;</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\"><span style=\"font-weight: bold;\">Text:</span>&nbsp;“The texture of the bed in Java works very well when you have it in your hand it looks good and also in the creative all the beds look perfect while in bedrock (Minecraft PE) they look with pixels when you have the bed in your hand you see pixels and that in Java it does not happen and it also goes in the creative all the beds are pixels.”&nbsp;</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\">- Translated by Admin&nbsp;</p>",
+        "author_id": 416747908552,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4414260643853-Paridad-de-las-camas-de-Java-a-bedrock/comments/4414273274509",
+        "created_at": "2021-11-21T17:27:58Z",
+        "updated_at": "2021-11-21T17:27:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4414260643853/comments/4414273274509.json",
+        "post_id": 4414260643853,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4412998170637,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4412982631693,
+        "body": "<div>\n<div>\n<div>\n<p>Hello, this appears to be a non-English post. Below you will find a transcription of the topic being discussed.&nbsp;&nbsp;</p>\n<p>Title:&nbsp;“10x10 farm chunks spawnchunks”&nbsp;&nbsp;</p>\n<p>Text:&nbsp;“Spawnchunks are chunks that are always charged even if the player is not in that area. When the player generates a world the first time he wants the 10x10 spawnchunks to be around him and that when the player leaves that 10x10 zone it is still loading even if the player is not in that area, for those mobile devices or computers of low resources because adding an option before creating the world is the option to choose if you want spawnchunks for those who have a device with good resources and if you do not want to have this option disabled, it is an option that favors those players who are more technical”&nbsp;</p>\n<p>- Translated by Admin&nbsp;</p>\n</div>\n</div>\n</div>",
+        "author_id": 416747908552,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4412998170637-Spawnchunks-de-10x10-chunks-para-granjas/comments/4412982631693",
+        "created_at": "2021-11-07T23:52:28Z",
+        "updated_at": "2021-11-07T23:52:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4412998170637/comments/4412982631693.json",
+        "post_id": 4412998170637,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 23748691095693,
+        "body": "<p>The spawn chunks should be a 2X2 area now. It can be configured by a gamerule.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4412998170637-Spawnchunks-de-10x10-chunks-para-granjas/comments/23748691095693",
+        "created_at": "2024-02-01T22:36:49Z",
+        "updated_at": "2024-02-01T22:36:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4412998170637/comments/23748691095693.json",
+        "post_id": 4412998170637,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

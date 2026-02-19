@@ -1,0 +1,802 @@
+[
+  {
+    "post_id": 360077738132,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015402671,
+        "body": "<p>hey puedes moverlos con /tp [nombre de jugador] [coordenada]</p>",
+        "author_id": 415604222051,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077738132-A-move-command-that-moves-players-to-a-location/comments/360015402671",
+        "created_at": "2021-05-13T14:24:17Z",
+        "updated_at": "2021-05-13T14:24:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077738132/comments/360015402671.json",
+        "post_id": 360077738132,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360015674672,
+        "body": "<p>Not a bad idea, kinda like /force!</p>",
+        "author_id": 416156423811,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077738132-A-move-command-that-moves-players-to-a-location/comments/360015674672",
+        "created_at": "2021-05-31T16:34:25Z",
+        "updated_at": "2021-12-19T18:58:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077738132/comments/360015674672.json",
+        "post_id": 360077738132,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077713232,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014827931,
+        "body": "<div style=\"border-width: 100%;\">\n<div style=\"width: 6.109in;\">\n<div style=\"width: 6.109in;\">\n<p style=\"font-size: 11.0pt; color: black;\"><span style=\"font-family: Calibri;\">Hello, this appears to be a non-English post. Below you will find a transcription of the topic being discussed.&nbsp;</span><span style=\"font-family: WordVisiCarriageReturn_MSFontSe;\">&nbsp;</span></p>\n<p style=\"font-family: WordVisiCarriageReturn_MSFontSe; font-size: 11.0pt; color: black;\">&nbsp;</p>\n<p style=\"font-size: 11.0pt; color: black;\"><span style=\"font-weight: bold; font-family: Calibri;\">Title:</span><span style=\"font-family: Calibri;\">&nbsp;“NEW COMMAND /worldedit”&nbsp;</span><span style=\"font-family: WordVisiCarriageReturn_MSFontSe;\">&nbsp;</span></p>\n<p style=\"font-family: WordVisiCarriageReturn_MSFontSe; font-size: 11.0pt; color: black;\">&nbsp;</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\"><span style=\"font-weight: bold;\">Text:</span>&nbsp;“command so that in your world you have epic constructions in a single commando for example I want to build a house /worldedit houseofwood for example if it was a wooden house the command I just put wood because wood is wood in English and would also be very useful for maps adventure or servers for example on your map or server you want to make a tsunami put the command /worldedittsunami and it is already with any type of construction or structure build it in a command (also the command would be valid in command blocks /command block)”&nbsp;</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\">- Translated by&nbsp;Admin</p>\n</div>\n</div>\n</div>",
+        "author_id": 401209274491,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077713232-NUEVO-COMANDO-worldedit/comments/360014827931",
+        "created_at": "2021-04-15T03:20:34Z",
+        "updated_at": "2021-04-15T03:20:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077713232/comments/360014827931.json",
+        "post_id": 360077713232,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077434451,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014729952,
+        "body": "<div style=\"border-width: 100%;\">\n<div style=\"width: 6.109in;\">\n<div style=\"width: 6.109in;\">\n<p style=\"font-size: 11.0pt; color: black;\"><span style=\"font-family: Calibri;\">Hello, this appears to be a non-English post. Below you will find a transcription of the topic being discussed.&nbsp;</span><span style=\"font-family: WordVisiCarriageReturn_MSFontSe;\">&nbsp;</span></p>\n<p style=\"font-family: WordVisiCarriageReturn_MSFontSe; font-size: 11.0pt; color: black;\">&nbsp;</p>\n<p style=\"font-size: 11.0pt; color: black;\"><span style=\"font-weight: bold; font-family: Calibri;\">Title:</span><span style=\"font-family: Calibri;\">&nbsp;“Command to change texture of blocks according to biome”&nbsp;</span><span style=\"font-family: WordVisiCarriageReturn_MSFontSe;\">&nbsp;</span></p>\n<p style=\"font-family: WordVisiCarriageReturn_MSFontSe; font-size: 11.0pt; color: black;\">&nbsp;</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\"><span style=\"font-weight: bold;\">Text:</span>&nbsp;“Example agent is in a flat world making a map of parkour or something else and then agent puts blocks and decorates everything else will be all identico there agent enters the biome choose the area that it will affect and then agent puts a swamp type biome there that whole area you chose to stay with texture of the swamp with dark grass blue and black water etc with savannah and everything else”&nbsp;</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\">- Translated by&nbsp;Admin</p>\n</div>\n</div>\n</div>",
+        "author_id": 401209274491,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077434451-Comando-para-mudar-textura-dos-blocos-de-acordo-com-o-bioma/comments/360014729952",
+        "created_at": "2021-03-24T02:23:35Z",
+        "updated_at": "2021-03-24T02:23:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077434451/comments/360014729952.json",
+        "post_id": 360077434451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4409028178061,
+        "body": "<p>Erro de entrada dos maps</p>",
+        "author_id": 420147999471,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077434451-Comando-para-mudar-textura-dos-blocos-de-acordo-com-o-bioma/comments/4409028178061",
+        "created_at": "2021-09-11T17:39:09Z",
+        "updated_at": "2021-09-11T17:39:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077434451/comments/4409028178061.json",
+        "post_id": 360077434451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077422452,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014641291,
+        "body": "<p>I think that what you have asked for in your post is possible already through different methods depending on which Minecraft Edition you are playing on:</p>\n<h2>Bedrock Edition</h2>\n<p>This is possible using the target selector argument <code>family</code>. This will select targets that are part of a specific entity family, defined in a behaviour pack. Many families exist for different types of mobs. Try stuff like inanimate, undead, and see what happens! For a complete list of all possible values, download the default behaviour pack.</p>\n<p>Example usage:</p>\n<pre>@e[family=undead]</pre>\n<h2>Java Edition</h2>\n<p>Java Edition of Minecraft uses data pack tags to get this done. Data pack tags are a listing of types that group entities, blocks, items, even functions! You can set up your own to choose which entity types are part of your tag, then apply it.</p>\n<p>Then, when you want to use it, do something like this:</p>\n<pre>@e[type=#namespace:tag]</pre>",
+        "author_id": 396590871911,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077422452-Mob-category-for-type-target-selector-argument/comments/360014641291",
+        "created_at": "2021-03-19T17:44:17Z",
+        "updated_at": "2021-03-23T22:25:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077422452/comments/360014641291.json",
+        "post_id": 360077422452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077377392,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5494412263949,
+        "body": "<p>I have been looking for a way to make the game treat me like an undead without addons or mods for a while. Bedrock edition.  I've gone so far as to continually test for air above the player's head and for water at the player's feet, And periodically Flash in a lava block on them.  And applying blindness to anything undead that looks at me.  I'm still having trouble figuring out how to reverse the instant health and instant damage effects.</p>",
+        "author_id": 4582612965133,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077377392--family-command-to-change-mob-family-of-players-or-mobs/comments/5494412263949",
+        "created_at": "2022-04-12T19:17:14Z",
+        "updated_at": "2022-04-12T20:44:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077377392/comments/5494412263949.json",
+        "post_id": 360077377392,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077023671,
+    "expected_comment_count": 7,
+    "actual_comment_count": 7,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014355512,
+        "body": "<p>That's a great idea </p>",
+        "author_id": 408827999671,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077023671-Minecraft-bedrock-chain-command-memory-system/comments/360014355512",
+        "created_at": "2021-02-12T15:30:03Z",
+        "updated_at": "2021-02-12T15:30:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077023671/comments/360014355512.json",
+        "post_id": 360077023671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014361092,
+        "body": "<p>This is possible already through tagging:</p>\n<pre>tag @p add chosenPlayer\nclear @a[tag=chosenPlayer] diamond 7\nexecute @a[tag=chosenPlayer] ~ ~ ~ summon ...</pre>",
+        "author_id": 396590871911,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077023671-Minecraft-bedrock-chain-command-memory-system/comments/360014361092",
+        "created_at": "2021-02-12T20:26:46Z",
+        "updated_at": "2021-04-20T02:37:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077023671/comments/360014361092.json",
+        "post_id": 360077023671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014570752,
+        "body": "<p>I can’t believe I didn’t think about that, this is a very good idea.<br><strong>Reply to&nbsp;</strong><x-zendesk-user data-user-name=\"ExpertCoder2306\">396590871911</x-zendesk-user></p>\n<p>but this would make it much easier</p>",
+        "author_id": 412058528612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077023671-Minecraft-bedrock-chain-command-memory-system/comments/360014570752",
+        "created_at": "2021-03-03T18:56:40Z",
+        "updated_at": "2021-03-03T19:25:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077023671/comments/360014570752.json",
+        "post_id": 360077023671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014658991,
+        "body": "<p><x-zendesk-user data-user-name=\"ReaAquaticCraft\">412058528612</x-zendesk-user>&nbsp;Even if this system&nbsp;<em>was</em> implemented, there are still a bunch of kinks to work out. For example, what would happen if a command took two target selectors (like <code>/tp</code>)? Then how would the system choose which to use for the <code>@c</code> later? Ambiguities like that are what make these ideas less solid and less likely to be implemented.</p>",
+        "author_id": 396590871911,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077023671-Minecraft-bedrock-chain-command-memory-system/comments/360014658991",
+        "created_at": "2021-03-22T23:39:06Z",
+        "updated_at": "2021-03-30T18:00:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077023671/comments/360014658991.json",
+        "post_id": 360077023671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014719771,
+        "body": "<p><x-zendesk-user data-user-name=\"ExpertCoder2306\">396590871911</x-zendesk-user>&nbsp;i think you miss understand the system, this selector would only be used in chain command blocks, to set it up properly you would need to to first find a player with the previous commandblock. so an example is a more secure shop system. remove scoreboard of the closest player, then in a chain give \"@c\" the item. as far as tp goes, if we apply the rule /tp @c to @c would result in nothing happening in most cases since no player was chosen previously. or if you set it up just right, you can teleport the same person to themselves. and because it only works in a very specific way doesnt mean its not useful or its 2 niche because Minecraft has done this before, in fact they did it worse. you can only use the \"@s\" scoreboard in your command console, and even then its the same as using :\"@p\" because you will always be the closest player to yourself.</p>",
+        "author_id": 377473236492,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077023671-Minecraft-bedrock-chain-command-memory-system/comments/360014719771",
+        "created_at": "2021-03-30T18:10:38Z",
+        "updated_at": "2021-03-30T19:44:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077023671/comments/360014719771.json",
+        "post_id": 360077023671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014722891,
+        "body": "<p><x-zendesk-user data-user-name=\"BaseplateB0T\">377473236492</x-zendesk-user>&nbsp;Thanks for your reply. Based on your response, I believe that I have not misunderstood what your idea is talking about, rather, I believe that I may not have been clear about the issue I was pointing out in my previous comment.</p>\n<p>Suppose the following commands are run, in order:</p>\n<pre>tp @p[name=test] @p[name=testB]<br>give @c diamond 64</pre>\n<p>The problem I was talking about is, who does the <code>@c</code> target? Should it target the first player, the second player, or both? That's why I proposed the tags solution, because you can tag either player beforehand to specify which one to target later.</p>",
+        "author_id": 396590871911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077023671-Minecraft-bedrock-chain-command-memory-system/comments/360014722891",
+        "created_at": "2021-03-31T04:57:54Z",
+        "updated_at": "2021-03-31T09:13:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077023671/comments/360014722891.json",
+        "post_id": 360077023671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4404847187341,
+        "body": "<blockquote>\n<p>Suppose the following commands are run, in order:</p>\n<pre>tp @p[name=test] @p[name=testB]<br>give @c diamond 64</pre>\n<p>The problem I was talking about is, who does the&nbsp;<code>@c</code>&nbsp;target? Should it target the first player, the second player, or both? That's why I proposed the tags solution, because you can tag either player beforehand to specify which one to target later.</p>\n</blockquote>\n<p>Pretty simply, you just don't log entities for commands that take more than one entity. Even doing this, if you desired, you could set up a command that logs the chosen player beforehand, even if it's just through something like /testfor. Or better yet, use /execute to log it in the same command block, by going like so:</p>\n<p>execute @p[name=test] ~ ~ ~ tp @s @p[name=testB]</p>\n<p>give @c diamond 64</p>\n<p>Here, the @c would be referencing the entity who was executed on.</p>\n<p>&nbsp;</p>\n<p>And finally, to answer a question I thought of: what would happen if you used @a or @e? The way I would do it, is that if @a or @e were used, it would store the actual target selector, rather than an individual entity.</p>",
+        "author_id": 418372406252,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077023671-Minecraft-bedrock-chain-command-memory-system/comments/4404847187341",
+        "created_at": "2021-07-12T12:40:25Z",
+        "updated_at": "2021-07-12T16:13:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077023671/comments/4404847187341.json",
+        "post_id": 360077023671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077002351,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014334112,
+        "body": "<p>I think this would be better suited for the \"Blocks, Tools, and Items\" category.</p>",
+        "author_id": 396590871911,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077002351-3-D-food-on-plates/comments/360014334112",
+        "created_at": "2021-02-10T19:56:35Z",
+        "updated_at": "2021-04-13T18:19:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077002351/comments/360014334112.json",
+        "post_id": 360077002351,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014869611,
+        "body": "<p>I would love this idea! Plates should be added so that Minecraft players don’t have to think so much about what to substitute as a plate. For instance, many people use item frames to look like there is food on the plate. However, the food is flat and they don’t look like plates. I would love an update like this! Please consider voting if you haven’t already! Tysm!</p>",
+        "author_id": 415229725452,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077002351-3-D-food-on-plates/comments/360014869611",
+        "created_at": "2021-04-21T02:01:10Z",
+        "updated_at": "2021-04-21T04:50:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077002351/comments/360014869611.json",
+        "post_id": 360077002351,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076583511,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014164392,
+        "body": "<p>That's already possible with some existing commands, with the help of <code>/execute store</code>. You can use it to save the results of commands to a storage location, and then recall the value to test if it succeeded. Why don't you try this:</p>\n<pre>execute store success score test results run kill @a[distance=..5]<br>execute if score test results matches 1 run say Killed a player!<br>execute unless score test results matches 1 run say There were no players to kill...</pre>",
+        "author_id": 396590871911,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076583511--execute-try-if-command-fails-is-successful/comments/360014164392",
+        "created_at": "2021-01-24T01:10:34Z",
+        "updated_at": "2021-01-24T19:03:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076583511/comments/360014164392.json",
+        "post_id": 360076583511,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076072212,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013960552,
+        "body": "<p>Just so you know, the message \"<em>player</em> fell out of the world\" was actually a remnant from Minecraft 1.7 and below. It used to be that the <code>/kill</code> command dealt 3.4×10<sup>38</sup> void damage to kill entities. However, this functionality has been removed and now the command just directly kills an entity.</p>\n<p>I will agree with this idea and that the death message for <code>/kill</code> should be updated to reflect that it no longer deals void damage. I have a different suggestion for the message instead: simply \"<em>player</em> was killed\". I don't know why, but it just sounds wrong to say that it was using cheats.</p>",
+        "author_id": 396590871911,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076072212-cheat-death-mesage/comments/360013960552",
+        "created_at": "2020-12-31T04:34:23Z",
+        "updated_at": "2021-12-30T19:35:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076072212/comments/360013960552.json",
+        "post_id": 360076072212,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075501271,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 22765214758669,
+        "body": "<p>This would be helpful for server owners trying to remove illegal items from a players ender chest.</p>",
+        "author_id": 22765169878413,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075501271-Clear-ender-chest-Command/comments/22765214758669",
+        "created_at": "2023-12-29T06:35:59Z",
+        "updated_at": "2023-12-30T23:54:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075501271/comments/22765214758669.json",
+        "post_id": 360075501271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075529732,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4414433328909,
+        "body": "<p>I agree. This would be very good for general maps and just fun to mess around with. It would add so much more creativity to Minecraft.</p>",
+        "author_id": 1903542017867,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075529732-Shrink-Grow-command/comments/4414433328909",
+        "created_at": "2021-11-23T08:10:53Z",
+        "updated_at": "2021-11-23T19:54:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075529732/comments/4414433328909.json",
+        "post_id": 360075529732,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 6245316492429,
+        "body": "<p>maybe also a gravity command&nbsp; to go along with it as well.</p>",
+        "author_id": 420026485331,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075529732-Shrink-Grow-command/comments/6245316492429",
+        "created_at": "2022-05-15T13:34:23Z",
+        "updated_at": "2022-05-15T15:52:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075529732/comments/6245316492429.json",
+        "post_id": 360075529732,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074846592,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 11326894286477,
+        "body": "<p>So cooooooooooooooooooooool</p>",
+        "author_id": 11326800496269,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074846592-Blue-flame-should-be-actually-blue-for-particle-command-Bedrock/comments/11326894286477",
+        "created_at": "2022-12-09T19:45:21Z",
+        "updated_at": "2022-12-09T19:45:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074846592/comments/11326894286477.json",
+        "post_id": 360074846592,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 11326931791117,
+        "body": "<p>I want to read again</p>",
+        "author_id": 11326800496269,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074846592-Blue-flame-should-be-actually-blue-for-particle-command-Bedrock/comments/11326931791117",
+        "created_at": "2022-12-09T19:47:10Z",
+        "updated_at": "2022-12-09T19:47:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074846592/comments/11326931791117.json",
+        "post_id": 360074846592,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074510491,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013478552,
+        "body": "<p>This is possible in Java Edition already, like so:</p>\n<pre>/execute as @a run tellraw @s [{\"text\":\"Time you've been on the world: \"},{\"score\":{\"name\":\"@s\",\"objective\":\"ticksPlayed\"}}]</pre>\n<p>In Bedrock Edition, this is now possible in the 1.16.100 update, click <a href=\"https://minecraft.gamepedia.com/Bedrock_Edition_1.16.100\" target=\"_blank\" rel=\"nofollow noreferrer\">here</a> to see the Minecraft Wiki's article on the update.</p>\n<p>When the update is released, this will be possible using a similar syntax to Java Edition:</p>\n<pre>/execute @a ~ ~ ~ tellraw @s {\"rawtext\":[{\"text\":\"Time you've been on the world: \"},{\"score\":{\"name\":\"@s\",\"objective\":\"ticksPlayed\"}}]}</pre>\n<p>The <code>selector</code> tag is also being added, so you will be able to use selectors in your raw JSON text as well.</p>\n<h1>Notes</h1>\n<p>Note that while this has made raw JSON text in Bedrock Edition more similar to Java Edition,&nbsp;<em>they are still not the same</em>. The following differences will still exist:</p>\n<ul>\n<li>\n<strong>Formatting options:</strong> Formatting options like <code>bold</code>, <code>italic</code>, and so on will not be in-game. Use formatting codes with the section sign <code>§</code> instead.</li>\n<li>\n<strong>Interactivity</strong>: Hover events, click events, and insertion text are not included in this update.</li>\n<li>\n<strong>NBT support:</strong> NBT support has not been added to Bedrock Edition, and probably will not be added in the near future. So, the <code>nbt</code> tag will not be added.</li>\n</ul>\n<p>Also note that the <code>selector</code> and <code>score</code> tags require resolution, in layman's terms, that means that the value will only be calculated once. This means that the previous chat messages will not change if the score is later updated.</p>",
+        "author_id": 396590871911,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074510491-Ability-to-use-scoreboard-values-in-text/comments/360013478552",
+        "created_at": "2020-11-12T04:17:50Z",
+        "updated_at": "2020-11-25T02:49:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074510491/comments/360013478552.json",
+        "post_id": 360074510491,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074339891,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013415192,
+        "body": "<p>I think this idea good cuz when I sent invite to my friend it doesn't show the invite at all</p>",
+        "author_id": 402998786372,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074339891-Invite-Command/comments/360013415192",
+        "created_at": "2020-11-06T06:04:48Z",
+        "updated_at": "2020-11-06T06:04:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074339891/comments/360013415192.json",
+        "post_id": 360074339891,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074255672,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014704531,
+        "body": "<p>This is possible! Make 2 teams using /team and disable friendly fire (/team modify &lt;whatever you named you team&gt; friendlyfire false) This is only on Java Edition though. But I do agree that they should make it so a player can be on multiple teams.</p>",
+        "author_id": 412648405611,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074255672-Team-PVP/comments/360014704531",
+        "created_at": "2021-03-29T17:06:41Z",
+        "updated_at": "2021-03-29T19:05:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074255672/comments/360014704531.json",
+        "post_id": 360074255672,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074204472,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4445570785293,
+        "body": "<p>Tzszzs</p>",
+        "author_id": 424194971991,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074204472--gamerule-announceAdvancements-gamerule-disableAdvancements/comments/4445570785293",
+        "created_at": "2022-02-18T19:16:51Z",
+        "updated_at": "2022-02-18T19:17:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074204472/comments/4445570785293.json",
+        "post_id": 360074204472,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073819592,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013128911,
+        "body": "<p>A command that simulates a piston push would be interesting</p>\n<p>/move &lt;x&gt; &lt;y&gt; &lt;z&gt; [north,south,east,west,up,down]</p>\n<p>and then that position will react as if that spot was pushed in that direction</p>",
+        "author_id": 380346095111,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073819592-The-moveblock-command/comments/360013128911",
+        "created_at": "2020-10-17T21:07:03Z",
+        "updated_at": "2020-10-18T05:35:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073819592/comments/360013128911.json",
+        "post_id": 360073819592,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013217472,
+        "body": "<p>Might be hard to program, but otherwise a really cool idea.</p>",
+        "author_id": 405055555411,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073819592-The-moveblock-command/comments/360013217472",
+        "created_at": "2020-10-19T23:14:05Z",
+        "updated_at": "2020-10-20T06:15:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073819592/comments/360013217472.json",
+        "post_id": 360073819592,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073378031,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012928351,
+        "body": "<p>this is like NEEDED</p>",
+        "author_id": 402747855952,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073378031-Command-Block-One-more-option/comments/360012928351",
+        "created_at": "2020-09-30T03:39:19Z",
+        "updated_at": "2020-09-30T03:39:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073378031/comments/360012928351.json",
+        "post_id": 360073378031,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073352292,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 18715178390157,
+        "body": "<p>I would love this. I wanted to build a Halloween minecart ride in survival, and wanted to get skeletons falling from the ceiling.\n<br />I would use armor stands, with grey armor hanging from a lead, and use a piston to remove a block holding the armor stand in the ceiling and it would fall while the minecart was going under.</p>\n\n<p>It was a great idea in my head, but then I realised armor stands couldn't be attached with leads... Would love to see this added to the game! :) </p>",
+        "author_id": 16199111542669,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073352292-Leads-that-attach-to-armor-stands/comments/18715178390157",
+        "created_at": "2023-08-21T01:52:21Z",
+        "updated_at": "2023-09-29T16:58:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073352292/comments/18715178390157.json",
+        "post_id": 360073352292,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 36287653570189,
+        "body": "<p>This would be great with the new update coming out soon! It would be incredibly useful</p>\n<p>&nbsp;</p>",
+        "author_id": 36017228825229,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073352292-Leads-that-attach-to-armor-stands/comments/36287653570189",
+        "created_at": "2025-05-02T03:45:45Z",
+        "updated_at": "2025-05-02T17:01:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073352292/comments/36287653570189.json",
+        "post_id": 360073352292,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360072519312,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012709992,
+        "body": "<p>Could also be a new feature for scripting api</p>",
+        "author_id": 384862341491,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072519312-Gamerule-ShowHUD-NoHUD/comments/360012709992",
+        "created_at": "2020-08-29T16:48:27Z",
+        "updated_at": "2020-08-31T16:06:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072519312/comments/360012709992.json",
+        "post_id": 360072519312,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360072042771,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012363652,
+        "body": "<p>GENIUS!</p>",
+        "author_id": 394157612871,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072042771-Item-NBT-Events-to-Trigger-McFunctions/comments/360012363652",
+        "created_at": "2020-08-04T10:01:09Z",
+        "updated_at": "2020-08-04T10:01:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072042771/comments/360012363652.json",
+        "post_id": 360072042771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012417192,
+        "body": "<p>i mean, we can already do this with scoreboards. But perhaps this would be less performance intensive than doing checks on tick. Voted.</p>",
+        "author_id": 396834456691,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072042771-Item-NBT-Events-to-Trigger-McFunctions/comments/360012417192",
+        "created_at": "2020-08-08T17:02:59Z",
+        "updated_at": "2020-08-10T17:25:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072042771/comments/360012417192.json",
+        "post_id": 360072042771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071869472,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013436792,
+        "body": "<p>This is already possible using the <code>/replactitem</code> command:</p>\n<pre>/replaceitem entity @p slot.hotbar 0 air 1</pre>",
+        "author_id": 396590871911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071869472--MCBE-Suggestion-for-clear-command/comments/360013436792",
+        "created_at": "2020-11-08T18:43:07Z",
+        "updated_at": "2020-11-09T01:36:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071869472/comments/360013436792.json",
+        "post_id": 360071869472,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071561591,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013920291,
+        "body": "<p>I completely agree. I have a realm and I copied the world into a single player to test out some building ideas. Unfortunately, I am unable to change the world to allow cheats. It is really annoying to turn them on every time.&nbsp;</p>",
+        "author_id": 408933830931,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071561591-ability-to-turn-cheats-back-on-if-you-created-a-world-without-cheats/comments/360013920291",
+        "created_at": "2021-01-04T21:46:04Z",
+        "updated_at": "2021-01-05T00:08:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071561591/comments/360013920291.json",
+        "post_id": 360071561591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013923171,
+        "body": "<p><x-zendesk-user data-user-name=\"arnoudboi123\">400723440612</x-zendesk-user> I would suggest looking into using an NBT editor if you are really angling to change world settings that are otherwise inaccessible.</p>",
+        "author_id": 396590871911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071561591-ability-to-turn-cheats-back-on-if-you-created-a-world-without-cheats/comments/360013923171",
+        "created_at": "2021-01-05T08:33:29Z",
+        "updated_at": "2021-01-05T19:22:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071561591/comments/360013923171.json",
+        "post_id": 360071561591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071503971,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012385652,
+        "body": "<p>/Gamemode Mob\n<br /> \n<br />It would allow you to be mobs and use their abilities, if you die you revive being a random mob and in case you want to disable being a type of mob, you would do it with commands as well as enabling or disabling mobs from using the work table (players). This would make events like players vs mob\n</p>",
+        "author_id": 400433945432,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071503971-Gamemode-Mob/comments/360012385652",
+        "created_at": "2020-08-05T23:09:59Z",
+        "updated_at": "2021-12-30T19:53:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071503971/comments/360012385652.json",
+        "post_id": 360071503971,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071488812,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012115091,
+        "body": "<p>XD just make yourself invisible and spam tp a entity with the name you want it to be.</p>",
+        "author_id": 400944865511,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071488812--char-command-Java-and-Bedrock/comments/360012115091",
+        "created_at": "2020-07-21T22:34:23Z",
+        "updated_at": "2020-07-21T22:34:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071488812/comments/360012115091.json",
+        "post_id": 360071488812,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,1132 @@
+[
+  {
+    "post_id": 360023840932,
+    "expected_comment_count": 6,
+    "actual_comment_count": 6,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360002342432,
+        "body": "<p>i also am posting this on help.mojang.com right now</p>",
+        "author_id": 370184159792,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360023840932-Ability-to-convert-Realms-to-Bedrock-Server/comments/360002342432",
+        "created_at": "2018-09-23T07:27:17Z",
+        "updated_at": "2018-09-23T07:27:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360023840932/comments/360002342432.json",
+        "post_id": 360023840932,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002475731,
+        "body": "<p>I was able to get this to work. It does work and with a little more experimentation i think you could get it to work as well.</p>\n<p>When I moved my realm world to a server I changed the name of the world folder, it was something like \"4fCApfd57j=\" and now it is \"Realm_Server\" then i changed this line in the server.prop from&nbsp;level-name=Bedrock level, to&nbsp;level-name=Realm_Server. I don't know if changing the name is what fixed it or not, but it is working well for me.</p>\n<p>Now all I am waiting for is the custom server option in Minecraft Bedrock on Xbox one, can't wait :)</p>",
+        "author_id": 370315995891,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360023840932-Ability-to-convert-Realms-to-Bedrock-Server/comments/360002475731",
+        "created_at": "2018-10-06T00:32:03Z",
+        "updated_at": "2018-10-08T14:49:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360023840932/comments/360002475731.json",
+        "post_id": 360023840932,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005001171,
+        "body": "<p>I can't access my realm on xbox at all. What am i paying every month for? Any way to get out of the Beta?</p>\n<p>&nbsp;</p>",
+        "author_id": 379011406271,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360023840932-Ability-to-convert-Realms-to-Bedrock-Server/comments/360005001171",
+        "created_at": "2019-03-26T13:16:23Z",
+        "updated_at": "2019-03-26T13:16:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360023840932/comments/360005001171.json",
+        "post_id": 360023840932,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006575191,
+        "body": "<p>Add sever will not come to xbox one Microsoft is in partnership with the featured servers i.e they make money for purchases made on the server ultimately Microsoft want to control the user experience so doubt we will ever see an add server option its pretty sad really</p>\n<p>&nbsp;</p>",
+        "author_id": 385020072751,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360023840932-Ability-to-convert-Realms-to-Bedrock-Server/comments/360006575191",
+        "created_at": "2019-07-21T11:34:45Z",
+        "updated_at": "2019-07-21T11:34:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360023840932/comments/360006575191.json",
+        "post_id": 360023840932,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013665832,
+        "body": "<p>Are there any updates to this Thread?&nbsp; We have hit the max number of people on our Bedrock Microsoft Realm (10), and there are still family members/friends that we want to give access to.&nbsp; Rather than deleting/adding players, we'd like to move the realm to a Server (not sure which company yet), so that we can have more players, and also can use the Furniture mod (hopefully).&nbsp; Also....just about ALL of us play on XBox (one PS4 player)</p>\n<p>Reading the comments below, it looks like the steps would be</p>\n<p>1. opening the Realm on my laptop, and downloading/saving backup of the world</p>\n<p>2.&nbsp; then moving the world files from the laptop to the server&nbsp;</p>\n<p>3.&nbsp; then modifying the name of the world folder on the Server, to something like \"Realm_Server\"</p>\n<p>4. then (this is where I think i'm missing something) then modifying this line in the server.prop (what is this and where is it?) from&nbsp;level-name=Bedrock level, to&nbsp;level-name=Realm_Server.&nbsp;<br><br></p>\n<p>and if we do this, then everyone should be able to connect to that server on Xbox and play?</p>",
+        "author_id": 390448084311,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360023840932-Ability-to-convert-Realms-to-Bedrock-Server/comments/360013665832",
+        "created_at": "2020-11-30T17:08:35Z",
+        "updated_at": "2020-12-01T04:58:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360023840932/comments/360013665832.json",
+        "post_id": 360023840932,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 22872890296973,
+        "body": "<p>I'm still wondering if this is possible.</p>",
+        "author_id": 22872822968077,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360023840932-Ability-to-convert-Realms-to-Bedrock-Server/comments/22872890296973",
+        "created_at": "2024-01-03T04:53:57Z",
+        "updated_at": "2024-01-03T04:53:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360023840932/comments/22872890296973.json",
+        "post_id": 360023840932,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4406083678605,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4406332324877,
+        "body": "<p>Yeah, the same thing is happening to me and my brother. My brother is hosting a server on his switch, and I am no longer able to connect from my PC.&nbsp;</p>",
+        "author_id": 419113919311,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4406083678605-Online-Multiplayer-on-Switch-After-Updating-to-1-17-is-Impossible/comments/4406332324877",
+        "created_at": "2021-08-03T01:09:39Z",
+        "updated_at": "2021-12-30T18:20:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4406083678605/comments/4406332324877.json",
+        "post_id": 4406083678605,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4411007669517,
+        "body": "<p>My nephew playing on the Switch cannot see me online under 'Joinable Cross-Platform Friends' and I can't see him under that either BUT when we search for each other with the 'Find Cross-Platform Friends' button, it shows both of us as being online and it says 'Currently playing Minecraft for Nintendo Switch/PS4'</p>",
+        "author_id": 1902334388027,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4406083678605-Online-Multiplayer-on-Switch-After-Updating-to-1-17-is-Impossible/comments/4411007669517",
+        "created_at": "2021-10-10T04:12:07Z",
+        "updated_at": "2021-12-30T18:20:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4406083678605/comments/4411007669517.json",
+        "post_id": 4406083678605,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 9681838673293,
+        "body": "<p>bugs.mojang.com\n<br />make a jira account if you don’t have one\n<br />wrong place my friend</p>",
+        "author_id": 369537799291,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4406083678605-Online-Multiplayer-on-Switch-After-Updating-to-1-17-is-Impossible/comments/9681838673293",
+        "created_at": "2022-10-06T02:02:59Z",
+        "updated_at": "2022-10-06T14:05:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4406083678605/comments/9681838673293.json",
+        "post_id": 4406083678605,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 11471129965453,
+        "body": "<p>Wow thank you very much mojang. I LOVE MINECRAFT❤️</p>",
+        "author_id": 11471111163533,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4406083678605-Online-Multiplayer-on-Switch-After-Updating-to-1-17-is-Impossible/comments/11471129965453",
+        "created_at": "2022-12-15T10:03:53Z",
+        "updated_at": "2023-01-19T18:12:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4406083678605/comments/11471129965453.json",
+        "post_id": 4406083678605,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077297231,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014805972,
+        "body": "<p>I agree with most of this except the controller thing, it wouldn't work for pc and mobile and it wouldn't be implemented, I suppose that they make it a toggleable feature, they put the hardcore under difficulty, the voice chat under the world options, though I would prefer proximity chat, because you can voice chat with teamspeak, skype, or discord. and experimental beta also under world option.</p>",
+        "author_id": 405188999852,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077297231-Betas-for-bedrock-add-voice-chat-and-hardcore-for-bedrock/comments/360014805972",
+        "created_at": "2021-04-02T18:08:14Z",
+        "updated_at": "2021-04-02T19:23:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077297231/comments/360014805972.json",
+        "post_id": 360077297231,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077190191,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014688612,
+        "body": "<p>It is the best idea in the world</p>",
+        "author_id": 412998474211,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077190191-Free-server-hosting-in-Bedrock/comments/360014688612",
+        "created_at": "2021-03-18T07:11:47Z",
+        "updated_at": "2021-11-24T17:07:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077190191/comments/360014688612.json",
+        "post_id": 360077190191,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 14121425988877,
+        "body": "<p>It's okay 😊</p>",
+        "author_id": 14121395164813,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077190191-Free-server-hosting-in-Bedrock/comments/14121425988877",
+        "created_at": "2023-03-18T23:29:17Z",
+        "updated_at": "2023-03-18T23:29:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077190191/comments/14121425988877.json",
+        "post_id": 360077190191,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 19144910016525,
+        "body": "<p>Yes</p>",
+        "author_id": 19137930848781,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077190191-Free-server-hosting-in-Bedrock/comments/19144910016525",
+        "created_at": "2023-09-02T19:13:19Z",
+        "updated_at": "2023-09-22T03:47:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077190191/comments/19144910016525.json",
+        "post_id": 360077190191,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360069882411,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4420104323981,
+        "body": "<p>I agree and think the scrambling-nonsense needs to be fixed asap! It's just an unneccecary monkeybusiness to have to dig thorugh that unsorted mess every time I want to set up a new server or change something in an existing world.</p>",
+        "author_id": 1904683744607,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360069882411-Minecraft-servers-shouldn-t-rewrite-the-server-properties-file-every-launch/comments/4420104323981",
+        "created_at": "2022-01-11T13:48:19Z",
+        "updated_at": "2022-01-20T18:30:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360069882411/comments/4420104323981.json",
+        "post_id": 360069882411,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 10988736385421,
+        "body": "<p>I managed to circumvent this in 1.19.2 by simply removing write privileges from the file and it worked. For FTB Infinity, the server wouldn't start because of it, however.</p>",
+        "author_id": 10971788169485,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360069882411-Minecraft-servers-shouldn-t-rewrite-the-server-properties-file-every-launch/comments/10988736385421",
+        "created_at": "2022-11-29T11:59:23Z",
+        "updated_at": "2022-12-15T01:21:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360069882411/comments/10988736385421.json",
+        "post_id": 360069882411,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360067374471,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011148632,
+        "body": "<p>I have a similar idea, whenever a player participates in a realm he get's a cape that represent his engagement, and the admin who sets the one cape for all members especially for his realm, and the player can keep that cape as long as he's a member of his realm, if he get's out, he won't have the right to possess it anymore.</p>",
+        "author_id": 372102680511,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067374471-Realm-s-Cape/comments/360011148632",
+        "created_at": "2020-06-26T20:31:46Z",
+        "updated_at": "2020-06-29T15:22:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067374471/comments/360011148632.json",
+        "post_id": 360067374471,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360056517352,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009149512,
+        "body": "<p>I assume it would be rather simple to implement.</p>\n<p>&nbsp;</p>\n<p>have it as a configuration setting that can be toggled so its not implied as default</p>",
+        "author_id": 379602999111,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360056517352-Password-option-for-realms/comments/360009149512",
+        "created_at": "2020-02-02T00:11:47Z",
+        "updated_at": "2020-02-02T00:11:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360056517352/comments/360009149512.json",
+        "post_id": 360056517352,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009979532,
+        "body": "<p>I have a guild, would be nice to just post the password in our chat instead of having to invite each member individually.</p>",
+        "author_id": 396274217531,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360056517352-Password-option-for-realms/comments/360009979532",
+        "created_at": "2020-04-05T03:21:59Z",
+        "updated_at": "2020-04-12T16:25:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360056517352/comments/360009979532.json",
+        "post_id": 360056517352,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014718271,
+        "body": "<p>I forgot the flogging.</p>",
+        "author_id": 413649888811,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360056517352-Password-option-for-realms/comments/360014718271",
+        "created_at": "2021-03-30T15:34:27Z",
+        "updated_at": "2021-03-30T15:34:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360056517352/comments/360014718271.json",
+        "post_id": 360056517352,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360040716972,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008200991,
+        "body": "<p>I don’t know about you, but alpha did not impress me. There are too many bugs and errors (\n<br />I look forward to updating minecraft and updating the kernel with him;)</p>",
+        "author_id": 369013698672,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040716972-we-LOVE-the-Bedrock-Dedicated-Server/comments/360008200991",
+        "created_at": "2019-10-27T20:08:24Z",
+        "updated_at": "2019-10-28T17:34:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040716972/comments/360008200991.json",
+        "post_id": 360040716972,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013529651,
+        "body": "<p>I run a few dedicated bedrock servers. the current issue is that MSFT has removed the ability to add an ip, of an address to an external nonrealms server if you are on an xbox. this is a MAJOR issue. We all still want to play together, and MSFT boasts cross platform gaming, yet they stop you on this one game. They allow it on ARK, other games ok, but not on minecraft why? Realms is also very unreliable, frequent downs and issues. People want more variety, and they want to join their friends worlds with ease. In america we believe in freedom of speech and choice, so please give people back the power, to choose, with their own free will like the founders of this country would have wanted.</p>",
+        "author_id": 406821472612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040716972-we-LOVE-the-Bedrock-Dedicated-Server/comments/360013529651",
+        "created_at": "2020-11-23T14:04:15Z",
+        "updated_at": "2020-11-23T14:28:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040716972/comments/360013529651.json",
+        "post_id": 360040716972,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014750411,
+        "body": "<p>I love this too. I hope it continues to see development and support. I just recently found out about this and it is fantastic. If you haven't tried messing with this, you SHOULD if you are out there reading this. Download the server software and it only takes a few minutes to get it running. It is fantastic. Do it!!</p>",
+        "author_id": 403038285972,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040716972-we-LOVE-the-Bedrock-Dedicated-Server/comments/360014750411",
+        "created_at": "2021-04-04T17:01:38Z",
+        "updated_at": "2021-04-04T19:17:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040716972/comments/360014750411.json",
+        "post_id": 360040716972,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360029266592,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005398471,
+        "body": "<p>Until a built-in updater comes, @chupacaubrey on Twitter posts updates, there's an auto update script on Reddit, and I made one as well in MCscripts by TapeWerm.</p>",
+        "author_id": 371743751192,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360029266592-News-source-for-bedrock-server-updates/comments/360005398471",
+        "created_at": "2019-04-26T00:08:41Z",
+        "updated_at": "2019-04-26T16:47:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360029266592/comments/360005398471.json",
+        "post_id": 360029266592,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 24197620323341,
+    "expected_comment_count": 3,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25613770523789,
+        "body": "<p>Realms should ONLY require Gamepass if you open it to 2+ players that are not on your same split screen, otherwise you should not need Gamepass.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 4,
+        "vote_count": 4,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24197620323341-Realms-shouldn-t-require-Gamepass-on-Xbox/comments/25613770523789",
+        "created_at": "2024-04-04T14:39:00Z",
+        "updated_at": "2024-04-04T19:06:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24197620323341/comments/25613770523789.json",
+        "post_id": 24197620323341,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 26848536151181,
+        "body": "<p>100% this is a scam. You don't need game pass to play realms from Android.</p>",
+        "author_id": 26848524495885,
+        "vote_sum": 6,
+        "vote_count": 6,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24197620323341-Realms-shouldn-t-require-Gamepass-on-Xbox/comments/26848536151181",
+        "created_at": "2024-05-19T16:35:08Z",
+        "updated_at": "2024-05-19T16:37:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24197620323341/comments/26848536151181.json",
+        "post_id": 24197620323341,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 33457323251085,
+        "body": "<p>This is wrong. I paid for the game. I pay for my realm. Gamepass literally has nothing to do with the game at this point. This is scam on console players and you know it.</p>",
+        "author_id": 33457326204685,
+        "vote_sum": 4,
+        "vote_count": 4,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24197620323341-Realms-shouldn-t-require-Gamepass-on-Xbox/comments/33457323251085",
+        "created_at": "2025-01-14T03:04:03Z",
+        "updated_at": "2025-01-14T17:04:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24197620323341/comments/33457323251085.json",
+        "post_id": 24197620323341,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 43216090170509,
+        "body": "<p>I agree. I already pay 10 bucks a month to have the realm for myself and my friends. I can play on it on my PC without issue. I purchased the game. Why am I paying Xbox for the right to play multiplayer? That's awful.</p>",
+        "author_id": 34192518520205,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24197620323341-Realms-shouldn-t-require-Gamepass-on-Xbox/comments/43216090170509",
+        "created_at": "2026-02-03T19:02:03Z",
+        "updated_at": "2026-02-03T19:02:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24197620323341/comments/43216090170509.json",
+        "post_id": 24197620323341,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4407923543181,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7221838074509,
+        "body": "<p>This seems to genuinely give a very unique and well thought out suggestion! I find the invitation aspect extremely reasonable.</p>",
+        "author_id": 7221443160461,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4407923543181-The-new-ban-system-needs-to-be-made-clearer-and-fairer/comments/7221838074509",
+        "created_at": "2022-06-27T04:52:13Z",
+        "updated_at": "2022-06-27T09:46:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4407923543181/comments/7221838074509.json",
+        "post_id": 4407923543181,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078160771,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4409776675853,
+        "body": "<p>Please Mojang! I've been fighting this issue for so many years!</p>",
+        "author_id": 420230561412,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078160771-Make-server-side-anticheat-configurable-able-to-be-turned-off/comments/4409776675853",
+        "created_at": "2021-09-22T04:27:31Z",
+        "updated_at": "2021-09-22T05:00:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078160771/comments/4409776675853.json",
+        "post_id": 360078160771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077628552,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4410927748877,
+        "body": "<p>can't write on signs, anvil is bugged. horses and boats glitch so bad it crashes the server</p>",
+        "author_id": 1902310267867,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077628552-Fix-Bedrock-Realms/comments/4410927748877",
+        "created_at": "2021-10-09T05:28:51Z",
+        "updated_at": "2021-10-09T12:37:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077628552/comments/4410927748877.json",
+        "post_id": 360077628552,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 8929794656013,
+        "body": "<p>Same for me. Sometimes takes 3 - 5 seconds just to get into my inventory. Block lagging all the time and i'm paying for this service. I'm mostly on the realm alone too and it's up to 10 people? I can't even move things in my inventory sometimes.</p>",
+        "author_id": 8929822396557,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077628552-Fix-Bedrock-Realms/comments/8929794656013",
+        "created_at": "2022-09-05T09:35:56Z",
+        "updated_at": "2022-09-05T14:35:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077628552/comments/8929794656013.json",
+        "post_id": 360077628552,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 9653926312461,
+        "body": "<p>WHY IS MOVING OR EVEN TOUVHING ADDONS SUCH A PAIN,&nbsp; it makes me have to download the world and fix the addons myself and then uload it bBUT 80% of the tme theres an error and it wont take it and i have to restart... can we fix the UI of everything instead of gubbing for money as fast as possible , i mean theres easily fixed flaws its like tou intentionally left in.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><br>2. why is realms so laggy and somtime ant sperfect, ita random, can you do somthing to&nbsp; fic realms lagging? seriously its a PROBLEM dissatisfied as heak. please fix please fix, i can point out moe if you email me <a href=\"mailto:explosivedestruction@gmail.com\" rel=\"nofollow noreferrer\">explosivedestruction@gmail.com</a> you need help from a real consumer&nbsp;</p>\n<p>&nbsp;</p>",
+        "author_id": 9653934703629,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077628552-Fix-Bedrock-Realms/comments/9653926312461",
+        "created_at": "2022-10-05T01:41:08Z",
+        "updated_at": "2022-10-05T12:37:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077628552/comments/9653926312461.json",
+        "post_id": 360077628552,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077307451,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 11129627457293,
+        "body": "<p>PLEASE I believe this is what's keeping me from using Global Resource packs as well. This means I can't play with ray tracing!!! I just spent a ton of money on this pc and I can't even play with ray tracing with my family!</p>",
+        "author_id": 8392319427213,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077307451-Allow-us-to-join-a-realm-without-downloading-a-resource-pack/comments/11129627457293",
+        "created_at": "2022-12-03T08:29:44Z",
+        "updated_at": "2022-12-22T03:15:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077307451/comments/11129627457293.json",
+        "post_id": 360077307451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 28441600587661,
+        "body": "<p>I have the same problem primary together with my children and secondary in the realm with my friends <br>I stop to (dont want to) play the game again.</p>\n<p>Pls fix it, so I can play with my Kids again..</p>\n<p>&nbsp;</p>\n<p>Before the last update and add all the addon's it works.&nbsp;</p>",
+        "author_id": 28441501597709,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077307451-Allow-us-to-join-a-realm-without-downloading-a-resource-pack/comments/28441600587661",
+        "created_at": "2024-07-15T21:51:51Z",
+        "updated_at": "2024-07-16T15:14:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077307451/comments/28441600587661.json",
+        "post_id": 360077307451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 28452002718605,
+        "body": "<p>I know to fix the Problem.</p>\n\n<p>The server-admin muat switch off the texture-pack in the setting from the realm only the Addons must be switch on) only must enable to Use it byself in his main menu. </p>\n\n<p>Any Player tages his own TeX pack and then it works (even with addons)</p>",
+        "author_id": 28441501597709,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077307451-Allow-us-to-join-a-realm-without-downloading-a-resource-pack/comments/28452002718605",
+        "created_at": "2024-07-16T09:12:18Z",
+        "updated_at": "2024-07-16T17:14:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077307451/comments/28452002718605.json",
+        "post_id": 360077307451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 35665627609357,
+        "body": "<p>seriously, this completely breaks RTX, bedrock's only redeeming feature!</p>",
+        "author_id": 10765434088205,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077307451-Allow-us-to-join-a-realm-without-downloading-a-resource-pack/comments/35665627609357",
+        "created_at": "2025-04-07T23:43:11Z",
+        "updated_at": "2025-04-08T00:57:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077307451/comments/35665627609357.json",
+        "post_id": 360077307451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076495931,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014437451,
+        "body": "<p>Mobile and Win10 players can join any server</p>",
+        "author_id": 407015408492,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076495931-Custom-servers/comments/360014437451",
+        "created_at": "2021-02-25T17:17:46Z",
+        "updated_at": "2021-10-22T13:57:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076495931/comments/360014437451.json",
+        "post_id": 360076495931,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075040472,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013621651,
+        "body": "<p>What about Realms?</p>",
+        "author_id": 407270490952,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075040472-Universal-Bedrock-Server-Software-for-all-Bedrock-Platforms/comments/360013621651",
+        "created_at": "2020-12-03T03:57:49Z",
+        "updated_at": "2021-01-13T19:10:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075040472/comments/360013621651.json",
+        "post_id": 360075040472,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013709351,
+        "body": "<p>This is basically the same concept as realms, but since it is a server you can run on your own pc, it gives you more customization options like max players, render distance, and simulation distance.  It is basically a mixture of realms and dedicated servers, but instead of connecting with an IP address, the server would show under joinable friends when it is online, similar to how a friends world shows under joinable friends when they are online.</p>",
+        "author_id": 384466635171,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075040472-Universal-Bedrock-Server-Software-for-all-Bedrock-Platforms/comments/360013709351",
+        "created_at": "2020-12-08T15:42:21Z",
+        "updated_at": "2020-12-22T00:22:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075040472/comments/360013709351.json",
+        "post_id": 360075040472,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014072592,
+        "body": "<p>Ples eror servers \n</p>",
+        "author_id": 409397494271,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075040472-Universal-Bedrock-Server-Software-for-all-Bedrock-Platforms/comments/360014072592",
+        "created_at": "2021-01-13T19:11:38Z",
+        "updated_at": "2021-01-13T19:11:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075040472/comments/360014072592.json",
+        "post_id": 360075040472,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014786271,
+        "body": "<p>I said what is not available</p>",
+        "author_id": 414439300512,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075040472-Universal-Bedrock-Server-Software-for-all-Bedrock-Platforms/comments/360014786271",
+        "created_at": "2021-04-09T05:21:17Z",
+        "updated_at": "2021-04-09T05:21:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075040472/comments/360014786271.json",
+        "post_id": 360075040472,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074916312,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014101612,
+        "body": "<p>i also owned a realm and pay it allmost 10 months they should add more player on realm or another subscription with a lot of players</p>",
+        "author_id": 406692202772,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074916312-More-Bedrock-Realm-Player-Options/comments/360014101612",
+        "created_at": "2021-01-17T11:35:36Z",
+        "updated_at": "2022-01-31T07:08:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074916312/comments/360014101612.json",
+        "post_id": 360074916312,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074421232,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013562052,
+        "body": "<p>I have been wanting to create a server for me and my friends so we can all play with out having to have 1 certain person online for everyone else to play. We have always been wanting to build up a world together but schedules can be tight. None of us have a pc to actually create a server for us to play. So i think this idea would be nice  </p>",
+        "author_id": 406626332152,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074421232-Ability-to-make-servers-on-mobile/comments/360013562052",
+        "created_at": "2020-11-19T07:29:08Z",
+        "updated_at": "2021-05-24T13:53:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074421232/comments/360013562052.json",
+        "post_id": 360074421232,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014300851,
+        "body": "<p>I just want to set up my account so I can go on different servers</p>\n<p>&nbsp;</p>",
+        "author_id": 411066547531,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074421232-Ability-to-make-servers-on-mobile/comments/360014300851",
+        "created_at": "2021-02-12T19:57:08Z",
+        "updated_at": "2021-02-12T19:57:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074421232/comments/360014300851.json",
+        "post_id": 360074421232,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043131652,
+    "expected_comment_count": 6,
+    "actual_comment_count": 6,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005022931,
+        "body": "<p>I agree with everything here, but the problem is that, with the loot boxes or things of that nature, you always receive           'something,' which means legally, and technically, it's not gambling. It is still very immoral, and uses gambling exploitations, but it means that there is no legal action to take, but still, very wrong, and should be banned </p>",
+        "author_id": 365326150692,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043131652--Servers-Ban-Casinos-From-Bedrock/comments/360005022931",
+        "created_at": "2019-03-27T21:16:26Z",
+        "updated_at": "2024-03-16T09:41:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043131652/comments/360005022931.json",
+        "post_id": 360043131652,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005057471,
+        "body": "<p>Something to keep in mind is that laws can be changed to classify this stuff as gambling, also.&nbsp; That loophole you mentioned is definitely well-known and it's how these people get away with what they're doing without regulation, but like, we can all see exactly what this is, right?&nbsp; It's absolutely gambling in reality.</p>",
+        "author_id": 379077668931,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043131652--Servers-Ban-Casinos-From-Bedrock/comments/360005057471",
+        "created_at": "2019-03-29T19:36:32Z",
+        "updated_at": "2024-03-16T09:41:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043131652/comments/360005057471.json",
+        "post_id": 360043131652,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005146472,
+        "body": "<p>If you don't like it, discourage other people from buying Microsoft's products.&nbsp; It's called capitalism.</p>",
+        "author_id": 370958599952,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043131652--Servers-Ban-Casinos-From-Bedrock/comments/360005146472",
+        "created_at": "2019-04-05T23:38:00Z",
+        "updated_at": "2024-03-16T09:41:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043131652/comments/360005146472.json",
+        "post_id": 360043131652,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005488171,
+        "body": "<p>You can not force a competetive cooperation like Microsoft to use their own capacities to expose servers you described, for following reason: Microsoft would have no financial benefit of this, but would still have to pay for such a capacity.</p>\n<p>The real culprit are the server owners, not Microsoft.</p>\n<p>What Microsoft really could do, though: They could create a player based poll for each server, to see if</p>\n<p>- payment methods exist for that server</p>\n<p>- payment methods are required for that server, or are optional</p>\n<p>- existant payment methods are solemnly meant for the operation of the server</p>\n<p>Connected to these results would be filters which players can flag/unflag, maybe in combination with a parental lock (meaning only a parent can \"unblock\" payment using servers for their kids).</p>\n<p>&nbsp;</p>",
+        "author_id": 380577457192,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043131652--Servers-Ban-Casinos-From-Bedrock/comments/360005488171",
+        "created_at": "2019-05-03T10:27:59Z",
+        "updated_at": "2024-03-16T09:41:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043131652/comments/360005488171.json",
+        "post_id": 360043131652,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006363751,
+        "body": "<p>If I remember correctly, server owners for the past couple of years have not been allowed to let players pay with real money to receive something that was already in the game or part of the game. There was quite a few servers blacklisted for breaking this rule. If it's a rank, or some other feature that wasn't available in the vanilla game, or completely created from the ground up, it's probably acceptable. Maybe not ethical, but acceptable.</p>\n<p>&nbsp;</p>",
+        "author_id": 384312486072,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043131652--Servers-Ban-Casinos-From-Bedrock/comments/360006363751",
+        "created_at": "2019-07-07T14:45:35Z",
+        "updated_at": "2024-03-16T09:41:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043131652/comments/360006363751.json",
+        "post_id": 360043131652,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 19838636541453,
+        "body": "<p>It's sad to see that this issue that was raised back in 2019 has only gotten worse. It's not just Bedrock, It's all minecraft servers. Mojang forced some changes on the server that I play on by having server run casinos removed. However the server is rife with player run casinos and the chat is constantly spammed with players advertising their casinos and the prizes.\n<br />Clearly they see a need to remove casinos from servers but surely they realise they achieve nothing by removing one and leaving 100's of others?\n<br />Additionally, they had the server run \"lottery\" renamed to \"raffle\" however the mechanics have stayed the same. It is not a raffle as raffles have a fixed number of tickets and fixed, predefined prizes. The server is still running a lottery but Mojang seem ok with nothing more than a name change.\n<br />Mojang claim under the heading \"Our commitment to player Safety\", \"We hold ourselves accountable for making Minecraft as safe as possible for everyone\"\n<br />So Mojang claim themselves accountable for this, It doesn't need to be illegal, it just needs to be unsafe and it needs to be possible for Mojang to stop/restrict it.\n<br />Removing/restricting casinos from servers is possible and Mojang have deemed themselves to be accountable for making this happen.\n<br />So, Mojang, Please adhere to your commitment to player safety and start to enact change on servers that allow casinos and gambling. Whether they be legally classified as so or not, because the danger is the same.</p>",
+        "author_id": 419633117271,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043131652--Servers-Ban-Casinos-From-Bedrock/comments/19838636541453",
+        "created_at": "2023-09-26T07:18:31Z",
+        "updated_at": "2024-03-16T09:41:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043131652/comments/19838636541453.json",
+        "post_id": 360043131652,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360028264892,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004465232,
+        "body": "<p>I don't understand why I cant change all the options on my realm like a normal map. I have to download the world then edit the options then reload it again. Then if I want to turn off some options like tnt not exploding I have to redownload the map again. I would think a realm I pay for should be easier to configure.</p>",
+        "author_id": 376999054212,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360028264892-Realm-Control-Panel-Options/comments/360004465232",
+        "created_at": "2019-02-15T00:58:14Z",
+        "updated_at": "2019-12-21T01:37:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360028264892/comments/360004465232.json",
+        "post_id": 360028264892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013864371,
+        "body": "<p>it would be great to have additional options that can be implemented, here are some other good ones that should be able to be toggled from the control panel.</p>\n<p>coordinates(you can currently do this through commands though it should simply be a switch in the panel).</p>\n<p>locators on all maps(currently everyone with a locator map can see anyone else in the server the old way was much better, but should be able to toggle it).</p>\n<p>&nbsp;</p>\n<p>moderator/admin controls. give an option for moderators/admins in a realm to set difficulty.</p>\n<p>&nbsp;</p>\n<p>set world spawn coordinates.</p>\n<p>&nbsp;</p>\n<p>advanced world types such as superflat and the others.</p>\n<p>&nbsp;</p>\n<p>always night mode is currently cheats only, would be better to have an option in the panel with cheats off.</p>\n<p>&nbsp;</p>\n<p>temporarily ban players(as opposed to removing them from the realm)</p>\n<p>&nbsp;</p>\n<p>set a no griefing zone(an area that only moderators and admins can manipulate blocks(this should be a cheat one though))</p>\n<p>&nbsp;</p>\n<p>set a no pvp zone( distance from world spawn that you cannot attack other players)</p>\n<p>&nbsp;</p>\n<p>turn nether on/off</p>\n<p>&nbsp;</p>\n<p>turn end on/off</p>\n<p>&nbsp;</p>\n<p>turn custom skins on/off</p>\n<p>&nbsp;</p>\n<p>turn custom texture packs on/off</p>\n<p>&nbsp;</p>\n<p>turn mods on/off (force manila mode)</p>\n<p>&nbsp;</p>\n<p>set world border</p>\n<p>&nbsp;</p>\n<p>allow admins to add members</p>\n<p>&nbsp;</p>\n<p>expand members option(maybe pay to increase member size higher than 10)</p>\n<p>&nbsp;</p>\n<p>set a message for when entering a realm</p>\n<p>&nbsp;</p>\n<p>set a way to \"view realm rules\" in the menu</p>",
+        "author_id": 408522551552,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360028264892-Realm-Control-Panel-Options/comments/360013864371",
+        "created_at": "2020-12-27T20:40:18Z",
+        "updated_at": "2020-12-28T00:35:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360028264892/comments/360013864371.json",
+        "post_id": 360028264892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 16344180874893,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 18179204582029,
+        "body": "<p>Yes! Especially since Microsoft already has a parental controls feature for Microsoft Accounts, Minecraft should be able to automatically enforce this if parental controls are enabled.</p>",
+        "author_id": 408420761711,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/16344180874893-Server-Disclaimer-for-Adult-Content-on-servers/comments/18179204582029",
+        "created_at": "2023-08-02T23:27:33Z",
+        "updated_at": "2023-09-27T17:13:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/16344180874893/comments/18179204582029.json",
+        "post_id": 16344180874893,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077517511,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4423039141261,
+        "body": "<p>I would love an ARM Linux version of the server honestly.</p>",
+        "author_id": 1903279794147,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077517511-Bedrock-Dedicated-server-alpha/comments/4423039141261",
+        "created_at": "2022-01-26T19:11:23Z",
+        "updated_at": "2022-01-27T00:04:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077517511/comments/4423039141261.json",
+        "post_id": 360077517511,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 5098704882317,
+        "body": "<p>what's the point of making a dedicated server when your friends on console don't even have the option to join? the whole point of hosting a server is to be able to play with friends?? obviously there are endless possibilities as seen though the java servers. just seems like if you wanted to test it out properly then allowing console players to join seems kind of important.. I have run my own java server for years now and loved it. however most of my friends only have bedrock so when I found out about dedicated bedrock servers I knew I had to make one. so I spent like 2 days creating this server in bedrock (which is clearly inferior to java.. I obviously don't understand what's so hard about making bedrock function like java does ) just to find out that my friends on Xbox cant even join my server. Hopefully Mojang/Microsoft can figure out that servers are useless without the ability for people to join them.. I realize its alpha but again, what's the point, everything should already be there from the java edition. side note, I do appreciate that they are going to be bundling java and bedrock together for purchase. however, most people that I know that are interested in getting one or the other, already have one or the other so maybe they can do something for the people who already enjoy Minecraft and want to expand their horizons.&nbsp;</p>",
+        "author_id": 389627719952,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077517511-Bedrock-Dedicated-server-alpha/comments/5098704882317",
+        "created_at": "2022-03-27T01:45:07Z",
+        "updated_at": "2022-03-29T19:24:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077517511/comments/5098704882317.json",
+        "post_id": 360077517511,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7314289550477,
+        "body": "<p>Did,djdd</p>\n<p>&nbsp;</p>",
+        "author_id": 422671345751,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077517511-Bedrock-Dedicated-server-alpha/comments/7314289550477",
+        "created_at": "2022-06-30T12:54:15Z",
+        "updated_at": "2022-06-30T12:54:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077517511/comments/7314289550477.json",
+        "post_id": 360077517511,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077419912,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014635112,
+        "body": "<p>or you guys could add bedrock java crossplay</p>",
+        "author_id": 412624605611,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077419912-Add-Java-Too-Xbox/comments/360014635112",
+        "created_at": "2021-03-10T22:27:29Z",
+        "updated_at": "2022-07-10T00:47:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077419912/comments/360014635112.json",
+        "post_id": 360077419912,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41391803661325,
+        "body": "<p>Esoo de todos modos aunque Java no tiene los mismos mods que en bedrock puedes poner los mods del Java  o complementos de Windows como los archivos para obtener el Java porque el Java en  x box siempre fue mi sueño encima ace ya un año pedí un deseo que Minecraft Java este en xbox aunque son mods diferentes puedes poner archivos zip en x box o poner los mods de Java al Microsoft Store o poner minecraft lancher para x box porque de todos modos se ve minecraft  lancher en Microsoft Store diciendo no disponible porque no p lo ponés disponible para ya descargarlo desde Microsoft Store porque eso no es archivo eso es videojuego ya descargado de x box\n</p>",
+        "author_id": 41390529761293,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077419912-Add-Java-Too-Xbox/comments/41391803661325",
+        "created_at": "2025-11-24T20:27:00Z",
+        "updated_at": "2025-11-24T22:43:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077419912/comments/41391803661325.json",
+        "post_id": 360077419912,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077235612,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 6697206941069,
+        "body": "<p>I'll just add that the prices should be competitive with other server providers.</p>",
+        "author_id": 391071857191,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077235612-Allow-a-higher-player-count-for-Minecraft-Realms/comments/6697206941069",
+        "created_at": "2022-06-06T11:21:17Z",
+        "updated_at": "2022-06-06T16:29:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077235612/comments/6697206941069.json",
+        "post_id": 360077235612,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077143892,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014887432,
+        "body": "<p>It has more players than Mineville and Galaxite (featured servers).</p>\n<p>&nbsp;</p>",
+        "author_id": 414949521752,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077143892-Make-nethergames-a-featured-server/comments/360014887432",
+        "created_at": "2021-04-14T13:06:01Z",
+        "updated_at": "2023-04-04T19:02:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077143892/comments/360014887432.json",
+        "post_id": 360077143892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 15815295926541,
+        "body": "<p>It even has bedwars THAT DOESNT LAG. lifeboat is laggy as heck</p>",
+        "author_id": 414257477712,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077143892-Make-nethergames-a-featured-server/comments/15815295926541",
+        "created_at": "2023-05-16T08:48:37Z",
+        "updated_at": "2023-05-16T08:48:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077143892/comments/15815295926541.json",
+        "post_id": 360077143892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

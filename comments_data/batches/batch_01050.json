@@ -1,0 +1,877 @@
+[
+  {
+    "post_id": 17185060561549,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 30623970978829,
+        "body": "<p>I agree. It's so annoying. Hope that mojang fix that by adding a slider option at least.</p>",
+        "author_id": 29327828016909,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/17185060561549-Low-entity-render-distance-is-making-the-game-unplayable/comments/30623970978829",
+        "created_at": "2024-09-27T19:17:49Z",
+        "updated_at": "2024-09-27T19:34:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/17185060561549/comments/30623970978829.json",
+        "post_id": 17185060561549,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 16694884397069,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 20801482920461,
+        "body": "<p>For me the new tilt make the game unplayable. It gives me such motion sickness that mobs do more damage irl than ingame. It also changes where the crosshairs point which makes combat even worse. Why remove accessibility now?</p>",
+        "author_id": 12849357832461,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/16694884397069-The-new-old-Damage-Tilt-is-very-off-putting/comments/20801482920461",
+        "created_at": "2023-10-28T10:59:52Z",
+        "updated_at": "2023-11-02T11:51:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/16694884397069/comments/20801482920461.json",
+        "post_id": 16694884397069,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 16539044463117,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 16545243986701,
+        "body": "<p>And Nether.</p>",
+        "author_id": 416461943171,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/16539044463117-Cave-Mapping/comments/16545243986701",
+        "created_at": "2023-06-08T16:57:48Z",
+        "updated_at": "2023-06-11T20:30:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/16539044463117/comments/16545243986701.json",
+        "post_id": 16539044463117,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 16503162493581,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 16563678082061,
+        "body": "<p>Redstone circuits can work in the player inventory? I think that will be cool.</p>",
+        "author_id": 405306164292,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/16503162493581-April-Fools-Idea/comments/16563678082061",
+        "created_at": "2023-06-09T03:33:38Z",
+        "updated_at": "2023-06-09T18:50:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/16503162493581/comments/16563678082061.json",
+        "post_id": 16503162493581,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 16486231335053,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 16488242717581,
+        "body": "<p>Bedrock was not created for gamepads, but for less productive devices. In Java and Bedrock, any input methods should be available.</p>",
+        "author_id": 416461943171,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/16486231335053-Bedrock-is-not-for-mouse-and-keyboard/comments/16488242717581",
+        "created_at": "2023-06-07T06:36:40Z",
+        "updated_at": "2023-06-08T18:24:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/16486231335053/comments/16488242717581.json",
+        "post_id": 16486231335053,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 16563570235149,
+        "body": "<p>Device parity is technically the biggest difference between the two versions. It should be fixed.</p>",
+        "author_id": 405306164292,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/16486231335053-Bedrock-is-not-for-mouse-and-keyboard/comments/16563570235149",
+        "created_at": "2023-06-09T03:29:44Z",
+        "updated_at": "2023-06-09T03:29:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/16486231335053/comments/16563570235149.json",
+        "post_id": 16486231335053,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 16417331656077,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 16454059623309,
+        "body": "<p>That sounds like the greatest idea ever!!!!</p>",
+        "author_id": 16453744710413,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/16417331656077-PLEASE-ADD-WARDEN-PORTAL/comments/16454059623309",
+        "created_at": "2023-06-06T12:44:30Z",
+        "updated_at": "2023-06-06T13:12:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/16417331656077/comments/16454059623309.json",
+        "post_id": 16417331656077,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 16497728061581,
+        "body": "<p>Please use mods instead of just repeating many other existing posts.</p>",
+        "author_id": 419344921172,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/16417331656077-PLEASE-ADD-WARDEN-PORTAL/comments/16497728061581",
+        "created_at": "2023-06-07T14:13:47Z",
+        "updated_at": "2023-06-10T20:45:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/16417331656077/comments/16497728061581.json",
+        "post_id": 16417331656077,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 16620747873677,
+        "body": "<p>yes make the warden more populer&nbsp;</p>",
+        "author_id": 16619517364493,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/16417331656077-PLEASE-ADD-WARDEN-PORTAL/comments/16620747873677",
+        "created_at": "2023-06-10T15:53:29Z",
+        "updated_at": "2023-06-10T20:41:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/16417331656077/comments/16620747873677.json",
+        "post_id": 16417331656077,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 13036696863501,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 13134273299597,
+        "body": "<p>It would add to the challenge to have creepers that actually blend in for non-green biomes.&nbsp;</p>",
+        "author_id": 405125404971,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13036696863501--Varant-of-zombie-squeleton-spider-pillager-creeper-according-to-biome/comments/13134273299597",
+        "created_at": "2023-02-15T14:52:12Z",
+        "updated_at": "2023-02-15T14:52:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13036696863501/comments/13134273299597.json",
+        "post_id": 13036696863501,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 13887425988749,
+        "body": "<pre>it will add more bioversity to the game</pre>",
+        "author_id": 9806523683213,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13036696863501--Varant-of-zombie-squeleton-spider-pillager-creeper-according-to-biome/comments/13887425988749",
+        "created_at": "2023-03-10T17:33:13Z",
+        "updated_at": "2023-03-10T17:33:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13036696863501/comments/13887425988749.json",
+        "post_id": 13036696863501,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 12207317541901,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 12210789593485,
+        "body": "<p>Buddy, before you suggest an idea, find it in the list of ideas and make sure that other players have not suggested the same idea before you. Sorry, but here's how it works here (</p>",
+        "author_id": 8018680059661,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12207317541901-Pls-add-this-for-bedrock/comments/12210789593485",
+        "created_at": "2023-01-13T10:06:25Z",
+        "updated_at": "2023-01-13T10:18:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12207317541901/comments/12210789593485.json",
+        "post_id": 12207317541901,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 13403623270285,
+        "body": "<p>can you add so you can add banners to shields to bedrock plz because i see that other players use it :]</p>",
+        "author_id": 12231311653901,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12207317541901-Pls-add-this-for-bedrock/comments/13403623270285",
+        "created_at": "2023-02-24T18:29:12Z",
+        "updated_at": "2023-05-11T14:21:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12207317541901/comments/13403623270285.json",
+        "post_id": 12207317541901,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 12049480799629,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 12049585493901,
+        "body": "<p>Do you think it's worth changing the language to English or will they translate it themselves..?</p>",
+        "author_id": 12048576151565,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12049480799629-Astronomy/comments/12049585493901",
+        "created_at": "2023-01-07T13:19:20Z",
+        "updated_at": "2023-02-15T16:44:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12049480799629/comments/12049585493901.json",
+        "post_id": 12049480799629,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41829272192781,
+        "body": "<p>Я незнаю, стоит ли, но думаю, что нудно попробувать! :)</p>",
+        "author_id": 41827753475725,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12049480799629-Astronomy/comments/41829272192781",
+        "created_at": "2025-12-10T19:52:52Z",
+        "updated_at": "2025-12-10T19:52:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12049480799629/comments/41829272192781.json",
+        "post_id": 12049480799629,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 11745796074509,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 12069154130829,
+        "body": "<p>NO NO NO IM A PEACFULL PLAYER I HATE SPIDERS THERE SO CREEPY THE ONLY REASON I PLAY PEACEFULL IS THAT THERES NO SPIDERS</p>",
+        "author_id": 12069063040141,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11745796074509-spiders-in-peaceful-mode/comments/12069154130829",
+        "created_at": "2023-01-08T18:40:01Z",
+        "updated_at": "2023-01-08T18:40:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11745796074509/comments/12069154130829.json",
+        "post_id": 11745796074509,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 11543263320973,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 11552027993741,
+        "body": "<p>Since paintable wood is rejected, it's highly unlikely anything else will be paintable.</p>",
+        "author_id": 419344921172,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11543263320973-Paint/comments/11552027993741",
+        "created_at": "2022-12-18T15:48:51Z",
+        "updated_at": "2022-12-29T03:18:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11543263320973/comments/11552027993741.json",
+        "post_id": 11543263320973,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 11809610752013,
+        "body": "<p>𝓨𝓮𝓼. 𝕎𝕚𝕥𝕙 𝕥𝕙𝕚𝕤 𝕨𝕖 𝕨𝕚𝕝𝕝 𝕒𝕝𝕨𝕒𝕪𝕤 𝕓𝕖 𝕔𝕣𝕖𝕒𝕥𝕚𝕧𝕖! &nbsp;(^o^)vヾ(^∀^)ﾉ</p>",
+        "author_id": 11809385027469,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11543263320973-Paint/comments/11809610752013",
+        "created_at": "2022-12-29T03:10:06Z",
+        "updated_at": "2023-05-26T04:10:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11543263320973/comments/11809610752013.json",
+        "post_id": 11543263320973,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 11498116353165,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 11501055471629,
+        "body": "<p>I can suggest a meteorite fall. A flash in the sky, and then pieces of iron lie on the ground - fragments of meteoric iron.</p>",
+        "author_id": 417900420052,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11498116353165-Events-and-encounters/comments/11501055471629",
+        "created_at": "2022-12-16T10:31:16Z",
+        "updated_at": "2023-01-25T16:49:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11498116353165/comments/11501055471629.json",
+        "post_id": 11498116353165,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 11372920445453,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 11446059053965,
+        "body": "<p>Heck expand the stone cutter to cut wood as well, give it some more functionality, could even just rename it to Cutter.</p>",
+        "author_id": 1900049074787,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11372920445453-Re-add-stone-cutter-functionality/comments/11446059053965",
+        "created_at": "2022-12-14T14:46:14Z",
+        "updated_at": "2022-12-17T17:23:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11372920445453/comments/11446059053965.json",
+        "post_id": 11372920445453,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 11537444848909,
+        "body": "<p>Probably better to add a <strong>sawmill</strong> workstation block, to keep mason villagers, and add a <strong>carpenter </strong>villager for the wood-related objects. Stone cutter should literally cut <em>only</em> stones, that's what their blades are designed specifically for.</p>",
+        "author_id": 419344921172,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11372920445453-Re-add-stone-cutter-functionality/comments/11537444848909",
+        "created_at": "2022-12-17T17:28:28Z",
+        "updated_at": "2023-02-05T03:10:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11372920445453/comments/11537444848909.json",
+        "post_id": 11372920445453,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 11120548282381,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 11125751466509,
+        "body": "<p>\"DO A BARREL ROLL!\"</p>",
+        "author_id": 390463438592,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11120548282381-Rolling-with-elytra/comments/11125751466509",
+        "created_at": "2022-12-03T03:11:28Z",
+        "updated_at": "2023-04-17T00:15:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11120548282381/comments/11125751466509.json",
+        "post_id": 11120548282381,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 11304495840525,
+        "body": "<p>Your mouse controls pitch and yaw. Just use the mouse. There is, interestingly, a mod that rolls your camera when you’re turning.</p>",
+        "author_id": 423562415371,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11120548282381-Rolling-with-elytra/comments/11304495840525",
+        "created_at": "2022-12-08T23:21:29Z",
+        "updated_at": "2023-04-17T00:15:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11120548282381/comments/11304495840525.json",
+        "post_id": 11120548282381,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 11337335959693,
+        "body": "<p>That will not work in Bedrock Edition</p>",
+        "author_id": 11165279061645,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11120548282381-Rolling-with-elytra/comments/11337335959693",
+        "created_at": "2022-12-10T03:36:47Z",
+        "updated_at": "2023-01-17T19:39:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11120548282381/comments/11337335959693.json",
+        "post_id": 11120548282381,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 14902669462925,
+        "body": "<p>This could even let you dodge projectiles.</p>",
+        "author_id": 390463438592,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11120548282381-Rolling-with-elytra/comments/14902669462925",
+        "created_at": "2023-04-17T00:15:54Z",
+        "updated_at": "2023-04-17T00:16:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11120548282381/comments/14902669462925.json",
+        "post_id": 11120548282381,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10899326172557,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 10910818901261,
+        "body": "<p>Can be blocked by a straw hat or helmet with a special enchantment. Or just let the Sun shine at your back.</p>",
+        "author_id": 416461943171,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10899326172557-blinding-by-the-sun/comments/10910818901261",
+        "created_at": "2022-11-25T18:04:44Z",
+        "updated_at": "2022-12-13T15:41:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10899326172557/comments/10910818901261.json",
+        "post_id": 10899326172557,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 11012196271885,
+        "body": "<p>I think that tweaks like this and other small things can make Minecraft better</p>\n<p>Also not a bot (IDK if bots go around in the minecraft feedback place tho)</p>\n<p>&nbsp;</p>",
+        "author_id": 11011895345037,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10899326172557-blinding-by-the-sun/comments/11012196271885",
+        "created_at": "2022-11-30T00:08:33Z",
+        "updated_at": "2022-12-13T15:42:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10899326172557/comments/11012196271885.json",
+        "post_id": 10899326172557,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 11227613174157,
+        "body": "<p>That sounds un-fun, there's too many other interesting dangers and things to do, I wouldn't also want to worry about accidently panning my mouse across the sun when looking somewhere.</p>\n<p>Also for balance it should probably somehow happen to enemy mobs, too.</p>\n<p>Maybe if it only happened after a certain amount of time, or if you could make sunglasses out of tinted glass or something to avoid it (although that would be an unfortunate use of an inventory slot).</p>\n<p>Otoh, a non-interfering lens flare type effect or slight dimming of darker objects when looking at the sun would add some cool flavor, as long as it didn't give me a \"you can't play the game any more for 5 seconds\" (or whatever) penalty every time I panned past the sun. Same with a slight temporary non-interfering brightening/dimming of the display when leaving or entering e.g. a cave.</p>",
+        "author_id": 11227174598797,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10899326172557-blinding-by-the-sun/comments/11227613174157",
+        "created_at": "2022-12-06T16:52:42Z",
+        "updated_at": "2023-03-01T00:04:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10899326172557/comments/11227613174157.json",
+        "post_id": 10899326172557,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 18091356588813,
+        "body": "<p>In addition to the straw hat, I offer the traditional \"dark glasses\" of the Chukchi. It can be a piece of leather, wood, bone, metal, anything, where a slit or several slits have been made, many holes. The interface will be somewhat reminiscent of a pumpkin.</p>",
+        "author_id": 416461943171,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10899326172557-blinding-by-the-sun/comments/18091356588813",
+        "created_at": "2023-07-31T17:54:48Z",
+        "updated_at": "2023-09-24T21:15:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10899326172557/comments/18091356588813.json",
+        "post_id": 10899326172557,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10421546591757,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 10428657043341,
+        "body": "<p>it will be cool, but please, don`t</p>",
+        "author_id": 10428558039437,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10421546591757-Curse-of-Degradation/comments/10428657043341",
+        "created_at": "2022-11-06T17:25:46Z",
+        "updated_at": "2022-11-13T09:19:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10421546591757/comments/10428657043341.json",
+        "post_id": 10421546591757,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10099968332557,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 12169475356941,
+        "body": "<p>Add Minecraft Java chest and water sound to Minecraft bedrock</p>",
+        "author_id": 12169398429709,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10099968332557-add-more-sounds-to-minecraft-java-and-bedrock-please/comments/12169475356941",
+        "created_at": "2023-01-11T23:17:58Z",
+        "updated_at": "2023-01-11T23:17:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10099968332557/comments/12169475356941.json",
+        "post_id": 10099968332557,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 9953257153037,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 9954947839245,
+        "body": "<p>It sounds like a good idea in principle but how would it work for console players is the big issue</p>",
+        "author_id": 9954937930253,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/9953257153037-Hotbar-Swapping/comments/9954947839245",
+        "created_at": "2022-10-17T22:41:16Z",
+        "updated_at": "2022-10-18T00:02:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/9953257153037/comments/9954947839245.json",
+        "post_id": 9953257153037,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 9956431471757,
+        "body": "<p>Sadly it would only be able to work on Java and IOS</p>",
+        "author_id": 8077931169293,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/9953257153037-Hotbar-Swapping/comments/9956431471757",
+        "created_at": "2022-10-18T00:08:02Z",
+        "updated_at": "2022-10-18T00:08:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/9953257153037/comments/9956431471757.json",
+        "post_id": 9953257153037,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 9919531272333,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 10054990215693,
+        "body": "<p>Puoi mettere dei castelli o dei covi di qualcosa ( un piccolo dangeon) che si trova sotto terra ma fuori vedi una collina&nbsp;</p>",
+        "author_id": 9994396627597,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/9919531272333-New-structure/comments/10054990215693",
+        "created_at": "2022-10-21T17:10:55Z",
+        "updated_at": "2022-10-24T21:43:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/9919531272333/comments/10054990215693.json",
+        "post_id": 9919531272333,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 9887302960141,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 9887370983053,
+        "body": "<p>lizards are a roaming creature/mob in real life in minecraft they might be tiny</p>",
+        "author_id": 9887187676429,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/9887302960141-add-the-lizards/comments/9887370983053",
+        "created_at": "2022-10-14T15:45:23Z",
+        "updated_at": "2022-10-16T12:35:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/9887302960141/comments/9887370983053.json",
+        "post_id": 9887302960141,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 9900922480269,
+        "body": "<p>If added they should climb on your shoulders like parrots!</p>",
+        "author_id": 8077931169293,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/9887302960141-add-the-lizards/comments/9900922480269",
+        "created_at": "2022-10-15T01:09:41Z",
+        "updated_at": "2022-10-15T01:09:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/9887302960141/comments/9900922480269.json",
+        "post_id": 9887302960141,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 28185510107533,
+        "body": "<p>lizards are the best and so are you</p>",
+        "author_id": 28175678668941,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/9887302960141-add-the-lizards/comments/28185510107533",
+        "created_at": "2024-07-06T01:23:55Z",
+        "updated_at": "2024-07-06T01:23:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/9887302960141/comments/28185510107533.json",
+        "post_id": 9887302960141,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 9178720571533,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 9232678659469,
+        "body": "<p>Yes I agree with that. It is very annoying. I think all random lava pits inside hills in the nether should be removed. I haven’t read it all so I am not sure if you mentioned this but when you are searching for a nether fortress and you go just straight and you mine into random lava and you are so far from spawn. </p>",
+        "author_id": 8133450459149,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/9178720571533-Please-remove-lava-pits-from-the-Nether/comments/9232678659469",
+        "created_at": "2022-09-17T01:57:20Z",
+        "updated_at": "2022-09-17T08:32:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/9178720571533/comments/9232678659469.json",
+        "post_id": 9178720571533,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 17972773025549,
+        "body": "<p>I think they give players an incentive to be very careful in the Nether, even while mining, and gets players to never let their guard down.</p>",
+        "author_id": 399253570391,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/9178720571533-Please-remove-lava-pits-from-the-Nether/comments/17972773025549",
+        "created_at": "2023-07-27T00:54:25Z",
+        "updated_at": "2023-07-27T00:54:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/9178720571533/comments/17972773025549.json",
+        "post_id": 9178720571533,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 9007667350797,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 9011045521549,
+        "body": "<p>The functionality of this kind could provide belts, backpacks, bags, various enchantments.</p>",
+        "author_id": 416461943171,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/9007667350797-Inventory-Fix-Ideas/comments/9011045521549",
+        "created_at": "2022-09-08T10:20:58Z",
+        "updated_at": "2022-09-08T10:21:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/9007667350797/comments/9011045521549.json",
+        "post_id": 9007667350797,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 8898875120269,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8898859545357,
+        "body": "<p>Best</p>",
+        "author_id": 5724422147725,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8898875120269-Endderrite/comments/8898859545357",
+        "created_at": "2022-09-03T03:05:50Z",
+        "updated_at": "2022-09-03T03:05:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8898875120269/comments/8898859545357.json",
+        "post_id": 8898875120269,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 8841261532173,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8855849046669,
+        "body": "<p>Maybe instead there could be an <strong>enchantment</strong> or few for increasing EXP gains, something to work/progress toward as opposed to always having the ability to gain loads of EXP since starting the game.</p>",
+        "author_id": 419344921172,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8841261532173-Increasing-EXP-Gain/comments/8855849046669",
+        "created_at": "2022-09-01T15:28:20Z",
+        "updated_at": "2022-09-01T18:50:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8841261532173/comments/8855849046669.json",
+        "post_id": 8841261532173,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 8861719421837,
+        "body": "<p>To be honest, if there were to be an enchantment, it would probably be an expensive one, considering how good it would be.</p>\n<p>I guess what would make the most sense is having the&nbsp;<strong>Fortune</strong> enchantment being able to increase EXP gain.</p>",
+        "author_id": 1900872483527,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8841261532173-Increasing-EXP-Gain/comments/8861719421837",
+        "created_at": "2022-09-01T18:23:44Z",
+        "updated_at": "2022-09-01T18:37:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8841261532173/comments/8861719421837.json",
+        "post_id": 8841261532173,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 8914285858573,
+        "body": "<p>Yes. Buff enchanting and repairing</p>",
+        "author_id": 6290305863309,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8841261532173-Increasing-EXP-Gain/comments/8914285858573",
+        "created_at": "2022-09-04T04:32:23Z",
+        "updated_at": "2022-09-04T06:24:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8841261532173/comments/8914285858573.json",
+        "post_id": 8841261532173,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 8781059138829,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 21997184540813,
+        "body": "<p>I think sort of the same but a map just like they did star wars and Jurassic world they should make a Harry Potter map</p>",
+        "author_id": 21997077352205,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8781059138829-Add-Harry-Potter/comments/21997184540813",
+        "created_at": "2023-12-06T13:01:23Z",
+        "updated_at": "2023-12-06T20:10:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8781059138829/comments/21997184540813.json",
+        "post_id": 8781059138829,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

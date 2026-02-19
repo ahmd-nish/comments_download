@@ -1,0 +1,877 @@
+[
+  {
+    "post_id": 360050232451,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007322551,
+        "body": "<p>Ok almost last one</p>",
+        "author_id": 386462312031,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050232451-Sunken-King-Drops/comments/360007322551",
+        "created_at": "2019-08-28T15:26:52Z",
+        "updated_at": "2019-08-28T15:26:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050232451/comments/360007322551.json",
+        "post_id": 360050232451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360050199271,
+    "expected_comment_count": 10,
+    "actual_comment_count": 10,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007269152,
+        "body": "<p>No</p>",
+        "author_id": 386248076592,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050199271-ban-tnt/comments/360007269152",
+        "created_at": "2019-08-26T10:57:21Z",
+        "updated_at": "2022-07-04T09:38:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050199271/comments/360007269152.json",
+        "post_id": 360050199271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360007269492,
+        "body": "<p>No</p>",
+        "author_id": 386279841612,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050199271-ban-tnt/comments/360007269492",
+        "created_at": "2019-08-26T11:33:55Z",
+        "updated_at": "2022-07-04T09:38:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050199271/comments/360007269492.json",
+        "post_id": 360050199271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360007270811,
+        "body": "<p>tnt is bad but still fun to play with</p>",
+        "author_id": 386225218712,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050199271-ban-tnt/comments/360007270811",
+        "created_at": "2019-08-26T13:54:03Z",
+        "updated_at": "2022-07-04T09:38:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050199271/comments/360007270811.json",
+        "post_id": 360050199271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360007285371,
+        "body": "<p>I wouldn't ban all TNT forever, but making some way to ban TNT in a world may be nice.</p>",
+        "author_id": 386298943232,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050199271-ban-tnt/comments/360007285371",
+        "created_at": "2019-08-26T22:50:47Z",
+        "updated_at": "2022-07-04T09:38:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050199271/comments/360007285371.json",
+        "post_id": 360050199271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360007336372,
+        "body": "<p>If you play on the mobile version you can disable TNT explosions. &nbsp;Also there’s ways to make a house &nbsp;TNT proof, you don’t need to get rid of in my opinion one of the best things in Minecraft.&nbsp;</p>",
+        "author_id": 386389968131,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050199271-ban-tnt/comments/360007336372",
+        "created_at": "2019-08-29T05:00:06Z",
+        "updated_at": "2022-07-04T09:37:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050199271/comments/360007336372.json",
+        "post_id": 360050199271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008000731,
+        "body": "<p>You can also disable TNT explosions in console versions (Xbox 360, etc.).</p>",
+        "author_id": 386298943232,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050199271-ban-tnt/comments/360008000731",
+        "created_at": "2019-10-09T00:54:11Z",
+        "updated_at": "2022-07-04T09:37:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050199271/comments/360008000731.json",
+        "post_id": 360050199271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010667891,
+        "body": "<p>You can disable tnt in your world. Removing tnt from the game is a bad idea and would make people quit Minecraft forever.</p>",
+        "author_id": 396183066272,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050199271-ban-tnt/comments/360010667891",
+        "created_at": "2020-05-24T22:33:38Z",
+        "updated_at": "2022-07-04T09:37:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050199271/comments/360010667891.json",
+        "post_id": 360050199271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011073951,
+        "body": "<p>you can disable tnt on every platform of minecraft</p>\n<p>&nbsp;</p>",
+        "author_id": 386231068572,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050199271-ban-tnt/comments/360011073951",
+        "created_at": "2020-06-21T07:25:44Z",
+        "updated_at": "2022-07-04T09:37:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050199271/comments/360011073951.json",
+        "post_id": 360050199271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7396289814285,
+        "body": "<p>This isn’t a good idea. You can just turn off TNT explosions in the settings. Also, TNT has more uses than you think. It’s another way to attack people, builders use it to make decrepit structures, blah blah blah…. Basically we shouldn’t ban TNT for multiple reasons.</p>",
+        "author_id": 7396275209229,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050199271-ban-tnt/comments/7396289814285",
+        "created_at": "2022-07-04T09:37:46Z",
+        "updated_at": "2022-07-15T20:10:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050199271/comments/7396289814285.json",
+        "post_id": 360050199271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7681431179533,
+        "body": "<p>Just... Don't play on anarchy servers.</p>",
+        "author_id": 399468269872,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050199271-ban-tnt/comments/7681431179533",
+        "created_at": "2022-07-14T16:28:33Z",
+        "updated_at": "2022-07-14T16:28:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050199271/comments/7681431179533.json",
+        "post_id": 360050199271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360050130051,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007264011,
+        "body": "<p>Oh jeez oh boy Microsoft should really add this</p>",
+        "author_id": 386359114751,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050130051-Dispenser-and-farming-changes/comments/360007264011",
+        "created_at": "2019-08-26T00:28:19Z",
+        "updated_at": "2019-08-26T00:28:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050130051/comments/360007264011.json",
+        "post_id": 360050130051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360050110531,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011110131,
+        "body": "<p>I think it should be nerfed a bit so that it cannot heal pet wolves whatsoever.</p>",
+        "author_id": 394738518632,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050110531-Regeneration-Pedestal/comments/360011110131",
+        "created_at": "2020-06-24T04:13:30Z",
+        "updated_at": "2020-06-24T08:54:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050110531/comments/360011110131.json",
+        "post_id": 360050110531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048865271,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360016129492,
+        "body": "<p>The Channeling enchantment on Tridents could be used to help players use this feature</p>",
+        "author_id": 389227310552,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048865271-Lightning-bolts-killing-fish/comments/360016129492",
+        "created_at": "2021-06-07T21:48:02Z",
+        "updated_at": "2021-06-07T22:50:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048865271/comments/360016129492.json",
+        "post_id": 360048865271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048864151,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011367151,
+        "body": "<p>the mob should be the minecraft dungeons wraith.</p>",
+        "author_id": 398213100251,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048864151-Added-feature-for-soul-sand/comments/360011367151",
+        "created_at": "2020-07-14T18:26:44Z",
+        "updated_at": "2020-07-14T18:26:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048864151/comments/360011367151.json",
+        "post_id": 360048864151,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048316671,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 12247902963469,
+        "body": "<p>It dosnt work just tryed doing what it says and it didnt work </p>",
+        "author_id": 12247900028429,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048316671-Mushroom-Shield/comments/12247902963469",
+        "created_at": "2023-01-14T07:42:11Z",
+        "updated_at": "2023-01-14T07:42:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048316671/comments/12247902963469.json",
+        "post_id": 360048316671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048236091,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011115692,
+        "body": "<p>That would require NBT data meaning that they will not be pushable by pistons.</p>",
+        "author_id": 398365172211,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048236091-Ability-to-rename-any-block-like-chests-and-banners/comments/360011115692",
+        "created_at": "2020-06-24T13:23:52Z",
+        "updated_at": "2020-06-24T16:29:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048236091/comments/360011115692.json",
+        "post_id": 360048236091,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048405012,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7328383590413,
+        "body": "<p>I think it should be able to be obtained in some structures AND crafted. The crafting recipe would be: 6 iron, 1 glass pane, 1 diamond, 1 amethyst shard.</p>",
+        "author_id": 7301026043661,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048405012-Enchantment-Goggles/comments/7328383590413",
+        "created_at": "2022-06-30T20:20:24Z",
+        "updated_at": "2022-07-09T18:13:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048405012/comments/7328383590413.json",
+        "post_id": 360048405012,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048404392,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006969612,
+        "body": "<p>so make it your goal to beat the end dragon first instead of playing for a long time before you try to go to the end.</p>",
+        "author_id": 385782489631,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048404392-Shulker-Box/comments/360006969612",
+        "created_at": "2019-08-11T05:45:54Z",
+        "updated_at": "2019-08-11T05:45:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048404392/comments/360006969612.json",
+        "post_id": 360048404392,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006969812,
+        "body": "<p>My son and I have beaten the dragon twice and there is still so much to do. Hopefully when Bedrock comes to PS4 i can move the map over.&nbsp;</p>",
+        "author_id": 385784590711,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048404392-Shulker-Box/comments/360006969812",
+        "created_at": "2019-08-11T07:09:16Z",
+        "updated_at": "2019-08-11T07:09:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048404392/comments/360006969812.json",
+        "post_id": 360048404392,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048333972,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006792971,
+        "body": "<p>It is dangerous to take cat in to caves  (for cat)</p>",
+        "author_id": 384958376351,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048333972-Creeper-detector/comments/360006792971",
+        "created_at": "2019-07-30T14:12:20Z",
+        "updated_at": "2019-07-30T14:12:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048333972/comments/360006792971.json",
+        "post_id": 360048333972,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048061191,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006724911,
+        "body": "<p>not a very good idea, it would be too easy to get diamonds, and Minecraft isn't about the destination, it's about the journey, and the journey should be enjoyed, you should get the diamonds fairly, and if it is too easy to get diamonds, then it would get boring, because you are able to achieve everything too quickly</p>",
+        "author_id": 384378260932,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048061191-Combining-Diamond-Piece/comments/360006724911",
+        "created_at": "2019-07-25T20:48:51Z",
+        "updated_at": "2019-07-25T20:48:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048061191/comments/360006724911.json",
+        "post_id": 360048061191,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006728311,
+        "body": "<p>Absolutely not. Make it into a mod. That's the farthest you'll go.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048061191-Combining-Diamond-Piece/comments/360006728311",
+        "created_at": "2019-07-25T23:45:42Z",
+        "updated_at": "2019-07-25T23:45:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048061191/comments/360006728311.json",
+        "post_id": 360048061191,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006759591,
+        "body": "<p>This is a good idea. For April fool's! Seriously, That would be im balanced as all hell!</p>",
+        "author_id": 381023420451,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048061191-Combining-Diamond-Piece/comments/360006759591",
+        "created_at": "2019-07-28T08:33:48Z",
+        "updated_at": "2019-07-29T18:38:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048061191/comments/360006759591.json",
+        "post_id": 360048061191,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048057571,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006779331,
+        "body": "<p>Moved to proper category.</p>\n<p>Broken image removed.</p>\n<p>Thanks for your contribution.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048057571-Varieties-of-mushrooms-for-their-location-and-farming/comments/360006779331",
+        "created_at": "2019-07-29T17:59:38Z",
+        "updated_at": "2019-07-29T17:59:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048057571/comments/360006779331.json",
+        "post_id": 360048057571,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360047971451,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006600671,
+        "body": "<p>No. Where's the information, the support, the reasoning of why this should be in game? Please repost this with more info.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047971451-Stone-looters/comments/360006600671",
+        "created_at": "2019-07-23T02:36:52Z",
+        "updated_at": "2019-07-23T18:58:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047971451/comments/360006600671.json",
+        "post_id": 360047971451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048209332,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006673392,
+        "body": "<p>Clarified subject to help search results.</p>\n<p>&nbsp;</p>\n<p>Thanks for your contribution.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048209332-Explorer-Pants/comments/360006673392",
+        "created_at": "2019-07-24T04:12:55Z",
+        "updated_at": "2019-07-24T04:12:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048209332/comments/360006673392.json",
+        "post_id": 360048209332,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360047961271,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006749431,
+        "body": "<p>It does fly the way the dispenser is pointing it</p>",
+        "author_id": 384258091472,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047961271-Vertical-flying-fireworks-from-dispenser-and-maybe-even-upside-down/comments/360006749431",
+        "created_at": "2019-07-27T01:51:09Z",
+        "updated_at": "2019-07-27T01:51:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047961271/comments/360006749431.json",
+        "post_id": 360047961271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360007375032,
+        "body": "<p>No it doesnt. I confirmed it in 1.14.4. Thats why I shared this Idea in the first place.</p>",
+        "author_id": 384931991852,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047961271-Vertical-flying-fireworks-from-dispenser-and-maybe-even-upside-down/comments/360007375032",
+        "created_at": "2019-08-31T12:17:30Z",
+        "updated_at": "2019-08-31T12:17:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047961271/comments/360007375032.json",
+        "post_id": 360047961271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048201012,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006600431,
+        "body": "<p>Removed excess formatting.</p>\n<p>Thanks for your contribution.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048201012-Put-effect-in-bottles/comments/360006600431",
+        "created_at": "2019-07-23T02:21:31Z",
+        "updated_at": "2019-07-23T02:21:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048201012/comments/360006600431.json",
+        "post_id": 360048201012,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048198092,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006749932,
+        "body": "<p>To high tech</p>",
+        "author_id": 384258091472,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048198092-Moving-walkaway/comments/360006749932",
+        "created_at": "2019-07-27T01:54:35Z",
+        "updated_at": "2019-07-27T01:54:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048198092/comments/360006749932.json",
+        "post_id": 360048198092,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360047946551,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006569891,
+        "body": "<p>This already exists. A player or an explosion is the trigger.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047946551-More-realistic-gravel/comments/360006569891",
+        "created_at": "2019-07-20T16:15:33Z",
+        "updated_at": "2019-07-20T16:15:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047946551/comments/360006569891.json",
+        "post_id": 360047946551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048191492,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006569851,
+        "body": "<p>First of all the crafting recipe wouldn't work because umbrellas aren't made from wool and second of all what rays are you talking about?</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048191492-probability-that-the-rays-hit-you-An-umbrella-protects-you/comments/360006569851",
+        "created_at": "2019-07-20T16:14:25Z",
+        "updated_at": "2019-07-20T16:14:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048191492/comments/360006569851.json",
+        "post_id": 360048191492,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006749491,
+        "body": "<p>Nah</p>",
+        "author_id": 384258091472,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048191492-probability-that-the-rays-hit-you-An-umbrella-protects-you/comments/360006749491",
+        "created_at": "2019-07-27T01:56:13Z",
+        "updated_at": "2019-07-27T01:56:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048191492/comments/360006749491.json",
+        "post_id": 360048191492,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048113332,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006453092,
+        "body": "<p>Translation:</p>\n<p class=\"p1\">Daylight sensor</p>\n<p class=\"p1\">The way the daylight sensor is increased in time (added with / time)</p>\n<p class=\"p1\">In the state of stopping day and night</p>\n<p class=\"p1\">The induction will fail!</p>\n<p class=\"p1\">My World Bedrock Edition</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048113332-%E6%97%A5%E5%85%89%E6%84%9F%E6%B8%AC%E5%99%A8/comments/360006453092",
+        "created_at": "2019-07-12T15:39:42Z",
+        "updated_at": "2019-07-12T15:39:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048113332/comments/360006453092.json",
+        "post_id": 360048113332,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006452891,
+        "body": "<p>Translated.</p>\n<p>Moved to proper category.</p>\n<p>Thanks for your contribution.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048113332-%E6%97%A5%E5%85%89%E6%84%9F%E6%B8%AC%E5%99%A8/comments/360006452891",
+        "created_at": "2019-07-12T15:40:16Z",
+        "updated_at": "2019-07-12T15:40:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048113332/comments/360006452891.json",
+        "post_id": 360048113332,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360047756291,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006292111,
+        "body": "<p>What?</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047756291-Trident-use-on-land/comments/360006292111",
+        "created_at": "2019-07-02T00:26:27Z",
+        "updated_at": "2019-07-02T00:26:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047756291/comments/360006292111.json",
+        "post_id": 360047756291,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360047992272,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006270551,
+        "body": "<p>Too overpowered</p>",
+        "author_id": 384053839032,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047992272-Crafting-water-and-lava/comments/360006270551",
+        "created_at": "2019-06-30T17:06:36Z",
+        "updated_at": "2019-06-30T17:06:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047992272/comments/360006270551.json",
+        "post_id": 360047992272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006271812,
+        "body": "<p>It makes absolutely no sense.</p>",
+        "author_id": 383960959332,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047992272-Crafting-water-and-lava/comments/360006271812",
+        "created_at": "2019-06-30T17:34:41Z",
+        "updated_at": "2019-06-30T17:34:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047992272/comments/360006271812.json",
+        "post_id": 360047992272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006287871,
+        "body": "<p>The ice idea seems good, but would definitely need some nerfing. I'm not a fan of the magma idea though because you don't melt magma.</p>",
+        "author_id": 373198981552,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047992272-Crafting-water-and-lava/comments/360006287871",
+        "created_at": "2019-07-01T18:45:04Z",
+        "updated_at": "2020-11-19T03:09:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047992272/comments/360006287871.json",
+        "post_id": 360047992272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006289031,
+        "body": "<p>Too overpowered.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047992272-Crafting-water-and-lava/comments/360006289031",
+        "created_at": "2019-07-01T19:56:01Z",
+        "updated_at": "2019-07-01T19:56:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047992272/comments/360006289031.json",
+        "post_id": 360047992272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360047919992,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006178912,
+        "body": "<p>Well, regular fire wouldn't melt the ore so that doesn't really make sense</p>",
+        "author_id": 373198981552,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047919992-Fire-mining/comments/360006178912",
+        "created_at": "2019-06-23T06:46:32Z",
+        "updated_at": "2019-06-23T06:46:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047919992/comments/360006178912.json",
+        "post_id": 360047919992,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006183772,
+        "body": "<p>Ditto.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047919992-Fire-mining/comments/360006183772",
+        "created_at": "2019-06-23T19:09:16Z",
+        "updated_at": "2019-06-23T19:09:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047919992/comments/360006183772.json",
+        "post_id": 360047919992,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006219311,
+        "body": "<p>When you are mining an ore block that is on fire it should drop the smelted ore. Like how killing an animal that is on fire drops the smelted meat.</p>",
+        "author_id": 383027227252,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047919992-Fire-mining/comments/360006219311",
+        "created_at": "2019-06-26T07:42:39Z",
+        "updated_at": "2019-06-26T07:42:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047919992/comments/360006219311.json",
+        "post_id": 360047919992,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360047915672,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006214151,
+        "body": "<p>Yeah! It would be really cool, it could also be used for walking into cacti and wither roses!</p>",
+        "author_id": 383820958432,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047915672-Potion-that-can-let-you-go-through-sweet-berry-bushes-unharmed/comments/360006214151",
+        "created_at": "2019-06-25T19:34:55Z",
+        "updated_at": "2019-06-25T19:34:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047915672/comments/360006214151.json",
+        "post_id": 360047915672,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

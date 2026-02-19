@@ -1,0 +1,712 @@
+[
+  {
+    "post_id": 26823066834445,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 26823136261133,
+        "body": "<p>Lzl</p>",
+        "author_id": 26823064868237,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26823066834445-Austin/comments/26823136261133",
+        "created_at": "2024-05-18T00:42:13Z",
+        "updated_at": "2024-05-18T00:42:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26823066834445/comments/26823136261133.json",
+        "post_id": 26823066834445,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 26469713453965,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 26649800465037,
+        "body": "<p>Already possible whit attribute in the latest snapshot.</p>",
+        "author_id": 26649559815693,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26469713453965-Player-entity-scale-control-command/comments/26649800465037",
+        "created_at": "2024-05-11T17:35:39Z",
+        "updated_at": "2024-05-11T17:47:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26469713453965/comments/26649800465037.json",
+        "post_id": 26469713453965,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 23441650059789,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41187978098829,
+        "body": "<p>The /clone command could just be updated to do what structure blocks do</p>",
+        "author_id": 406280981491,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/23441650059789-Use-fill-to-place-Structure-Blocks-on-all-8-corners-of-selection/comments/41187978098829",
+        "created_at": "2025-11-17T01:53:55Z",
+        "updated_at": "2025-11-17T01:53:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/23441650059789/comments/41187978098829.json",
+        "post_id": 23441650059789,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 21476981243277,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 21477030712717,
+        "body": "<p>BEING ABLE TO AGE IN MINECRAFT WOULD BE SO COOL</p>",
+        "author_id": 6533700845069,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/21476981243277-A-command-that-lets-you-Age-in-Minecraft/comments/21477030712717",
+        "created_at": "2023-11-19T13:20:18Z",
+        "updated_at": "2023-11-19T15:53:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/21476981243277/comments/21477030712717.json",
+        "post_id": 21476981243277,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 18641438311053,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 20390426724237,
+        "body": "<p>You can turn off player inputs like this “/inputpermission (playername) camera/movement enabled/disabled” but yes it would be nice for blocks!</p>",
+        "author_id": 20389615837325,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/18641438311053-Lock-Command/comments/20390426724237",
+        "created_at": "2023-10-14T18:11:10Z",
+        "updated_at": "2023-10-17T19:32:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/18641438311053/comments/20390426724237.json",
+        "post_id": 18641438311053,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 13243122325005,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 13243108201229,
+        "body": "<p>I forgot to write that it will be useful for refilling items in chest when creating maps </p>",
+        "author_id": 13242141898765,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13243122325005-update-on-give-command/comments/13243108201229",
+        "created_at": "2023-02-19T13:10:20Z",
+        "updated_at": "2023-02-19T13:10:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13243122325005/comments/13243108201229.json",
+        "post_id": 13243122325005,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 16599213472781,
+        "body": "<p>I think you can do that with /replaceitem</p>\n<p>&nbsp;</p>",
+        "author_id": 16599103332365,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13243122325005-update-on-give-command/comments/16599213472781",
+        "created_at": "2023-06-09T21:35:49Z",
+        "updated_at": "2023-06-09T21:35:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13243122325005/comments/16599213472781.json",
+        "post_id": 13243122325005,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7807757559949,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8681592807565,
+        "body": "<p>The whole idea of the gamerule is to remove the info that players might use to gain advantage over other players. The block coordinates being removed is the exact goal of the option/game rule.</p>",
+        "author_id": 365162152092,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7807757559949--gamerule-ReducedDebugInfo/comments/8681592807565",
+        "created_at": "2022-08-25T13:38:20Z",
+        "updated_at": "2022-08-27T10:44:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7807757559949/comments/8681592807565.json",
+        "post_id": 7807757559949,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7072331514253,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7148202566157,
+        "body": "<p>There is a way to save structures without them loading with air and destroying the blocks around them. There's a block called the structure void which when placed in a structure makes it so that when loaded, that specific block won't replace any other block.<br>So if you make a structure of a tree and just fill the area around the tree with structure voids, then the tree will load in without the air around the tree destroying the environment.<br>Hope this helps.</p>",
+        "author_id": 399753729032,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7072331514253-Copy-Load-without-the-air-on-Structure-Block/comments/7148202566157",
+        "created_at": "2022-06-23T14:59:27Z",
+        "updated_at": "2022-07-03T19:05:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7072331514253/comments/7148202566157.json",
+        "post_id": 7072331514253,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7182619739789,
+        "body": "<p>You can try to fill the air with structure_void and after that save your struct into a struct block. Then you can put up the structure without destroying anything with the air. The inserted structure will automatically replace the structural void with air.</p>",
+        "author_id": 7180095670413,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7072331514253-Copy-Load-without-the-air-on-Structure-Block/comments/7182619739789",
+        "created_at": "2022-06-24T18:44:25Z",
+        "updated_at": "2022-06-26T14:56:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7072331514253/comments/7182619739789.json",
+        "post_id": 7072331514253,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7387991519117,
+        "body": "<p>Yeah that the others said</p>",
+        "author_id": 422074994091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7072331514253-Copy-Load-without-the-air-on-Structure-Block/comments/7387991519117",
+        "created_at": "2022-07-03T18:51:20Z",
+        "updated_at": "2022-07-03T18:51:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7072331514253/comments/7387991519117.json",
+        "post_id": 7072331514253,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4410006033805,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4410051343245,
+        "body": "<p>how is this related to commands lmao</p>",
+        "author_id": 420403297151,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4410006033805-Repeated-right-click-and-process-all-shortcut/comments/4410051343245",
+        "created_at": "2021-09-25T18:58:12Z",
+        "updated_at": "2021-09-26T02:37:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4410006033805/comments/4410051343245.json",
+        "post_id": 4410006033805,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4408582881037,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4411831608205,
+        "body": "<p>This will cause quite a lot of unnecessary lag or a huge refactor as this information is not at all shared. A chain command block doesn't know which command block triggered it (only what direction is next), and having this information \"saved\" through the chain can cause quite some memory usage.</p>",
+        "author_id": 365162152092,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4408582881037-Make-s-command-in-chain-command-block-target-the-player-in-the-original-cm/comments/4411831608205",
+        "created_at": "2021-10-22T06:04:33Z",
+        "updated_at": "2021-10-22T12:17:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4408582881037/comments/4411831608205.json",
+        "post_id": 4408582881037,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4408346979597,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4411837951373,
+        "body": "<p>I'd suggest a \"step size\" values, rather than always only being full block steps</p>\n\n<p>This would be force aligned with the grid, which isn't really great, if there was an option to have it be a line from coordinate set A to set B, it could be a lot more useful.</p>",
+        "author_id": 365162152092,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4408346979597--execute-between-which-would-execute-a-command-on-each-block-in-an-area/comments/4411837951373",
+        "created_at": "2021-10-22T06:07:52Z",
+        "updated_at": "2021-10-22T12:19:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4408346979597/comments/4411837951373.json",
+        "post_id": 4408346979597,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4404341461645,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4404847437325,
+        "body": "<p>you can already kinda do this using datapacks or command blocks, and its pretty simple and not overcomplicated.</p>",
+        "author_id": 405226432792,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404341461645-Curse-of-Binding-but-for-inventory-items/comments/4404847437325",
+        "created_at": "2021-07-12T13:00:24Z",
+        "updated_at": "2021-07-12T15:03:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404341461645/comments/4404847437325.json",
+        "post_id": 4404341461645,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078411531,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360016620011,
+        "body": "<p>Isso e bom para podermos conectados com nossos amigos lá de longe</p>",
+        "author_id": 417312038852,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078411531-ID/comments/360016620011",
+        "created_at": "2021-06-11T02:32:58Z",
+        "updated_at": "2021-06-11T02:41:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078411531/comments/360016620011.json",
+        "post_id": 360078411531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360016620051,
+        "body": "<p><span data-contrast=\"auto\">Hello, this appears to be a non-English post. Below you will find a transcription of the topic being discussed.&nbsp;</span>&nbsp;</p>\n<p><strong><span data-contrast=\"auto\">Title:</span></strong><span data-contrast=\"auto\">&nbsp;“ID”&nbsp;</span>&nbsp;</p>\n<p><strong><span data-contrast=\"auto\">Text:</span></strong><span data-contrast=\"auto\">&nbsp;“The friends enter the ID and enter the friends' servers, the friend with a very long distance”</span>&nbsp;</p>\n<p><span data-contrast=\"auto\">- Translated by Admin</span>&nbsp;</p>",
+        "author_id": 416781640632,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078411531-ID/comments/360016620051",
+        "created_at": "2021-06-11T02:42:26Z",
+        "updated_at": "2021-06-11T02:42:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078411531/comments/360016620051.json",
+        "post_id": 360078411531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078340552,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4404337607053,
+        "body": "<p>You can do this with the /kill command. The easiest way to do this is to stand next to the armor stand and run:</p>\n<pre>/kill @e[type=armor_stand,limit=1,distance=..3]</pre>\n<p>Hope this helps!</p>",
+        "author_id": 418396329611,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078340552-make-a-way-to-destroy-invulnerable-armour-stands-or-remove-display-names/comments/4404337607053",
+        "created_at": "2021-07-04T19:57:03Z",
+        "updated_at": "2021-07-04T21:10:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078340552/comments/4404337607053.json",
+        "post_id": 360078340552,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077929351,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015408771,
+        "body": "<p>I feel like it's easier to do this just in the files instead... it's really not that hard. :/</p>",
+        "author_id": 412314468832,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077929351--generate-command-datapack-data-without-needing-to-edit-files/comments/360015408771",
+        "created_at": "2021-05-14T03:15:54Z",
+        "updated_at": "2021-05-14T10:09:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077929351/comments/360015408771.json",
+        "post_id": 360077929351,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077980212,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015357771,
+        "body": "<p>Its Already exists</p>\n<p>Example : if you want to turn every creative player in your server into survival mode :</p>\n<pre>Bedrock : /gamemode survival @a[m=creative]<br>Java    : /gamemode survival @a[gamemode=creative]</pre>",
+        "author_id": 416174284071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077980212-testforgamemode-command/comments/360015357771",
+        "created_at": "2021-05-07T16:37:44Z",
+        "updated_at": "2021-05-07T16:37:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077980212/comments/360015357771.json",
+        "post_id": 360077980212,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077504171,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014851951,
+        "body": "<p>If i understand you right, you can just use this:</p>\n<p>/data get entity @s Rotation</p>\n<p>/data get entity @s Rotation[0] and /data get entity @s Rotation[1]</p>",
+        "author_id": 415145839332,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077504171-Detect-the-angle-the-player-is-looking/comments/360014851951",
+        "created_at": "2021-04-18T19:08:25Z",
+        "updated_at": "2021-04-18T19:08:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077504171/comments/360014851951.json",
+        "post_id": 360077504171,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077537632,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014668391,
+        "body": "<p>Nova tela de inicio</p>",
+        "author_id": 413314629511,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077537632-Armadura-op/comments/360014668391",
+        "created_at": "2021-03-24T02:23:21Z",
+        "updated_at": "2021-03-24T02:23:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077537632/comments/360014668391.json",
+        "post_id": 360077537632,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014668591,
+        "body": "<div style=\"border-width: 100%;\">\n<div style=\"width: 6.109in;\">\n<div style=\"width: 6.109in;\">\n<p style=\"font-size: 11.0pt; color: black;\"><span style=\"font-family: Calibri;\">Hello, this appears to be a non-English post. Below you will find a transcription of the topic being discussed.&nbsp;</span><span style=\"font-family: WordVisiCarriageReturn_MSFontSe;\">&nbsp;</span></p>\n<p style=\"font-family: WordVisiCarriageReturn_MSFontSe; font-size: 11.0pt; color: black;\">&nbsp;</p>\n<p style=\"font-size: 11.0pt; color: black;\"><span style=\"font-weight: bold; font-family: Calibri;\">Title:</span><span style=\"font-family: Calibri;\">&nbsp;“Armor op”&nbsp;</span><span style=\"font-family: WordVisiCarriageReturn_MSFontSe;\">&nbsp;</span></p>\n<p style=\"font-family: WordVisiCarriageReturn_MSFontSe; font-size: 11.0pt; color: black;\">&nbsp;</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\"><span style=\"font-weight: bold;\">Text:</span>&nbsp;“Command make your armor and tools with the most op enchantments”&nbsp;</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\">- Translated by&nbsp;Admin</p>\n</div>\n</div>\n</div>",
+        "author_id": 401209274491,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077537632-Armadura-op/comments/360014668591",
+        "created_at": "2021-03-24T03:15:58Z",
+        "updated_at": "2021-03-24T03:15:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077537632/comments/360014668591.json",
+        "post_id": 360077537632,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077387311,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014636451,
+        "body": "<p>I think the main thing you're asking for is the addition of&nbsp;<em>a block selector,</em> which is basically a target selector but for blocks. This has been highly requested before, but I don't think it's planned.</p>\n<p>You're going to need to manually iterate through your world to find the blocks you want.</p>",
+        "author_id": 396590871911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077387311-execute-at-Update/comments/360014636451",
+        "created_at": "2021-03-19T03:05:09Z",
+        "updated_at": "2021-03-19T11:00:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077387311/comments/360014636451.json",
+        "post_id": 360077387311,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014745711,
+        "body": "<p>Manually iterating through my world to find the blocks I want is boring and will take up a lot of time, plus, having a block selector would be better and could find every block in the world in my render distance.</p>\n<p>I could do this command without any data packs and it will find the blocks to run the command.</p>\n<pre>execute at block @e[type=minecraft:grass_block] run setblock ~ ~ ~ minecraft:diamond_block</pre>\n<p>&nbsp;</p>",
+        "author_id": 400773365951,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077387311-execute-at-Update/comments/360014745711",
+        "created_at": "2021-04-03T13:24:56Z",
+        "updated_at": "2021-04-03T13:45:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077387311/comments/360014745711.json",
+        "post_id": 360077387311,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077281831,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014718772,
+        "body": "<p>Hi! Thanks for submitting an idea, but this is actually already possible with commands in Minecraft!</p>\n<p>Have you tried the following command? It should be able to do what you've asked for in the suggestion. For example, to test if all players have an <code>objective</code> score of 10:</p>\n<pre>execute unless entity @a[scores={objective=..9}] unless entity @a[scores={objective=11..}] run …</pre>\n<p>This command works because it tests to see if no players have a score of 9 or below, and also tests to see if no players have a score of 11 or above. If both those tests pass, it means everybody has a score of 10!</p>\n<p>Unfortunately, this test also passes if there are no online players. To fix this, you might to add <code>if entity @a[scores={objective=10}]</code> to the end of the command.</p>",
+        "author_id": 396590871911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077281831--a-in-execute-if-score/comments/360014718772",
+        "created_at": "2021-03-22T18:02:04Z",
+        "updated_at": "2021-03-22T20:48:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077281831/comments/360014718772.json",
+        "post_id": 360077281831,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075742111,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013853611,
+        "body": "<p>Usernames have a length limit of 16 characters for Mojang accounts, and 12 characters for Microsoft accounts. Under normal circumstances, there should never be a username longer than that.</p>",
+        "author_id": 396590871911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075742111--ad-and-ad-commands/comments/360013853611",
+        "created_at": "2020-12-24T23:12:01Z",
+        "updated_at": "2020-12-25T18:01:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075742111/comments/360013853611.json",
+        "post_id": 360075742111,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075610891,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013853291,
+        "body": "<p>I assume you're talking about the <code>Unbreakable:1b</code> tag, which has only been discovered on the Java Edition of Minecraft. On Java Edition, it's easy to get an item that doesn't lose durability:</p>\n<pre>give @s minecraft:netherite_pickaxe{Unbreakable:1b} 1</pre>\n<p>On Bedrock Edition, it's a little trickier—you have to use an NBT editor to get the tag onto your item. Once you have it though, the item is yours to keep, it will have the unbreakable property forever, just don't lose it!</p>",
+        "author_id": 396590871911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075610891--enchant-name-realunbreaking/comments/360013853291",
+        "created_at": "2020-12-24T22:01:41Z",
+        "updated_at": "2020-12-25T18:01:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075610891/comments/360013853291.json",
+        "post_id": 360075610891,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075257591,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013711431,
+        "body": "<p>i made a mistake in the example 1. it needs not only a diamond but also a glass. i didn't say glass, sor. :p</p>",
+        "author_id": 407583433732,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075257591-chain-command-in-execute/comments/360013711431",
+        "created_at": "2020-12-08T18:29:41Z",
+        "updated_at": "2020-12-22T00:22:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075257591/comments/360013711431.json",
+        "post_id": 360075257591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013836451,
+        "body": "<p><p>I'm wondering how this will be useful. Is it too difficult to just use a command block chain instead?</p></p>",
+        "author_id": 396590871911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075257591-chain-command-in-execute/comments/360013836451",
+        "created_at": "2020-12-22T17:46:33Z",
+        "updated_at": "2020-12-23T18:07:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075257591/comments/360013836451.json",
+        "post_id": 360075257591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075119051,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4408075246989,
+        "body": "<p>SGADDvrgas</p>\n<p>&nbsp;</p>",
+        "author_id": 419797910631,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075119051-Game-tags-in-bedrock/comments/4408075246989",
+        "created_at": "2021-08-28T14:44:06Z",
+        "updated_at": "2021-08-28T14:44:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075119051/comments/4408075246989.json",
+        "post_id": 360075119051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075108031,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013773112,
+        "body": "<p>That's possible through advancements. You can set up an advancement with the trigger <code>minecraft:placed_block</code> and set it to run a function, which runs the following command:</p>\n<pre>execute as @a[advancements={blockPlaced=true}] run tellraw @a {\"text\":\"I am placing a block and everybody should know that cuz it's so important\"}\nadvancement revoke @a[advancements={blockPlaced=true}] only myAdvancement</pre>\n<p>The first command shows the message. The second revokes the advancement so that it can be used again.</p>",
+        "author_id": 396590871911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075108031-Function-tags-for-Java-1-17-events/comments/360013773112",
+        "created_at": "2020-12-08T00:43:08Z",
+        "updated_at": "2020-12-22T00:31:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075108031/comments/360013773112.json",
+        "post_id": 360075108031,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013805212,
+        "body": "<p>I disagree; it should be an advancement trigger instead. Although definitely not in the selector, that would be weird.</p>",
+        "author_id": 386702635332,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075108031-Function-tags-for-Java-1-17-events/comments/360013805212",
+        "created_at": "2020-12-10T18:21:14Z",
+        "updated_at": "2020-12-23T01:03:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075108031/comments/360013805212.json",
+        "post_id": 360075108031,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013831571,
+        "body": "<p>Right, I forgot about that, but it was just an example. If they are going to add more events as I suspect they are, this will be a great thing to add to the game.</p>",
+        "author_id": 400700385072,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075108031-Function-tags-for-Java-1-17-events/comments/360013831571",
+        "created_at": "2020-12-22T00:34:33Z",
+        "updated_at": "2020-12-22T00:34:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075108031/comments/360013831571.json",
+        "post_id": 360075108031,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

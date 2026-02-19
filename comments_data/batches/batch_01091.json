@@ -1,0 +1,697 @@
+[
+  {
+    "post_id": 33868506276237,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 33868544140941,
+        "body": "<p>I just tested as of current (Java 1.21.3) and catching a fish with a fishing rod forces it to not be able to survive as far as I can tell.</p>",
+        "author_id": 389524583791,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33868506276237-I-think-that-when-we-catch-a-fish-we-should-be-able-to-free-it/comments/33868544140941",
+        "created_at": "2025-01-29T02:12:17Z",
+        "updated_at": "2025-01-29T17:25:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33868506276237/comments/33868544140941.json",
+        "post_id": 33868506276237,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 33819095929357,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 33993615638029,
+        "body": "<p>make fire protection(Rename it Elemental Protection?) enchantment reduce cold damage</p>",
+        "author_id": 33992988337165,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33819095929357-Snowy-biome-craft-recipe-ideas-against-cold-damage/comments/33993615638029",
+        "created_at": "2025-02-03T07:38:38Z",
+        "updated_at": "2025-02-04T13:06:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33819095929357/comments/33993615638029.json",
+        "post_id": 33819095929357,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 33541090089485,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 33767732368013,
+        "body": "<p>Some species/countries that already exist in the game are villagers, illagers, piglins, and endermen.</p>",
+        "author_id": 25876653178765,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33541090089485-species-and-countries/comments/33767732368013",
+        "created_at": "2025-01-25T00:10:59Z",
+        "updated_at": "2025-01-25T00:10:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33541090089485/comments/33767732368013.json",
+        "post_id": 33541090089485,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 33767761001357,
+        "body": "<p>You should also be able to choose to not belong to any country.</p>",
+        "author_id": 25876653178765,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33541090089485-species-and-countries/comments/33767761001357",
+        "created_at": "2025-01-25T00:12:35Z",
+        "updated_at": "2025-01-25T00:12:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33541090089485/comments/33767761001357.json",
+        "post_id": 33541090089485,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 33531201605645,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 33794846547341,
+        "body": "<p>If you have the Minecraft DLC in Super Smash Bros Ultimate, you should be able to put villagers on custom stages and add them to stage options.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33531201605645-Villager-Trading-Super-Smash-Bros-Ultimate/comments/33794846547341",
+        "created_at": "2025-01-26T17:01:55Z",
+        "updated_at": "2025-01-27T17:52:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33531201605645/comments/33794846547341.json",
+        "post_id": 33531201605645,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 33347508826509,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 33355789083533,
+        "body": "<p>I agree that the leaf litters feel a bit weird in the forests because they're new, but I think tying bigger features like this to real life seasons would ruin some of the game's immersion. I think it would make the most sense to tie it to some sort of in-game seasons, but I understand that's not likely to be added soon.</p>",
+        "author_id": 5367793973901,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33347508826509-25w02a-Leaf-Litters-in-Forest-Biomes-should-only-spawn-in-the-fall/comments/33355789083533",
+        "created_at": "2025-01-09T19:47:21Z",
+        "updated_at": "2025-01-09T19:52:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33347508826509/comments/33355789083533.json",
+        "post_id": 33347508826509,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 32567441463181,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 32717713940365,
+        "body": "<p>People should not get advancements for dying, otherwise they wouldn't be able to get all advancements in Hardcore.</p>",
+        "author_id": 31547769873037,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/32567441463181-Achievement-I-Believe-I-can-Die/comments/32717713940365",
+        "created_at": "2024-12-14T16:34:26Z",
+        "updated_at": "2024-12-14T16:34:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/32567441463181/comments/32717713940365.json",
+        "post_id": 32567441463181,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 32805069202957,
+        "body": "<p>Yeah that makes sense.</p>",
+        "author_id": 23138447956621,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/32567441463181-Achievement-I-Believe-I-can-Die/comments/32805069202957",
+        "created_at": "2024-12-17T21:03:05Z",
+        "updated_at": "2024-12-17T21:03:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/32567441463181/comments/32805069202957.json",
+        "post_id": 32567441463181,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 32300043308813,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 32300122160909,
+        "body": "<p>It's me again, the person who wrote the feedback above.</p>\n<p>An example of a special ability that could be on all weapons is a move in which you would teleport to wherever your crosshair is, and if you're not pointing at a block you would teleport within a certain block radius. Because this ability is great for getting out of tough situations, it would cost almost all your hunger bars, making a dynamic in which you get to safety, but your mobility is significantly reduced until you eat.</p>\n<p>Another ability, one exclusive to the mace, would have the player jump up 3-6 blocks, at the cost of a low amount of hunger bars, giving the user the chance to land a powerful crit on an opponent.</p>\n<p>What I wouldn't like to see as an ability is something very complicated or powerful for I don't want the combat of Minecraft to overshadow the other aspects of the game.</p>",
+        "author_id": 32149139839501,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/32300043308813-Adding-Special-Abilities-that-Don-t-Stray-to-far-From-Vanilla-Minecraft/comments/32300122160909",
+        "created_at": "2024-11-30T06:16:55Z",
+        "updated_at": "2024-11-30T15:02:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/32300043308813/comments/32300122160909.json",
+        "post_id": 32300043308813,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 32371964142477,
+        "body": "<p>I wasn't sure about the idea until you gave some examples, I like how simple they are, anything ridiculous would be vary un-minecraft.</p>",
+        "author_id": 30930113048973,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/32300043308813-Adding-Special-Abilities-that-Don-t-Stray-to-far-From-Vanilla-Minecraft/comments/32371964142477",
+        "created_at": "2024-12-03T04:07:14Z",
+        "updated_at": "2024-12-03T16:24:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/32300043308813/comments/32371964142477.json",
+        "post_id": 32300043308813,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 32258674260621,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 32261428725133,
+        "body": "<p>NO!!! NONONONONONONO! No cars! Cars are WAYWAYWAY to advanced for Minecraft! It would RUIN the game! You want a car in Minecraft? Get a mod.</p>",
+        "author_id": 31547769873037,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/32258674260621-Add-a-car-into-minecraft/comments/32261428725133",
+        "created_at": "2024-11-28T18:14:45Z",
+        "updated_at": "2024-11-28T18:14:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/32258674260621/comments/32261428725133.json",
+        "post_id": 32258674260621,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 32330595083277,
+        "body": "<p>Are you kidding??!! Cars? In Minecraft? Seriously?!</p>",
+        "author_id": 31547769873037,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/32258674260621-Add-a-car-into-minecraft/comments/32330595083277",
+        "created_at": "2024-12-02T00:28:19Z",
+        "updated_at": "2024-12-02T00:28:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/32258674260621/comments/32330595083277.json",
+        "post_id": 32258674260621,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 31935207504141,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 31946861863821,
+        "body": "<p>The armour part dont need to be included just the pipe part rlly</p>",
+        "author_id": 31934941567373,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/31935207504141-Pipes-and-industrial-things-and-new-types-of-armour-tools/comments/31946861863821",
+        "created_at": "2024-11-17T09:48:46Z",
+        "updated_at": "2024-11-17T09:48:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/31935207504141/comments/31946861863821.json",
+        "post_id": 31935207504141,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 31818514619533,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 32083481907213,
+        "body": "<p>Yes, the allay is completely useless.</p>",
+        "author_id": 30930113048973,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/31818514619533-Vote-Accurate-Allay/comments/32083481907213",
+        "created_at": "2024-11-21T23:35:17Z",
+        "updated_at": "2024-11-22T17:32:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/31818514619533/comments/32083481907213.json",
+        "post_id": 31818514619533,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 31749326770061,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 33897205902093,
+        "body": "<p>Ice archeology would go well with my suggested idea to make snowy biomes challenging with cold damage on harder difficulties and new craft recipes for reducing cold damage. It would make snowy biomes more interesting, I think.</p>",
+        "author_id": 374240690512,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/31749326770061-Ice-archeology/comments/33897205902093",
+        "created_at": "2025-01-30T00:17:01Z",
+        "updated_at": "2025-01-30T00:24:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/31749326770061/comments/33897205902093.json",
+        "post_id": 31749326770061,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 31730496081165,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 31735085176973,
+        "body": "<p>yo no se mucho pero creo que eso seria muy dificil de lejos sin wifi, solo con algo tipo una suscricpcion y tener satelites, yo opino que seria genial pero muuy dificil.</p>\n<p>&nbsp;</p>",
+        "author_id": 31734567149325,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/31730496081165-Tener-multijugador-sin-internet/comments/31735085176973",
+        "created_at": "2024-11-08T21:56:52Z",
+        "updated_at": "2024-11-08T21:56:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/31730496081165/comments/31735085176973.json",
+        "post_id": 31730496081165,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 31545124939661,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 31596098039309,
+        "body": "<p>I hate when I slide when I fly, too. It makes it hard for me to locate coordinates when I want to use the /fill command</p>\n<p>&nbsp;</p>\n<pre>moveForward()<br>moveForward()</pre>",
+        "author_id": 31575384231693,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/31545124939661-Stop-sliding-while-flying/comments/31596098039309",
+        "created_at": "2024-11-04T15:26:29Z",
+        "updated_at": "2024-11-04T16:49:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/31545124939661/comments/31596098039309.json",
+        "post_id": 31545124939661,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40101918894093,
+        "body": "<p>This! This is the one thing I don't like about Java Minecraft.</p>",
+        "author_id": 40101890616205,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/31545124939661-Stop-sliding-while-flying/comments/40101918894093",
+        "created_at": "2025-10-05T13:37:11Z",
+        "updated_at": "2025-10-05T13:37:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/31545124939661/comments/40101918894093.json",
+        "post_id": 31545124939661,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 31359609144461,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 31376297280269,
+        "body": "<p>Along with that, perhaps when eyeblossoms are on pale moss they produce a fog when you're within 10 or so blocks of it. This works like the new ambience system implemented in the pale garden.</p>",
+        "author_id": 30655617390861,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/31359609144461-add-whispering-noises-to-the-eyeblossom-flowers/comments/31376297280269",
+        "created_at": "2024-10-26T01:27:42Z",
+        "updated_at": "2024-10-26T01:27:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/31359609144461/comments/31376297280269.json",
+        "post_id": 31359609144461,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 31315090680333,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 31367680311693,
+        "body": "<p>???</p>",
+        "author_id": 29903354684685,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/31315090680333-Accidental-stripped-logs/comments/31367680311693",
+        "created_at": "2024-10-25T19:13:42Z",
+        "updated_at": "2024-10-25T19:13:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/31315090680333/comments/31367680311693.json",
+        "post_id": 31315090680333,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 31703022345485,
+        "body": "<p>yes like with honey comb and copper</p>",
+        "author_id": 421777023032,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/31315090680333-Accidental-stripped-logs/comments/31703022345485",
+        "created_at": "2024-11-07T20:51:30Z",
+        "updated_at": "2024-11-07T21:14:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/31315090680333/comments/31703022345485.json",
+        "post_id": 31315090680333,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 31298937899789,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 31367970958733,
+        "body": "<p>👍I love the idea!💡</p>",
+        "author_id": 29903354684685,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/31298937899789-Ideas/comments/31367970958733",
+        "created_at": "2024-10-25T19:21:40Z",
+        "updated_at": "2024-10-27T15:02:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/31298937899789/comments/31367970958733.json",
+        "post_id": 31298937899789,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 35765147762445,
+        "body": "<p><strong>Ideas</strong></p>\n<p>In case you typed /clear by accident, there should be a command which is /unclear, kind of like an undo button. This happened to me as I had a very rare item in creative and I thought /clear was meant to clear the chat, but instead, I lost that item. PLEASE ADD THE /unclear COMMAND MOJANG!</p>\n<p>Vote for this idea if you think the same about this :)</p>",
+        "author_id": 35765078395533,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/31298937899789-Ideas/comments/35765147762445",
+        "created_at": "2025-04-11T10:03:57Z",
+        "updated_at": "2025-04-11T19:26:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/31298937899789/comments/35765147762445.json",
+        "post_id": 31298937899789,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 31215684633101,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 31216424922253,
+        "body": "<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">This sounds similar to one of the first Bedrock add-ons.</span></span></p>\n<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">I think the idea should be implimented without forcing people to do dimension hopping, in some way.</span></span></p>",
+        "author_id": 29574754912141,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/31215684633101-teleportation-portals/comments/31216424922253",
+        "created_at": "2024-10-21T00:20:07Z",
+        "updated_at": "2024-10-21T00:26:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/31215684633101/comments/31216424922253.json",
+        "post_id": 31215684633101,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 31125701218189,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 31368309783949,
+        "body": "<p>I like the north star idea the most. I get lost sooo much in the night. If i don't have a map.</p>",
+        "author_id": 29903354684685,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/31125701218189-Constellations/comments/31368309783949",
+        "created_at": "2024-10-25T19:32:17Z",
+        "updated_at": "2024-10-27T15:02:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/31125701218189/comments/31368309783949.json",
+        "post_id": 31125701218189,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 30639687949069,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 37877403186957,
+        "body": "<p>No i think Minecraft is runs better on a PC anyways, so i don't really see a need for a mobile minecraft launcher, plus how would you play minecraft java on an iphone, it would probably just overheat, and remember you wouldn't be able to move because you would need some kind of ipnone keybord?&nbsp; &nbsp;</p>",
+        "author_id": 30639989323661,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/30639687949069-Mobile-Launcher/comments/37877403186957",
+        "created_at": "2025-07-07T14:52:10Z",
+        "updated_at": "2025-07-08T20:47:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/30639687949069/comments/37877403186957.json",
+        "post_id": 30639687949069,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 30564361665037,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40385841415309,
+        "body": "<p>Я хочу щоб в майнкрафті було більше зачарувань руд і речей</p>",
+        "author_id": 40385777612557,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/30564361665037-Maybe-add-some-magic-to-minecraft/comments/40385841415309",
+        "created_at": "2025-10-16T15:59:34Z",
+        "updated_at": "2025-10-16T15:59:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/30564361665037/comments/40385841415309.json",
+        "post_id": 30564361665037,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 30471933366925,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 30474845853197,
+        "body": "<p>This is actually an intresting idea, I can see a couple of issues that could result, if done incorrectly, this would need to be CAREFULLY implimented. I can also see how we could use it to exploit structures.</p>\n<p>The real problem with this is if we cause it to be permanent by interacting with blocks, most players dont use elytra, so exploring would become difficult for anyone who doesnt want to load acssessive chunks, this would also make mining or temporal farming and shelter no longer viable, unless you plan to use the area extensively. However that could allow for pathes to become saved and then predictable and unable to be edited I guess.</p>\n<p>This would be an incredibly difficult change to fine-tune.</p>",
+        "author_id": 29574754912141,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/30471933366925-World-Size-Trimming/comments/30474845853197",
+        "created_at": "2024-09-22T20:37:29Z",
+        "updated_at": "2024-09-22T20:56:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/30471933366925/comments/30474845853197.json",
+        "post_id": 30471933366925,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 30476313791373,
+        "body": "<p>There are multiple problems with this idea:</p>\n<ul>\n<li>Each world has a seed, which generates new chunks with a lot of specificity. Only procedurally generated structures change with the same seed, and this is asking the whole world to be a procedurally generated structure, which would take up a lot more data than exploration already does.</li>\n<li>I think that you actually care a lot more about chunks staying the same than you think. For example you might be lucky enough to find a woodland mansion in the early game but walk away, intending to come back later to raid it (because you aren't powerful enough yet), then find it's disappeared when you do come back, it's not that fun. And if you get even more technical, there would be more problems.</li>\n<li>Strategic players could abuse this to generate rare structures. For example, you could sprint around a dark forest repeatedly until a woodland mansion appears. You could then do this repeatedly, filling your map with rare structures.</li>\n<li>Maps wouldn't work. You might bring a map while your exploring uncharted areas, moving quickly, and then you come home. Suddenly, when you go through the area again, the map breaks, as the new terrain is entirely different from the old layout.</li>\n</ul>",
+        "author_id": 25876653178765,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/30471933366925-World-Size-Trimming/comments/30476313791373",
+        "created_at": "2024-09-22T22:23:29Z",
+        "updated_at": "2024-09-22T23:16:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/30471933366925/comments/30476313791373.json",
+        "post_id": 30471933366925,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 30360877335309,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 39047469785229,
+        "body": "<p>Came here to post this.&nbsp; Disappointing I can't use my long rail network to ship my materials back and forth...&nbsp; I'm forced to ride behind a line of chest carts -- I was hoping to make an auto loader/unloader so I could extend my conquest while shipping things back to my central base.&nbsp; Oh well.</p>",
+        "author_id": 39047419984525,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/30360877335309-Moving-Minecarts-load-chunks/comments/39047469785229",
+        "created_at": "2025-08-24T02:27:42Z",
+        "updated_at": "2025-08-24T02:27:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/30360877335309/comments/39047469785229.json",
+        "post_id": 30360877335309,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 29594761125261,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 29920934928653,
+        "body": "<p>this already exists</p>",
+        "author_id": 29920157374349,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/29594761125261-When-you-punch-Villagers-they-run-away-and-tell-an-Iron-Golem-to-hurt-you/comments/29920934928653",
+        "created_at": "2024-09-03T22:40:03Z",
+        "updated_at": "2024-09-03T22:40:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/29594761125261/comments/29920934928653.json",
+        "post_id": 29594761125261,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 29371742811021,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 29574791469325,
+        "body": "<p>Cool</p>",
+        "author_id": 29371574302477,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/29371742811021-Pillager-camp-post/comments/29574791469325",
+        "created_at": "2024-08-24T20:23:06Z",
+        "updated_at": "2024-08-24T20:25:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/29371742811021/comments/29574791469325.json",
+        "post_id": 29371742811021,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 29119673715597,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 29122586865805,
+        "body": "<p>Good idea 💡&nbsp;</p>",
+        "author_id": 29122574698893,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/29119673715597-Cobblestone-Boat/comments/29122586865805",
+        "created_at": "2024-08-09T06:41:16Z",
+        "updated_at": "2024-08-09T06:41:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/29119673715597/comments/29122586865805.json",
+        "post_id": 29119673715597,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

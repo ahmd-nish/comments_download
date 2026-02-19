@@ -1,0 +1,757 @@
+[
+  {
+    "post_id": 27822947582093,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 28014160913037,
+        "body": "<p>yes. i dont rly like bedrock no offense bedrock players but hardcore, tick freezing and attributes&nbsp; would be a cool experience for console mobile and windows10 players</p>",
+        "author_id": 28014051429261,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/27822947582093--tick-Attribute-and-Hard-core-for-bedrock/comments/28014160913037",
+        "created_at": "2024-06-30T09:34:01Z",
+        "updated_at": "2024-07-01T18:16:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/27822947582093/comments/28014160913037.json",
+        "post_id": 27822947582093,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 26963481751309,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 27258461791373,
+        "body": "<p>This would be so nice!</p>",
+        "author_id": 27154301320589,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26963481751309-Detect-Keybinds-with-Execute/comments/27258461791373",
+        "created_at": "2024-06-03T18:55:32Z",
+        "updated_at": "2024-06-05T00:55:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26963481751309/comments/27258461791373.json",
+        "post_id": 26963481751309,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 27878967342349,
+        "body": "<p>That would be cool! \n<br />Currently the only method to detect clicking is a carrot on a stick and thats, well, bad</p>",
+        "author_id": 27877417984909,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26963481751309-Detect-Keybinds-with-Execute/comments/27878967342349",
+        "created_at": "2024-06-25T14:49:05Z",
+        "updated_at": "2024-06-25T16:03:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26963481751309/comments/27878967342349.json",
+        "post_id": 26963481751309,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 23079149091853,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 23307418884237,
+        "body": "<p>There already is such feature in minecraft 1.20, they added a new entity called \"minecraft:text_display\" that is just a floating text entity and it has an attribute for whether it faces the player or not.</p>",
+        "author_id": 23307401014029,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/23079149091853-Floating-Text-Command/comments/23307418884237",
+        "created_at": "2024-01-18T01:59:10Z",
+        "updated_at": "2024-01-18T01:59:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/23079149091853/comments/23307418884237.json",
+        "post_id": 23079149091853,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 24607403379981,
+        "body": "<p>/summon text_display</p>",
+        "author_id": 396996315712,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/23079149091853-Floating-Text-Command/comments/24607403379981",
+        "created_at": "2024-03-01T17:22:47Z",
+        "updated_at": "2024-03-01T17:22:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/23079149091853/comments/24607403379981.json",
+        "post_id": 23079149091853,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 25989726152077,
+        "body": "<p>Sure, it might be in Java Edition, but the only reason I'm voting for this is because I think it should also be in Bedrock. (Bugrock IYKYK)</p>",
+        "author_id": 25989694134669,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/23079149091853-Floating-Text-Command/comments/25989726152077",
+        "created_at": "2024-04-17T23:27:08Z",
+        "updated_at": "2024-04-18T15:56:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/23079149091853/comments/25989726152077.json",
+        "post_id": 23079149091853,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40641017433741,
+        "body": "<p>/summon floating_text [floating text name or command]</p>",
+        "author_id": 40641049570829,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/23079149091853-Floating-Text-Command/comments/40641017433741",
+        "created_at": "2025-10-27T06:45:41Z",
+        "updated_at": "2025-10-27T23:40:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/23079149091853/comments/40641017433741.json",
+        "post_id": 23079149091853,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 16305536167437,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 16645682395405,
+        "body": "<p>I need a command block</p>\n\n<p>I need a command block in Minecraft Minecraft</p>",
+        "author_id": 15560506603149,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/16305536167437-make-initiator-for-command-blocks/comments/16645682395405",
+        "created_at": "2023-06-11T15:32:19Z",
+        "updated_at": "2023-06-14T21:58:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/16305536167437/comments/16645682395405.json",
+        "post_id": 16305536167437,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 14511181862029,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 15568988723725,
+        "body": "<p>This is already possible with predicates.</p>",
+        "author_id": 417766993352,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/14511181862029-execute-if-entity-e-is-not-ridded-ride-sat-crouched/comments/15568988723725",
+        "created_at": "2023-05-08T05:42:59Z",
+        "updated_at": "2023-06-15T13:11:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/14511181862029/comments/15568988723725.json",
+        "post_id": 14511181862029,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 17989193681293,
+        "body": "<p>it would be easier than figuring out predicates... which I have spent hours on with no avail</p>",
+        "author_id": 405058597032,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/14511181862029-execute-if-entity-e-is-not-ridded-ride-sat-crouched/comments/17989193681293",
+        "created_at": "2023-07-27T16:11:02Z",
+        "updated_at": "2023-07-27T16:11:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/14511181862029/comments/17989193681293.json",
+        "post_id": 14511181862029,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 13162110208397,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 13497880274061,
+        "body": "<p>You could replace the boolean at the end to an integer that represents permission level.</p>",
+        "author_id": 13497164234765,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13162110208397--shortcut-command/comments/13497880274061",
+        "created_at": "2023-02-28T11:12:58Z",
+        "updated_at": "2023-05-10T18:22:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13162110208397/comments/13497880274061.json",
+        "post_id": 13162110208397,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 13106300518413,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 28185925619725,
+        "body": "<p>I NEED THIS FOR CUSTOM VANILLA ITEMS PLEASE MOJANG</p>",
+        "author_id": 420053581092,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13106300518413-Add-the-unbreakable-unplacable-Block-Tag/comments/28185925619725",
+        "created_at": "2024-07-06T01:58:03Z",
+        "updated_at": "2024-07-06T14:25:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13106300518413/comments/28185925619725.json",
+        "post_id": 13106300518413,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 12722743925133,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 18721286020877,
+        "body": "<p>This is actually a feature in the \"Data-pack Helper Plus\" extension for VSCode, so I can't imagine it would be too difficult for Mojang to implement. We need this.</p>",
+        "author_id": 18706545806477,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12722743925133-Auto-completion-on-JSON-Objects/comments/18721286020877",
+        "created_at": "2023-08-21T11:55:25Z",
+        "updated_at": "2023-09-29T17:02:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12722743925133/comments/18721286020877.json",
+        "post_id": 12722743925133,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 11373525686285,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 12055045715085,
+        "body": "<p>this would require the game to trace back through to who triggered it. what about command blocks triggered by more complex mechanisms, or even if 2 levers attached to an and gate are pressed by 2 different players?</p>",
+        "author_id": 12054996469133,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11373525686285--user-target-selector/comments/12055045715085",
+        "created_at": "2023-01-07T19:08:58Z",
+        "updated_at": "2023-02-15T16:44:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11373525686285/comments/12055045715085.json",
+        "post_id": 11373525686285,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7191168778381,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7194650133005,
+        "body": "<p>Isn't there already a gamerule for that? and can't moderators set permission for players including placing &amp; breaking of blocks?</p>",
+        "author_id": 387986563091,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7191168778381-Adding-gamerule-tnt-end-crystals-and-Respawn-anchor-grief-false-true/comments/7194650133005",
+        "created_at": "2022-06-25T09:03:07Z",
+        "updated_at": "2022-06-28T20:08:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7191168778381/comments/7194650133005.json",
+        "post_id": 7191168778381,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 6497109125261,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 6536408422925,
+        "body": "<p>And on other bedrock versions :)</p>",
+        "author_id": 5209025310477,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6497109125261-3-boost-on-potions-not-just-2-and-the-debug-stick-on-xbox/comments/6536408422925",
+        "created_at": "2022-05-28T18:17:32Z",
+        "updated_at": "2022-05-31T01:31:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6497109125261/comments/6536408422925.json",
+        "post_id": 6497109125261,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 6572460851341,
+        "body": "<p>Not bad Idea in My opinion</p>\n<p>&nbsp;</p>",
+        "author_id": 6572433703309,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6497109125261-3-boost-on-potions-not-just-2-and-the-debug-stick-on-xbox/comments/6572460851341",
+        "created_at": "2022-05-31T01:31:03Z",
+        "updated_at": "2022-05-31T01:31:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6497109125261/comments/6572460851341.json",
+        "post_id": 6497109125261,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5017110059405,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5057557753485,
+        "body": "<p>I was just about to make the same post! This would be really useful.</p>",
+        "author_id": 386023447791,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5017110059405-Specified-playsound-option/comments/5057557753485",
+        "created_at": "2022-03-25T03:56:32Z",
+        "updated_at": "2022-07-07T10:21:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5017110059405/comments/5057557753485.json",
+        "post_id": 5017110059405,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7485793665421,
+        "body": "<p>Why is this not something many people voted for (5th vote btw).</p>\n<p>Like I think mapmakers would be begging for this.</p>",
+        "author_id": 1905026966627,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5017110059405-Specified-playsound-option/comments/7485793665421",
+        "created_at": "2022-07-07T10:20:58Z",
+        "updated_at": "2022-07-17T21:33:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5017110059405/comments/7485793665421.json",
+        "post_id": 5017110059405,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 32601738814093,
+        "body": "<p>Please add this! it is SO annoying trying to have specific music play at certain times or places, just for something completely random and different to play instead</p>",
+        "author_id": 5120828578573,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5017110059405-Specified-playsound-option/comments/32601738814093",
+        "created_at": "2024-12-10T22:00:21Z",
+        "updated_at": "2024-12-10T22:18:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5017110059405/comments/32601738814093.json",
+        "post_id": 5017110059405,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4994370738829,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5255442088333,
+        "body": "<p>Listen, and the good ilea</p>",
+        "author_id": 5255352995341,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4994370738829-the-idea-of-the-new-command-output/comments/5255442088333",
+        "created_at": "2022-04-02T18:56:32Z",
+        "updated_at": "2022-04-02T18:56:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4994370738829/comments/5255442088333.json",
+        "post_id": 4994370738829,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4418140548493,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4423401820685,
+        "body": "<p>Yes please!</p>",
+        "author_id": 415962032171,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4418140548493-gamerule-that-disable-crafting/comments/4423401820685",
+        "created_at": "2022-01-29T13:01:43Z",
+        "updated_at": "2022-01-29T14:05:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4418140548493/comments/4423401820685.json",
+        "post_id": 4418140548493,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4417341558157,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5930761267213,
+        "body": "<p>I feel like this is what tags would be used for, granted it would be a hell of a lot easier to type</p>\n<pre>/execute @a[scores={!TEST}] ~~~ scoreboard players add @s TEST</pre>\n<p>Instead of</p>\n<pre># Repeat, Always Active<br>/execute @a[tag=!TEST] ~~~ scoreboard players add @s TEST<br># Chain, Always Active, conditional<br>/execute @a[scores={TEST=0}] ~~~ tag @s add TEST</pre>\n<p>So you have my vote. here's hoping they implement it in both bedrock and java.</p>",
+        "author_id": 5929085386637,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4417341558157-Better-scoreboard-target-selector-argument/comments/5930761267213",
+        "created_at": "2022-05-02T00:24:20Z",
+        "updated_at": "2022-05-02T14:51:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4417341558157/comments/5930761267213.json",
+        "post_id": 4417341558157,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4412989684749,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4412990986253,
+        "body": "<p>and gravity direction</p>\n<p>maybe /gravity scale and /gravity direction</p>\n<p>both in the gravity category</p>",
+        "author_id": 421736564931,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4412989684749--gravityscale-to-change-the-value-of-gravity-for-specify-player/comments/4412990986253",
+        "created_at": "2021-11-07T22:51:35Z",
+        "updated_at": "2021-11-07T22:51:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4412989684749/comments/4412990986253.json",
+        "post_id": 4412989684749,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4412040938637,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4412295340557,
+        "body": "<p>\"If someone has a better command name, please suggest it.\"<strong>:</strong></p>\n<p>You can just use arguments no need for /multisummon its should be like this this</p>\n<p>/summon &lt;entityType: EntityType&gt;&lt;spawnPos: x y z&gt;&lt;spawnMulti?:boolean&gt;&lt;multiSpawnValue:int&gt;</p>\n<p>Not this:</p>\n<p>/multisummon [mob] [amount] [coordinates]</p>",
+        "author_id": 1901676067667,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4412040938637-More-to-the-summon-command/comments/4412295340557",
+        "created_at": "2021-10-29T11:37:07Z",
+        "updated_at": "2021-10-29T12:33:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4412040938637/comments/4412295340557.json",
+        "post_id": 4412040938637,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4412026665485,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4412292922637,
+        "body": "<p>That what i exactly want</p>",
+        "author_id": 1901676067667,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4412026665485--if-command/comments/4412292922637",
+        "created_at": "2021-10-29T07:49:33Z",
+        "updated_at": "2021-12-30T18:41:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4412026665485/comments/4412292922637.json",
+        "post_id": 4412026665485,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4411595238669,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4411770376845,
+        "body": "<p>All generated structures can be /locate-d, this is suggesting something that's 100% already going to happen.</p>",
+        "author_id": 365162152092,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4411595238669-Locate-Deep-Dark-City-Command/comments/4411770376845",
+        "created_at": "2021-10-21T07:22:03Z",
+        "updated_at": "2021-10-21T07:22:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4411595238669/comments/4411770376845.json",
+        "post_id": 4411595238669,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4928168008205,
+        "body": "<p>It does not work</p>",
+        "author_id": 4928190239885,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4411595238669-Locate-Deep-Dark-City-Command/comments/4928168008205",
+        "created_at": "2022-03-19T18:44:14Z",
+        "updated_at": "2022-03-19T18:44:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4411595238669/comments/4928168008205.json",
+        "post_id": 4411595238669,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4409647877645,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4411831524877,
+        "body": "<p>Just saying, execute unless entity @s[scores={OBJ=MININT..}] run... only runs when you have no score, so it can already be done. Granted, if a null option was added, it eould be much easier.</p>",
+        "author_id": 365162152092,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4409647877645-null-scoreboard-Option-in-target-selector/comments/4411831524877",
+        "created_at": "2021-10-22T05:49:38Z",
+        "updated_at": "2021-10-22T05:49:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4409647877645/comments/4411831524877.json",
+        "post_id": 4409647877645,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4404673544461,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4404668301069,
+        "body": "<p>bruh the spaces are removed </p>",
+        "author_id": 418534162591,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404673544461-a-inv-command/comments/4404668301069",
+        "created_at": "2021-07-09T13:38:18Z",
+        "updated_at": "2021-07-09T17:20:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404673544461/comments/4404668301069.json",
+        "post_id": 4404673544461,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4406971991693,
+        "body": "<p>and add /inv 5 6 7 save <br>lake save chests inventory at position x5 y6 z7</p>",
+        "author_id": 414556983551,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404673544461-a-inv-command/comments/4406971991693",
+        "created_at": "2021-08-12T20:56:01Z",
+        "updated_at": "2021-08-12T20:56:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404673544461/comments/4406971991693.json",
+        "post_id": 4404673544461,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4403838863757,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4404337492493,
+        "body": "<p>I like this idea! It could also work well as a player selector formatted something like this:</p>\n<pre>/execute if entity @a[chat={\"text\":\"abc\"}] run tp @s ~ ~ ~</pre>",
+        "author_id": 418396329611,
+        "vote_sum": 5,
+        "vote_count": 5,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4403838863757-A-Command-To-Detect-If-Someone-Says-Something-Particular/comments/4404337492493",
+        "created_at": "2021-07-04T19:51:04Z",
+        "updated_at": "2022-06-28T04:28:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4403838863757/comments/4404337492493.json",
+        "post_id": 4403838863757,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078457411,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4403919746573,
+        "body": "<p>I think this will not be implemented, for one thing because using command blocks is at your own risk.</p>",
+        "author_id": 418218976511,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078457411-Command-to-disable-command-blocks/comments/4403919746573",
+        "created_at": "2021-06-28T08:47:37Z",
+        "updated_at": "2021-06-28T22:06:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078457411/comments/4403919746573.json",
+        "post_id": 360078457411,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4404172374541,
+        "body": "<p>Hello PGSCOM7566,</p>\n<p>this command already exists, so it would be nice if you deleted this post. The command is: / gamerule commandblockensabled false</p>",
+        "author_id": 418251320151,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078457411-Command-to-disable-command-blocks/comments/4404172374541",
+        "created_at": "2021-07-01T17:55:02Z",
+        "updated_at": "2021-07-01T18:16:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078457411/comments/4404172374541.json",
+        "post_id": 360078457411,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4404172899341,
+        "body": "<div class=\"avatar comment-avatar\">\n<div class=\"comment-meta\"><span title=\"Bengiamin Buling\">Hello, thanks to Bengiamin Buling, this comment section will now be closed. Thank you for all your contributions. :)&nbsp; &nbsp;See below for solution:</span></div>\n<div class=\"comment-meta\">&nbsp;</div>\n<div class=\"comment-meta\"><span title=\"Bengiamin Buling\"><a href=\"/hc/en-us/profiles/418251320151-Bengiamin-Buling\" data-bi-name=\"bengiamin buling\" data-bi-id=\"n38a3\" data-bi-type=\"text\" rel=\"nofollow noreferrer\">Bengiamin Buling&nbsp;</a>commented</span></div>\n<div class=\"comment-actions actions\">&nbsp;</div>\n<ul class=\"meta-group commentMeta\">&nbsp;</ul>\n<ul class=\"meta-group commentMeta\">\n<ul class=\"meta-group commentMeta\">Hello PGSCOM7566,</ul>\n</ul>\n</div>\n<section class=\"comment-body\" data-bi-area=\"body\">\n<p>this command already exists, so it would be nice if you deleted this post. The command is: / gamerule commandblockensabled false</p>\n</section>",
+        "author_id": 416783211012,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078457411-Command-to-disable-command-blocks/comments/4404172899341",
+        "created_at": "2021-07-01T18:15:54Z",
+        "updated_at": "2021-07-01T18:15:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078457411/comments/4404172899341.json",
+        "post_id": 360078457411,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078120372,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4404404767501,
+        "body": "<p>I only know about this on Bedrock/Pocket Edition, but you can do \"/?\" and it will give you a list you can do \"/? 2\" to go to the next page. Isk if it exists on the Java Edition, but you could try it!</p>",
+        "author_id": 418168717172,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078120372-Commands-are-HARD-and-Underexplained/comments/4404404767501",
+        "created_at": "2021-07-05T21:57:26Z",
+        "updated_at": "2021-07-05T22:23:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078120372/comments/4404404767501.json",
+        "post_id": 360078120372,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078029012,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015647372,
+        "body": "<p>Can u add /atributes command on the bedrock edition please</p>",
+        "author_id": 407829868652,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078029012--attribute-needs-some-upgrades-Here-s-why/comments/360015647372",
+        "created_at": "2021-05-27T01:24:11Z",
+        "updated_at": "2024-01-07T05:45:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078029012/comments/360015647372.json",
+        "post_id": 360078029012,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

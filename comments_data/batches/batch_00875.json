@@ -1,0 +1,817 @@
+[
+  {
+    "post_id": 360076362472,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014184092,
+        "body": "<p>Definitely, and also the same with building would also be good! (though maybe you press a button to make it so that pressing and holding lets you speed build on PE)</p>",
+        "author_id": 406374590912,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076362472-Mine-Multiple-Blocks-At-Once-Creative-Mode/comments/360014184092",
+        "created_at": "2021-01-26T11:23:32Z",
+        "updated_at": "2021-01-26T12:07:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076362472/comments/360014184092.json",
+        "post_id": 360076362472,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075804391,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013905831,
+        "body": "<p>Me gusta</p>",
+        "author_id": 408762293252,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075804391-Pvp-Gamerule/comments/360013905831",
+        "created_at": "2021-01-02T21:39:00Z",
+        "updated_at": "2021-01-02T21:39:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075804391/comments/360013905831.json",
+        "post_id": 360075804391,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075861332,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4616829911821,
+        "body": "<p>This would be so useful</p>",
+        "author_id": 421103853011,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075861332-Add-a-new-block-tag-that-is-no-hitbox/comments/4616829911821",
+        "created_at": "2022-03-05T16:49:19Z",
+        "updated_at": "2022-03-05T16:49:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075861332/comments/4616829911821.json",
+        "post_id": 360075861332,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074952831,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013595591,
+        "body": "<p>English translation to the best of my ability:</p>\n<blockquote>In Bedrock Edition, observers cannot see whether a Note Block is making a block update, this only works in the Bedrock Edition. Please make it possible in the Bedrock Edition and make the redstone as in the Java Edition and also the pistons, it sucks when I watch a video on YouTube and then want to recreate the whole thing and it doesn't work and I would like to have the same commands as in the Java version.</blockquote>",
+        "author_id": 396590871911,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074952831-Petzen/comments/360013595591",
+        "created_at": "2020-12-01T05:05:47Z",
+        "updated_at": "2020-12-10T18:24:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074952831/comments/360013595591.json",
+        "post_id": 360074952831,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074771991,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013526531,
+        "body": "<p>There are two main types of data storage in Minecraft, and there is no need for another form of data storage you can already do lots of things with this. There are two main forms of data storage:</p>\n<ul>\n<li>\n<strong>Scoreboard objectives:</strong> The best way for storing integers, because of the ability to do basic math such as addition (<code>+=</code>), subtraction (<code>-=</code>), muliplication (<code>*=</code>), division (<code>/=</code>) and modulus (<code>%=</code>).</li>\n<li>\n<strong>NBT data:</strong> Best way for storing almost anything else. Reading and writing is easy with the <code>/data</code> command.</li>\n</ul>\n<p>It is also possible to perform your example command using scoreboard values and armour stands. There is no need to add another form of data storage.</p>",
+        "author_id": 396590871911,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074771991-Varible-command/comments/360013526531",
+        "created_at": "2020-11-23T03:37:43Z",
+        "updated_at": "2021-01-12T03:05:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074771991/comments/360013526531.json",
+        "post_id": 360074771991,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013619752,
+        "body": "<p>That's a really cool idea.</p>",
+        "author_id": 401057827412,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074771991-Varible-command/comments/360013619752",
+        "created_at": "2020-11-24T17:56:29Z",
+        "updated_at": "2021-06-23T02:12:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074771991/comments/360013619752.json",
+        "post_id": 360074771991,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074158331,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8053148557453,
+        "body": "<p>John</p>",
+        "author_id": 8053096931981,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074158331-Allow-specifying-dimension-in-position-and-entity-parameters-in-commands/comments/8053148557453",
+        "created_at": "2022-07-30T01:22:13Z",
+        "updated_at": "2022-07-30T01:22:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074158331/comments/8053148557453.json",
+        "post_id": 360074158331,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074088271,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013738152,
+        "body": "<p>I would also like to see a ‘go to’ option with the locate command because trying to remember coordinates is often a fail&nbsp;</p>",
+        "author_id": 407173943092,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074088271-Improved-locate-command/comments/360013738152",
+        "created_at": "2020-12-04T05:17:16Z",
+        "updated_at": "2021-12-30T19:49:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074088271/comments/360013738152.json",
+        "post_id": 360074088271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074161892,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013436852,
+        "body": "<p>To a certain extent, but if every single block in your world tracks the UUID of the player who did it, I would imagine file sizes would grow quickly.</p>",
+        "author_id": 401256604931,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074161892-Add-a-blockhistory-command/comments/360013436852",
+        "created_at": "2020-11-08T19:01:57Z",
+        "updated_at": "2020-11-09T01:39:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074161892/comments/360013436852.json",
+        "post_id": 360074161892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073644291,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013184432,
+        "body": "<p>This is a bug, report bugs at <a href=\"https://bugs.mojang.com\" rel=\"nofollow noreferrer\">https://bugs.mojang.com</a><br>Make sure to search for it in case it exsists before posting!</p>",
+        "author_id": 386476504472,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073644291-Armor-Stand-Posing-Issue/comments/360013184432",
+        "created_at": "2020-10-16T05:56:34Z",
+        "updated_at": "2020-10-16T10:57:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073644291/comments/360013184432.json",
+        "post_id": 360073644291,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013296872,
+        "body": "<p>to ThatJadon, this is actually not a bug. A bug report has been posted, and this is confirmed to be intended behavior. That's why I posted this here. If they won't outright change it, at least put it as an NBT. This limitation makes it far harder to do many of the things i want to with commands.</p>",
+        "author_id": 404664214732,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073644291-Armor-Stand-Posing-Issue/comments/360013296872",
+        "created_at": "2020-10-26T19:20:43Z",
+        "updated_at": "2020-10-26T23:34:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073644291/comments/360013296872.json",
+        "post_id": 360073644291,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360072195312,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012314371,
+        "body": "<p>The only way I see this as useful is if you want to start over but keep your stuff, if you can’t then why have this.</p>",
+        "author_id": 380171877092,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072195312--restart/comments/360012314371",
+        "created_at": "2020-08-07T17:46:36Z",
+        "updated_at": "2020-08-30T00:28:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072195312/comments/360012314371.json",
+        "post_id": 360072195312,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012641852,
+        "body": "<p>mitchel3535 is right, if you want to fully restart just delete your old world and make a new one.</p>",
+        "author_id": 386395193391,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072195312--restart/comments/360012641852",
+        "created_at": "2020-08-22T15:58:37Z",
+        "updated_at": "2020-08-30T00:28:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072195312/comments/360012641852.json",
+        "post_id": 360072195312,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071447371,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 21480982772749,
+        "body": "<p>I need this so much.</p>",
+        "author_id": 10807628186765,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071447371-floats-scoreboard/comments/21480982772749",
+        "created_at": "2023-11-19T17:54:11Z",
+        "updated_at": "2023-11-19T17:54:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071447371/comments/21480982772749.json",
+        "post_id": 360071447371,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071267691,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012295811,
+        "body": "<p>Actually there is a way so the command would be /fill ~~~ ~~~ Concrete 7. You need to put the data value at the end of the command</p>",
+        "author_id": 401405599792,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071267691-Colour-specific-fill-commands/comments/360012295811",
+        "created_at": "2020-08-06T04:32:38Z",
+        "updated_at": "2020-08-06T13:25:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071267691/comments/360012295811.json",
+        "post_id": 360071267691,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012438872,
+        "body": "<p>This is already possible on Bedrock Edition.</p>",
+        "author_id": 377332775852,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071267691-Colour-specific-fill-commands/comments/360012438872",
+        "created_at": "2020-08-11T00:33:45Z",
+        "updated_at": "2020-08-11T00:33:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071267691/comments/360012438872.json",
+        "post_id": 360071267691,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071243992,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012142111,
+        "body": "<p>I think this should be in the command section but overall good idea</p>",
+        "author_id": 385744301671,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071243992-Disguise-Command-Block-Feature/comments/360012142111",
+        "created_at": "2020-07-23T22:37:20Z",
+        "updated_at": "2020-07-23T23:08:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071243992/comments/360012142111.json",
+        "post_id": 360071243992,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071186232,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012184012,
+        "body": "<pre>I will have a good time with the new 1.16 update I want Piglin Brutes to be added today</pre>",
+        "author_id": 400864690431,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071186232-1-16-3-piglin-brute-additions/comments/360012184012",
+        "created_at": "2020-07-20T02:45:58Z",
+        "updated_at": "2020-07-20T02:49:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071186232/comments/360012184012.json",
+        "post_id": 360071186232,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360069894831,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011429652,
+        "body": "<p>There is what’s called a data value, and if you do /fill ~10 ~10 ~10 ~-10 ~-10 ~-10 prismarine 2, it would be a different kind of prismarine, like dark prismarine. The data values for any specific block are on the wiki, and you can use the fill command with dark prismarine/a different color of wool/blocks with rotations.</p>",
+        "author_id": 384908348892,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360069894831-You-should-be-able-to-use-the-fill-command-with-dark-prismarine/comments/360011429652",
+        "created_at": "2020-07-18T04:20:30Z",
+        "updated_at": "2022-05-23T08:25:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360069894831/comments/360011429652.json",
+        "post_id": 360069894831,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360067860451,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011004571,
+        "body": "<p>I think it's kinda useless. You can learn to put the \"!\" after the \"=\". That's not a real problem in my opinion at least</p>",
+        "author_id": 373712550711,
+        "vote_sum": 4,
+        "vote_count": 4,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067860451-An-Operator/comments/360011004571",
+        "created_at": "2020-06-17T12:14:48Z",
+        "updated_at": "2020-08-06T04:48:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067860451/comments/360011004571.json",
+        "post_id": 360067860451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012387672,
+        "body": "<p>yeah i dont think this is a problem. The only selector that doesnt follow this =! rule would be scores={Score=1}]</p>",
+        "author_id": 401405599792,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067860451-An-Operator/comments/360012387672",
+        "created_at": "2020-08-06T04:48:31Z",
+        "updated_at": "2020-08-06T14:21:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067860451/comments/360012387672.json",
+        "post_id": 360067860451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360067143272,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010797352,
+        "body": "<p>Or just add a way to stop commandblocks without having to open to LAN.</p>\n<p>(maybe in the pause menu)</p>",
+        "author_id": 387762685231,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067143272-Easy-kill-loop-fixer/comments/360010797352",
+        "created_at": "2020-05-29T22:47:33Z",
+        "updated_at": "2020-05-29T22:55:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067143272/comments/360010797352.json",
+        "post_id": 360067143272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010808511,
+        "body": "<p>Just do /gamerule commandblockenabled true (I think)</p>",
+        "author_id": 398503167112,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067143272-Easy-kill-loop-fixer/comments/360010808511",
+        "created_at": "2020-05-31T15:41:49Z",
+        "updated_at": "2020-06-01T16:12:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067143272/comments/360010808511.json",
+        "post_id": 360067143272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010820831,
+        "body": "<p>Good idea, maybe some option on the kill screen that only appears when you have cheats on, that turns off command blocks temporarily.&nbsp;<br>It should also be in the bottom corner I think since it isn't a very important button</p>",
+        "author_id": 384565212632,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067143272-Easy-kill-loop-fixer/comments/360010820831",
+        "created_at": "2020-06-01T18:33:53Z",
+        "updated_at": "2020-06-24T20:21:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067143272/comments/360010820831.json",
+        "post_id": 360067143272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010963891,
+        "body": "<p>Also fix other commands stuck on loop that cause massive lag.</p>",
+        "author_id": 382048814612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067143272-Easy-kill-loop-fixer/comments/360010963891",
+        "created_at": "2020-06-13T04:23:43Z",
+        "updated_at": "2020-06-15T17:36:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067143272/comments/360010963891.json",
+        "post_id": 360067143272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360063776351,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010691751,
+        "body": "<p>You're talking about target selectors, which while can be used with the execute command, are very distinct from it.</p>",
+        "author_id": 384380991192,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360063776351-Allow-execute-as-to-test-for-multiple-specific-score-values/comments/360010691751",
+        "created_at": "2020-05-26T21:54:31Z",
+        "updated_at": "2020-05-29T22:58:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360063776351/comments/360010691751.json",
+        "post_id": 360063776351,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360062755691,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010498831,
+        "body": "<p>trades buy and sell</p>",
+        "author_id": 397833835151,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062755691--tradefor/comments/360010498831",
+        "created_at": "2020-05-11T16:42:44Z",
+        "updated_at": "2020-05-11T16:42:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062755691/comments/360010498831.json",
+        "post_id": 360062755691,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010545311,
+        "body": "<p>Not clear how the command would work. Add trades to a villager? Or define trades that players could use? Sorry, didn't get it</p>",
+        "author_id": 397896674792,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062755691--tradefor/comments/360010545311",
+        "created_at": "2020-05-14T15:56:46Z",
+        "updated_at": "2020-05-23T09:35:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062755691/comments/360010545311.json",
+        "post_id": 360062755691,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010665971,
+        "body": "<p>You're going to have to be a little more specific with what you want to be added into the game.</p>\n<p>Also why are there brackets? This isn't NBT or JSON.</p>",
+        "author_id": 384380991192,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062755691--tradefor/comments/360010665971",
+        "created_at": "2020-05-24T17:30:47Z",
+        "updated_at": "2020-05-26T16:20:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062755691/comments/360010665971.json",
+        "post_id": 360062755691,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010887332,
+        "body": "<p>It should probably be: /tradewith &lt;Target&gt; &lt;sell&gt; &lt;sell_count&gt; &lt;buy&gt; &lt;buy_count&gt;&nbsp;</p>\n<p>&lt;sell&gt; is what you want to sell to &lt;Target&gt;.</p>",
+        "author_id": 396996315712,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062755691--tradefor/comments/360010887332",
+        "created_at": "2020-06-06T21:31:03Z",
+        "updated_at": "2020-06-08T16:32:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062755691/comments/360010887332.json",
+        "post_id": 360062755691,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011242371,
+        "body": "<p>Unthinkable9116 i think that is a good idea.</p>\n<p>Whoever made this has a good idea and I think this should be a bit easier: /trade &lt;whotoask&gt; &lt;block or item&gt; &lt;number of it max=32&gt; &lt;for ask&gt;&nbsp;</p>\n<p>And then after that is done the receiving player does /tradegive &lt;theitemorblock&gt; &lt;amount&gt; &lt;sayresponse=trueorfalse&gt;<br><br></p>\n<p>Then the trade is done!</p>",
+        "author_id": 400106851772,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062755691--tradefor/comments/360011242371",
+        "created_at": "2020-07-04T07:58:34Z",
+        "updated_at": "2020-07-04T07:58:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062755691/comments/360011242371.json",
+        "post_id": 360062755691,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360062696451,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010666091,
+        "body": "<p>It is something that you can change with commands, but I think that spawners having their own GUI would be pretty cool as well.</p>",
+        "author_id": 384380991192,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062696451-Configurable-Mob-Spawners/comments/360010666091",
+        "created_at": "2020-05-24T17:44:38Z",
+        "updated_at": "2020-05-26T18:22:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062696451/comments/360010666091.json",
+        "post_id": 360062696451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 8101987270797,
+        "body": "<p>Would also be nice if they could be enabled/disabled by redstone</p>",
+        "author_id": 7103544507533,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062696451-Configurable-Mob-Spawners/comments/8101987270797",
+        "created_at": "2022-08-01T20:42:21Z",
+        "updated_at": "2022-08-01T23:25:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062696451/comments/8101987270797.json",
+        "post_id": 360062696451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360061191292,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010470191,
+        "body": "<p>Maybe add the option of changeing the fov of the player as well!</p>",
+        "author_id": 387762685231,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360061191292--camera/comments/360010470191",
+        "created_at": "2020-05-09T01:22:26Z",
+        "updated_at": "2020-09-11T01:46:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360061191292/comments/360010470191.json",
+        "post_id": 360061191292,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 34302462129933,
+        "body": "<p>This might now be in BE.</p>",
+        "author_id": 32772015081485,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360061191292--camera/comments/34302462129933",
+        "created_at": "2025-02-15T01:11:02Z",
+        "updated_at": "2025-02-15T01:11:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360061191292/comments/34302462129933.json",
+        "post_id": 360061191292,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360057750451,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011154931,
+        "body": "<p>why</p>",
+        "author_id": 379184034491,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360057750451-3D-Shareware-Gamerule/comments/360011154931",
+        "created_at": "2020-06-27T18:48:05Z",
+        "updated_at": "2020-06-27T18:48:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360057750451/comments/360011154931.json",
+        "post_id": 360057750451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360056380572,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009091252,
+        "body": "<p>Ahmedgamersxmax</p>",
+        "author_id": 392807741311,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360056380572-Riding-Tag/comments/360009091252",
+        "created_at": "2020-01-27T18:28:47Z",
+        "updated_at": "2020-01-27T18:28:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360056380572/comments/360009091252.json",
+        "post_id": 360056380572,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360054289451,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008090192,
+        "body": "<p>How would the game know what triggered it? All it knows is if it is powered or not</p>",
+        "author_id": 385093073832,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054289451--se-the-entity-that-activated-the-command-block/comments/360008090192",
+        "created_at": "2019-10-16T06:23:45Z",
+        "updated_at": "2019-11-29T22:53:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054289451/comments/360008090192.json",
+        "post_id": 360054289451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008131552,
+        "body": "<p>Redstone signals don't store the kind of information that would make this possible.</p>",
+        "author_id": 387062730852,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054289451--se-the-entity-that-activated-the-command-block/comments/360008131552",
+        "created_at": "2019-10-20T01:22:35Z",
+        "updated_at": "2019-11-29T22:53:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054289451/comments/360008131552.json",
+        "post_id": 360054289451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360050734192,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007694891,
+        "body": "<p>Good idea!</p>",
+        "author_id": 375600302911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050734192--DisabledConvert-A-new-NBT-tag-of-some-mobs/comments/360007694891",
+        "created_at": "2019-09-18T21:42:08Z",
+        "updated_at": "2019-09-18T21:42:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050734192/comments/360007694891.json",
+        "post_id": 360050734192,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009632391,
+        "body": "<p>This is a great idea, but data tags are usually with a purpose in-game. There are very few data tags that are not used by game mechanics (like NoAI), and unless there was a natural (without commands) way that these mobs would not convert to drowned, this will likely not be added. I can think of some nice uses, though!</p>",
+        "author_id": 394143378471,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050734192--DisabledConvert-A-new-NBT-tag-of-some-mobs/comments/360009632391",
+        "created_at": "2020-03-10T16:52:43Z",
+        "updated_at": "2020-03-10T16:57:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050734192/comments/360009632391.json",
+        "post_id": 360050734192,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

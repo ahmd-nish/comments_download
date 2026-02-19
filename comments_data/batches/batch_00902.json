@@ -1,0 +1,742 @@
+[
+  {
+    "post_id": 360050204851,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007285452,
+        "body": "<p>Yes, having to fill is so annoying.</p>",
+        "author_id": 386010345111,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050204851--give-portal-blocks/comments/360007285452",
+        "created_at": "2019-08-26T22:57:25Z",
+        "updated_at": "2019-08-26T22:57:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050204851/comments/360007285452.json",
+        "post_id": 360050204851,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360046151191,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012276271,
+        "body": "<p>What about @e[type=!@s]&nbsp;</p>",
+        "author_id": 393778693392,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360046151191-Entity-selector-option-to-exclude-self/comments/360012276271",
+        "created_at": "2020-08-04T17:53:54Z",
+        "updated_at": "2020-08-04T17:53:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360046151191/comments/360012276271.json",
+        "post_id": 360046151191,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013366691,
+        "body": "<p><x-zendesk-user data-user-name=\"Conbonji\">393778693392</x-zendesk-user>&nbsp;That is not correct, the correct way is to use the <code>name</code> argument:</p>\n<pre>@a[name=!YOUR_NAME]</pre>",
+        "author_id": 396590871911,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360046151191-Entity-selector-option-to-exclude-self/comments/360013366691",
+        "created_at": "2020-11-09T03:52:30Z",
+        "updated_at": "2023-09-01T00:42:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360046151191/comments/360013366691.json",
+        "post_id": 360046151191,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 39130695095693,
+        "body": "<p>That would be a really nice addition. For example, if you want to retrieve the closest entity with the same tag, you can simply use @n[tag=xy, exclude=self] and there you have it. I could also imagine something like @o (o for others).</p>\n<p>But why not use @n[tag=!my_tag]?<br>Sometimes you have two or more entities with the same tags and you want to retrieve the closest entity with the same tags. In that case, you currently have to assign a new temporary tag to the executing entity (@s), search for the closest entity with those tags, and then remove the tag. Here, it would be great to have something like @o or @n[exclude=self].</p>",
+        "author_id": 21854773130381,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360046151191-Entity-selector-option-to-exclude-self/comments/39130695095693",
+        "created_at": "2025-08-27T15:33:50Z",
+        "updated_at": "2025-08-27T16:02:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360046151191/comments/39130695095693.json",
+        "post_id": 360046151191,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043236771,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4409743803533,
+        "body": "<p>This would make some things alot more efficient</p>",
+        "author_id": 420403297151,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043236771--return-command/comments/4409743803533",
+        "created_at": "2021-09-21T20:39:44Z",
+        "updated_at": "2021-09-21T23:11:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043236771/comments/4409743803533.json",
+        "post_id": 360043236771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 8077591317389,
+        "body": "<p>There could also be an option not to stop the function, to make it easier than most languages.</p>",
+        "author_id": 407729820671,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043236771--return-command/comments/8077591317389",
+        "created_at": "2022-07-31T22:33:50Z",
+        "updated_at": "2022-07-31T22:33:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043236771/comments/8077591317389.json",
+        "post_id": 360043236771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 15061447510413,
+        "body": "<p>They added it but it's missing what you said</p>",
+        "author_id": 6686756045453,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043236771--return-command/comments/15061447510413",
+        "created_at": "2023-04-20T22:24:57Z",
+        "updated_at": "2023-05-23T15:04:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043236771/comments/15061447510413.json",
+        "post_id": 360043236771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043121851,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005290711,
+        "body": "<p>You could always use an ! to signify that you don't want those conditions(in a separate command block),</p>\n<p>for example: tag=!player1 .&nbsp;</p>",
+        "author_id": 380147910592,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043121851-Condition-for-execute-command/comments/360005290711",
+        "created_at": "2019-04-17T15:58:53Z",
+        "updated_at": "2019-04-17T15:58:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043121851/comments/360005290711.json",
+        "post_id": 360043121851,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006001172,
+        "body": "<p>Although I agree with the previous comments that the ELSE-Subcommand often can be substituted by just another command, I think it would enhance readability and make scripts in mcfunction files easier to understand, and also would reduce the need of an additional command block in situations where space is very limited and command blocks can't be chained by placing them next to each other. Also every command block saved is a plus, in my opinion, since complicated mechanisms with a lot of command blocks are hard to maintain or change, especially since you can't overlook the whole \"script\" at once like you could in a mcfunction file.</p>",
+        "author_id": 382991093452,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043121851-Condition-for-execute-command/comments/360006001172",
+        "created_at": "2019-06-10T09:18:14Z",
+        "updated_at": "2019-06-10T17:26:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043121851/comments/360006001172.json",
+        "post_id": 360043121851,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042980771,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005091511,
+        "body": "<p>I agree, but some details would be good.</p>",
+        "author_id": 377613769052,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042980771-More-mob-commands/comments/360005091511",
+        "created_at": "2019-04-01T16:22:04Z",
+        "updated_at": "2019-04-01T16:22:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042980771/comments/360005091511.json",
+        "post_id": 360042980771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006386211,
+        "body": "<p>This command</p>\n<p>data get entity @e[type=zombie,limit=1,sort=nearest] Health</p>\n<p>shows the health of the nearest zombie.</p>\n<p>f3 + B shows the hitboxes of all entities.</p>",
+        "author_id": 384380991192,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042980771-More-mob-commands/comments/360006386211",
+        "created_at": "2019-07-08T22:47:12Z",
+        "updated_at": "2019-07-08T22:47:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042980771/comments/360006386211.json",
+        "post_id": 360042980771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360040428192,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004286952,
+        "body": "<p>\"By default, I think it should message your current team\" /teammsg has no option to wisper to other teams<br><br>Additionally, /tm is already a shortcut.</p>",
+        "author_id": 365162152092,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040428192-Special-Messaging-Commands-t-w-etc/comments/360004286952",
+        "created_at": "2019-02-01T14:26:17Z",
+        "updated_at": "2019-02-01T14:26:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040428192/comments/360004286952.json",
+        "post_id": 360040428192,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360040129492,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004084852,
+        "body": "<p>/locate already prints out a message you can click to teleport there</p>\n<p><img src=\"https://feedback.minecraft.net/hc/user_images/ohYYSvkwrlxMZAc92doWOQ.png\"></p>",
+        "author_id": 364935466911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040129492-Tp-locate/comments/360004084852",
+        "created_at": "2019-01-26T01:16:42Z",
+        "updated_at": "2019-01-29T00:11:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040129492/comments/360004084852.json",
+        "post_id": 360040129492,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360040118472,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004059052,
+        "body": "<p>/kill @e[type=player]</p>\n<p>/kill @e[type=pig]</p>\n<p>To make it select entities of a certain type (like \"animals\"), use entity type tags</p>\n<p><a href=\"https://minecraft.gamepedia.com/Tag\" rel=\"nofollow noreferrer\">https://minecraft.gamepedia.com/Tag</a></p>",
+        "author_id": 364935466911,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040118472-Killall/comments/360004059052",
+        "created_at": "2019-01-24T22:28:07Z",
+        "updated_at": "2019-11-30T21:37:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040118472/comments/360004059052.json",
+        "post_id": 360040118472,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360004049131,
+        "body": "<p>You can alredy do this</p>\n<p>Example&nbsp;</p>\n<p>/kill @e[type= minecraft:sheep ]</p>\n<p>Output killed 55 sheep</p>",
+        "author_id": 365861624971,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040118472-Killall/comments/360004049131",
+        "created_at": "2019-01-25T01:58:58Z",
+        "updated_at": "2019-01-25T01:58:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040118472/comments/360004049131.json",
+        "post_id": 360040118472,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360004641751,
+        "body": "<p>/kill @e[type=pig, r=100]</p>",
+        "author_id": 374659168312,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040118472-Killall/comments/360004641751",
+        "created_at": "2019-02-27T03:16:58Z",
+        "updated_at": "2019-02-27T03:16:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040118472/comments/360004641751.json",
+        "post_id": 360040118472,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360039407731,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360003941551,
+        "body": "<p>Try options/Chat settings/Command suggestions</p>",
+        "author_id": 375783175412,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360039407731--gamerule-autofillcommands/comments/360003941551",
+        "created_at": "2019-01-21T07:19:12Z",
+        "updated_at": "2020-01-21T16:40:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360039407731/comments/360003941551.json",
+        "post_id": 360039407731,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360037199551,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360003707612,
+        "body": "<p>/replaceitem already exists</p>",
+        "author_id": 364935466911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360037199551--equip-For-Armor-Stand-Equip/comments/360003707612",
+        "created_at": "2019-01-08T22:00:43Z",
+        "updated_at": "2019-01-08T22:00:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360037199551/comments/360003707612.json",
+        "post_id": 360037199551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360033361012,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360003392252,
+        "body": "<p><strong>/title @a actionbar {\"score\":{\"name\":\"@p\",\"objective\":\"points\"}}</strong></p>\n<p>Already exists</p>",
+        "author_id": 364935466911,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360033361012-Scoreboard-Features/comments/360003392252",
+        "created_at": "2018-12-15T21:38:09Z",
+        "updated_at": "2020-12-02T04:18:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360033361012/comments/360003392252.json",
+        "post_id": 360033361012,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360032147792,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360003130131,
+        "body": "<p>F3 + H</p>",
+        "author_id": 364935466911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360032147792--idname-true-or-false/comments/360003130131",
+        "created_at": "2018-11-24T23:29:29Z",
+        "updated_at": "2018-11-24T23:29:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360032147792/comments/360003130131.json",
+        "post_id": 360032147792,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360003124512,
+        "body": "<p>Um.. for Mobile Users</p>",
+        "author_id": 373023260091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360032147792--idname-true-or-false/comments/360003124512",
+        "created_at": "2018-11-25T02:49:59Z",
+        "updated_at": "2018-11-25T02:49:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360032147792/comments/360003124512.json",
+        "post_id": 360032147792,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360003130412,
+        "body": "<p>Why would they add a command \"for mobile users\" when it's already implemented? That's like adding a command to toggle perspective</p>",
+        "author_id": 364935466911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360032147792--idname-true-or-false/comments/360003130412",
+        "created_at": "2018-11-25T19:58:26Z",
+        "updated_at": "2018-11-25T19:58:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360032147792/comments/360003130412.json",
+        "post_id": 360032147792,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360024053132,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360003498272,
+        "body": "<p>Add admin command\n</p>",
+        "author_id": 374391116632,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360024053132-Disable-Fire/comments/360003498272",
+        "created_at": "2018-12-22T16:49:10Z",
+        "updated_at": "2018-12-22T16:49:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360024053132/comments/360003498272.json",
+        "post_id": 360024053132,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005345272,
+        "body": "<p>/gamerule doFireTick already exists</p>",
+        "author_id": 380447682052,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360024053132-Disable-Fire/comments/360005345272",
+        "created_at": "2019-04-23T06:57:18Z",
+        "updated_at": "2020-04-10T04:11:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360024053132/comments/360005345272.json",
+        "post_id": 360024053132,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 41364361135885,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41932084307341,
+        "body": "<p>/forceload exists to force-load the chunk</p>",
+        "author_id": 41925390828301,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41364361135885-Gamerule-for-commands-to-enable-remote-commands-without-a-player/comments/41932084307341",
+        "created_at": "2025-12-15T05:55:45Z",
+        "updated_at": "2025-12-15T05:55:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41364361135885/comments/41932084307341.json",
+        "post_id": 41364361135885,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 41149386465805,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41149359336589,
+        "body": "<p>I love bots</p>",
+        "author_id": 41149307112077,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41149386465805-A-companion-AI-for-minecraft/comments/41149359336589",
+        "created_at": "2025-11-14T18:21:55Z",
+        "updated_at": "2025-11-14T18:27:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41149386465805/comments/41149359336589.json",
+        "post_id": 41149386465805,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 39213987122829,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 39725711986189,
+        "body": "<p>This can be done with a loot table:</p>\n<pre>{<br>&nbsp; \"pools\": [<br>&nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; \"rolls\": 1,<br>&nbsp; &nbsp; &nbsp; \"entries\": [<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"type\": \"minecraft:item\",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"name\": \"minecraft:diamond\",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"functions\": [<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"function\": \"minecraft:set_count\",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"count\": {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"type\": \"minecraft:score\",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"target\": \"this\",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"score\": \"OBJECTIVE_NAME\"<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; }<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; }<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ]<br>&nbsp; &nbsp; &nbsp; &nbsp; }<br>&nbsp; &nbsp; &nbsp; ]<br>&nbsp; &nbsp; }<br>&nbsp; ]<br>}</pre>\n<p>or a macro function</p>\n<pre># example/function/give<br>execute store result storage example:tmp score int 1 run scoreboard players get @s OBJECTIVE_NAME<br>function example:_give with storage example:tmp</pre>\n<pre># example/function/_give<br>$give @s diamond $(score)</pre>",
+        "author_id": 405322298991,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39213987122829-New-command-command-or-change/comments/39725711986189",
+        "created_at": "2025-09-20T12:49:01Z",
+        "updated_at": "2025-09-20T12:49:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39213987122829/comments/39725711986189.json",
+        "post_id": 39213987122829,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38903067722381,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 39013202564365,
+        "body": "<p>Mabey you should put this under the bugtracker.</p>",
+        "author_id": 39012950708109,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38903067722381-Bugs/comments/39013202564365",
+        "created_at": "2025-08-22T13:29:10Z",
+        "updated_at": "2025-08-22T13:29:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38903067722381/comments/39013202564365.json",
+        "post_id": 38903067722381,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35432003061005,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35523818905869,
+        "body": "<p>？<br>well you could... just type in<br>你就直接... 打进去<br><br>I guess Chinese and Japanese are same to the computer<br>中文和日语对电脑来说基本上差不多<br>I guess any language is same to the computer<br>任何语言对电脑来说基本上差不多</p>",
+        "author_id": 34663253262477,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35432003061005-java%E7%89%88%E3%81%AE%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%85%A5%E5%8A%9B%E5%AF%BE%E5%BF%9C-java-editions-supports-japanese-input/comments/35523818905869",
+        "created_at": "2025-04-02T16:10:46Z",
+        "updated_at": "2025-04-02T20:58:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35432003061005/comments/35523818905869.json",
+        "post_id": 35432003061005,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35240687117965,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35442965950221,
+        "body": "<p>added!!!<br>@n</p>",
+        "author_id": 34663253262477,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35240687117965-Add-a-new-target-selection-option/comments/35442965950221",
+        "created_at": "2025-03-31T07:29:39Z",
+        "updated_at": "2025-03-31T07:29:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35240687117965/comments/35442965950221.json",
+        "post_id": 35240687117965,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 32820580108941,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 33588212317197,
+        "body": "<p>never mind! using /summon axolotl ~~~ facing @p minecraft:entity_born you can summon a blue axolotl.</p>",
+        "author_id": 31476998050701,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/32820580108941-blue-axolotl-event/comments/33588212317197",
+        "created_at": "2025-01-18T12:27:02Z",
+        "updated_at": "2025-01-18T12:27:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/32820580108941/comments/33588212317197.json",
+        "post_id": 32820580108941,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 28045340544269,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 29342770100109,
+        "body": "<p>You can do /time add -24000 to set your day count back a day, keep repeating this and you can get it to zero (if you get it in negatives it displays \"Too many to count!\") or do /time add 24000 to set the day count forward a day, again repeating it for multiple days to be set forward.</p>",
+        "author_id": 29173256050829,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/28045340544269-Let-us-change-the-day-count-in-bedrock/comments/29342770100109",
+        "created_at": "2024-08-16T22:38:34Z",
+        "updated_at": "2024-08-16T22:38:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/28045340544269/comments/29342770100109.json",
+        "post_id": 28045340544269,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 28026946329997,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 28171089354765,
+        "body": "<p>This is possible in devices such as computers and gaming consoles. I think the only device that it isn't possible on is a mobile device (a phone or tablet). I agree that they should add a button to Minecraft: Pocket Edition to switch the camera more easily.</p>",
+        "author_id": 28128116745869,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/28026946329997-%E6%B8%B8%E6%88%8F%E5%86%85%E5%BF%AB%E9%80%9F%E5%88%87%E6%8D%A2%E8%A7%86%E8%A7%92/comments/28171089354765",
+        "created_at": "2024-07-05T15:56:18Z",
+        "updated_at": "2024-07-05T15:58:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/28026946329997/comments/28171089354765.json",
+        "post_id": 28026946329997,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 27970535550861,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 27976797914509,
+        "body": "<p>This is possible with the /kill command. Examples:</p>\n<pre>/kill @a</pre>\n<pre>/kill @p</pre>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/27970535550861-Martim-sugg/comments/27976797914509",
+        "created_at": "2024-06-28T16:27:06Z",
+        "updated_at": "2024-06-28T17:05:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/27970535550861/comments/27976797914509.json",
+        "post_id": 27970535550861,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 27928647565837,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36248209053325,
+        "body": "<p>there is already</p>\n<pre>execute if (...)</pre>",
+        "author_id": 1905446675847,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/27928647565837-Conditional-Commands-in-Datapacks/comments/36248209053325",
+        "created_at": "2025-04-30T16:50:08Z",
+        "updated_at": "2025-04-30T16:50:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/27928647565837/comments/36248209053325.json",
+        "post_id": 27928647565837,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 27124335502605,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 27124335942541,
+        "body": "<p>attributeコマンドを統合版でも使えるほうがいいと思います</p>",
+        "author_id": 27124258349837,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/27124335502605-attribute%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%8C%E4%BD%BF%E3%81%88%E3%82%8B/comments/27124335942541",
+        "created_at": "2024-05-29T08:37:51Z",
+        "updated_at": "2024-05-29T08:37:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/27124335502605/comments/27124335942541.json",
+        "post_id": 27124335502605,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

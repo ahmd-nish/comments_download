@@ -1,0 +1,1162 @@
+[
+  {
+    "post_id": 360043426032,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005424692,
+        "body": "<p>On PC java edition it is totally possible to chance the rythm for day/night cycle using cheats. To achieve such a thing these are the followings commands needed.</p>\n<p>Step 1: /gamerule dodaylightcycle</p>\n<p>Step 2: Set up a commandblock with &lt;/time add [gameticks]t&gt;</p>\n<p>Step 3: Set up a clock that regularly activates the commandblock.</p>\n<p>Info: For each time the commandblock activates it moves [gameticks]/24000 of the day.</p>\n<p>&nbsp;</p>",
+        "author_id": 374729897312,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043426032-Choosing-to-change-day-and-night-cycle/comments/360005424692",
+        "created_at": "2019-04-28T18:38:14Z",
+        "updated_at": "2019-04-28T18:38:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043426032/comments/360005424692.json",
+        "post_id": 360043426032,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042976851,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7750861179533,
+        "body": "<p>No sale el botón\n</p>",
+        "author_id": 7750887828621,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042976851-Invites/comments/7750861179533",
+        "created_at": "2022-07-18T08:44:06Z",
+        "updated_at": "2022-07-18T08:44:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042976851/comments/7750861179533.json",
+        "post_id": 360042976851,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043036392,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005040811,
+        "body": "<p>Yes Yes Yes Yes Yes, Please.</p>\n<p>I think most players in the game end up having to craft stacks upon stacks of slabs (any kind - wood, stone, cobblestone, stone brick, etc) at some point. This saves having to search through the recipe book when you could just Shift+(click,click,click) three stacks of the material into the first three slots.</p>\n<p>Also, there are a lot of recipes that only have <strong>one</strong> ingredient - uncrafting any of the storage block types (iron, redstone, coal, bone, etc), crafting flowers into dye, bones into bonemeal - that would benefit from this.</p>\n<p>There are also many other recipes you can make or get close approximations of by shift-clicking each ingredient in turn, and then doing a quick stack-split or click-move-click maneuver to get the actual recipe.</p>\n<p>Even when making something like a single piston, you could get a benefit by shift-clicking &gt;=1 iron, &gt;=4 cobblestone, &gt;=3 planks, and &gt;=1 redstone into the grid, and then appropriately rearranging them and click-dragging all within the 3x3 grid, so you don't have to keep going back and forth between searching through your inventory for the next item and placing the ingredients in the crafting grid (e.g. oh wait, which slot is the iron in?, etc). In a sense, the player would be able to use a more efficient algorithm:</p>\n<ol>\n<li>Move all materials required for recipe into the grid by shift-clicking.</li>\n<li>Move mouse to the crafting grid.</li>\n<li>Rearrange all the items into the desired shape.</li>\n</ol>\n<p>instead of:</p>\n<ol>\n<li>Find next item needed for the recipe.</li>\n<li>Move item into correct slot(s) of the 3x3 crafting grid.</li>\n<li>If the recipe is finished, quit here.</li>\n<li>Move the mouse back to the player's inventory.</li>\n<li>Go to step 1.</li>\n</ol>\n<p>&nbsp;</p>\n<p>Also, for me this is mainly for the 3x3 crafting grid. For the 2x2 crafting grid in the player's inventory, I don't mind if that remains inconvenient, since making that shift-clickable that would override the ability to shift-click to and from the hotbar.</p>",
+        "author_id": 379158151251,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043036392-Allow-shift-clicking-items-into-crafting-table/comments/360005040811",
+        "created_at": "2019-03-29T02:27:29Z",
+        "updated_at": "2022-10-07T19:12:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043036392/comments/360005040811.json",
+        "post_id": 360043036392,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360007687612,
+        "body": "<p>I'm assuming the mechanics would behave the same as a chest? (without the storage aspect of course). You have my vote.</p>",
+        "author_id": 379565354771,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043036392-Allow-shift-clicking-items-into-crafting-table/comments/360007687612",
+        "created_at": "2019-09-18T08:46:35Z",
+        "updated_at": "2019-09-18T08:46:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043036392/comments/360007687612.json",
+        "post_id": 360043036392,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008757812,
+        "body": "<p>This has been added in 1.15! Woohooo!</p>",
+        "author_id": 379158151251,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043036392-Allow-shift-clicking-items-into-crafting-table/comments/360008757812",
+        "created_at": "2019-12-20T22:34:41Z",
+        "updated_at": "2022-10-07T19:12:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043036392/comments/360008757812.json",
+        "post_id": 360043036392,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043033152,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008276132,
+        "body": "<p>Yes, please!  Or, at the very least, add a toggle that allows you to turn hunger on or off in peaceful mode.</p>",
+        "author_id": 389414424471,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043033152-Separate-monster-and-hunger-difficulty-levels/comments/360008276132",
+        "created_at": "2019-11-03T01:36:30Z",
+        "updated_at": "2021-02-15T16:40:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043033152/comments/360008276132.json",
+        "post_id": 360043033152,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010579532,
+        "body": "<p>I was about to make a suggestion exactly like this. I think it would be much better to make peaceful a mode where hunger still matters, or at least have the option to make hunger matter, so that peaceful is still a survival mode without having to worry about combat if that's not how you play.</p>",
+        "author_id": 398102275671,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043033152-Separate-monster-and-hunger-difficulty-levels/comments/360010579532",
+        "created_at": "2020-05-18T01:20:51Z",
+        "updated_at": "2021-02-15T16:40:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043033152/comments/360010579532.json",
+        "post_id": 360043033152,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014319371,
+        "body": "<p>I have always thought this and only just started looking into how to suggest changes, and im very happy to see that im, not the only one. I don't mind the mobs on the surface, but it can get overwhelming in cave systems. So if anything having a way to toggle on and off the mobs but with still having the hunger bar would be amazing. I have a feeling the new update will make it harder to light a cave completely, being that there will be larger cave systems. Although if the new light source blocks are used we'll in a national cave it might help elevate the problem.</p>",
+        "author_id": 411273212651,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043033152-Separate-monster-and-hunger-difficulty-levels/comments/360014319371",
+        "created_at": "2021-02-15T16:40:13Z",
+        "updated_at": "2021-02-15T21:08:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043033152/comments/360014319371.json",
+        "post_id": 360043033152,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4407474550541,
+        "body": "<p>Every part of the game should have customized difficulty levels.</p>",
+        "author_id": 389261478431,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043033152-Separate-monster-and-hunger-difficulty-levels/comments/4407474550541",
+        "created_at": "2021-08-20T05:22:12Z",
+        "updated_at": "2021-08-20T05:22:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043033152/comments/4407474550541.json",
+        "post_id": 360043033152,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 6079927349389,
+        "body": "<p>Yesss! As a person with ptsd I find the monsters really triggering but I still love the challenge of having hunger. I really wish Mojang would look into doing this</p>",
+        "author_id": 6079886904077,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043033152-Separate-monster-and-hunger-difficulty-levels/comments/6079927349389",
+        "created_at": "2022-05-08T01:21:26Z",
+        "updated_at": "2022-05-08T10:31:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043033152/comments/6079927349389.json",
+        "post_id": 360043033152,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360040194371,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012997251,
+        "body": "<p>I had the same idea and maybe they could add vr controller compatibility or joycins and Wii motes</p>",
+        "author_id": 404375805711,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040194371--VR-Android-Toggle/comments/360012997251",
+        "created_at": "2020-10-06T00:48:03Z",
+        "updated_at": "2020-10-06T01:06:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040194371/comments/360012997251.json",
+        "post_id": 360040194371,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4406450044429,
+        "body": "<p>This only makes sense.</p>",
+        "author_id": 1900537623867,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040194371--VR-Android-Toggle/comments/4406450044429",
+        "created_at": "2021-08-04T16:29:48Z",
+        "updated_at": "2021-08-04T16:29:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040194371/comments/4406450044429.json",
+        "post_id": 360040194371,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360026372531,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014550771,
+        "body": "<p>I completely agree it's such a useful feature for pvp and single player</p>",
+        "author_id": 412494716151,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360026372531-More-mouse-button-support-bedrock/comments/360014550771",
+        "created_at": "2021-03-08T14:16:36Z",
+        "updated_at": "2022-02-11T03:19:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360026372531/comments/360014550771.json",
+        "post_id": 360026372531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4409085970445,
+        "body": "<p>Mine worked for like a year but now its buggy and only works on java</p>",
+        "author_id": 405514962472,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360026372531-More-mouse-button-support-bedrock/comments/4409085970445",
+        "created_at": "2021-09-12T21:34:22Z",
+        "updated_at": "2021-09-12T21:34:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360026372531/comments/4409085970445.json",
+        "post_id": 360026372531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360019766891,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010319232,
+        "body": "<p>I would like a higher render distance I can't see my whole base within 14 chunks. 22/24 chunk render distance would be nice</p>",
+        "author_id": 396165353551,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360019766891-Nintendo-Switch-Bedrock-Edition-Separate-options-for-render-distance-in-Docked-and-Handheld/comments/360010319232",
+        "created_at": "2020-04-27T22:13:39Z",
+        "updated_at": "2020-04-27T22:55:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360019766891/comments/360010319232.json",
+        "post_id": 360019766891,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360018897771,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010178471,
+        "body": "<p>Or better yet, make it so you could move around ALL of the buttons on the screen.</p>",
+        "author_id": 366371872871,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360018897771-Interactive-button-PE/comments/360010178471",
+        "created_at": "2020-04-17T23:44:41Z",
+        "updated_at": "2023-08-21T12:28:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360018897771/comments/360010178471.json",
+        "post_id": 360018897771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010249631,
+        "body": "<p>Love this idea, I always punch my animals when trying to bread, shear, and lead them. this would prevent me from killing all my animals </p>",
+        "author_id": 397068481911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360018897771-Interactive-button-PE/comments/360010249631",
+        "created_at": "2020-04-23T02:09:03Z",
+        "updated_at": "2020-04-23T02:09:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360018897771/comments/360010249631.json",
+        "post_id": 360018897771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360018870872,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360001860931,
+        "body": "<p>I think this is a terrible idea. considering the fact that you have armor on in the desert, why should you have to take it off because you're burning to death? the last thing this game needs is a more complicated survival system.</p>\n<p>&nbsp;</p>",
+        "author_id": 367837863231,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360018870872-Frostburn-and-Warm-bars/comments/360001860931",
+        "created_at": "2018-08-03T00:39:41Z",
+        "updated_at": "2018-08-03T00:39:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360018870872/comments/360001860931.json",
+        "post_id": 360018870872,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360001983072,
+        "body": "<p>Y'know, it's not bad, but it is at the same time. I like it, but make it an OPTION, along with thirst as well, it's a nice feature, along with yours. I really like it, but there just HAS to be an option.</p>",
+        "author_id": 368259106831,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360018870872-Frostburn-and-Warm-bars/comments/360001983072",
+        "created_at": "2018-08-11T17:20:14Z",
+        "updated_at": "2018-08-11T17:20:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360018870872/comments/360001983072.json",
+        "post_id": 360018870872,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002638271,
+        "body": "<p>I think this would be a good idea IF done correctly put it in would options then I think this could be good</p>",
+        "author_id": 367376762072,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360018870872-Frostburn-and-Warm-bars/comments/360002638271",
+        "created_at": "2018-10-12T17:25:08Z",
+        "updated_at": "2018-10-12T17:25:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360018870872/comments/360002638271.json",
+        "post_id": 360018870872,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010565891,
+        "body": "<p>Leather armor would keep you warm</p>",
+        "author_id": 397429437212,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360018870872-Frostburn-and-Warm-bars/comments/360010565891",
+        "created_at": "2020-05-16T04:29:18Z",
+        "updated_at": "2020-05-22T02:03:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360018870872/comments/360010565891.json",
+        "post_id": 360018870872,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360015915251,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360001631951,
+        "body": "<p>Something I've discovered you can do is touch and hold.&nbsp; You will feed the animal.&nbsp; I agree that trying to tap the \"feed\" button is very difficult and can result in you hitting the animal with the food.</p>\n<p>I would not agree with simply tapping the animal with the food.&nbsp; My favorite way of killing rabbits is to club them to death with carrots since they are a royal pain to chase down otherwise.</p>",
+        "author_id": 365008403592,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360015915251-Breeding-on-mobile/comments/360001631951",
+        "created_at": "2018-07-13T01:22:14Z",
+        "updated_at": "2020-12-04T01:31:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360015915251/comments/360001631951.json",
+        "post_id": 360015915251,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 6224975836429,
+        "body": "<p>I can't breed my bees without killing them because i end up hitting them. I hope they fix this. </p>",
+        "author_id": 6224974545421,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360015915251-Breeding-on-mobile/comments/6224975836429",
+        "created_at": "2022-05-14T02:58:33Z",
+        "updated_at": "2022-05-14T02:58:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360015915251/comments/6224975836429.json",
+        "post_id": 360015915251,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360012162012,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014156391,
+        "body": "<p>The cauldron could store potion types inside\n<br />For example right click with fire resistance potion on cauldron and it goes in the cauldron</p>\n\n<p>Currently the cauldron is useless except for decorations. :(</p>",
+        "author_id": 410349004191,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360012162012-Cauldron-GUI-was-Use-for-cauldrons/comments/360014156391",
+        "created_at": "2021-01-29T18:19:13Z",
+        "updated_at": "2021-01-29T18:19:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360012162012/comments/360014156391.json",
+        "post_id": 360012162012,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 34055435415821,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 34142178556685,
+        "body": "<p>These features are so great. but I think what old permission levels icon look like is better than this.</p>",
+        "author_id": 391583178671,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/34055435415821-Improvements-to-the-Player-Permissions-screen-in-Bedrock/comments/34142178556685",
+        "created_at": "2025-02-08T16:09:37Z",
+        "updated_at": "2025-02-08T16:37:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/34055435415821/comments/34142178556685.json",
+        "post_id": 34055435415821,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 34152559421837,
+        "body": "<p>It would be nice if we could ban or kick players within the interface</p>",
+        "author_id": 383826506971,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/34055435415821-Improvements-to-the-Player-Permissions-screen-in-Bedrock/comments/34152559421837",
+        "created_at": "2025-02-09T14:11:35Z",
+        "updated_at": "2025-02-11T16:12:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/34055435415821/comments/34152559421837.json",
+        "post_id": 34055435415821,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 34466942073741,
+        "body": "<p>eh, not a huge fan of ore ui ngl. feels clunky and too pixalated for minecraft.</p>\n<p>also implimantation times make it feel like the game is being ripped apart and put back together.</p>\n<p>&nbsp;</p>",
+        "author_id": 30738692558093,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/34055435415821-Improvements-to-the-Player-Permissions-screen-in-Bedrock/comments/34466942073741",
+        "created_at": "2025-02-21T18:33:09Z",
+        "updated_at": "2025-02-21T18:33:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/34055435415821/comments/34466942073741.json",
+        "post_id": 34055435415821,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 36656517012365,
+        "body": "<p>please add export and import button in ui, especially for mobile devices</p>",
+        "author_id": 16608492520205,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/34055435415821-Improvements-to-the-Player-Permissions-screen-in-Bedrock/comments/36656517012365",
+        "created_at": "2025-05-16T04:44:45Z",
+        "updated_at": "2025-05-16T17:17:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/34055435415821/comments/36656517012365.json",
+        "post_id": 34055435415821,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 13787114023693,
+    "expected_comment_count": 9,
+    "actual_comment_count": 9,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 13799097871885,
+        "body": "<p>I think accessibility comes as well from common shortcuts like Ctrl+A that work, unfortunately it don't with other keyboard layout like the French's one AZERTY. This bug is reported since 2017 (MC-121278). I think accessibility can be greatly improve for others layout users with the fix of this.</p>",
+        "author_id": 383431178351,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13787114023693-Minecraft-Java-Edition-New-Accessibility-Features/comments/13799097871885",
+        "created_at": "2023-03-07T20:38:10Z",
+        "updated_at": "2023-03-08T09:12:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13787114023693/comments/13799097871885.json",
+        "post_id": 13787114023693,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 13802419448205,
+        "body": "<p>I think there needs to be more accessibility! <a href=\"/hc/en-us/community/posts/9900693750669--Accessibility-More-Subtitle-Descriptions%20\" target=\"_blank\" rel=\"nofollow noreferrer\">More subtitles</a>, <a href=\"/hc/en-us/community/posts/360050276431-Accessibility-Narrator-Improvements\" target=\"_blank\" rel=\"nofollow noreferrer\">more narration</a>, and more visual differences like <a href=\"/hc/en-us/community/posts/9542003556621-Potion-Liquid-Variants\" target=\"_blank\" rel=\"nofollow noreferrer\">potion liquid variants</a>, <a href=\"/hc/en-us/community/posts/360048219331-Enchanted-Books-and-Item-Textures\" target=\"_blank\" rel=\"nofollow noreferrer\">enchantment book covers</a>, and a <a href=\"/hc/en-us/community/posts/9900728526349--Accessibility-Dyslexia-Fonts\" target=\"_blank\" rel=\"nofollow noreferrer\">font for dyslexic</a>!</p>",
+        "author_id": 8077931169293,
+        "vote_sum": 4,
+        "vote_count": 4,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13787114023693-Minecraft-Java-Edition-New-Accessibility-Features/comments/13802419448205",
+        "created_at": "2023-03-07T22:13:09Z",
+        "updated_at": "2023-11-10T20:23:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13787114023693/comments/13802419448205.json",
+        "post_id": 13787114023693,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 13811320869389,
+        "body": "<p>Overall these changes are positive! One thing to add is I think glint transparency should be able to go higher to 150%. Outside of these changes, I think the accessibility screen needs a unique menu with icons and titles. Currently from a neurotypical player's view, it is overwhelming and can be difficult to understand at a glance.</p>",
+        "author_id": 388028300171,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13787114023693-Minecraft-Java-Edition-New-Accessibility-Features/comments/13811320869389",
+        "created_at": "2023-03-08T08:14:25Z",
+        "updated_at": "2023-11-10T20:24:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13787114023693/comments/13811320869389.json",
+        "post_id": 13787114023693,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 13812904500621,
+        "body": "<p>Minecraft is still not accessible when using controller/touchscreen input. Java Edition even has a \"Touchscreen Mode\" setting, but it just doesn't work... So, it would be great to have parity with Bedrock in this area.</p>",
+        "author_id": 7246055067405,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13787114023693-Minecraft-Java-Edition-New-Accessibility-Features/comments/13812904500621",
+        "created_at": "2023-03-08T10:54:17Z",
+        "updated_at": "2023-03-09T09:43:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13787114023693/comments/13812904500621.json",
+        "post_id": 13787114023693,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 13817215162253,
+        "body": "<p>One part where minecraft really lacks asseciblity in my opinion is on the investory screen and the way items look. For me it often feels like too much information that ends up overstimulating my brain.&nbsp;</p>\n<p>The small sprites of items can also be really confusing to diferenciate in between themselves and creates a lot of confusion.</p>\n<p>For me one thing that would be really helpful would be for there to be a toggles to help make the invesntory screen bigger so that each sprite stands out more and also a toggle to colour code itens (maybe having diferent types of item have a diferent colour of background while on the inventory)</p>",
+        "author_id": 399723159171,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13787114023693-Minecraft-Java-Edition-New-Accessibility-Features/comments/13817215162253",
+        "created_at": "2023-03-08T13:57:16Z",
+        "updated_at": "2023-11-10T20:24:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13787114023693/comments/13817215162253.json",
+        "post_id": 13787114023693,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 13819474174221,
+        "body": "<p>Improvements so far. Following the request for options to help the dyslexic, having some more visual tweaks to textures that are only colour-based like potions and dyes would greatly aid the colourblind and useful for everyone to detect at a glance (as opposed to having to go by the item texts).</p>",
+        "author_id": 419344921172,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13787114023693-Minecraft-Java-Edition-New-Accessibility-Features/comments/13819474174221",
+        "created_at": "2023-03-08T15:04:31Z",
+        "updated_at": "2023-11-10T20:24:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13787114023693/comments/13819474174221.json",
+        "post_id": 13787114023693,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 13819500118541,
+        "body": "<p>Please add a <strong>dark mode</strong> option for the UI. The default light grey can still be quite bright for some eyes, and it would use less monitor light.</p>",
+        "author_id": 419344921172,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13787114023693-Minecraft-Java-Edition-New-Accessibility-Features/comments/13819500118541",
+        "created_at": "2023-03-08T15:05:53Z",
+        "updated_at": "2023-11-10T20:25:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13787114023693/comments/13819500118541.json",
+        "post_id": 13787114023693,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 13823485061389,
+        "body": "<p>I think it's a great thing, you should continue in this direction, and make the game more enjoyable and more accessible. Accessibility options can also be useful for people without disabilities.<br><br>A list of accessibility modifications would be appreciated :&nbsp;</p>\n<ul>\n<li>Changes in egg textures to use distinct texture, for colour blind people and in the context of increasing egg quantity it becomes difficult to find the right one.</li>\n<li>Also for the effects of potions, a simple way to know the potion for the visually impaired, or colour blind</li>\n<li>For block commands, to be able to have a larger text area, a command can be very long but the \"command block\" text area is very small. An interface similar to Bedrock, see the command on several lines</li>\n<li>In the key configuration menu, the addition of button to quickly change between QWERTY and AZERTY, By default Minecraft defines the confugiration for \"American\" keyboards.</li>\n<li>For the key menu add a search bar. To search by \"Key\" or by \"Label\".</li>\n<li>A global search bar in the settings to search among all minecraft options.\n<blockquote>It is once again in a context where the number of new functionalities is added, it becomes more and more complicated to know where a configuration is. In which menu/submenu it is located.So clearly an easier way to quickly find a parameter.</blockquote>\n</li>\n<li>For minecraft enchantments a simple way to be able to discern which books give which effects without having to look at the description of the item, simply visually</li>\n</ul>",
+        "author_id": 12874428396557,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13787114023693-Minecraft-Java-Edition-New-Accessibility-Features/comments/13823485061389",
+        "created_at": "2023-03-08T16:42:39Z",
+        "updated_at": "2023-11-10T20:25:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13787114023693/comments/13823485061389.json",
+        "post_id": 13787114023693,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 14351196397837,
+        "body": "<p>Add the option to be able to see your armor and tool durability in the corner of the screen at all times like some third party clients do</p>",
+        "author_id": 393294239572,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13787114023693-Minecraft-Java-Edition-New-Accessibility-Features/comments/14351196397837",
+        "created_at": "2023-03-27T17:16:48Z",
+        "updated_at": "2023-04-01T05:41:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13787114023693/comments/14351196397837.json",
+        "post_id": 13787114023693,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4412411242253,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4414204060813,
+        "body": "<p>But why would you not want border blending</p>",
+        "author_id": 397057035512,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4412411242253--Border-Blending-should-be-an-option/comments/4414204060813",
+        "created_at": "2021-11-20T17:39:19Z",
+        "updated_at": "2021-11-20T17:39:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4412411242253/comments/4414204060813.json",
+        "post_id": 4412411242253,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4415220956557,
+        "body": "<p>After updating to 1.18 i completely agree. The 1.18 blending option is really amazing from a technical perspective and I am impressed with the effort it took to do this, but the feature is half-baked and leaves a lot to be desired for the conversion of older worlds.</p>\n<p>We play on realms so that means a simulation distance of 4. We have entire strips of terrain that are 1 chunk or 2 chunks wide that are now blended 1.18 generation and look completely jacked up. im not very happy with the result.</p>\n<p>Unfortunately, the ship has already sailed so it may be too late for me and for 1.18 but for future releases, the world blending should \"feather\" by 1 or 2 chunks. If you open up a Minecraft world in an editor like Amulet you can see where the chunks are allocated. A simple feathering algorithm which would use 1.17 generation around existing chunks for 1 or 2 chunks before starting the new 1.18 blended chunk would've almost completely solved the challenge i am having converting my world from 1.17 to 1.18.</p>\n<p>Technically this should be a relatively simple thing to achieve. when a chunk is instantiated within the sim distance, minecraft should check for bordering original 1.17 chunks and decide whether it uses 1.17 gen or 1.18 gen. after it gets 2 chunks away from an original 1.17 chunk it would use 1.18 gen. relatively simple fix!</p>",
+        "author_id": 405930893352,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4412411242253--Border-Blending-should-be-an-option/comments/4415220956557",
+        "created_at": "2021-12-01T06:44:49Z",
+        "updated_at": "2021-12-01T08:23:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4412411242253/comments/4415220956557.json",
+        "post_id": 4412411242253,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4411907245581,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 32711849189005,
+        "body": "<p>&nbsp;I completely agree I really think it's quite annoying and I would love to have a option to disable it</p>",
+        "author_id": 32711779821837,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4411907245581-Add-an-option-on-bedrock-to-disable-skin-changing-notifications-in-chat/comments/32711849189005",
+        "created_at": "2024-12-14T10:30:09Z",
+        "updated_at": "2024-12-14T16:26:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4411907245581/comments/32711849189005.json",
+        "post_id": 4411907245581,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4410881406861,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4411038770189,
+        "body": "<p>I feel like they should do a version of this for keep inventory also. They could do it for keeping experience levels and for keeping items. I like this because sometimes I make keep inventory on so you don’t get loose items you work hard for, but then people in my worlds just kill themselves to get back to the base because there are no consequences.</p>",
+        "author_id": 399566525251,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4410881406861-Disecting-Mobgriefing-rule/comments/4411038770189",
+        "created_at": "2021-10-11T02:15:12Z",
+        "updated_at": "2021-10-14T09:53:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4410881406861/comments/4411038770189.json",
+        "post_id": 4410881406861,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 11946439015949,
+        "body": "<p>This would be great because I want the villagers to pick-up the food I give to them so they could breed but I also don't want mobs to destroy the environment including my buildings and path-ways.</p>",
+        "author_id": 400773365951,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4410881406861-Disecting-Mobgriefing-rule/comments/11946439015949",
+        "created_at": "2023-01-03T22:57:31Z",
+        "updated_at": "2023-02-08T16:37:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4410881406861/comments/11946439015949.json",
+        "post_id": 4410881406861,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 18696421232269,
+        "body": "<p>They should also make mobGreifing not a cheat in bedrock edition.</p>",
+        "author_id": 18696149914509,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4410881406861-Disecting-Mobgriefing-rule/comments/18696421232269",
+        "created_at": "2023-08-19T20:12:59Z",
+        "updated_at": "2023-09-28T22:30:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4410881406861/comments/18696421232269.json",
+        "post_id": 4410881406861,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 36287390870029,
+        "body": "<p>And separate destruction/picking up blocks from picking up items.&nbsp;</p>",
+        "author_id": 22675925636365,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4410881406861-Disecting-Mobgriefing-rule/comments/36287390870029",
+        "created_at": "2025-05-02T03:06:40Z",
+        "updated_at": "2025-05-02T03:06:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4410881406861/comments/36287390870029.json",
+        "post_id": 4410881406861,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4408663994509,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 30630409771405,
+        "body": "<p>How to use fn f3 h?</p>",
+        "author_id": 30630377549709,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4408663994509-Add-Fkey-commands-to-controls-settings-IMPORTANT/comments/30630409771405",
+        "created_at": "2024-09-27T23:35:27Z",
+        "updated_at": "2024-09-27T23:35:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4408663994509/comments/30630409771405.json",
+        "post_id": 4408663994509,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077622212,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014739091,
+        "body": "<p>Please make this happen</p>",
+        "author_id": 413764010432,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077622212-Minecraft-being-able-to-be-in-windowed-borderless/comments/360014739091",
+        "created_at": "2021-04-02T12:17:55Z",
+        "updated_at": "2024-05-02T02:42:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077622212/comments/360014739091.json",
+        "post_id": 360077622212,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 26379283238925,
+        "body": "<p>We need this! Especially us players that have multiple monitors. Tabbing-out in full-screen mode is so painful when we just want to switch songs on Spotify or message on Discord on our second monitor. Mojang please add this! Thanks!</p>",
+        "author_id": 372368188031,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077622212-Minecraft-being-able-to-be-in-windowed-borderless/comments/26379283238925",
+        "created_at": "2024-05-02T02:48:14Z",
+        "updated_at": "2024-05-02T17:44:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077622212/comments/26379283238925.json",
+        "post_id": 360077622212,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076196451,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014439052,
+        "body": "<p>maybe alt</p>",
+        "author_id": 399035242772,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076196451-making-controls-for-crawling/comments/360014439052",
+        "created_at": "2021-02-20T06:58:42Z",
+        "updated_at": "2022-06-01T19:37:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076196451/comments/360014439052.json",
+        "post_id": 360076196451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4403466996749,
+        "body": "<p>I like this idea</p>\n<p>It would help with making vents in maps without water every were in bedrock</p>",
+        "author_id": 417969974551,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076196451-making-controls-for-crawling/comments/4403466996749",
+        "created_at": "2021-06-21T07:27:20Z",
+        "updated_at": "2022-06-01T19:37:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076196451/comments/4403466996749.json",
+        "post_id": 360076196451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073890031,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013271572,
+        "body": "<p>Maybe it's a side option to realms, and instead of needing an invite, you will need a code or a server address. With that, more customizable options for the \"server\"</p>",
+        "author_id": 405171045592,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073890031-Add-the-ability-to-create-servers-in-the-Minecraft-menu/comments/360013271572",
+        "created_at": "2020-10-23T16:32:44Z",
+        "updated_at": "2020-10-26T02:48:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073890031/comments/360013271572.json",
+        "post_id": 360073890031,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013405952,
+        "body": "<p>Hosting a server isn't as easy as this suggestion makes it sound - it is definitely difficult and a lot of people struggle with it.&nbsp;<br><br>Besides Realms basically covering what this suggestion is, the biggest issue would be that Minecraft doesn't have the ability to Port Forward for you, so specifically \"Row 5\" wouldn't work out. There's tons of good resources on how to start servers on the internet, and the Spigot and PaperMC communities have a plethora of information how to do so successfully.&nbsp;<br><br>It would be interesting to see this kind of functionality added to the vanilla server.jar to allow for easier setups.&nbsp;</p>",
+        "author_id": 396334461752,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073890031-Add-the-ability-to-create-servers-in-the-Minecraft-menu/comments/360013405952",
+        "created_at": "2020-11-05T15:00:13Z",
+        "updated_at": "2020-11-05T16:24:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073890031/comments/360013405952.json",
+        "post_id": 360073890031,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014304952,
+        "body": "<p>Ronak</p>",
+        "author_id": 410737358892,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073890031-Add-the-ability-to-create-servers-in-the-Minecraft-menu/comments/360014304952",
+        "created_at": "2021-02-08T14:28:57Z",
+        "updated_at": "2021-02-08T14:28:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073890031/comments/360014304952.json",
+        "post_id": 360073890031,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073065251,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014150152,
+        "body": "<p>click drag for loading bundles would be nice too!</p>\n<p>&nbsp;</p>",
+        "author_id": 389746488611,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073065251-Ability-to-easy-sort-and-other-advanced-hotkeys-for-inventory-UI/comments/360014150152",
+        "created_at": "2021-01-22T07:41:41Z",
+        "updated_at": "2022-09-26T12:19:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073065251/comments/360014150152.json",
+        "post_id": 360073065251,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 28076741307661,
+        "body": "<p>No idea how such a basic feature has not been implemented in almost 15 years.</p>",
+        "author_id": 417308194572,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073065251-Ability-to-easy-sort-and-other-advanced-hotkeys-for-inventory-UI/comments/28076741307661",
+        "created_at": "2024-07-02T15:53:53Z",
+        "updated_at": "2024-07-02T15:53:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073065251/comments/28076741307661.json",
+        "post_id": 360073065251,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071475371,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012803892,
+        "body": "<p>I would also like an option to increase the GUI scale in split screen. There is plenty of room and it's a real strain for me and my kids to read, even on a 50 inch TV.</p>",
+        "author_id": 403187703691,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071475371-Instead-of-Gui-Scale-0-1-ECT-Instead-use-a-Gui-Scale/comments/360012803892",
+        "created_at": "2020-09-09T01:09:15Z",
+        "updated_at": "2020-10-06T19:37:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071475371/comments/360012803892.json",
+        "post_id": 360071475371,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 12645871788301,
+        "body": "<p>Voted, I really need this. GUI Scale 3x takes too much space, but I really want a larger hotbar, and this is especially noticeable when you're using larger res textures or 3D models.</p>",
+        "author_id": 383960959332,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071475371-Instead-of-Gui-Scale-0-1-ECT-Instead-use-a-Gui-Scale/comments/12645871788301",
+        "created_at": "2023-01-29T05:07:11Z",
+        "updated_at": "2023-01-29T06:38:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071475371/comments/12645871788301.json",
+        "post_id": 360071475371,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360070254232,
+    "expected_comment_count": 1,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014225012,
+        "body": "<p>I agree, I get annoyed when people cant see the hard work i did on my custom skin and its frusturating</p>",
+        "author_id": 409625280051,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070254232-Only-allow-Trusted-Skins-is-to-obscure-especially-because-its-default-on/comments/360014225012",
+        "created_at": "2021-01-29T23:10:29Z",
+        "updated_at": "2022-01-10T10:50:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070254232/comments/360014225012.json",
+        "post_id": 360070254232,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 42342631794957,
+        "body": "<p>Yeah it’s annoying cuz most people don’t know about the setting and no one can see my skin</p>",
+        "author_id": 42016540531213,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070254232-Only-allow-Trusted-Skins-is-to-obscure-especially-because-its-default-on/comments/42342631794957",
+        "created_at": "2026-01-01T15:34:10Z",
+        "updated_at": "2026-01-01T15:34:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070254232/comments/42342631794957.json",
+        "post_id": 360070254232,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360070251892,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013679671,
+        "body": "<p>i got 32 gb of ram&nbsp;</p>\n<p>&nbsp;</p>\n<p>my entire realm is 200 mb</p>\n<p>let me set my cach</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+        "author_id": 402308139332,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070251892-Add-Client-Chunk-Cache/comments/360013679671",
+        "created_at": "2020-12-05T03:09:43Z",
+        "updated_at": "2020-12-07T19:46:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070251892/comments/360013679671.json",
+        "post_id": 360070251892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4405050094733,
+        "body": "<p>This is actually an excellent feature idea and it seems some people have suggested it for mods but it has never been very successful as a mod concept. It would seriously improve world immersion and aesthetics for sure.</p>",
+        "author_id": 1900019515787,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070251892-Add-Client-Chunk-Cache/comments/4405050094733",
+        "created_at": "2021-07-15T05:18:22Z",
+        "updated_at": "2022-01-21T23:09:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070251892/comments/4405050094733.json",
+        "post_id": 360070251892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4415364635021,
+        "body": "<p>I would absolutely love that!<br>It is so important, esecially in 1.18 while playing on low render distance multiplayer servers</p>",
+        "author_id": 422191341352,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070251892-Add-Client-Chunk-Cache/comments/4415364635021",
+        "created_at": "2021-12-02T16:07:29Z",
+        "updated_at": "2022-01-21T23:09:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070251892/comments/4415364635021.json",
+        "post_id": 360070251892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360070029931,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011135491,
+        "body": "<p>I would love to be a soldier</p>",
+        "author_id": 396520616912,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070029931-Pixel-by-pixel-custom-player-skins/comments/360011135491",
+        "created_at": "2020-06-26T00:26:41Z",
+        "updated_at": "2020-06-26T00:26:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070029931/comments/360011135491.json",
+        "post_id": 360070029931,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013755992,
+        "body": "<p>This is the best thing ever\n</p>",
+        "author_id": 407442272332,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070029931-Pixel-by-pixel-custom-player-skins/comments/360013755992",
+        "created_at": "2020-12-06T05:37:47Z",
+        "updated_at": "2020-12-06T05:37:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070029931/comments/360013755992.json",
+        "post_id": 360070029931,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013756012,
+        "body": "<p>Pixel mod</p>",
+        "author_id": 407442272332,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070029931-Pixel-by-pixel-custom-player-skins/comments/360013756012",
+        "created_at": "2020-12-06T05:38:43Z",
+        "updated_at": "2020-12-06T05:38:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070029931/comments/360013756012.json",
+        "post_id": 360070029931,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

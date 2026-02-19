@@ -1,0 +1,1012 @@
+[
+  {
+    "post_id": 360062791411,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010665911,
+        "body": "<p>Use a debug stick.</p>",
+        "author_id": 384380991192,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062791411--signal-in-Minecraft-Redstone/comments/360010665911",
+        "created_at": "2020-05-24T17:26:10Z",
+        "updated_at": "2020-05-28T09:51:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062791411/comments/360010665911.json",
+        "post_id": 360062791411,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010723572,
+        "body": "<p>Firstly, this command is to automate some mechanisms without a player.  Secondly, there is no debug stick in Bedrock Edition</p>",
+        "author_id": 395619088592,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062791411--signal-in-Minecraft-Redstone/comments/360010723572",
+        "created_at": "2020-05-28T09:56:59Z",
+        "updated_at": "2020-05-28T20:41:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062791411/comments/360010723572.json",
+        "post_id": 360062791411,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360062604792,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 11904005753613,
+        "body": "<p>please do this</p>",
+        "author_id": 11903985823117,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062604792--Java-Allow-access-to-the-mayfly-ability/comments/11904005753613",
+        "created_at": "2023-01-02T18:17:34Z",
+        "updated_at": "2023-01-02T18:17:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062604792/comments/11904005753613.json",
+        "post_id": 360062604792,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 20937606104333,
+        "body": "<p>very useful from a data pack perspective.&nbsp;</p>",
+        "author_id": 20937536714125,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062604792--Java-Allow-access-to-the-mayfly-ability/comments/20937606104333",
+        "created_at": "2023-11-01T22:15:13Z",
+        "updated_at": "2023-11-01T22:15:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062604792/comments/20937606104333.json",
+        "post_id": 360062604792,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360062226531,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010386691,
+        "body": "<p>And bit-wise operations? Like: \"|=\", \"&amp;=\", \"&lt;&lt;=\", \"&gt;&gt;=\", ...</p>\n<p>I'd change \"^=\" to be an XOR and use \"**=\" for power (like in python).</p>",
+        "author_id": 384940642592,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062226531-Add-new-operations-for-the-scoreboard-players-operation/comments/360010386691",
+        "created_at": "2020-05-02T15:48:48Z",
+        "updated_at": "2021-04-25T07:36:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062226531/comments/360010386691.json",
+        "post_id": 360062226531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360062158391,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 18593289939469,
+        "body": "<p>yea that would be awsome</p>\n<p>&nbsp;</p>",
+        "author_id": 18592994578445,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062158391-A-ore-rarity-gamerule-for-all-editions-I-play-on-a-iOS-iPad-and-I-don-t-want-it-to-be-exclusive-to-java-edition/comments/18593289939469",
+        "created_at": "2023-08-16T18:37:43Z",
+        "updated_at": "2023-08-16T18:37:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062158391/comments/18593289939469.json",
+        "post_id": 360062158391,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360060478171,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010217812,
+        "body": "<p>A gamerule wouldn't fit a feature of this type, it just doesn't fit in with the other gamerules.</p>\n<p>Not. Everything. Needs. A. Gamerule.</p>\n<p>There should be a command like /spectatormsg (alias /sm), similar to /me and /teammsg, that outputs specifically to a spectator channel. Preventing spectators from using regular chat is a bad idea since it's an unnecessary restriction that doesn't stop cheating (voice chats and text messages on other platforms exist).</p>",
+        "author_id": 384380991192,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360060478171-New-gamerule-spectatorsWhisper/comments/360010217812",
+        "created_at": "2020-04-20T22:21:29Z",
+        "updated_at": "2020-05-09T14:30:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360060478171/comments/360010217812.json",
+        "post_id": 360060478171,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360060103051,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009905472,
+        "body": "<p>(java) you can set the chests nbt to be Lock:\"some random text\"</p>\n<p>and then they can only open it if they are holding an item with that name</p>",
+        "author_id": 371740892172,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360060103051--gamerule-dochestrock-true-false/comments/360009905472",
+        "created_at": "2020-03-31T17:23:06Z",
+        "updated_at": "2020-03-31T20:05:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360060103051/comments/360009905472.json",
+        "post_id": 360060103051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010062272,
+        "body": "<p>That is already a thing</p>",
+        "author_id": 396414056652,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360060103051--gamerule-dochestrock-true-false/comments/360010062272",
+        "created_at": "2020-04-10T15:35:13Z",
+        "updated_at": "2020-04-19T13:49:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360060103051/comments/360010062272.json",
+        "post_id": 360060103051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010235932,
+        "body": "<p>Not. Everything. Needs. A. Gamerule.</p>\n<p>Why do people always see gamerules as some sort of panacea that will instantly solve their every mapmaking dilemma? Apply some problem solving and use the features that are already there, such as the Lock tag.</p>",
+        "author_id": 384380991192,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360060103051--gamerule-dochestrock-true-false/comments/360010235932",
+        "created_at": "2020-04-21T22:43:18Z",
+        "updated_at": "2020-05-10T21:37:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360060103051/comments/360010235932.json",
+        "post_id": 360060103051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360056900252,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010363831,
+        "body": "<p>I think this tag should be per specified Mob, but +1!</p>",
+        "author_id": 387762685231,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360056900252-Configurable-Light-Threshold-for-Mob-Spawners/comments/360010363831",
+        "created_at": "2020-04-30T18:36:15Z",
+        "updated_at": "2020-04-30T19:14:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360056900252/comments/360010363831.json",
+        "post_id": 360056900252,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360056437672,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009101051,
+        "body": "<p>this seems like the sort of thing that should be done with mob type tags in datapacks, but still a good idea (and could lead into spawn control of custom mobs in the future)</p>",
+        "author_id": 365292343452,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360056437672--changeSpawn-mob-List-of-biomes/comments/360009101051",
+        "created_at": "2020-01-28T18:07:33Z",
+        "updated_at": "2020-05-03T22:58:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360056437672/comments/360009101051.json",
+        "post_id": 360056437672,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009523212,
+        "body": "<p>Seems cool. Instead of having to use the teleport command.</p>",
+        "author_id": 394577504552,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360056437672--changeSpawn-mob-List-of-biomes/comments/360009523212",
+        "created_at": "2020-03-01T08:31:12Z",
+        "updated_at": "2020-03-06T09:05:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360056437672/comments/360009523212.json",
+        "post_id": 360056437672,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010204731,
+        "body": "<p>If implemented this would fit better on a datapack instead of being an awkward command.</p>",
+        "author_id": 384380991192,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360056437672--changeSpawn-mob-List-of-biomes/comments/360010204731",
+        "created_at": "2020-04-20T16:09:51Z",
+        "updated_at": "2020-05-03T22:57:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360056437672/comments/360010204731.json",
+        "post_id": 360056437672,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360055889011,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008851591,
+        "body": "<p>I do like this idea but I think for the most part it is already possible just by putting 2 if clauses. Such as this for your example:<br>/execute at @p if block ~ ~-1 ~ bedrock if entity @p[gamemode=survival] run effect give @p blindness 100 2<br>But I see where you're coming from. It seems weird to have both ifs so adding the and so it would be more like this would help it read easier:<br>/execute at @p if block ~ ~-1 ~ bedrock and entity @p[gamemode=survival] run effect give @p blindness 100 2</p>",
+        "author_id": 389586189472,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055889011-New-Execute-feature/comments/360008851591",
+        "created_at": "2020-01-04T08:52:02Z",
+        "updated_at": "2020-02-06T03:13:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055889011/comments/360008851591.json",
+        "post_id": 360055889011,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009071152,
+        "body": "<p>/execute as @a[ gamemode= survival] at @s if block ~ ~-1 ~ bedrock run effect give @s blindness</p>",
+        "author_id": 390486852572,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055889011-New-Execute-feature/comments/360009071152",
+        "created_at": "2020-01-24T17:20:38Z",
+        "updated_at": "2023-05-17T13:50:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055889011/comments/360009071152.json",
+        "post_id": 360055889011,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009190592,
+        "body": "<p>As <x-zendesk-user data-user-name=\"TenThunder25611\">389586189472</x-zendesk-user>&nbsp;stated, AND is already possible. With unless, we have NOT. What we are missing is OR in form of elseif which refers to the if before.</p>\n<p>Currently we have to repeat the command with different conditions but this means, that, especially with longer, more complex ones, the game has to do all the execute arguments twice:</p>\n<pre>/execute if block ~ ~-1 ~ stone run ...<br>/execute if block ~ ~-1 ~ grass run ...</pre>\n<p>Could look like this:</p>\n<pre>/execute if block ~ ~-1 ~ stone elseif block ~ ~-1 ~ grass run ...</pre>\n<p>This would increase efficiency dramatically.</p>",
+        "author_id": 393665942751,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055889011-New-Execute-feature/comments/360009190592",
+        "created_at": "2020-02-05T00:27:25Z",
+        "updated_at": "2021-01-01T19:26:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055889011/comments/360009190592.json",
+        "post_id": 360055889011,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360055536451,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008737211,
+        "body": "<p>This may be useless for servers as almost all servers use plugins, and there's already some plugins that can do that...</p>",
+        "author_id": 384156495111,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055536451-entityrules-playerrules-as-a-command/comments/360008737211",
+        "created_at": "2019-12-18T12:43:00Z",
+        "updated_at": "2019-12-18T12:43:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055536451/comments/360008737211.json",
+        "post_id": 360055536451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010364051,
+        "body": "<p>@TalkingFab2016 just because plugins can do it doesnt mean minecraft shouldnt expand on its own command system!</p>",
+        "author_id": 387762685231,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055536451-entityrules-playerrules-as-a-command/comments/360010364051",
+        "created_at": "2020-04-30T18:49:54Z",
+        "updated_at": "2023-01-15T12:20:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055536451/comments/360010364051.json",
+        "post_id": 360055536451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360055473791,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008701731,
+        "body": "<p>Please clarify. Do you mean it will fill out an entire map that goes over those coordinates? If so, I like that idea.</p>",
+        "author_id": 382944040931,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055473791--Discover-Command/comments/360008701731",
+        "created_at": "2019-12-14T02:17:14Z",
+        "updated_at": "2020-01-03T23:09:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055473791/comments/360008701731.json",
+        "post_id": 360055473791,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008733232,
+        "body": "<p>You mean it will generate the chunks that are covered by the whole map and you'll not need to move here?</p>",
+        "author_id": 384156495111,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055473791--Discover-Command/comments/360008733232",
+        "created_at": "2019-12-18T12:44:05Z",
+        "updated_at": "2019-12-18T16:34:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055473791/comments/360008733232.json",
+        "post_id": 360055473791,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008849591,
+        "body": "<p>Sounds tricky to program, but interesting.</p>",
+        "author_id": 388192457332,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055473791--Discover-Command/comments/360008849591",
+        "created_at": "2020-01-03T23:10:18Z",
+        "updated_at": "2020-01-03T23:10:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055473791/comments/360008849591.json",
+        "post_id": 360055473791,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360041541371,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 21429947311629,
+        "body": "<p>I CAN'T DO THE /VISION COMMAND IN MY MINECRAFT</p>",
+        "author_id": 21429589679501,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041541371--vision-can-see-what-mobs-see/comments/21429947311629",
+        "created_at": "2023-11-17T16:00:07Z",
+        "updated_at": "2023-11-18T23:30:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041541371/comments/21429947311629.json",
+        "post_id": 360041541371,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360031834372,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005291832,
+        "body": "<p>maybe they could add scoreboards to detect if the player has interacted with their inventory via</p>\n<p>minecraft.custom:minecraft.<strong>open_inventory</strong>&nbsp;<em>and</em> minecraft.custom:minecraft.<strong>close_inventory</strong><br><em>or just</em> minecraft.custom:minecraft.<strong>interact_with_inventory</strong></p>",
+        "author_id": 373756930711,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360031834372-advancement-trigger-for-opening-inventory/comments/360005291832",
+        "created_at": "2019-04-17T21:02:58Z",
+        "updated_at": "2020-05-10T21:49:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360031834372/comments/360005291832.json",
+        "post_id": 360031834372,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005293052,
+        "body": "<p>Are you sure those exist in Java too?</p>",
+        "author_id": 375600302911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360031834372-advancement-trigger-for-opening-inventory/comments/360005293052",
+        "created_at": "2019-04-17T23:08:05Z",
+        "updated_at": "2019-04-17T23:08:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360031834372/comments/360005293052.json",
+        "post_id": 360031834372,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005295131,
+        "body": "<p>sorry, meant to be a suggestion</p>",
+        "author_id": 373756930711,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360031834372-advancement-trigger-for-opening-inventory/comments/360005295131",
+        "created_at": "2019-04-17T23:34:34Z",
+        "updated_at": "2019-04-17T23:34:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360031834372/comments/360005295131.json",
+        "post_id": 360031834372,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005294692,
+        "body": "<p>Oh yeah sorry I didn't understand.\n<br />A scoreboard would be much better then an advancement. But I thought that they would implement advancements quicker as that was a feature we used to have.</p>",
+        "author_id": 375600302911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360031834372-advancement-trigger-for-opening-inventory/comments/360005294692",
+        "created_at": "2019-04-18T06:05:29Z",
+        "updated_at": "2019-04-18T06:05:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360031834372/comments/360005294692.json",
+        "post_id": 360031834372,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005297051,
+        "body": "<p>To be fair, no, a scoreboard criterion wouldn't be better as an advancement trigger. Testing for any player's score to increase every tick would be way less efficient than using the built-in version.</p>",
+        "author_id": 380224102371,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360031834372-advancement-trigger-for-opening-inventory/comments/360005297051",
+        "created_at": "2019-04-18T08:53:24Z",
+        "updated_at": "2019-04-18T16:18:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360031834372/comments/360005297051.json",
+        "post_id": 360031834372,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360031415631,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360003084911,
+        "body": "<p>Translate:</p>\n<p>Suggestions for the minecraft pocket edition In the / clear command, you want to set max. Min</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360031415631-Clear-command-suggestion/comments/360003084911",
+        "created_at": "2018-11-20T16:51:13Z",
+        "updated_at": "2018-11-20T16:51:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360031415631/comments/360003084911.json",
+        "post_id": 360031415631,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360007354811,
+        "body": "<p>Minecraft \n</p>",
+        "author_id": 386524891311,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360031415631-Clear-command-suggestion/comments/360007354811",
+        "created_at": "2019-08-30T05:19:41Z",
+        "updated_at": "2019-08-30T05:19:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360031415631/comments/360007354811.json",
+        "post_id": 360031415631,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 28572118971149,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 30471622420749,
+        "body": "<p>We could even use it to make custom GUI in Datapacks in a chest, without having to prevent every single slot from being taken out and preventing item changes!</p>",
+        "author_id": 26035831308557,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/28572118971149-Add-creative-slot-lock-as-a-valid-item-component-for-commands/comments/30471622420749",
+        "created_at": "2024-09-22T17:09:56Z",
+        "updated_at": "2024-09-22T17:09:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/28572118971149/comments/30471622420749.json",
+        "post_id": 28572118971149,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 30660314856589,
+        "body": "<p>This would be amazing for datapacks too.</p>",
+        "author_id": 30660253050381,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/28572118971149-Add-creative-slot-lock-as-a-valid-item-component-for-commands/comments/30660314856589",
+        "created_at": "2024-09-29T23:16:45Z",
+        "updated_at": "2024-09-29T23:16:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/28572118971149/comments/30660314856589.json",
+        "post_id": 28572118971149,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 20762927432973,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 26999755280141,
+        "body": "<p>Hope this also  happens you guys already got the ride and damage command from bedrock edition </p>",
+        "author_id": 9067019172749,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/20762927432973-Porting-camera-to-java-editon/comments/26999755280141",
+        "created_at": "2024-05-24T07:01:03Z",
+        "updated_at": "2024-05-24T18:29:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/20762927432973/comments/26999755280141.json",
+        "post_id": 20762927432973,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 16833610510221,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 26826538812429,
+        "body": "<p>it'd even be useful for controlling when display entities are visible to each individual player too, so you could have displays that disappear when you get close</p>\n<p>something like a teams_can_view:[\"team\"] tag?</p>",
+        "author_id": 7342879973261,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/16833610510221-Choose-which-players-can-see-display-entities/comments/26826538812429",
+        "created_at": "2024-05-18T06:42:31Z",
+        "updated_at": "2024-05-18T15:03:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/16833610510221/comments/26826538812429.json",
+        "post_id": 16833610510221,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 13884380137741,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 14266585383821,
+        "body": "<p>you can also use debug stick</p>",
+        "author_id": 10040634562061,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13884380137741--gamerule-coral-decay-true-false/comments/14266585383821",
+        "created_at": "2023-03-24T06:12:25Z",
+        "updated_at": "2024-02-20T16:04:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13884380137741/comments/14266585383821.json",
+        "post_id": 13884380137741,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7186594673805,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7264280917389,
+        "body": "<p>good idea. That would be great if that was possible with TnT too</p>",
+        "author_id": 4570221148557,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7186594673805--Cooldown-Command/comments/7264280917389",
+        "created_at": "2022-06-28T16:58:28Z",
+        "updated_at": "2023-12-22T14:33:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7186594673805/comments/7264280917389.json",
+        "post_id": 7186594673805,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 8622180765837,
+        "body": "<p>Actually, a plugin can do it (at least in Java Edition, i don't know about Bedrock Edition.)</p>\n<p><strong>setCoolDown(ItemStack,Tick)</strong></p>",
+        "author_id": 8622097250573,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7186594673805--Cooldown-Command/comments/8622180765837",
+        "created_at": "2022-08-23T12:08:33Z",
+        "updated_at": "2022-08-23T19:09:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7186594673805/comments/8622180765837.json",
+        "post_id": 7186594673805,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 10733813735437,
+        "body": "<p>I think it shouldnt be only for throwable items, it should be for all usable items</p>",
+        "author_id": 10256407361165,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7186594673805--Cooldown-Command/comments/10733813735437",
+        "created_at": "2022-11-18T17:03:36Z",
+        "updated_at": "2023-12-22T14:33:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7186594673805/comments/10733813735437.json",
+        "post_id": 7186594673805,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40798849893133,
+        "body": "<p>Maybe if you could put it on everything</p>",
+        "author_id": 39924244604685,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7186594673805--Cooldown-Command/comments/40798849893133",
+        "created_at": "2025-11-01T19:47:31Z",
+        "updated_at": "2025-11-01T19:47:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7186594673805/comments/40798849893133.json",
+        "post_id": 7186594673805,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5256171113997,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5273904309389,
+        "body": "<p>That's what CustomModelData is for. And if you're suggesting this because you wish to have custom models in survival, I'm sure there are plenty of mods and data packs out there that will let you apply CustomModelData to your items without much difficulty.</p>",
+        "author_id": 418873283952,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5256171113997-Item-predicate-in-resource-packs/comments/5273904309389",
+        "created_at": "2022-04-03T23:19:41Z",
+        "updated_at": "2022-04-03T23:19:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5256171113997/comments/5273904309389.json",
+        "post_id": 5256171113997,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 26646855698957,
+        "body": "<p>I think this is a great idea. I could think of a few places where I'd like to use item components as predicates, notably on servers without custom models.</p>",
+        "author_id": 25021633460237,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5256171113997-Item-predicate-in-resource-packs/comments/26646855698957",
+        "created_at": "2024-05-11T14:41:35Z",
+        "updated_at": "2024-05-11T16:09:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5256171113997/comments/26646855698957.json",
+        "post_id": 5256171113997,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4940639585165,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4946194297485,
+        "body": "<p>This would be quite cool, as if you used /fill blah blah blah ... replace air it wouldn't actually \"destroy\" the block, and spit those on ground, tho I don't think it is demanded or a must add right now.</p>",
+        "author_id": 4946193017229,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4940639585165-Fill-command-destroy-replace-option/comments/4946194297485",
+        "created_at": "2022-03-21T01:25:11Z",
+        "updated_at": "2024-01-06T01:25:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4940639585165/comments/4946194297485.json",
+        "post_id": 4940639585165,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 22970807949453,
+        "body": "<p>I think it should be like:\n<br />/fill x y z x y z oak_planks replace dirt destroy\n<br />We should be able to combine more things, like replace outline, for example</p>",
+        "author_id": 400271757932,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4940639585165-Fill-command-destroy-replace-option/comments/22970807949453",
+        "created_at": "2024-01-06T01:27:31Z",
+        "updated_at": "2024-03-17T10:53:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4940639585165/comments/22970807949453.json",
+        "post_id": 4940639585165,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 24914024631693,
+        "body": "<p>I created an account here on the feedback site <em>specifically</em> to upvote this request (or submit it myself if I didn't find it already). The same selection logic clearly already exists for the \"replace\" fillmode, so it doesn't even seem like it would be all that difficult to add support for the same optional target filtering for \"destroy\"</p>",
+        "author_id": 24913479983757,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4940639585165-Fill-command-destroy-replace-option/comments/24914024631693",
+        "created_at": "2024-03-12T00:18:06Z",
+        "updated_at": "2024-03-12T17:29:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4940639585165/comments/24914024631693.json",
+        "post_id": 4940639585165,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4428528240781,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4428537749133,
+        "body": "<p><a href=\"https://feedback.minecraft.net/hc/en-us/community/posts/4428432716429--ifaction-command\" rel=\"nofollow noreferrer\">https://feedback.minecraft.net/hc/en-us/community/posts/4428432716429--ifaction-command</a> would be the other post about /ifaction</p>",
+        "author_id": 423870826152,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4428528240781--integer-random-integer-in-commands/comments/4428537749133",
+        "created_at": "2022-02-15T13:40:52Z",
+        "updated_at": "2022-02-17T12:30:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4428528240781/comments/4428537749133.json",
+        "post_id": 4428528240781,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4479149973005,
+        "body": "<p>a different idea would be to put the ? infront of a command/number so it would only randomize that one<br>eg.:<br>/effect give @a jump_boost ?1000 10</p>\n<p>This way only the length would be effected, while in this example only the effect would be randomized:<br>/effect give @a ? 1000 255</p>",
+        "author_id": 419481836811,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4428528240781--integer-random-integer-in-commands/comments/4479149973005",
+        "created_at": "2022-02-23T16:26:54Z",
+        "updated_at": "2023-02-07T16:49:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4428528240781/comments/4479149973005.json",
+        "post_id": 4428528240781,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 12909984104589,
+        "body": "<p>ye like this you could also randomize the intensity of an effect</p>",
+        "author_id": 423870826152,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4428528240781--integer-random-integer-in-commands/comments/12909984104589",
+        "created_at": "2023-02-07T16:50:23Z",
+        "updated_at": "2023-02-09T10:01:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4428528240781/comments/12909984104589.json",
+        "post_id": 4428528240781,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4415490279693,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4415666461965,
+        "body": "<p>I actually hadn't thought about that. I could imagine it being handy for map makers as a separate command, though.</p>",
+        "author_id": 381223812291,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4415490279693-Expanding-keepInventory/comments/4415666461965",
+        "created_at": "2021-12-05T17:44:34Z",
+        "updated_at": "2021-12-30T18:34:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4415490279693/comments/4415666461965.json",
+        "post_id": 4415490279693,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4418179036685,
+        "body": "<p>Have also a /keep effect to keep your potion effect open death with the time reset and all of the Keepinvintory command are cheats</p>",
+        "author_id": 422812635532,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4415490279693-Expanding-keepInventory/comments/4418179036685",
+        "created_at": "2021-12-30T18:36:39Z",
+        "updated_at": "2021-12-30T21:46:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4415490279693/comments/4418179036685.json",
+        "post_id": 4415490279693,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4412990972557,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4413152014989,
+        "body": "<p>this is a great idea, but for some reason Minecraft won't allow it</p>",
+        "author_id": 421788839171,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4412990972557-give-effects-for-0-5-seconds/comments/4413152014989",
+        "created_at": "2021-11-09T23:52:37Z",
+        "updated_at": "2021-11-09T23:52:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4412990972557/comments/4413152014989.json",
+        "post_id": 4412990972557,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4413448047117,
+        "body": "<p>It's a great idea.. But.. As far as I know, only Integers are used. This means that we can write -1 0 1 but not -0.1 5.97 6.4.</p>",
+        "author_id": 1903309742247,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4412990972557-give-effects-for-0-5-seconds/comments/4413448047117",
+        "created_at": "2021-11-12T22:23:13Z",
+        "updated_at": "2021-11-12T22:23:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4412990972557/comments/4413448047117.json",
+        "post_id": 4412990972557,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 12831191810957,
+        "body": "<p>decimals work for coordinates</p>",
+        "author_id": 421736564931,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4412990972557-give-effects-for-0-5-seconds/comments/12831191810957",
+        "created_at": "2023-02-04T01:27:17Z",
+        "updated_at": "2023-02-04T01:27:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4412990972557/comments/12831191810957.json",
+        "post_id": 4412990972557,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 14288845430029,
+        "body": "<p>Great idea! But I think /effect should work with time in ticks and seconds and maybe in days like this<br><br>/effect give &lt;selector&gt; 2t &lt;effect&gt; [true|false] - gives effect with duration = 2 ticks(0.1 second)<br>/effect give &lt;selector&gt; 2s &lt;effect&gt; [true|false] - gives effect with duration = 2 seconds<br>/effect give &lt;selector&gt; 2d &lt;effect&gt; [true|false] - gives effect with duration = 2 days<br><br>ticks makes /effect more useful when effect should disappear in time less than 1 second.<br><br>For example: Area where player gets effect of levitation and when he leaves effect no more applied. It can be magical elevator what gives you the effect when you above it. /effect clear isn't solution because player can get effect of levitation from shulker bullet and it also clears after using command.</p>",
+        "author_id": 10424699870733,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4412990972557-give-effects-for-0-5-seconds/comments/14288845430029",
+        "created_at": "2023-03-24T20:53:13Z",
+        "updated_at": "2023-05-17T17:09:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4412990972557/comments/14288845430029.json",
+        "post_id": 4412990972557,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4411532878989,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4411770390285,
+        "body": "<p>This isnvt a command suggestion...\n<br />Additionally, sitting and lying (sleeping) are already things.</p>",
+        "author_id": 365162152092,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4411532878989-Sit-and-lie-down/comments/4411770390285",
+        "created_at": "2021-10-21T07:23:32Z",
+        "updated_at": "2021-10-21T12:10:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4411532878989/comments/4411770390285.json",
+        "post_id": 4411532878989,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

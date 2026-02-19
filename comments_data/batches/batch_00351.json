@@ -1,0 +1,682 @@
+[
+  {
+    "post_id": 20782872012941,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 20783087711373,
+        "body": "<p>Ooh, I just had another idea, what if there was a block crafted from one sculk jaw and 8 echo shards, that would suck things in from the air?&nbsp; It could be named the \"sculk nightmare,\" and it would sense things up to 15 blocks above it in a 5x5 block radius, pulling them in at a speed of 3 bps. Otherwise, it would have the same mechanics, and the death message would be \"Player reached the event horizon.\" This could be useful for keeping bats away and certain elytra maps, making the player have to be careful where they flew.</p>",
+        "author_id": 14264029906573,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/20782872012941-Sculk-Jaws-Recoded-in/comments/20783087711373",
+        "created_at": "2023-10-27T17:46:38Z",
+        "updated_at": "2023-10-27T19:34:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/20782872012941/comments/20783087711373.json",
+        "post_id": 20782872012941,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 20773876691981,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 20783377154829,
+        "body": "<p>I don't think we should have them of ores, but other ocean things, such as dark prismarine and nautilus shells. I don't think they should be craftable, but found in chests. Each one would have unique characteristics.</p>\n<p>Dark Prismarine:&nbsp;<em>Blinding Smite, </em>causing one struck by it to gain the Blindness effect for 15 seconds.</p>\n<p>Nautilus:&nbsp;<em>Sentinel Of The Sea,</em> causing one struck to be affected with the Drowning effect, causing damage as long as one was touching water, but ending once otherwise.&nbsp;</p>\n<p>Yeah, that's all I have to offer.</p>",
+        "author_id": 14264029906573,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/20773876691981-Trident-varients/comments/20783377154829",
+        "created_at": "2023-10-27T17:54:48Z",
+        "updated_at": "2023-10-27T21:01:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/20773876691981/comments/20783377154829.json",
+        "post_id": 20773876691981,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 20757263754509,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 20763025193869,
+        "body": "<p>Since burning wood in a furnace makes charcoal… maybe burning a log with flint and steel could make ash/lye… maybe milk would be needed?</p>",
+        "author_id": 20755127074573,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/20757263754509-Bubble-Trouble-and-fun/comments/20763025193869",
+        "created_at": "2023-10-27T02:54:09Z",
+        "updated_at": "2023-10-27T19:34:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/20757263754509/comments/20763025193869.json",
+        "post_id": 20757263754509,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 20613820063117,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 20693749961613,
+        "body": "<p>i´ll invite you to vote for my idea, it has everything that you could think of&nbsp;<strong>:)</strong></p>\n<p>With my idea you can make all that you say up here, and more...</p>\n<p>Its called The \"Mimic block\"/\"Infinity Block\"</p>",
+        "author_id": 20691679241229,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/20613820063117-More-varients-of-blocks/comments/20693749961613",
+        "created_at": "2023-10-25T01:31:01Z",
+        "updated_at": "2023-10-25T02:15:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/20613820063117/comments/20693749961613.json",
+        "post_id": 20613820063117,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 20560889618317,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 20636293953037,
+        "body": "<p>I like the idea, but I think some different weird, specific results would be more ideal and have better use cases. <br>I would prefer something more specific, so we could do a load of different things. <br>10 is if any slot has a stack size of 2. Non Stackables and disabled slots count as 1 for this check. <br>11 is for if all slots have 2. Non Stackables and disabled do count for 2 for this. <br>15 is of course if literally ever slot is maxed out filled.</p>\n<p>There are 2 reasons for 10.</p>\n<p>Firstly, it's a signal strength that tells us more than necessary items in, but not enough for 2 crafts.</p>\n<p>The second is that I reckon we can make some crazy compact item filters, as it could filter 9 different items, and we get a signal any time any stack is increased. How, I don't know, but I think it could be done.</p>\n<p>But definitely we need a different output for if 2 of each item stack or max stack sizes</p>",
+        "author_id": 20635951563917,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/20560889618317-Crafter-Additional-comparator-output/comments/20636293953037",
+        "created_at": "2023-10-23T15:43:50Z",
+        "updated_at": "2023-10-23T20:14:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/20560889618317/comments/20636293953037.json",
+        "post_id": 20560889618317,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 20535596798605,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 20693836217869,
+        "body": "<p>i´ll invite you to vote for my idea, it has everything that you could think of&nbsp;<strong>:)</strong></p>\n<p>With my idea you can make all that you say up here, and more...</p>\n<p>Its called The \"Mimic block\"/\"Infinity Block\"</p>",
+        "author_id": 20691679241229,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/20535596798605-Mushroom-building-blocks/comments/20693836217869",
+        "created_at": "2023-10-25T01:39:44Z",
+        "updated_at": "2023-10-25T02:13:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/20535596798605/comments/20693836217869.json",
+        "post_id": 20535596798605,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 20411371796237,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 24857642732557,
+        "body": "<p>Chicken nests sound nice and decorative. It would be cool if baby chicken were attracted to be nearby them.</p>",
+        "author_id": 8237031584013,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/20411371796237-Chicken-Nests/comments/24857642732557",
+        "created_at": "2024-03-10T01:49:44Z",
+        "updated_at": "2024-03-11T23:26:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/20411371796237/comments/24857642732557.json",
+        "post_id": 20411371796237,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 20082967721357,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 20090775695885,
+        "body": "<p>Too fragile. They're more like crystals.</p>",
+        "author_id": 419987529592,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/20082967721357-Sharpning-your-tools-with-Amethist-and-Echo-Shards/comments/20090775695885",
+        "created_at": "2023-10-04T14:10:26Z",
+        "updated_at": "2023-10-20T14:46:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/20082967721357/comments/20090775695885.json",
+        "post_id": 20082967721357,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 20025346538381,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 29047238231053,
+        "body": "<p>to be honest this sounds cool, however if it was centered half of the door would be in the next block in front of it, good idea though.</p>",
+        "author_id": 29047167646861,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/20025346538381-Centered-Doors/comments/29047238231053",
+        "created_at": "2024-08-06T20:48:02Z",
+        "updated_at": "2024-08-07T13:31:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/20025346538381/comments/29047238231053.json",
+        "post_id": 20025346538381,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 19575778556941,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 24858063605773,
+        "body": "<p>I like the idea of more aesthetical looking bars for railings, cages etc this has my vote </p>",
+        "author_id": 8237031584013,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/19575778556941-Cage-bars/comments/24858063605773",
+        "created_at": "2024-03-10T02:24:53Z",
+        "updated_at": "2024-03-11T23:40:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/19575778556941/comments/24858063605773.json",
+        "post_id": 19575778556941,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 19565342531981,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 19565474935949,
+        "body": "<p>To insert text into a frame block, you need to press RMB on the frame block in advance with a renamed name tag, and to insert a name tag in the form of an object into the frame block, you need to click on it with the Shift key held down.</p>",
+        "author_id": 19564759775245,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/19565342531981-let-s-talk-about-the-frame-block/comments/19565474935949",
+        "created_at": "2023-09-16T23:04:39Z",
+        "updated_at": "2023-09-16T23:05:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/19565342531981/comments/19565474935949.json",
+        "post_id": 19565342531981,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 20911107619469,
+        "body": "<p>Seems broken</p>",
+        "author_id": 397296442951,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/19565342531981-let-s-talk-about-the-frame-block/comments/20911107619469",
+        "created_at": "2023-11-01T08:05:13Z",
+        "updated_at": "2023-11-01T08:05:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/19565342531981/comments/20911107619469.json",
+        "post_id": 19565342531981,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 19481023052045,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 19754131169165,
+        "body": "<p>So, first off, in order to make diamonds from coal/charcoal it needs extreme heat and extreme pressure, so maybe put a stack of coal/charcoal in a blast furnace with lava as fuel (however long lava lasts), and receive a diamond ore block?</p>",
+        "author_id": 19646822440973,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/19481023052045-Coal-Diamonds/comments/19754131169165",
+        "created_at": "2023-09-22T21:44:44Z",
+        "updated_at": "2023-11-01T08:07:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/19481023052045/comments/19754131169165.json",
+        "post_id": 19481023052045,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 19434051763213,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 19573784950285,
+        "body": "<p>Maybe pandas could steal your tools!</p>",
+        "author_id": 19573686067213,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/19434051763213--Bamboo-Tools/comments/19573784950285",
+        "created_at": "2023-09-17T14:59:36Z",
+        "updated_at": "2023-09-17T14:59:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/19434051763213/comments/19573784950285.json",
+        "post_id": 19434051763213,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 18891157718157,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 18932142341261,
+        "body": "<p>This idea would be nice, but I think it might conflict with growing the Mega Mushrooms.</p>",
+        "author_id": 1901705267567,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/18891157718157-Multiple-Mushrooms/comments/18932142341261",
+        "created_at": "2023-08-28T07:42:12Z",
+        "updated_at": "2023-09-29T17:19:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/18891157718157/comments/18932142341261.json",
+        "post_id": 18891157718157,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 18777549631629,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38834038766989,
+        "body": "<p>I like this idea!</p>",
+        "author_id": 38139901507725,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/18777549631629-A-new-block-for-easier-creation-of-fireworks/comments/38834038766989",
+        "created_at": "2025-08-15T04:06:05Z",
+        "updated_at": "2025-08-15T04:06:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/18777549631629/comments/38834038766989.json",
+        "post_id": 18777549631629,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 18712350669965,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 18723028707725,
+        "body": "<p>Just make the mechanics of the ladder like a scaffolds so that you can not use supports up to a certain limit.</p>",
+        "author_id": 416461943171,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/18712350669965-Ladders-on-barrier/comments/18723028707725",
+        "created_at": "2023-08-21T12:57:31Z",
+        "updated_at": "2023-09-29T17:02:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/18712350669965/comments/18723028707725.json",
+        "post_id": 18712350669965,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 18731048462221,
+        "body": "<p>You can already do this.</p>",
+        "author_id": 11165279061645,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/18712350669965-Ladders-on-barrier/comments/18731048462221",
+        "created_at": "2023-08-21T16:18:34Z",
+        "updated_at": "2023-08-21T16:18:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/18712350669965/comments/18731048462221.json",
+        "post_id": 18712350669965,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 18701640673293,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 18702698013581,
+        "body": "<p>Because the emerald is not malleable and very fragile. Unless arrowheads are possible.</p>",
+        "author_id": 416461943171,
+        "vote_sum": 4,
+        "vote_count": 4,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/18701640673293-Why-not-make-emerald-armour-and-tools/comments/18702698013581",
+        "created_at": "2023-08-20T07:17:54Z",
+        "updated_at": "2023-09-07T18:56:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/18701640673293/comments/18702698013581.json",
+        "post_id": 18701640673293,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 18863984355853,
+        "body": "<p>It should have the same durability as gold but the same power as diamond</p>",
+        "author_id": 18863931973133,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/18701640673293-Why-not-make-emerald-armour-and-tools/comments/18863984355853",
+        "created_at": "2023-08-25T10:13:58Z",
+        "updated_at": "2023-08-25T10:14:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/18701640673293/comments/18863984355853.json",
+        "post_id": 18701640673293,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 18863985958669,
+        "body": "<p>And the same enchantment cost as Gold</p>",
+        "author_id": 18863931973133,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/18701640673293-Why-not-make-emerald-armour-and-tools/comments/18863985958669",
+        "created_at": "2023-08-25T10:14:52Z",
+        "updated_at": "2023-08-25T10:14:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/18701640673293/comments/18863985958669.json",
+        "post_id": 18701640673293,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 19292353479949,
+        "body": "<p>Too fragile, illogical, and already has a unique use (currency). There's other armour that can even be coloured.</p>",
+        "author_id": 419987529592,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/18701640673293-Why-not-make-emerald-armour-and-tools/comments/19292353479949",
+        "created_at": "2023-09-07T18:57:32Z",
+        "updated_at": "2023-10-20T14:47:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/18701640673293/comments/19292353479949.json",
+        "post_id": 18701640673293,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 18656985795981,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 18690374613645,
+        "body": "<p>Chests are closed storage containers, nothing can get out without a means of transferring \"installed\". Hoppers allow object transfer, thus are necessary for moving items from chests.</p>",
+        "author_id": 419344921172,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/18656985795981-chest-beside-or-on-top-of-furnace-could-feed-them-without-hoppers/comments/18690374613645",
+        "created_at": "2023-08-19T14:31:11Z",
+        "updated_at": "2023-09-27T21:53:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/18656985795981/comments/18690374613645.json",
+        "post_id": 18656985795981,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 18889546014733,
+        "body": "<p>This actually makes a lot of sense. Great idea!</p>",
+        "author_id": 18865725979789,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/18656985795981-chest-beside-or-on-top-of-furnace-could-feed-them-without-hoppers/comments/18889546014733",
+        "created_at": "2023-08-25T23:05:30Z",
+        "updated_at": "2023-08-25T23:05:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/18656985795981/comments/18889546014733.json",
+        "post_id": 18656985795981,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 18645588639501,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 18663257199245,
+        "body": "<p>It would make for an interesting curse, losing 2x durability but gaining a random orb size of XP, certainly would make it a bit of give and take.&nbsp;</p>",
+        "author_id": 405125404971,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/18645588639501-Reverse-Mending/comments/18663257199245",
+        "created_at": "2023-08-18T15:53:50Z",
+        "updated_at": "2023-08-18T15:53:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/18645588639501/comments/18663257199245.json",
+        "post_id": 18645588639501,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 18463858782477,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40053676030221,
+        "body": "<p>Not bad. Maybe also serve as a sidearm for Pillagers, especially in case their crossbows break. :)</p>",
+        "author_id": 39924991210637,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/18463858782477-Revitalizing-Combat-with-Dagger-Mechanics-and-Potion-Tipping/comments/40053676030221",
+        "created_at": "2025-10-02T23:41:11Z",
+        "updated_at": "2025-10-02T23:42:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/18463858782477/comments/40053676030221.json",
+        "post_id": 18463858782477,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 18452000626829,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 37897115888013,
+        "body": "<p>yessss i love this idea</p>",
+        "author_id": 37707459346189,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/18452000626829-Voidwood-and-Choirwood-Ender-Wood/comments/37897115888013",
+        "created_at": "2025-07-08T03:01:29Z",
+        "updated_at": "2025-07-08T23:44:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/18452000626829/comments/37897115888013.json",
+        "post_id": 18452000626829,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 18408181233293,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 18575610381325,
+        "body": "<p>This seems unbalanced. You can already use Fortune enchantment for this.</p>",
+        "author_id": 13159063822989,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/18408181233293-Iron-ore-should-drop-more-raw-iron/comments/18575610381325",
+        "created_at": "2023-08-16T07:38:50Z",
+        "updated_at": "2023-08-16T19:54:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/18408181233293/comments/18575610381325.json",
+        "post_id": 18408181233293,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 18624344246413,
+        "body": "<p>Oh nvm then\n</p>",
+        "author_id": 18611943875213,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/18408181233293-Iron-ore-should-drop-more-raw-iron/comments/18624344246413",
+        "created_at": "2023-08-17T15:34:15Z",
+        "updated_at": "2023-08-17T15:34:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/18408181233293/comments/18624344246413.json",
+        "post_id": 18408181233293,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 18215083926669,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 26655200964237,
+        "body": "<p>And the exp cost to repair shouldn't increase with more repairs. </p>",
+        "author_id": 22675925636365,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/18215083926669-More-items-should-be-able-to-be-repaired-with-materials/comments/26655200964237",
+        "created_at": "2024-05-12T00:25:08Z",
+        "updated_at": "2024-05-12T00:25:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/18215083926669/comments/26655200964237.json",
+        "post_id": 18215083926669,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 18158807179789,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 24858477332493,
+        "body": "<p>This is a great idea for all growable plants in Minecraft and provides so many new variants of what we already have. I was literally talking about this yesterday. It would take time having to collect the plants at the stages you wanted but once placed if they didn't continue to grow it would really diversify farm fields.</p>",
+        "author_id": 8237031584013,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/18158807179789-Pick-up-Sniffer-plants-at-any-growth-stage/comments/24858477332493",
+        "created_at": "2024-03-10T03:05:02Z",
+        "updated_at": "2024-03-11T23:43:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/18158807179789/comments/24858477332493.json",
+        "post_id": 18158807179789,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 18055254773389,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 18146533354125,
+        "body": "<p>So what you're saying...is you want elytra and fireworks to be obsolete?</p>",
+        "author_id": 399253570391,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/18055254773389-Helicopter/comments/18146533354125",
+        "created_at": "2023-08-02T01:06:09Z",
+        "updated_at": "2023-09-13T16:29:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/18055254773389/comments/18146533354125.json",
+        "post_id": 18055254773389,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

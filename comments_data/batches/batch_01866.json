@@ -1,0 +1,1147 @@
+[
+  {
+    "post_id": 38263117341325,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 39591606358541,
+        "body": "<p>What change?</p>",
+        "author_id": 423562415371,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38263117341325-Revert-the-Ladder-Change/comments/39591606358541",
+        "created_at": "2025-09-15T20:04:26Z",
+        "updated_at": "2025-09-15T20:04:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38263117341325/comments/39591606358541.json",
+        "post_id": 38263117341325,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37763163531661,
+    "expected_comment_count": 7,
+    "actual_comment_count": 7,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 37763538242701,
+        "body": "<p>for anyone interested in this post that are confused if you change the mode using a ui button, the input mode could be enabled by a redstone input ex putting a redstone block under the chest</p>",
+        "author_id": 37763305964173,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37763163531661-Redstone-UI-Toggleable-Copper-Chest/comments/37763538242701",
+        "created_at": "2025-07-01T22:54:13Z",
+        "updated_at": "2025-07-03T20:11:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37763163531661/comments/37763538242701.json",
+        "post_id": 37763163531661,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37764338734477,
+        "body": "<p>It would be useful for moving items around. A great addition to this idea would be to make the copper chest toggleable with redstone. Unpowered = output, powered = input. Please vote this post and comment up, I feel this would be a great addition to redstone.&nbsp;</p>",
+        "author_id": 26581285659533,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37763163531661-Redstone-UI-Toggleable-Copper-Chest/comments/37764338734477",
+        "created_at": "2025-07-01T23:37:08Z",
+        "updated_at": "2025-07-03T21:22:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37763163531661/comments/37764338734477.json",
+        "post_id": 37763163531661,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37764635932813,
+        "body": "<p>Maybe change the title to mention redstone inputs. This will gain attention and more votes for what I believe will be an awesome feature.&nbsp;</p>",
+        "author_id": 26581285659533,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37763163531661-Redstone-UI-Toggleable-Copper-Chest/comments/37764635932813",
+        "created_at": "2025-07-01T23:55:04Z",
+        "updated_at": "2025-07-03T21:26:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37763163531661/comments/37764635932813.json",
+        "post_id": 37763163531661,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37764791373069,
+        "body": "<p>This would be awesome if there was a toggle in the chest gui but it could also be done through powering the chests with redstone.</p>",
+        "author_id": 393950925872,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37763163531661-Redstone-UI-Toggleable-Copper-Chest/comments/37764791373069",
+        "created_at": "2025-07-02T00:04:14Z",
+        "updated_at": "2025-07-03T21:29:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37763163531661/comments/37764791373069.json",
+        "post_id": 37763163531661,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37828040075149,
+        "body": "<p>I think it can be done simmilarly to copper bulbs, i.e. copper chests shouldn't require constant powering to be inactive for copper golems</p>",
+        "author_id": 405076306791,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37763163531661-Redstone-UI-Toggleable-Copper-Chest/comments/37828040075149",
+        "created_at": "2025-07-04T12:23:14Z",
+        "updated_at": "2025-07-05T17:09:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37763163531661/comments/37828040075149.json",
+        "post_id": 37763163531661,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38531374693133,
+        "body": "<p>You should move this into upcoming game drop features. This category is for posts concerning the chase the skies drop.</p>",
+        "author_id": 26581285659533,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37763163531661-Redstone-UI-Toggleable-Copper-Chest/comments/38531374693133",
+        "created_at": "2025-08-03T09:02:25Z",
+        "updated_at": "2025-08-03T18:09:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37763163531661/comments/38531374693133.json",
+        "post_id": 37763163531661,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38889175870093,
+        "body": "<p>Interestingly I never put it in chase the skies. I had it in upcoming game drops.</p>",
+        "author_id": 28008970297997,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37763163531661-Redstone-UI-Toggleable-Copper-Chest/comments/38889175870093",
+        "created_at": "2025-08-18T12:14:58Z",
+        "updated_at": "2025-08-18T12:14:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37763163531661/comments/38889175870093.json",
+        "post_id": 37763163531661,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38361346202765,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38366868296077,
+        "body": "<p>Yes AND if they find a shulker or bundle in their copper chest, they can sort the items in it into other chests. Best remember to have an empty double chest with a shulker box and another with a bundle!&nbsp;</p>",
+        "author_id": 34495023570957,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38361346202765-Copper-golems-should-put-items-into-barrels-and-shulker-boxes-too/comments/38366868296077",
+        "created_at": "2025-07-28T01:34:44Z",
+        "updated_at": "2025-07-29T17:42:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38361346202765/comments/38366868296077.json",
+        "post_id": 38361346202765,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40987297349901,
+        "body": "<p>I think they should also be able to climb ladders </p>",
+        "author_id": 40987293150861,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38361346202765-Copper-golems-should-put-items-into-barrels-and-shulker-boxes-too/comments/40987297349901",
+        "created_at": "2025-11-08T23:32:16Z",
+        "updated_at": "2025-11-08T23:32:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38361346202765/comments/40987297349901.json",
+        "post_id": 38361346202765,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37767607635725,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 37790439740941,
+        "body": "<p>I've seen others suggest that Copper tools &amp; armor should actually start out faster/stronger than gold &amp; iron, but decay as they loose durability, and visually oxidize as well. But if that ends up being too complicated, then honestly, just improving the base mining speed of copper tools would be amazing</p>",
+        "author_id": 398099918792,
+        "vote_sum": 6,
+        "vote_count": 6,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37767607635725-Copper-tools-should-be-faster-to-improve-building-in-the-early-to-mid-game/comments/37790439740941",
+        "created_at": "2025-07-02T21:00:37Z",
+        "updated_at": "2025-07-04T14:25:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37767607635725/comments/37790439740941.json",
+        "post_id": 37767607635725,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38029165059725,
+        "body": "<p>I like this idea a lot because I feel like the game is at its best before you get diamond gear, but I always feel rushed before making my house to get good tools so that it won't take ages to gather everything. I want to enjoy the early game for longer without feeling like I'm shooting myself in the foot for doing so</p>",
+        "author_id": 401839835771,
+        "vote_sum": 4,
+        "vote_count": 4,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37767607635725-Copper-tools-should-be-faster-to-improve-building-in-the-early-to-mid-game/comments/38029165059725",
+        "created_at": "2025-07-13T20:52:36Z",
+        "updated_at": "2025-07-13T20:52:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37767607635725/comments/38029165059725.json",
+        "post_id": 37767607635725,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38366176302349,
+        "body": "<p>Make copper quickly mine deepslate? Perhaps?&nbsp;</p>",
+        "author_id": 34495023570957,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37767607635725-Copper-tools-should-be-faster-to-improve-building-in-the-early-to-mid-game/comments/38366176302349",
+        "created_at": "2025-07-28T00:11:40Z",
+        "updated_at": "2025-07-28T00:11:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37767607635725/comments/38366176302349.json",
+        "post_id": 37767607635725,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38616537707789,
+        "body": "<p>I wrote a <a href=\"/hc/en-us/community/posts/38022894182285-Copper-tool-better-enchantability-BUT-it-requires-diamonds-A-problem\" target=\"_blank\" rel=\"nofollow noreferrer\">suggestion</a> about a unique copper enchant</p>\n<p>I voted for your idea so consider to give me your feedback for my idea! Thanks.</p>",
+        "author_id": 38022839879693,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37767607635725-Copper-tools-should-be-faster-to-improve-building-in-the-early-to-mid-game/comments/38616537707789",
+        "created_at": "2025-08-06T16:20:02Z",
+        "updated_at": "2025-10-10T17:19:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37767607635725/comments/38616537707789.json",
+        "post_id": 37767607635725,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40241382708493,
+        "body": "<p>I wish they would be faster but would slow down when weathering and you could wax them\n<br />And armor would lose points when weathering </p>",
+        "author_id": 401799717511,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37767607635725-Copper-tools-should-be-faster-to-improve-building-in-the-early-to-mid-game/comments/40241382708493",
+        "created_at": "2025-10-10T15:13:19Z",
+        "updated_at": "2025-10-10T15:13:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37767607635725/comments/40241382708493.json",
+        "post_id": 37767607635725,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40123316475405,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40310680078989,
+        "body": "<p>this is the only thing that stops me from using them it needs to be fixed</p>",
+        "author_id": 26720471048717,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40123316475405-Mannequins-should-handle-arm-swinging/comments/40310680078989",
+        "created_at": "2025-10-14T02:11:55Z",
+        "updated_at": "2025-10-14T02:11:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40123316475405/comments/40310680078989.json",
+        "post_id": 40123316475405,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38267919202061,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41351403000205,
+        "body": "<p>We do need this.&nbsp; The scenic abilities that would be added with this!</p>",
+        "author_id": 12542263824269,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38267919202061-Add-copper-golem-statue-ability-to-hold-items/comments/41351403000205",
+        "created_at": "2025-11-22T20:30:40Z",
+        "updated_at": "2025-11-22T20:30:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38267919202061/comments/41351403000205.json",
+        "post_id": 38267919202061,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41924404894477,
+        "body": "<p>That would be great&nbsp;</p>",
+        "author_id": 22675925636365,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38267919202061-Add-copper-golem-statue-ability-to-hold-items/comments/41924404894477",
+        "created_at": "2025-12-14T17:03:12Z",
+        "updated_at": "2025-12-14T17:03:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38267919202061/comments/41924404894477.json",
+        "post_id": 38267919202061,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38185049591693,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38199486308109,
+        "body": "<p>I'll make an addition here and say that the Pathfinder block could be expanded by helping lead NPCs to modes of transportation and permitting the NPCs' usage of said transport. So, a Villager or Copper Golem could take a minecart to their intended work site if a Pathfinder block indicates the minecart is permissible to use due to adjacent placement. If not adjacent placement, then a dedicated cart for NPC use.</p>\n<p>This adds a new reason to build transportation structures and vastly expands the potential activity in a base.</p>",
+        "author_id": 419260475712,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38185049591693-Pathfinding-Block-For-Copper-Golems-and-Villagers/comments/38199486308109",
+        "created_at": "2025-07-21T02:29:57Z",
+        "updated_at": "2025-07-21T17:52:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38185049591693/comments/38199486308109.json",
+        "post_id": 38185049591693,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37793206143885,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 37793716041357,
+        "body": "<p>Yes.&nbsp;</p>\n<p>Makes sense.&nbsp;</p>",
+        "author_id": 34999267364877,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37793206143885-Copper-golems-should-take-reduced-fire-damage/comments/37793716041357",
+        "created_at": "2025-07-02T23:09:46Z",
+        "updated_at": "2025-07-04T14:52:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37793206143885/comments/37793716041357.json",
+        "post_id": 37793206143885,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37822456571789,
+        "body": "<p>It might be even fair to have it be immune to fire damage tbh.<br><br>I think it should also be immune to fall damage.&nbsp;</p>",
+        "author_id": 8457412725133,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37793206143885-Copper-golems-should-take-reduced-fire-damage/comments/37822456571789",
+        "created_at": "2025-07-04T01:33:55Z",
+        "updated_at": "2025-07-04T01:33:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37793206143885/comments/37822456571789.json",
+        "post_id": 37793206143885,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37851477185293,
+        "body": "<p>Yes, they are made of metal!</p>\n<p>&nbsp;</p>",
+        "author_id": 37851108396301,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37793206143885-Copper-golems-should-take-reduced-fire-damage/comments/37851477185293",
+        "created_at": "2025-07-05T18:03:20Z",
+        "updated_at": "2025-07-05T18:36:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37793206143885/comments/37851477185293.json",
+        "post_id": 37793206143885,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38052076720525,
+        "body": "<p>They should still get damaged in lava thou but fire immune, fire tick immune sounds fine!</p>",
+        "author_id": 38022839879693,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37793206143885-Copper-golems-should-take-reduced-fire-damage/comments/38052076720525",
+        "created_at": "2025-07-14T18:49:29Z",
+        "updated_at": "2025-07-14T18:49:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37793206143885/comments/38052076720525.json",
+        "post_id": 37793206143885,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38531295595277,
+        "body": "<p>Maybe reduced fire damage for all golems, (Not counting lava damage as that would nerf iron farms.) just to keep it consistent.&nbsp;</p>",
+        "author_id": 26581285659533,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37793206143885-Copper-golems-should-take-reduced-fire-damage/comments/38531295595277",
+        "created_at": "2025-08-03T08:23:30Z",
+        "updated_at": "2025-08-03T08:23:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37793206143885/comments/38531295595277.json",
+        "post_id": 37793206143885,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 33418949856013,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38861453972109,
+        "body": "<p>You already can? Did you mean leaf litter? Foliage like leafs can already be placed after shearing them from a tree.</p>",
+        "author_id": 38022839879693,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33418949856013-Let-us-place-foliage-on-mossy-stone-blocks/comments/38861453972109",
+        "created_at": "2025-08-16T10:00:53Z",
+        "updated_at": "2025-08-16T10:00:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33418949856013/comments/38861453972109.json",
+        "post_id": 33418949856013,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40189694673293,
+        "body": "<p>Being able to place flowers, ferns, or grass on mossy blocks would be cool.&nbsp;</p>",
+        "author_id": 18300195374605,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33418949856013-Let-us-place-foliage-on-mossy-stone-blocks/comments/40189694673293",
+        "created_at": "2025-10-08T18:19:41Z",
+        "updated_at": "2025-10-08T18:19:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33418949856013/comments/40189694673293.json",
+        "post_id": 33418949856013,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38588297158157,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38600204468621,
+        "body": "<p>There have been lots of texture packs and mods with different iron bar designs so there is definitely a desire in the community for this.  Maybe something gothic and detailed, or maybe go the other way and make something minimalist and sci-fi</p>",
+        "author_id": 409435932052,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38588297158157-Copper-Bar-with-different-pattern/comments/38600204468621",
+        "created_at": "2025-08-05T23:44:50Z",
+        "updated_at": "2025-08-06T16:25:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38588297158157/comments/38600204468621.json",
+        "post_id": 38588297158157,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38615278789261,
+        "body": "<p>I also put this idea out together with some others, please check it out:</p>\n<p>&nbsp;</p>\n<p><a href=\"/hc/en-us/community/posts/38591223185933-Copper-bar-should-use-different-designs-and-be-3D-Also-iron-block-variant\" rel=\"nofollow noreferrer\">https://feedback.minecraft.net/hc/en-us/community/posts/38591223185933-Copper-bar-should-use-different-designs-and-be-3D-Also-iron-block-variant</a></p>\n<p>&nbsp;</p>\n<p>I also voted for yours!</p>",
+        "author_id": 38022839879693,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38588297158157-Copper-Bar-with-different-pattern/comments/38615278789261",
+        "created_at": "2025-08-06T15:51:23Z",
+        "updated_at": "2025-08-07T20:14:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38588297158157/comments/38615278789261.json",
+        "post_id": 38588297158157,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38585712239757,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38588335713549,
+        "body": "<p>Yeah I like the idea of them glowing underwater too</p>",
+        "author_id": 1905594546247,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38585712239757-Copper-torches-should-glow-underwater-and-have-brightness-levels/comments/38588335713549",
+        "created_at": "2025-08-05T17:30:14Z",
+        "updated_at": "2025-08-05T17:30:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38585712239757/comments/38588335713549.json",
+        "post_id": 38585712239757,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 39591759923341,
+        "body": "<p>Copper torches underwater doesn't make sense. Copper doesn't protect the flame; it only changes its color. This reflects real life.</p>",
+        "author_id": 423562415371,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38585712239757-Copper-torches-should-glow-underwater-and-have-brightness-levels/comments/39591759923341",
+        "created_at": "2025-09-15T20:08:01Z",
+        "updated_at": "2025-09-15T20:08:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38585712239757/comments/39591759923341.json",
+        "post_id": 38585712239757,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38559790349965,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38587766291597,
+        "body": "<p>It could be&nbsp;<strong>WATER RESISTANT.</strong> Means that it can't break with water. It could also be<strong> TNT RESISTANT.</strong> You-Know-What i'd say now.</p>",
+        "author_id": 38554260494861,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38559790349965-Redstocite-A-minecraft-idea/comments/38587766291597",
+        "created_at": "2025-08-05T17:15:40Z",
+        "updated_at": "2025-08-07T17:28:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38559790349965/comments/38587766291597.json",
+        "post_id": 38559790349965,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38618260885133,
+        "body": "<p>This is a much better and original idea than many \"bluestones\" ideas that don't use many redstone features already in the game. Plus, this add new possibilities with redstone, with different wires that doesn't connects with each other, allows for more compact and new redstone machines.</p>\n<p>Although, dyeing could be a little extreme, and for a redstone perspective, this only makes sense if the actual signals (through solid blocks) won't mix to other colors.</p>",
+        "author_id": 407000818272,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38559790349965-Redstocite-A-minecraft-idea/comments/38618260885133",
+        "created_at": "2025-08-06T17:01:36Z",
+        "updated_at": "2025-08-06T17:20:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38559790349965/comments/38618260885133.json",
+        "post_id": 38559790349965,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37935295901069,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38486100408205,
+        "body": "<p>I think that armor models should stay the same. If you want to personalize your armor, just use armor trims. That's why they exist.</p>",
+        "author_id": 12270814940301,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37935295901069-Make-All-Armor-Types-Visually-Unique-in-Appearance/comments/38486100408205",
+        "created_at": "2025-07-31T23:43:00Z",
+        "updated_at": "2025-07-31T23:43:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37935295901069/comments/38486100408205.json",
+        "post_id": 37935295901069,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38531268733581,
+        "body": "<p>I feel there should be subtle changes to how armor looks, to keep it from looking identical. Just changing the order of the different colour pixels within the armor would be enough.</p>",
+        "author_id": 26581285659533,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37935295901069-Make-All-Armor-Types-Visually-Unique-in-Appearance/comments/38531268733581",
+        "created_at": "2025-08-03T08:28:09Z",
+        "updated_at": "2025-08-03T08:28:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37935295901069/comments/38531268733581.json",
+        "post_id": 37935295901069,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 39270378619149,
+    "expected_comment_count": 8,
+    "actual_comment_count": 8,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 39271114818317,
+        "body": "<p>Omg yes !!\n<br />Also to be able to run commands when right clicking on them</p>",
+        "author_id": 30231731643533,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39270378619149-Add-Simple-Programmable-Mannequin-Behaviors/comments/39271114818317",
+        "created_at": "2025-09-02T19:08:26Z",
+        "updated_at": "2025-09-02T19:08:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39270378619149/comments/39271114818317.json",
+        "post_id": 39270378619149,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 39271290230797,
+        "body": "<p>OP here, I was gonna add a suggestion about being able to run commands, or at the very least send messages in chat whn right clicked, but I ran out of text space.</p>",
+        "author_id": 13208973088141,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39270378619149-Add-Simple-Programmable-Mannequin-Behaviors/comments/39271290230797",
+        "created_at": "2025-09-02T19:12:29Z",
+        "updated_at": "2025-09-02T19:12:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39270378619149/comments/39271290230797.json",
+        "post_id": 39270378619149,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 39271381454605,
+        "body": "<p>It really reminds me of the Adventurecraft mod where you would also have patrolling and moving NPCs so I'm very happy that they made there</p>",
+        "author_id": 30231731643533,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39270378619149-Add-Simple-Programmable-Mannequin-Behaviors/comments/39271381454605",
+        "created_at": "2025-09-02T19:16:06Z",
+        "updated_at": "2025-09-02T19:16:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39270378619149/comments/39271381454605.json",
+        "post_id": 39270378619149,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 39289154287629,
+        "body": "<p>Yes Mojang add this to mannequins and make it where they attack players or mine blocks and collect things and give them to you by chatting to them.</p>",
+        "author_id": 420955394032,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39270378619149-Add-Simple-Programmable-Mannequin-Behaviors/comments/39289154287629",
+        "created_at": "2025-09-03T13:12:43Z",
+        "updated_at": "2025-09-03T13:12:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39270378619149/comments/39289154287629.json",
+        "post_id": 39270378619149,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 39460629703309,
+        "body": "<p>I agree with everything except the ones that are completely doable via commands.</p>\n<p>So, Pose and Action would be nice.</p>\n<p>Ig pathfinding would be a bit tedious with commands, but it's still possible</p>",
+        "author_id": 7717519332877,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39270378619149-Add-Simple-Programmable-Mannequin-Behaviors/comments/39460629703309",
+        "created_at": "2025-09-10T11:36:51Z",
+        "updated_at": "2025-09-10T14:21:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39270378619149/comments/39460629703309.json",
+        "post_id": 39270378619149,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 39477896443149,
+        "body": "<p>Yes LookAt is possible with commands, but the Home mechanic and pathfinding would be really great and doesn't look great at all with commands</p>",
+        "author_id": 30231731643533,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39270378619149-Add-Simple-Programmable-Mannequin-Behaviors/comments/39477896443149",
+        "created_at": "2025-09-10T20:02:45Z",
+        "updated_at": "2025-09-10T20:02:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39270378619149/comments/39477896443149.json",
+        "post_id": 39270378619149,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 39498663173133,
+        "body": "<p>Yeah, so till someone remakes A* Pathfinding as a datapack, it would be nice</p>",
+        "author_id": 7717519332877,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39270378619149-Add-Simple-Programmable-Mannequin-Behaviors/comments/39498663173133",
+        "created_at": "2025-09-11T15:51:59Z",
+        "updated_at": "2025-09-11T15:55:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39270378619149/comments/39498663173133.json",
+        "post_id": 39270378619149,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 39931496740877,
+        "body": "<p>A list of mobs and players it will attack would be nice</p>",
+        "author_id": 39416620240525,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39270378619149-Add-Simple-Programmable-Mannequin-Behaviors/comments/39931496740877",
+        "created_at": "2025-09-29T10:07:21Z",
+        "updated_at": "2025-09-29T10:07:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39270378619149/comments/39931496740877.json",
+        "post_id": 39270378619149,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38587577039629,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38663675688845,
+        "body": "<p>Rather than nametags preventing copper golems from turning to statues, a copper golem that becomes a statue should keep its custom name when picked up as an item, and renamed copper golem statues should display their names when brought back to life.</p>",
+        "author_id": 36593105869069,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38587577039629-Copper-Golems-can-t-turn-into-statues-if-they-are-nametagged/comments/38663675688845",
+        "created_at": "2025-08-08T02:42:40Z",
+        "updated_at": "2025-08-08T02:42:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38587577039629/comments/38663675688845.json",
+        "post_id": 38587577039629,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38774952241421,
+        "body": "<p>They won't if you wax them.&nbsp;</p>",
+        "author_id": 26581285659533,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38587577039629-Copper-Golems-can-t-turn-into-statues-if-they-are-nametagged/comments/38774952241421",
+        "created_at": "2025-08-13T04:06:54Z",
+        "updated_at": "2025-08-13T04:06:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38587577039629/comments/38774952241421.json",
+        "post_id": 38587577039629,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 39591845115917,
+        "body": "<p>First, even when they freeze, named copper golems keep their names.</p>\n<p>Second, you can wax a copper golem to keep it from oxidizing and freezing.</p>",
+        "author_id": 423562415371,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38587577039629-Copper-Golems-can-t-turn-into-statues-if-they-are-nametagged/comments/39591845115917",
+        "created_at": "2025-09-15T20:10:50Z",
+        "updated_at": "2025-09-15T20:10:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38587577039629/comments/39591845115917.json",
+        "post_id": 38587577039629,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38037061196813,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38133845120653,
+        "body": "<p>maybe make iron spawn on the TALLEST mountian ranges since it's a challenge getting up there in the first place instead of delating all iron above y=40</p>",
+        "author_id": 30738692558093,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38037061196813-Make-Iron-ore-More-rarer-to-have-use-for-copper-tools-and-more/comments/38133845120653",
+        "created_at": "2025-07-17T16:10:32Z",
+        "updated_at": "2025-07-17T16:10:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38037061196813/comments/38133845120653.json",
+        "post_id": 38037061196813,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38484807220749,
+        "body": "<p>Great idea overall. However, instead of allowing copper pickaxes to mine higher-tier ores, stone pickaxes shouldn't be able to mine iron anymore. This would mean players would have to upgrade from stone to copper tools in order to get iron. The pickaxe progression would look like:<br>Wood &gt; Stone &gt; Copper &gt; Iron &gt; Diamond</p>",
+        "author_id": 391452382351,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38037061196813-Make-Iron-ore-More-rarer-to-have-use-for-copper-tools-and-more/comments/38484807220749",
+        "created_at": "2025-07-31T22:27:18Z",
+        "updated_at": "2025-08-03T03:04:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38037061196813/comments/38484807220749.json",
+        "post_id": 38037061196813,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37901123549453,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38462867920653,
+        "body": "<p>Tip: we already have decorated pots for this feature.</p>",
+        "author_id": 407000818272,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37901123549453-BIG-POT-FOR-2-BLOCKS-TALL-FLOWERS/comments/38462867920653",
+        "created_at": "2025-07-31T10:23:27Z",
+        "updated_at": "2025-07-31T10:23:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37901123549453/comments/38462867920653.json",
+        "post_id": 37901123549453,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37805910156813,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 37807061810701,
+        "body": "<p>Not that it is a bad idea to have different raw copper, copper ingots, nuggets and raw copper blocks. But how would they be changed? They shouldnt change in the inventory, so maybe adding item racks or giving item frames a practical purpose in crafting?</p>",
+        "author_id": 29574754912141,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37805910156813-Oxidised-copper-golems-should-drop-oxidised-copper-ingots/comments/37807061810701",
+        "created_at": "2025-07-03T15:20:10Z",
+        "updated_at": "2025-07-03T15:20:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37805910156813/comments/37807061810701.json",
+        "post_id": 37805910156813,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37814721261581,
+        "body": "<p>Adding copper ingot variants would make it necessary to add variants for nuggets as well. It would give us some crafting recipes for turning each copper block variant into an equivalent copper ingot, each ingot variant into an equivalent nugget variant and vice versa. I think we don't need waxed copper ingots/nuggets so that putting a waxed block into a crafting table would give 9 ingots that are not waxed or would not give anything. We don't need raw copper oxidation variants (which was suggested by someone else there) and tool/armor variants either. But in general, I like your idea.</p>",
+        "author_id": 28039776304013,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37805910156813-Oxidised-copper-golems-should-drop-oxidised-copper-ingots/comments/37814721261581",
+        "created_at": "2025-07-03T19:15:57Z",
+        "updated_at": "2025-07-04T19:03:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37805910156813/comments/37814721261581.json",
+        "post_id": 37805910156813,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37885627267597,
+        "body": "<p>used to craft oxidized copper armor and blocks</p>",
+        "author_id": 16475788167821,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37805910156813-Oxidised-copper-golems-should-drop-oxidised-copper-ingots/comments/37885627267597",
+        "created_at": "2025-07-07T18:41:07Z",
+        "updated_at": "2025-07-07T18:41:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37805910156813/comments/37885627267597.json",
+        "post_id": 37805910156813,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37885635073165,
+        "body": "<p>used to craft oxidized copper armor and blocks</p>",
+        "author_id": 16475788167821,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37805910156813-Oxidised-copper-golems-should-drop-oxidised-copper-ingots/comments/37885635073165",
+        "created_at": "2025-07-07T18:41:57Z",
+        "updated_at": "2025-07-07T18:41:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37805910156813/comments/37885635073165.json",
+        "post_id": 37805910156813,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 39671112767117,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 39711425984397,
+        "body": "<p>I absolutely adore this feedback, I feel the same way by having Off-hand added to Bedrock, we can potentially repair our tools more efficiently and have way more approved mechanics.</p>",
+        "author_id": 424105838271,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39671112767117-Off-hand-in-minecraft-bedrock-edition/comments/39711425984397",
+        "created_at": "2025-09-19T19:23:14Z",
+        "updated_at": "2025-09-19T21:46:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39671112767117/comments/39711425984397.json",
+        "post_id": 39671112767117,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38737281400077,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38743315332621,
+        "body": "<p>I completely agree. But if Mojang wants to make them into actual different items I don't mind.</p>",
+        "author_id": 407000818272,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38737281400077-Copper-armour-tools-should-oxidize-as-durability-decreases/comments/38743315332621",
+        "created_at": "2025-08-12T01:37:20Z",
+        "updated_at": "2025-08-12T01:37:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38737281400077/comments/38743315332621.json",
+        "post_id": 38737281400077,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38798002291469,
+        "body": "<p>Yes that's a good point</p>",
+        "author_id": 30982297173261,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38737281400077-Copper-armour-tools-should-oxidize-as-durability-decreases/comments/38798002291469",
+        "created_at": "2025-08-13T20:55:34Z",
+        "updated_at": "2025-08-13T20:55:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38737281400077/comments/38798002291469.json",
+        "post_id": 38737281400077,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38707640136589,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38748912188685,
+        "body": "<p>! 👋 I’ve just posted an idea I think you might like: Copper Armor &amp; Golem Lightning Boost. ⚡ Imagine wearing copper armor during a thunderstorm and getting a temporary power boost instead of damage!\n<br />You can check it out here ➡️ [Copper Armor &amp; Golem Lightning Boost – Vote me, I’ll vote you\n<br />]</p>\n\n<p>What do you think about it?\n</p>",
+        "author_id": 408810602671,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38707640136589-Copper-Chains-in-Trial-Chambers/comments/38748912188685",
+        "created_at": "2025-08-12T11:02:52Z",
+        "updated_at": "2025-08-12T22:51:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38707640136589/comments/38748912188685.json",
+        "post_id": 38707640136589,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38657683623565,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38665704829453,
+        "body": "<p>But what happens if a copper minecart travels on regular rails?</p>",
+        "author_id": 38637604520333,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38657683623565-I-d-like-to-suggest-a-new-type-of-minecart-and-rail-made-using-copper/comments/38665704829453",
+        "created_at": "2025-08-08T07:26:19Z",
+        "updated_at": "2025-08-08T07:26:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38657683623565/comments/38665704829453.json",
+        "post_id": 38657683623565,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38674771959053,
+        "body": "<p>What purpose would this serve?</p>",
+        "author_id": 38674620897037,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38657683623565-I-d-like-to-suggest-a-new-type-of-minecart-and-rail-made-using-copper/comments/38674771959053",
+        "created_at": "2025-08-08T15:32:57Z",
+        "updated_at": "2025-08-08T15:32:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38657683623565/comments/38674771959053.json",
+        "post_id": 38657683623565,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38597389114765,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38599439088269,
+        "body": "<p>That sounds better. Copper light sources should be unique</p>",
+        "author_id": 38599412311053,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38597389114765-Lower-the-copper-lantern-and-torch-light-levels-from-15-and-14-to-13-and-12/comments/38599439088269",
+        "created_at": "2025-08-05T22:58:51Z",
+        "updated_at": "2025-08-05T22:58:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38597389114765/comments/38599439088269.json",
+        "post_id": 38597389114765,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38604913160717,
+        "body": "<p>Yea, mabye some actual green light instead of the default lighting as the default torch, each torch should emit different colors of lights</p>",
+        "author_id": 38585690348429,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38597389114765-Lower-the-copper-lantern-and-torch-light-levels-from-15-and-14-to-13-and-12/comments/38604913160717",
+        "created_at": "2025-08-06T07:38:43Z",
+        "updated_at": "2025-08-06T07:38:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38597389114765/comments/38604913160717.json",
+        "post_id": 38597389114765,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38412763433869,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38420882382349,
+        "body": "<p>Dang I just posted this! I agree though</p>",
+        "author_id": 10114439404557,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38412763433869-Netherite-Horse-Armor/comments/38420882382349",
+        "created_at": "2025-07-29T20:54:19Z",
+        "updated_at": "2025-07-30T15:03:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38412763433869/comments/38420882382349.json",
+        "post_id": 38412763433869,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38469348640269,
+        "body": "<p>Just relised we're also missing chainmail horse armor</p>",
+        "author_id": 38284557613837,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38412763433869-Netherite-Horse-Armor/comments/38469348640269",
+        "created_at": "2025-07-31T14:43:44Z",
+        "updated_at": "2025-07-31T16:19:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38412763433869/comments/38469348640269.json",
+        "post_id": 38412763433869,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38245660662669,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38264205333645,
+        "body": "<p>If there has to be a dye base, it could be crafted with 2 wooden slabs to give 4 dye bases. Then the dyes can be put on top of the dye bases and placed into the world.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38245660662669-Remove-New-Dye-Base/comments/38264205333645",
+        "created_at": "2025-07-23T12:29:01Z",
+        "updated_at": "2025-07-23T18:46:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38245660662669/comments/38264205333645.json",
+        "post_id": 38245660662669,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

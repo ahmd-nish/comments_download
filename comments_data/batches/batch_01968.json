@@ -1,0 +1,757 @@
+[
+  {
+    "post_id": 360069860071,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4420881751821,
+        "body": "<p>Yeah</p>",
+        "author_id": 423352236091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360069860071--Character-Creator-The-Ability-to-filter-by-owned-items/comments/4420881751821",
+        "created_at": "2022-01-14T22:51:35Z",
+        "updated_at": "2022-01-14T22:51:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360069860071/comments/4420881751821.json",
+        "post_id": 360069860071,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360067841751,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011111832,
+        "body": "<p>I'm just going to add to this post rather than make a new one:<br><br>Blacksmith: Buy all option. This would fill our inventory (180).<br><br>Salvaging: Salvage all option. We need to be able to favorite our items that we don't want salvaged.<br><br>How it works: Let's say you have 20 items favorited. Buy all from the blacksmith. Skim through and favorite what you just bought. Salvage all. Boom 5 mins top</p>",
+        "author_id": 398515675292,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067841751-Blacksmith-QoL-salvage-QoL/comments/360011111832",
+        "created_at": "2020-06-24T02:05:56Z",
+        "updated_at": "2020-06-24T08:52:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067841751/comments/360011111832.json",
+        "post_id": 360067841751,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360067604911,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 39904225785357,
+        "body": "<p>Great idea. I am looking for basically the same thing today, family has been playing every version since 1.6.5 beta and has hundreds of worlds we'd love to import to the latest versions on java server for nostalgia, even if it takes some manual effort.<br><br>To add to your post, I discovered via internet searches it WAS possible to specify the dimension seed up until 1.19 using a setting within a \"data pack dimension definition\", but sadly that feature allowing specifying seeds has been removed based on what I am reading on the internet.&nbsp; Also not sure if it supports copying the world data into that dimension or not...<br><br>Regardless, it would have been super useful to have the abilities to:<br>1) import a previous playthrough's world dimensions as dimensions in another world, and create a way to travel to them (data pack might be capable of this?), and then<br>2)set the seed for the imported dimensions to the original other seed if the other world used the same/similar world generator.&nbsp; Otherwise, choosing whether to make it a void world or use whichever worldgen current MC version supports for new chunks would also make me happy enough.</p>",
+        "author_id": 39903956143501,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067604911-Option-to-retain-old-world-creations-while-getting-new-features/comments/39904225785357",
+        "created_at": "2025-09-27T04:55:55Z",
+        "updated_at": "2025-09-27T04:55:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067604911/comments/39904225785357.json",
+        "post_id": 360067604911,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360066951432,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010656991,
+        "body": "<p>the f1 and f2 keys are already used, one (f2) is used to make screenshots, the other (f1) to make the player interface invisible.</p>",
+        "author_id": 398243658811,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360066951432-Difficulty-switcher/comments/360010656991",
+        "created_at": "2020-05-23T09:33:56Z",
+        "updated_at": "2020-05-23T09:34:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360066951432/comments/360010656991.json",
+        "post_id": 360066951432,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360061399251,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011239811,
+        "body": "<p>It feels a little out of place considering all the other ones are just iron armor. Maybe change all of them to match their armor types? There should also be an option for “old armor icons” and “new armor icons” if all of them get changed</p>",
+        "author_id": 396505027571,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360061399251-Custom-armor-bar-icon-while-wearing-netherrite-armor/comments/360011239811",
+        "created_at": "2020-07-03T23:34:27Z",
+        "updated_at": "2020-07-03T23:34:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360061399251/comments/360011239811.json",
+        "post_id": 360061399251,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360059713671,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009847512,
+        "body": "<p>I agree, maybe in the upcoming snapshots it has to do with the Bastions they spoke about last minecon</p>",
+        "author_id": 386268483311,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360059713671-Basalt-should-be-in-the-respawn-anchor-crafting-recipe/comments/360009847512",
+        "created_at": "2020-03-27T05:40:46Z",
+        "updated_at": "2020-03-27T14:44:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360059713671/comments/360009847512.json",
+        "post_id": 360059713671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360059352171,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4423504939021,
+        "body": "<p>Yes please! Upvoting this one. <br><br>My personal use case would be redstone contraptions. Larger redstone is helpful to comprehend with color coding. But as I build I make many changes and try various things. It'd be great to just place down my redstone on any color of wool I happen to have in inventory, and by able to give the individual circuits colors afterwards.<br><br>But for inventory management it also reduces required space. Just have a bunch of white/neutral blocks and a shulker of dyes on you, and build, and fix colors afterwards.&nbsp;<br><br>The concept is not new anymore either. Glow-ink and dyes can be applied on signs after the sign is placed. Would be cool/helpful/easy/managable to do that with any kind of colerable block.&nbsp;<br><br><br></p>",
+        "author_id": 398289181592,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360059352171-Easy-Dye/comments/4423504939021",
+        "created_at": "2022-01-30T09:38:42Z",
+        "updated_at": "2022-02-02T18:23:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360059352171/comments/4423504939021.json",
+        "post_id": 360059352171,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360055477431,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 15708093934605,
+        "body": "<p>カメラ反転できるようにして欲しいです！</p>",
+        "author_id": 15708092172557,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055477431-Flip-the-camera-operation-horizontally/comments/15708093934605",
+        "created_at": "2023-05-12T05:40:17Z",
+        "updated_at": "2023-05-12T05:40:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055477431/comments/15708093934605.json",
+        "post_id": 360055477431,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360055648872,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008719872,
+        "body": "<p>If this is on bedrock, you can turn them off in the settings.</p>",
+        "author_id": 391085589592,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055648872-The-new-button-highlights-I-know-I-m-being-a-bit-picky/comments/360008719872",
+        "created_at": "2019-12-17T04:19:03Z",
+        "updated_at": "2019-12-17T04:19:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055648872/comments/360008719872.json",
+        "post_id": 360055648872,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360055191512,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008396712,
+        "body": "<p>I was thinking the same thing.</p>",
+        "author_id": 389851296311,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055191512-Automatic-screen-dim/comments/360008396712",
+        "created_at": "2019-11-13T19:37:50Z",
+        "updated_at": "2019-11-13T19:37:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055191512/comments/360008396712.json",
+        "post_id": 360055191512,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360054918551,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015648272,
+        "body": "<p>I am playing Minecraft for you please \n</p>",
+        "author_id": 416995793271,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054918551-Have-the-crafting-menu-in-the-build-section/comments/360015648272",
+        "created_at": "2021-05-27T04:36:36Z",
+        "updated_at": "2021-05-27T04:36:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054918551/comments/360015648272.json",
+        "post_id": 360054918551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360054546111,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008163132,
+        "body": "<p>Moved to proper category.</p>\n<p>Clarified subject to help search results.</p>\n<p>Thanks for your contribution.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054546111-Healing-Food-Bar-improvements/comments/360008163132",
+        "created_at": "2019-10-22T22:39:22Z",
+        "updated_at": "2019-10-22T22:39:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054546111/comments/360008163132.json",
+        "post_id": 360054546111,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008184551,
+        "body": "<p>yes that not fair</p>",
+        "author_id": 373077102891,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054546111-Healing-Food-Bar-improvements/comments/360008184551",
+        "created_at": "2019-10-25T11:49:25Z",
+        "updated_at": "2019-10-25T11:49:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054546111/comments/360008184551.json",
+        "post_id": 360054546111,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360053479171,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008268312,
+        "body": "<p>Yes i have good\n</p>",
+        "author_id": 389262878292,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360053479171-Mejor-control-de-perfil/comments/360008268312",
+        "created_at": "2019-11-01T19:03:53Z",
+        "updated_at": "2020-07-03T03:34:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360053479171/comments/360008268312.json",
+        "post_id": 360053479171,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008609392,
+        "body": "<p>Añadir amigos</p>",
+        "author_id": 390748566751,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360053479171-Mejor-control-de-perfil/comments/360008609392",
+        "created_at": "2019-12-05T15:13:57Z",
+        "updated_at": "2020-07-27T19:16:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360053479171/comments/360008609392.json",
+        "post_id": 360053479171,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010591112,
+        "body": "<p>Bart\n</p>",
+        "author_id": 398134074991,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360053479171-Mejor-control-de-perfil/comments/360010591112",
+        "created_at": "2020-05-18T20:25:03Z",
+        "updated_at": "2020-07-27T19:17:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360053479171/comments/360010591112.json",
+        "post_id": 360053479171,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012266492,
+        "body": "<p>El juego es increíble </p>",
+        "author_id": 401170052791,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360053479171-Mejor-control-de-perfil/comments/360012266492",
+        "created_at": "2020-07-27T19:16:37Z",
+        "updated_at": "2020-07-27T19:17:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360053479171/comments/360012266492.json",
+        "post_id": 360053479171,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360050281511,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4403781466509,
+        "body": "<p>Absolutely, I hate having to adjust all my controls after switching versions. even if they somehow fixed the control changes between versions, sensitivity is still different between versions. I would love to see this added!</p>",
+        "author_id": 415176353952,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050281511-Controls-Settings-Control-Profiles/comments/4403781466509",
+        "created_at": "2021-06-25T20:56:07Z",
+        "updated_at": "2021-06-25T21:23:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050281511/comments/4403781466509.json",
+        "post_id": 360050281511,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360050210051,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5508063615885,
+        "body": "<p>Yes, and do not forget that the pouches have a blue scale of fullness. I think that it is worth making a \"negative\" frame for both scales, that is, when hovering over a light background, the frame darkens and vice versa.</p>",
+        "author_id": 416461943171,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050210051-Durability-Bar-Colour-Customisation/comments/5508063615885",
+        "created_at": "2022-04-13T10:15:39Z",
+        "updated_at": "2022-04-14T11:55:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050210051/comments/5508063615885.json",
+        "post_id": 360050210051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360049239151,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007275472,
+        "body": "<p>As long as this can be disabled. It will use more system resources to record and store the last 30 seconds of video all the time.</p>",
+        "author_id": 381203775032,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360049239151-Add-30-second-replay-to-Bedrock-Edition/comments/360007275472",
+        "created_at": "2019-08-26T16:39:33Z",
+        "updated_at": "2019-08-27T03:39:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360049239151/comments/360007275472.json",
+        "post_id": 360049239151,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360047873592,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006327112,
+        "body": "<p>Same for alt-tabbing. I don't want the menu to come up when I alt+tab. Would like to watch my family play while I work. Menu opening makes this impossible</p>",
+        "author_id": 384245614411,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047873592-New-F3-Hotkey-to-lose-window-focus-without-pausing-game/comments/360006327112",
+        "created_at": "2019-07-03T22:28:27Z",
+        "updated_at": "2019-07-03T22:28:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047873592/comments/360006327112.json",
+        "post_id": 360047873592,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360045555931,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005917631,
+        "body": "<p>Moved to proper category.</p>\n<p>Clarified subject to help search results.</p>\n<p>Thanks for your contribution.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360045555931-Screen-reader-default-option/comments/360005917631",
+        "created_at": "2019-06-03T14:39:43Z",
+        "updated_at": "2019-06-03T14:39:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360045555931/comments/360005917631.json",
+        "post_id": 360045555931,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360007325052,
+        "body": "<p>Same is happening for me! Hope it gets fixed.</p>",
+        "author_id": 371188026652,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360045555931-Screen-reader-default-option/comments/360007325052",
+        "created_at": "2019-08-28T18:17:17Z",
+        "updated_at": "2019-08-28T18:29:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360045555931/comments/360007325052.json",
+        "post_id": 360045555931,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360007889552,
+        "body": "<p>Screen reader all time I'm hate this</p>",
+        "author_id": 387918770712,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360045555931-Screen-reader-default-option/comments/360007889552",
+        "created_at": "2019-09-29T17:53:47Z",
+        "updated_at": "2019-10-07T15:37:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360045555931/comments/360007889552.json",
+        "post_id": 360045555931,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360045259812,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005855231,
+        "body": "<p>Moved to proper category.</p>\n<p>Thanks for your contribution.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360045259812-Make-UI-Appear-Instantly-in-Bedrock-mainly-with-screen-animations-off/comments/360005855231",
+        "created_at": "2019-05-29T16:02:48Z",
+        "updated_at": "2019-05-29T16:02:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360045259812/comments/360005855231.json",
+        "post_id": 360045259812,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 9371662885133,
+        "body": "<p>Is this a three year old bug?</p>\n<p>Wow.</p>\n<p>I think the resource pack I use actually fixes this, it's called Visual Deluxe Java UI.</p>",
+        "author_id": 391194487891,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360045259812-Make-UI-Appear-Instantly-in-Bedrock-mainly-with-screen-animations-off/comments/9371662885133",
+        "created_at": "2022-09-22T21:53:04Z",
+        "updated_at": "2022-09-22T21:53:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360045259812/comments/9371662885133.json",
+        "post_id": 360045259812,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360044278992,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008108692,
+        "body": "<p>Have you tried milk?</p>",
+        "author_id": 388664446971,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360044278992-Turn-off-bad-omen-effect-animation/comments/360008108692",
+        "created_at": "2019-10-17T17:40:35Z",
+        "updated_at": "2019-10-17T17:40:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360044278992/comments/360008108692.json",
+        "post_id": 360044278992,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008793052,
+        "body": "<p>I agree, this is completely stupid, They need to either give us a way to kill these bubble that a moron came up with, or make them things non hostile.</p>",
+        "author_id": 391560596572,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360044278992-Turn-off-bad-omen-effect-animation/comments/360008793052",
+        "created_at": "2019-12-26T23:18:51Z",
+        "updated_at": "2019-12-26T23:18:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360044278992/comments/360008793052.json",
+        "post_id": 360044278992,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010160511,
+        "body": "<p>Same bro im tired of having to look for a cow all the time because these swirls piss me off. Plus the damn things last forever</p>",
+        "author_id": 396305436492,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360044278992-Turn-off-bad-omen-effect-animation/comments/360010160511",
+        "created_at": "2020-04-17T02:34:04Z",
+        "updated_at": "2020-04-17T14:19:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360044278992/comments/360010160511.json",
+        "post_id": 360044278992,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043677672,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005627031,
+        "body": "<p>Moved to proper category.</p>\n<p>Thanks for your contribution.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043677672-more-colors-when-we-re-doing-the-symbol/comments/360005627031",
+        "created_at": "2019-05-13T22:02:11Z",
+        "updated_at": "2019-05-13T22:02:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043677672/comments/360005627031.json",
+        "post_id": 360043677672,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043305371,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005426831,
+        "body": "<p>What if you had both numbers displayed on the crafting menu?</p>\n\n<p>Ps: Your explanation was fine.</p>",
+        "author_id": 365326150692,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043305371-An-Easier-Way-to-Count-Your-Items-While-Crafting/comments/360005426831",
+        "created_at": "2019-04-28T16:00:31Z",
+        "updated_at": "2019-04-28T16:00:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043305371/comments/360005426831.json",
+        "post_id": 360043305371,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005427031,
+        "body": "<p><a href=\"/hc/en-us/profiles/365326150692-TheIronSniper1\" data-bi-name=\"theironsniper1\" data-bi-id=\"n5m1r1a3\" rel=\"nofollow noreferrer\">@TheIronSniper1&nbsp;</a>&nbsp;Thanks man.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043305371-An-Easier-Way-to-Count-Your-Items-While-Crafting/comments/360005427031",
+        "created_at": "2019-04-28T16:42:05Z",
+        "updated_at": "2019-04-28T16:42:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043305371/comments/360005427031.json",
+        "post_id": 360043305371,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005424092,
+        "body": "<p><a href=\"/hc/en-us/profiles/365326150692-TheIronSniper1\" data-bi-name=\"theironsniper1\" data-bi-id=\"n5m1r1a3\" rel=\"nofollow noreferrer\">@TheIronSniper1&nbsp;</a>&nbsp;Like what do you mean?</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043305371-An-Easier-Way-to-Count-Your-Items-While-Crafting/comments/360005424092",
+        "created_at": "2019-04-28T16:50:42Z",
+        "updated_at": "2019-04-28T16:50:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043305371/comments/360005424092.json",
+        "post_id": 360043305371,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005486571,
+        "body": "<p>Pretty good idea, as long as you have to hold shift to activate it. That way, it shows the number that will be acquired. If you don't hold shift, you'll craft once and pick it up. If you do hold shift, you'll craft all.</p>",
+        "author_id": 364935466911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043305371-An-Easier-Way-to-Count-Your-Items-While-Crafting/comments/360005486571",
+        "created_at": "2019-05-03T02:55:57Z",
+        "updated_at": "2019-05-03T02:55:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043305371/comments/360005486571.json",
+        "post_id": 360043305371,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043218291,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005337151,
+        "body": "<p>Moved to proper category.</p>\n<p>Thanks for your contribution.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043218291-Increased-access-while-horse-riding/comments/360005337151",
+        "created_at": "2019-04-22T16:27:17Z",
+        "updated_at": "2019-04-22T16:27:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043218291/comments/360005337151.json",
+        "post_id": 360043218291,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043027131,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005179452,
+        "body": "<p>Moved to proper category.\n<br />Thanks for your contribution.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043027131-Customizable-difficulties/comments/360005179452",
+        "created_at": "2019-04-09T00:18:02Z",
+        "updated_at": "2019-04-09T00:18:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043027131/comments/360005179452.json",
+        "post_id": 360043027131,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042752171,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013748932,
+        "body": "<p>Si que vuelba</p>",
+        "author_id": 407438513311,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042752171-Java-Version-Flight-in-Windows-10-Edition/comments/360013748932",
+        "created_at": "2020-12-05T00:11:42Z",
+        "updated_at": "2020-12-05T00:11:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042752171/comments/360013748932.json",
+        "post_id": 360042752171,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,1102 @@
+[
+  {
+    "post_id": 360072165051,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012338631,
+        "body": "<p>I agree. I always have to fly to get to a snowy mountain; I will try making it snow in a village!</p>",
+        "author_id": 401095480532,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072165051-Being-able-to-make-it-snow/comments/360012338631",
+        "created_at": "2020-08-10T14:30:57Z",
+        "updated_at": "2020-08-13T06:47:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072165051/comments/360012338631.json",
+        "post_id": 360072165051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012385891,
+        "body": "<p>if its cold enough you can do /weather rain and it will snow</p>",
+        "author_id": 401888073351,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072165051-Being-able-to-make-it-snow/comments/360012385891",
+        "created_at": "2020-08-13T18:19:01Z",
+        "updated_at": "2020-08-13T18:19:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072165051/comments/360012385891.json",
+        "post_id": 360072165051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012710052,
+        "body": "<p>already exists: /weather rain when the location is high enough / in a cold biome.</p>\n<p>your implementation would require rewriting snow entirely since snow right now is just rain with a different texture</p>",
+        "author_id": 384862341491,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072165051-Being-able-to-make-it-snow/comments/360012710052",
+        "created_at": "2020-08-29T16:58:04Z",
+        "updated_at": "2020-08-29T16:58:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072165051/comments/360012710052.json",
+        "post_id": 360072165051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013437112,
+        "body": "<p>Obviously /weather rain works, but when you're in a snowy biome trying to make it snow, /weather rain feels weird. Doing /weather snow could just say \"Set the weather to snow\" and then run the rain command. You could also do something similar in desert/badlands biomes, /weather overcast. Maybe the suggested commands that show up can vary in what biome you're in, so if you're in a snowy taiga, and start typing /weather, rain and overcast won't appear, but snow will. If you use rain or overcast, it'll still work, but just a little quality of life feature.</p>",
+        "author_id": 388981204312,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072165051-Being-able-to-make-it-snow/comments/360013437112",
+        "created_at": "2020-11-08T19:54:48Z",
+        "updated_at": "2020-11-09T01:43:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072165051/comments/360013437112.json",
+        "post_id": 360072165051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043506472,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005419352,
+        "body": "<p>While this would be fun, I don't think that it's feasible with Minecraft's current design. You could emulate this with commands, though, and I think that it would make for a great map.</p>",
+        "author_id": 380741653551,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043506472--sideways/comments/360005419352",
+        "created_at": "2019-04-28T04:00:40Z",
+        "updated_at": "2020-04-15T08:54:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043506472/comments/360005419352.json",
+        "post_id": 360043506472,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010126131,
+        "body": "<p>/upsidedown would be cool, too! It would probably be hard to code these commands in, though.</p>",
+        "author_id": 391650778031,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043506472--sideways/comments/360010126131",
+        "created_at": "2020-04-15T08:54:13Z",
+        "updated_at": "2020-04-15T16:52:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043506472/comments/360010126131.json",
+        "post_id": 360043506472,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043179012,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006386371,
+        "body": "<p>Minecraft automatically saves your world to disk every 3 (I think it's 3) minutes.</p>",
+        "author_id": 384380991192,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043179012-Add-exit-without-saving-In-creative/comments/360006386371",
+        "created_at": "2019-07-08T22:50:23Z",
+        "updated_at": "2019-07-08T22:50:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043179012/comments/360006386371.json",
+        "post_id": 360043179012,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360041488671,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004425912,
+        "body": "<p>I understand why you would want that information available, but why would it help with multiblock structures?</p>",
+        "author_id": 365326150692,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041488671-Player-data-should-contain-the-position-of-the-last-block-a-player-placed/comments/360004425912",
+        "created_at": "2019-02-12T17:39:21Z",
+        "updated_at": "2019-02-12T17:39:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041488671/comments/360004425912.json",
+        "post_id": 360041488671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360004430591,
+        "body": "<p>I think, to set a trigger when placing block and pass an argument of the position of the place to a function may be better.</p>",
+        "author_id": 373746185052,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041488671-Player-data-should-contain-the-position-of-the-last-block-a-player-placed/comments/360004430591",
+        "created_at": "2019-02-13T04:52:12Z",
+        "updated_at": "2019-02-13T04:52:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041488671/comments/360004430591.json",
+        "post_id": 360041488671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360004743831,
+        "body": "<p>In 1.13 you can use an achievement (in data pack) in order to detect when a block is placed.</p>\n<p><a href=\"https://minecraft.gamepedia.com/Advancements#minecraft:placed_block\" rel=\"nofollow noreferrer\">https://minecraft.gamepedia.com/Advancements#minecraft:placed_block</a></p>",
+        "author_id": 377847226292,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041488671-Player-data-should-contain-the-position-of-the-last-block-a-player-placed/comments/360004743831",
+        "created_at": "2019-03-06T09:57:03Z",
+        "updated_at": "2019-03-06T16:50:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041488671/comments/360004743831.json",
+        "post_id": 360041488671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005943172,
+        "body": "<p>I'd like to expand this to include the coordinates (and block type) of last block placed, the last block broken, and the last block interacted with (right-clicked), each stored separately.</p>\n<p>&nbsp;</p>\n<p>Maybe useful would also be the coordinates of the last block the player stood on, which could be used in parkour maps to quickly restore a falling player to where they left off.</p>\n<p>&nbsp;</p>\n<p>The current best option for getting the coordinates of a just-placed block? Creating a cubic grid of armor stands around the player and checking each block they occupy to see if it is a certain type. Every single time. And it doesn't work if players are allowed to place more than 1 of that type of block.</p>",
+        "author_id": 382734195232,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041488671-Player-data-should-contain-the-position-of-the-last-block-a-player-placed/comments/360005943172",
+        "created_at": "2019-06-05T06:02:36Z",
+        "updated_at": "2019-06-05T06:02:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041488671/comments/360005943172.json",
+        "post_id": 360041488671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006871011,
+        "body": "<p>Muito bom</p>",
+        "author_id": 385510079411,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041488671-Player-data-should-contain-the-position-of-the-last-block-a-player-placed/comments/360006871011",
+        "created_at": "2019-08-03T18:22:22Z",
+        "updated_at": "2019-08-03T18:22:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041488671/comments/360006871011.json",
+        "post_id": 360041488671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360039489631,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004880851,
+        "body": "<p>I would really like if the feature above was added.</p>",
+        "author_id": 378573703531,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360039489631-Add-Size-tag-for-every-entity/comments/360004880851",
+        "created_at": "2019-03-18T03:13:05Z",
+        "updated_at": "2021-11-21T02:41:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360039489631/comments/360004880851.json",
+        "post_id": 360039489631,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014803012,
+        "body": "<p>How does this only have twelve votes?</p>",
+        "author_id": 394228994512,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360039489631-Add-Size-tag-for-every-entity/comments/360014803012",
+        "created_at": "2021-04-02T05:00:49Z",
+        "updated_at": "2021-11-21T02:41:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360039489631/comments/360014803012.json",
+        "post_id": 360039489631,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4414246222989,
+        "body": "<p>I very much agree with this feature! In Bedrock, Salmon also have variable size, and the legacy Giant Zombie mob is similar.</p>\n<p>If I had to give a more technical suggestion... maybe add a property to each entity called entityScale, which would default to 1.0 (100%). The variable would control the size of the mob's hitbox, attack reach, jump height, model size, and so forth. Mobs would naturally spawn with a random size (within a certain range, depending on the mob). Size could also have a slight effect how much damage the mob naturally does, or how much health it naturally has.</p>\n<p>In addition to this feature, maybe there could be two new Effects (and potions?): Shrink and Grow. Shrink would change the mob's entityScale to half for the duration of the effect, and Grow would change the mob's entityScale to 1.5 times for the duration of the effect. This could also work on the player!</p>",
+        "author_id": 416426281631,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360039489631-Add-Size-tag-for-every-entity/comments/4414246222989",
+        "created_at": "2021-11-21T02:41:41Z",
+        "updated_at": "2021-11-21T12:24:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360039489631/comments/4414246222989.json",
+        "post_id": 360039489631,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360036547472,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004462711,
+        "body": "<p>I don't think we need to add too many abbr/alias command. We can use tab to input commands more quickly. However, I suggest \"/kill\" without a target argument.</p>",
+        "author_id": 373746185052,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360036547472-Make-commands-easier-to-type-and-execute/comments/360004462711",
+        "created_at": "2019-02-15T05:44:21Z",
+        "updated_at": "2019-02-15T17:02:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360036547472/comments/360004462711.json",
+        "post_id": 360036547472,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008450331,
+        "body": "<p><strong>i feel the same way. if you typed /effect j the command block would say /effect jump boost automatically :)</strong></p>",
+        "author_id": 387910540332,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360036547472-Make-commands-easier-to-type-and-execute/comments/360008450331",
+        "created_at": "2019-11-19T01:38:03Z",
+        "updated_at": "2019-11-19T01:38:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360036547472/comments/360008450331.json",
+        "post_id": 360036547472,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360035222331,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4409421919117,
+        "body": "<p>In one of my worlds, I spend entire days of playing doing nothing but filling in blocks repeatedly... Imagine if I could free up all the hours I spend doing that... Would be great. So much time goes to waste because of this limit. But if you do remove it, please introduce some ways that will prevent us from messing up our worlds. I occasionally make a few mistakes, like deleting or adding a number to the coordinates by mistake, or I mark the wrong locations. As a result, I've gotten into a habit of using the \" replace &lt;block&gt;\" argument. An /undo and /redo would be great, that would affect /fill, /setblock and /clone executed by the given player; command blocks are exempt. Other than that, removing the limit altogether is a recipe for disaster, however, increasing it by up to 16 times would be useful. Perhaps a \"/yes &lt;number&gt;\" to confirm the command if the area is over a certain size.</p>\n<p>&nbsp;</p>\n<p>Oh, and if you do implement /redo and /undo, please save the last 1-2 actions to the disk, in case the game would crash inbetween.</p>",
+        "author_id": 419213696352,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360035222331-Option-to-set-the-limit-of-blocks-effected-by-clone-and-fill/comments/4409421919117",
+        "created_at": "2021-09-16T18:45:21Z",
+        "updated_at": "2021-09-16T20:14:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360035222331/comments/4409421919117.json",
+        "post_id": 360035222331,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 11150578403725,
+        "body": "<p>I was just playing around with commands and decided to look this up, since I'm not very familiar with commands and command blocks. I think having some type of other command to up the limit would be really helpful for clearing, filling, or even destroying your world, which I know everyone would have something they would like about this change...</p>",
+        "author_id": 398235152051,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360035222331-Option-to-set-the-limit-of-blocks-effected-by-clone-and-fill/comments/11150578403725",
+        "created_at": "2022-12-04T02:26:32Z",
+        "updated_at": "2022-12-25T00:41:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360035222331/comments/11150578403725.json",
+        "post_id": 360035222331,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360030189732,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360002991011,
+        "body": "<p>good idea !</p>",
+        "author_id": 372533571952,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360030189732-Mobs-attack-you-in-creative-mode/comments/360002991011",
+        "created_at": "2018-11-12T18:01:34Z",
+        "updated_at": "2018-11-12T18:01:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360030189732/comments/360002991011.json",
+        "post_id": 360030189732,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012511951,
+        "body": "<p>Mob attack you in creative</p>",
+        "author_id": 401975199672,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360030189732-Mobs-attack-you-in-creative-mode/comments/360012511951",
+        "created_at": "2020-08-18T12:09:38Z",
+        "updated_at": "2020-08-18T12:13:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360030189732/comments/360012511951.json",
+        "post_id": 360030189732,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012597832,
+        "body": "<p>/gamerule mob attack creative</p>",
+        "author_id": 401975199672,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360030189732-Mobs-attack-you-in-creative-mode/comments/360012597832",
+        "created_at": "2020-08-18T12:17:06Z",
+        "updated_at": "2020-08-18T12:17:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360030189732/comments/360012597832.json",
+        "post_id": 360030189732,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012712932,
+        "body": "<p>It should be that when you hit mobs they will be hostile. Example: <br>Survival: Hostile<br>Creative: Neutral if ignored, Hostile if attacked in Creative</p>\n<p>&nbsp;</p>\n<p>/gamerule NeutralMobsonCreative false/true</p>",
+        "author_id": 398324447992,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360030189732-Mobs-attack-you-in-creative-mode/comments/360012712932",
+        "created_at": "2020-08-30T05:33:20Z",
+        "updated_at": "2020-08-30T05:36:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360030189732/comments/360012712932.json",
+        "post_id": 360030189732,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7856419043597,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 11226268126093,
+        "body": "<p>You can check for a specific item by adding an nbt-constraint to the selector:</p>\n<pre>effect give @a[nbt={Inventory:[{Slot:100b, id:\"minecraft:leather_boots\", Count:1b, tag:{display:{Name:'{\"text\":\"Grass Boots\"}', color:&lt;COLOR&gt;}}}]}] 1 0 true</pre>\n<p>After the tag: you just copy the NBT-data of your boots.</p>",
+        "author_id": 5599885018125,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7856419043597-New-hasitem-noi-name-of-item-Command-For-Named-Items/comments/11226268126093",
+        "created_at": "2022-12-06T16:19:22Z",
+        "updated_at": "2022-12-28T23:17:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7856419043597/comments/11226268126093.json",
+        "post_id": 7856419043597,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 24589018767373,
+        "body": "<p>When putting this command in on Bedrock Edition, it just says gives an Error rather than doing anything</p>\n<pre>effect give @a[nbt={Inventory:[{Slot:100b, id:\"minecraft:leather_boots\", Count:1b, tag:{display:{Name:'{\"text\":\"Grass Boots\"}', color:&lt;COLOR&gt;}}}]}] 1 0 true</pre>\n<p>Which means that this command doesn't work for Bedrock Edition, there is no NBT thing on bedrock or anything like these parameters.</p>\n<p>So I agree that the [hasitem = {noi = {name}}] thing would be useful as this would help bedrock players a lot.</p>",
+        "author_id": 24588951457805,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7856419043597-New-hasitem-noi-name-of-item-Command-For-Named-Items/comments/24589018767373",
+        "created_at": "2024-03-01T01:57:09Z",
+        "updated_at": "2024-03-01T19:01:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7856419043597/comments/24589018767373.json",
+        "post_id": 7856419043597,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7103955734157,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 11780117457933,
+        "body": "<p>It also might be nice to have a CantPlaceOn or CantDestroy in case you need all but a few blocks</p>",
+        "author_id": 11780115127821,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7103955734157-CanPlaceOn-All-CanDestroy-All/comments/11780117457933",
+        "created_at": "2022-12-28T00:14:28Z",
+        "updated_at": "2023-07-20T00:47:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7103955734157/comments/11780117457933.json",
+        "post_id": 7103955734157,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 6743706176013,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 11162581960077,
+        "body": "<p>This is the person that created this post but to make it more pacific here is the command /worldborder put your number here then there is the world border in for the remove command it would be like this /remove structure/chunk or Worldborder here then press enter I just want to make it simple if you didn’t know what I mean</p>",
+        "author_id": 416156897431,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6743706176013-World-border-command/comments/11162581960077",
+        "created_at": "2022-12-04T17:33:03Z",
+        "updated_at": "2022-12-28T21:55:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6743706176013/comments/11162581960077.json",
+        "post_id": 6743706176013,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 16997763579277,
+        "body": "<p>Thanks for helping me so understand I really appreciate it</p>",
+        "author_id": 416156897431,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6743706176013-World-border-command/comments/16997763579277",
+        "created_at": "2023-06-23T02:01:07Z",
+        "updated_at": "2023-09-21T07:22:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6743706176013/comments/16997763579277.json",
+        "post_id": 6743706176013,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5254593733261,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5255431366157,
+        "body": "<p>fine</p>",
+        "author_id": 5255352995341,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5254593733261-New-command-biome/comments/5255431366157",
+        "created_at": "2022-04-02T18:54:50Z",
+        "updated_at": "2022-04-02T18:54:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5254593733261/comments/5255431366157.json",
+        "post_id": 5254593733261,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 5393318250253,
+        "body": "<p>I want biome</p>",
+        "author_id": 5393288136205,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5254593733261-New-command-biome/comments/5393318250253",
+        "created_at": "2022-04-08T07:24:30Z",
+        "updated_at": "2022-04-08T07:24:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5254593733261/comments/5393318250253.json",
+        "post_id": 5254593733261,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4411376603405,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4411459158157,
+        "body": "<p>Nice</p>",
+        "author_id": 420932265872,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4411376603405-Custom-Armor-Texture/comments/4411459158157",
+        "created_at": "2021-10-16T18:36:57Z",
+        "updated_at": "2021-10-16T21:51:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4411376603405/comments/4411459158157.json",
+        "post_id": 4411376603405,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077920931,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4403643097613,
+        "body": "<p>It is honestly very annoying, and quite frankly stupid that bedrock players are unable to summon fireballs with the /summon command. I'm sure this isn't the only example of a command that&nbsp;<em>is&nbsp;</em>on java, and&nbsp;<em>could&nbsp;</em>be on bedrock, but isn't, for what appears to be no reason. I'm pretty sure it would be a relatively easy fix, and very much appreciated.</p>",
+        "author_id": 417840360672,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077920931--summon-fireball-on-bedrock/comments/4403643097613",
+        "created_at": "2021-06-23T19:07:36Z",
+        "updated_at": "2022-09-23T05:59:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077920931/comments/4403643097613.json",
+        "post_id": 360077920931,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 16631416940301,
+        "body": "<p>It’s like they’re teasing us, you can TELEPORT a fireball but not summon it. WTH game</p>",
+        "author_id": 13341405841805,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077920931--summon-fireball-on-bedrock/comments/16631416940301",
+        "created_at": "2023-06-11T00:10:32Z",
+        "updated_at": "2023-06-11T00:10:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077920931/comments/16631416940301.json",
+        "post_id": 360077920931,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074300612,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4405159235725,
+        "body": "<p>What skins would there be would there be a default set of skins or, would you have to upload the skin(s) you want to use?</p>",
+        "author_id": 418215646952,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074300612--skin/comments/4405159235725",
+        "created_at": "2021-07-16T16:53:52Z",
+        "updated_at": "2021-07-16T17:36:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074300612/comments/4405159235725.json",
+        "post_id": 360074300612,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4419322670605,
+        "body": "<p>1</p>\n<p>&nbsp;</p>",
+        "author_id": 1904598239407,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074300612--skin/comments/4419322670605",
+        "created_at": "2022-01-07T22:19:03Z",
+        "updated_at": "2022-01-07T22:19:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074300612/comments/4419322670605.json",
+        "post_id": 360074300612,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4423927554189,
+        "body": "<p>Gabriel849oi </p>",
+        "author_id": 423571339372,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074300612--skin/comments/4423927554189",
+        "created_at": "2022-02-02T17:42:40Z",
+        "updated_at": "2022-02-02T17:42:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074300612/comments/4423927554189.json",
+        "post_id": 360074300612,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073758911,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4410086308877,
+        "body": "<p>True i killed some of my wolves but i didnt want to do this, you can disable attacking other players why not with the pets?</p>",
+        "author_id": 420532932831,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073758911-Disable-attacking-your-pets-and-pet-respawns/comments/4410086308877",
+        "created_at": "2021-09-26T17:54:02Z",
+        "updated_at": "2021-09-26T17:54:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073758911/comments/4410086308877.json",
+        "post_id": 360073758911,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 10780337879949,
+        "body": "<p>Absolutely. Losing a Minecraft pet is devastating.</p>",
+        "author_id": 10780360789005,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073758911-Disable-attacking-your-pets-and-pet-respawns/comments/10780337879949",
+        "created_at": "2022-11-21T07:11:20Z",
+        "updated_at": "2022-11-21T07:11:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073758911/comments/10780337879949.json",
+        "post_id": 360073758911,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073326772,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012892311,
+        "body": "<p>This already exists.<br><br>For Java edition:<br>/playsound minecraft:entity.generic.explode &lt;source&gt; &lt;target(s)&gt;<br><br>For Bedrock edition:<br>/playsound random.explode [target(s)]</p>",
+        "author_id": 373394372891,
+        "vote_sum": 5,
+        "vote_count": 5,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073326772-Add-explosion-sound/comments/360012892311",
+        "created_at": "2020-09-26T00:00:22Z",
+        "updated_at": "2022-07-23T13:10:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073326772/comments/360012892311.json",
+        "post_id": 360073326772,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360072455492,
+    "expected_comment_count": 8,
+    "actual_comment_count": 8,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012613432,
+        "body": "<pre>That DEFINETELY is a cool idea, but that might be too hard. Or not.<br><br></pre>\n<p>&nbsp;</p>",
+        "author_id": 402128931552,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072455492-Fire-Color-ID/comments/360012613432",
+        "created_at": "2020-08-19T17:45:41Z",
+        "updated_at": "2020-08-19T18:50:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072455492/comments/360012613432.json",
+        "post_id": 360072455492,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012641792,
+        "body": "<p>It would be hard, considering that minecraft fire is not one, solid color. There would have to be an AI or something to find the colors that would be right for the fire. This would be so much easier to do if you just made a texture pack.</p>",
+        "author_id": 386395193391,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072455492-Fire-Color-ID/comments/360012641792",
+        "created_at": "2020-08-22T15:51:25Z",
+        "updated_at": "2020-08-22T15:51:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072455492/comments/360012641792.json",
+        "post_id": 360072455492,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012812551,
+        "body": "<p>It would be easiest to just have the 16 Minecraft colors, not hundreds. I do like the idea though.</p>",
+        "author_id": 399929461812,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072455492-Fire-Color-ID/comments/360012812551",
+        "created_at": "2020-09-18T02:40:09Z",
+        "updated_at": "2020-09-18T02:40:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072455492/comments/360012812551.json",
+        "post_id": 360072455492,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013104292,
+        "body": "<p>I was thinking it would work off of hexadecimals. You have an algorithm that converts a hexadecimal color to a texture for the block. This system is already being used for in game text</p>",
+        "author_id": 376816095291,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072455492-Fire-Color-ID/comments/360013104292",
+        "created_at": "2020-10-08T13:12:07Z",
+        "updated_at": "2020-10-08T13:12:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072455492/comments/360013104292.json",
+        "post_id": 360072455492,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014506751,
+        "body": "<p>Maybe like /setblock ~ ~ ~ fire {BlockEntityData:{Color: ______ }} \n<br />Or /give @p fire_charge/flint_and_steel{FireColor: ____ }\n<br />Almost like dyed leather armor</p>",
+        "author_id": 396218640471,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072455492-Fire-Color-ID/comments/360014506751",
+        "created_at": "2021-03-02T19:41:33Z",
+        "updated_at": "2021-03-02T19:41:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072455492/comments/360014506751.json",
+        "post_id": 360072455492,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4413582482445,
+        "body": "<p>Hi</p>",
+        "author_id": 420558536372,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072455492-Fire-Color-ID/comments/4413582482445",
+        "created_at": "2021-11-14T23:53:40Z",
+        "updated_at": "2021-11-14T23:53:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072455492/comments/4413582482445.json",
+        "post_id": 360072455492,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4413582490765,
+        "body": "<p>The definitely is a cool idea but that might be too hard or not</p>",
+        "author_id": 420558536372,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072455492-Fire-Color-ID/comments/4413582490765",
+        "created_at": "2021-11-14T23:55:52Z",
+        "updated_at": "2021-11-15T03:02:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072455492/comments/4413582490765.json",
+        "post_id": 360072455492,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 14672827267085,
+        "body": "<p>A lot people are saying something that its hard to change the color of the fire but its can be done easily by changing the hue of the image which changes the color of the image keeping its texture. So it can be added to minecraft, the thing is the probably dont like that idea.</p>",
+        "author_id": 14672436010637,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072455492-Fire-Color-ID/comments/14672827267085",
+        "created_at": "2023-04-08T14:07:12Z",
+        "updated_at": "2023-05-18T20:44:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072455492/comments/14672827267085.json",
+        "post_id": 360072455492,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071071352,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013363511,
+        "body": "<p>To what command would you like to see the minimum count argument added to?</p>",
+        "author_id": 396590871911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071071352-Min-count-argument/comments/360013363511",
+        "created_at": "2020-11-08T18:51:53Z",
+        "updated_at": "2020-11-09T01:38:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071071352/comments/360013363511.json",
+        "post_id": 360071071352,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 9879693715213,
+        "body": "<p>Ok</p>",
+        "author_id": 9879686246925,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071071352-Min-count-argument/comments/9879693715213",
+        "created_at": "2022-10-14T10:30:48Z",
+        "updated_at": "2022-10-14T10:30:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071071352/comments/9879693715213.json",
+        "post_id": 360071071352,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360069333371,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012223412,
+        "body": "<p>So you wan't to make Json Text Components more easy to read?</p>",
+        "author_id": 375848865892,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360069333371--Java-Make-NBT-more-compatible-with-text-components/comments/360012223412",
+        "created_at": "2020-07-23T01:58:47Z",
+        "updated_at": "2021-05-16T08:30:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360069333371/comments/360012223412.json",
+        "post_id": 360069333371,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360054289431,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008049972,
+        "body": "<p>The o is there because apparently with out the o it’s a phone number some how</p>",
+        "author_id": 386389968131,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054289431--re-random-entity/comments/360008049972",
+        "created_at": "2019-10-12T06:39:12Z",
+        "updated_at": "2019-10-12T06:39:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054289431/comments/360008049972.json",
+        "post_id": 360054289431,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008088412,
+        "body": "<p>I would’ve through @r would’ve done it but @re works too!</p>",
+        "author_id": 388245780032,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054289431--re-random-entity/comments/360008088412",
+        "created_at": "2019-10-15T23:34:50Z",
+        "updated_at": "2022-06-26T15:00:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054289431/comments/360008088412.json",
+        "post_id": 360054289431,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008360291,
+        "body": "<p>Just type @e[sort=random]</p>",
+        "author_id": 387762685231,
+        "vote_sum": 6,
+        "vote_count": 6,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054289431--re-random-entity/comments/360008360291",
+        "created_at": "2019-11-11T17:44:21Z",
+        "updated_at": "2020-05-22T08:14:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054289431/comments/360008360291.json",
+        "post_id": 360054289431,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008573351,
+        "body": "<p>@r[type=!player]</p>",
+        "author_id": 390486852572,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054289431--re-random-entity/comments/360008573351",
+        "created_at": "2019-12-02T01:25:54Z",
+        "updated_at": "2019-12-02T01:25:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054289431/comments/360008573351.json",
+        "post_id": 360054289431,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008661611,
+        "body": "<p>The old @r was removed in 1.13+. Instead, use @e[sort=random]</p>",
+        "author_id": 374664829851,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054289431--re-random-entity/comments/360008661611",
+        "created_at": "2019-12-10T17:50:21Z",
+        "updated_at": "2019-12-10T18:25:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054289431/comments/360008661611.json",
+        "post_id": 360054289431,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360050526232,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015497232,
+        "body": "<p>There is a way around this: you need to teleport the falling block into loaded chunks (use the /forceload command for loading chunks) far away from the player and then teleport it back. The client will reload the entity and use the correct texture/model.</p>",
+        "author_id": 388848455331,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050526232-Falling-blocks-can-have-their-appearance-updated/comments/360015497232",
+        "created_at": "2021-05-17T08:14:58Z",
+        "updated_at": "2023-06-20T00:08:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050526232/comments/360015497232.json",
+        "post_id": 360050526232,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360049716852,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013275291,
+        "body": "<p>I strongly agree for this fix, I dont like my phone vibrating while using controller</p>",
+        "author_id": 394173805691,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360049716852-Minecraft-Android-Bedrock-Controller-vibration/comments/360013275291",
+        "created_at": "2020-10-31T07:41:05Z",
+        "updated_at": "2020-10-31T11:36:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360049716852/comments/360013275291.json",
+        "post_id": 360049716852,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048877351,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012493812,
+        "body": "<p>allready done</p>",
+        "author_id": 401945403092,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048877351-Command-Blocks-on-PS4/comments/360012493812",
+        "created_at": "2020-08-15T10:35:27Z",
+        "updated_at": "2020-08-15T10:35:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048877351/comments/360012493812.json",
+        "post_id": 360048877351,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360047600871,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006268252,
+        "body": "<p>This and some other equipment modifiers would be cool for setting up rare gear in adventure worlds, really sounds like it has great potential.</p>",
+        "author_id": 378675044132,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047600871-Adjust-tool-max-durability-AttributeModifier/comments/360006268252",
+        "created_at": "2019-06-30T05:37:32Z",
+        "updated_at": "2019-06-30T05:37:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047600871/comments/360006268252.json",
+        "post_id": 360047600871,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006398712,
+        "body": "<p>This wouldn't be an AttributeModifier, though, because it doesn't modify any attributes of the entity equipping it. Rather, there should just be a new NBT tag in the same level as the Damage tag, that would describe the max durability of the tool.</p>",
+        "author_id": 384380991192,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047600871-Adjust-tool-max-durability-AttributeModifier/comments/360006398712",
+        "created_at": "2019-07-09T19:50:43Z",
+        "updated_at": "2019-07-10T00:06:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047600871/comments/360006398712.json",
+        "post_id": 360047600871,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

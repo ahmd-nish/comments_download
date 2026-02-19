@@ -1,0 +1,757 @@
+[
+  {
+    "post_id": 4405761217165,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4405789357581,
+        "body": "<p>this is confusing.</p>\n<p>&nbsp;</p>\n<p>(Did you vote for your own post lol?)</p>",
+        "author_id": 1900050543607,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4405761217165-Signs-won-t-stop-water-and-lava/comments/4405789357581",
+        "created_at": "2021-07-25T23:17:01Z",
+        "updated_at": "2021-07-25T23:30:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4405761217165/comments/4405789357581.json",
+        "post_id": 4405761217165,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4405823622285,
+        "body": "<p>There are always talks of more waterlog blocks, which would make sense for signs and pressure plates, personally, I think wood signs and plates should burn when touching lava, which then you need to use stone variants to deal with. As for Minecraft's odd fluid physics given how established. I don't see it changing quickly especially if there's no workaround to keep some of the functionality of water transport systems.&nbsp;</p>",
+        "author_id": 1900049074787,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4405761217165-Signs-won-t-stop-water-and-lava/comments/4405823622285",
+        "created_at": "2021-07-26T17:30:13Z",
+        "updated_at": "2021-11-20T20:37:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4405761217165/comments/4405823622285.json",
+        "post_id": 4405761217165,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4405594217613,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4405666711821,
+        "body": "<p>They spent the Wither's animation budget on it's intro.</p>",
+        "author_id": 412314468832,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4405594217613-Wither-death-should-have-an-animation/comments/4405666711821",
+        "created_at": "2021-07-24T06:11:59Z",
+        "updated_at": "2021-07-28T00:38:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4405594217613/comments/4405666711821.json",
+        "post_id": 4405594217613,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4405243615245,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4405335133325,
+        "body": "<p>It should be extremely rare, rarer than jungle or mushroom or mesa.</p>",
+        "author_id": 418313063992,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4405243615245-old/comments/4405335133325",
+        "created_at": "2021-07-19T19:45:58Z",
+        "updated_at": "2021-07-19T19:45:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4405243615245/comments/4405335133325.json",
+        "post_id": 4405243615245,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4404929503117,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 21487930528781,
+        "body": "<p>this request is a little too general with \"quality of life\", and everything before can be created with the powerful datapack (behaviour packs in bedrock) system. hopefully integrates datapacks even more deeply in future updates maybe suggesting players creating new world to try out \"popular\" terrian generation method or similar.</p>",
+        "author_id": 21487680709005,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404929503117-A-new-exploration-update/comments/21487930528781",
+        "created_at": "2023-11-20T02:00:49Z",
+        "updated_at": "2023-11-20T22:22:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404929503117/comments/21487930528781.json",
+        "post_id": 4404929503117,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4404768184333,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4404879827213,
+        "body": "<p>Maybe it could still be hard to control the horse, sometimes it would shake and you must let the horse steer itself. If you don't steer it correctly you would get kicked out. If you could ride a horse like that for X time you would get an advancement with something like rodeo</p>",
+        "author_id": 387021208411,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404768184333-Leather-Leggings-To-Ride-Horses-Bareback/comments/4404879827213",
+        "created_at": "2021-07-12T21:20:03Z",
+        "updated_at": "2021-07-12T21:23:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404768184333/comments/4404879827213.json",
+        "post_id": 4404768184333,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4404632339085,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4404632408717,
+        "body": "<p>As a side note, I forgot to mention, Iron tools are not a reward, iron is really easy to find and mine. There too many iron tools and armor presented as a reward or loot in chests. </p>",
+        "author_id": 418515763011,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404632339085-Fixed-Loot/comments/4404632408717",
+        "created_at": "2021-07-08T20:16:22Z",
+        "updated_at": "2021-07-08T21:13:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404632339085/comments/4404632408717.json",
+        "post_id": 4404632339085,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 15736706527501,
+        "body": "<p>Fixed loot tables depending upon seeds will be too overpowered, as players will search for the best possible seed, like gapples, Netherite in Bastions, etc. Can it at least be a setting you can change in world creation screen?</p>",
+        "author_id": 9612580012813,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404632339085-Fixed-Loot/comments/15736706527501",
+        "created_at": "2023-05-12T23:51:42Z",
+        "updated_at": "2023-05-18T03:44:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404632339085/comments/15736706527501.json",
+        "post_id": 4404632339085,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4404423396237,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4404630386189,
+        "body": "<p>I’m the first one to comment! That would be really cool! They could be put in shipwrecks, abandoned villages, desert temples, the nether, and the stronghold, they could be bones and skulls and be mined to get a skull or bones. They could also be wearing armor or holding tools.</p>",
+        "author_id": 418501520611,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404423396237-Bodies-on-the-grouund/comments/4404630386189",
+        "created_at": "2021-07-09T00:22:03Z",
+        "updated_at": "2021-07-09T00:38:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404423396237/comments/4404630386189.json",
+        "post_id": 4404423396237,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4404223850893,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4404229766541,
+        "body": "<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\">Hello, this appears to be a non-English post. Below you will find a transcription of the topic being discussed.&nbsp;&nbsp;</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\"><span style=\"font-weight: bold;\">Title:</span>&nbsp;</p>\n<h1 title=\"Ramper sur minecraft et point repère sur carte\"><span>‎Crawl on minecraft and landmark on map‎</span></h1>\n<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\">&nbsp;</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\"><span style=\"font-weight: bold;\">Text:</span> ‎Using a hatch, barrier and pistons to crawl it will be an idea that will change the gameplay and make passing secrets on Minecraft pe on all platform phone ect ... and banners on the map with a click with the map and add the name of the banner with a label like that we're where we're going‎</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\">- Translated by Admin&nbsp;</p>",
+        "author_id": 416783211012,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404223850893-Ramper-sur-minecraft-et-point-rep%C3%A8re-sur-carte/comments/4404229766541",
+        "created_at": "2021-07-02T17:15:26Z",
+        "updated_at": "2021-07-02T17:15:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404223850893/comments/4404229766541.json",
+        "post_id": 4404223850893,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4403963775245,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4404299516173,
+        "body": "<p>Whoah there that's a bad idea I play ps4 with a mouse and keyboard and I play whith friends on pc</p>",
+        "author_id": 418132125412,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4403963775245-Why-minecraft-bedrock-pvp-is-ruined-for-controller-players/comments/4404299516173",
+        "created_at": "2021-07-03T22:49:18Z",
+        "updated_at": "2021-07-03T22:49:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4403963775245/comments/4404299516173.json",
+        "post_id": 4403963775245,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4425489391885,
+        "body": "<p>And for tablet</p>",
+        "author_id": 423943769611,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4403963775245-Why-minecraft-bedrock-pvp-is-ruined-for-controller-players/comments/4425489391885",
+        "created_at": "2022-02-11T07:37:35Z",
+        "updated_at": "2022-02-11T07:37:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4403963775245/comments/4425489391885.json",
+        "post_id": 4403963775245,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4403838128141,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4423490531469,
+        "body": "<p>Yes this issue is the worst</p>",
+        "author_id": 416984073311,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4403838128141-Louder-music-slider-in-options-audio/comments/4423490531469",
+        "created_at": "2022-01-29T23:07:05Z",
+        "updated_at": "2022-01-30T13:13:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4403838128141/comments/4423490531469.json",
+        "post_id": 4403838128141,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 5029306320013,
+        "body": "<p>I have noticed that all the sounds in bedrock on consoles in general aren't as loud as they are in the legacy edition.</p>",
+        "author_id": 421024477912,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4403838128141-Louder-music-slider-in-options-audio/comments/5029306320013",
+        "created_at": "2022-03-24T02:06:56Z",
+        "updated_at": "2022-03-24T03:00:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4403838128141/comments/5029306320013.json",
+        "post_id": 4403838128141,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4403638447373,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4403639847693,
+        "body": "<p>Hello, please see below for translation :)&nbsp;</p>\n<p>&nbsp;</p>\n<div class=\"postSideCell\">\n<div class=\"post-vote vote\" role=\"radiogroup\">Add animations to the player or avatar ‎</div>\n</div>\n<div class=\"postSideCell\">\n<section class=\"post-info-container\" data-bi-area=\"body\">\n<div class=\"post-info\">\n<div class=\"post-content\">\n<div class=\"post-body\">‎Adding animasions when running walking or being still would add a more realistic and beautiful way to the game since q being still would stretch or aria something when walking move your head osea Aser q the game feels more alive‎</div>\n</div>\n</div>\n</section>\n</div>",
+        "author_id": 416783211012,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4403638447373-Agregar-animasiones-al-jugador-o-avatar/comments/4403639847693",
+        "created_at": "2021-06-23T23:50:01Z",
+        "updated_at": "2021-06-23T23:50:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4403638447373/comments/4403639847693.json",
+        "post_id": 4403638447373,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078609972,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4403475570701,
+        "body": "<p>Great idea!!! i always wanted it!!!</p>",
+        "author_id": 417716394332,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078609972-Leasing-Llamas-together/comments/4403475570701",
+        "created_at": "2021-06-21T13:59:24Z",
+        "updated_at": "2021-06-21T13:59:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078609972/comments/4403475570701.json",
+        "post_id": 360078609972,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078531452,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4403281963021,
+        "body": "<p>No. It seems even stranger to make it drop a slime ball.&nbsp;</p>",
+        "author_id": 412399308271,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078531452-Remove-rabbit-foot/comments/4403281963021",
+        "created_at": "2021-06-18T00:57:38Z",
+        "updated_at": "2021-06-18T00:57:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078531452/comments/4403281963021.json",
+        "post_id": 360078531452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078448952,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360016410272,
+        "body": "<p>Maybe put simply: One modifies visual size and appearances, while the other modifies behaviors and characteristics. They do overlap a bit, and mixing biomes and mob complicates it a bit, but maybe some examples will help clear it up a bit and get the imagination going.</p>\n<p><em>Some Mob Adjectives</em>: Tall, Short, Fat, Stout, Long, Beastly, Hyper, Tame, Old, Fat, Zealous, Slippery, Tricky, Clueless, Cheerful, Dangerous, Harmless...<br><br><em>Some Terrain Adjectives</em>: Coarse, Cold, Light, Dark, Flat, Deep, Tall, Winding, Speckled, Blurred, Dented, Seeping, Cursed, Sharp, Oblique, Skewed, Chunky, Warped, Broken, Corrupt, Giant,&nbsp;Shattered...<br><br></p>\n<p>The intent and hope for terrain adjectives is to not have to explicitly add new biomes, but be able to add to or on top of already existing ones, and that new seeds would generate the same biomes as old ones, just with unique and possibly unexpected variations. Kind of like post processing the terrain with various effects.</p>\n<p>Combined with mob variations, this could create some very unique and unexpected worlds, situations, stories, and gameplay..</p>\n<p>And just to restate, to minimize the impact this would have and to encourage exploring, the effects and occurrences would grow with distance from 0,0,&nbsp;</p>",
+        "author_id": 381604808512,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078448952-Modifiers-Adjectives-Adding-Some-Mystery-Wonder-by-Adding-Variations/comments/360016410272",
+        "created_at": "2021-06-10T07:09:28Z",
+        "updated_at": "2021-06-10T08:01:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078448952/comments/360016410272.json",
+        "post_id": 360078448952,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4404935637389,
+        "body": "<p>It just occurred to me that the 20W14∞ \"update\" demonstrated that you could do all sorts of things if you wanted. You could have a modified biome that plays all the wrong sounds, or a jungle with slightly off colors, or a plains with a weird sky, a pitch black ocean, a snow covered desert. There was even a Holes and Decay biome that would go perfectly. A bioime filled with holes would be weird, or a place where all the block are floating away would also be strange.Just knowing that such things could be out there somewhere far away would be intriguing. I think you should try and play to the strengths of the computer generated style and mathematic derivations a little bit more. It's Minecraft, it doesn't have to be realistic, it just needs to be familiar enough but mostly MInecraft.<br><br>And just two ideas I thought of to add to the weirdness: <br>A pig that stays in one spot. You can move the pig, but it will just go back. It just stands there, staring.....<br>Or a sheep that continually goes in one direction. Avoids danger, but continually just goes in a direction. Who knows where it's going? Only the sheep knows.</p>",
+        "author_id": 418397411592,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078448952-Modifiers-Adjectives-Adding-Some-Mystery-Wonder-by-Adding-Variations/comments/4404935637389",
+        "created_at": "2021-07-13T13:57:05Z",
+        "updated_at": "2021-07-13T14:21:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078448952/comments/4404935637389.json",
+        "post_id": 360078448952,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4404929980557,
+        "body": "<p>To maybe help integrate such features and encourage exploration and help find these anomalies, librarian villagers' houses could have a written book called something along the lines of \"Book of Curiosities\". This book could lead or point a player to different anomalous mobs and biomes. It could contain something like 5 entries. Three of the closest mobs and 2 of the closet biomes, or 3 close mobs or biomes and 2 very far away but more anomalous ones, or something to that affect. How it would tell the player where to go and how accurately? Would you even be guaranteed to find something? I'm not sure. <br>You could possibly have an expert librarian offer a book that has just one mob or biome. Or maybe they don't have a book of anomalies but instead directions to find a librarian in a village that does have a book, to encourage adventure.<br><br>This would be similar to already existing mechanics, such as burred treasures and woodland mansions, so I think it would fit well enough.</p>",
+        "author_id": 418397411592,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078448952-Modifiers-Adjectives-Adding-Some-Mystery-Wonder-by-Adding-Variations/comments/4404929980557",
+        "created_at": "2021-07-13T14:21:56Z",
+        "updated_at": "2021-07-13T14:23:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078448952/comments/4404929980557.json",
+        "post_id": 360078448952,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4404930775693,
+        "body": "<p>Ooo... A parasitic biome. A biome that has another biome's characteristics applied or overlayed or bleeding into the one that's originally there.<br>This could make for a double biome. A biome that's twice! What ever that is...<br><br>A single jungle tree in the middle of desert? What is this madness?<br>What is that bee doing in the middle of a snow biome? And why is it dripping snow particles?<br><br>Just trying to throw ideas out there. I don't know how many people are going to look for or find this post anyway.</p>",
+        "author_id": 418397411592,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078448952-Modifiers-Adjectives-Adding-Some-Mystery-Wonder-by-Adding-Variations/comments/4404930775693",
+        "created_at": "2021-07-13T15:00:26Z",
+        "updated_at": "2021-07-13T15:08:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078448952/comments/4404930775693.json",
+        "post_id": 360078448952,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078445212,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360016283731,
+        "body": "<p style=\"font-family: Calibri; font-size: 11.0pt;\"><span style=\"color: black;\">Hi! It looks like this post contains a previously considered suggestion. Feel free to check out a list of our previously considered suggestions that have already been discussed and/or rejected. Please make sure the idea you want to post about is not listed on this page as posts about these topics will automatically be considered spam. Thank you! (</span><a href=\"/hc/en-us/articles/360005029872-Previously-Considered-Suggestions\" rel=\"nofollow noreferrer\">https://feedback.minecraft.net/hc/en-us/articles/360005029872-Previously-Considered-Suggestions</a><span style=\"color: black;\">)&nbsp;</span></p>\n<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\">&nbsp;</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt;\"><span style=\"color: black;\">Making Great Searches:</span><a href=\"/hc/en-us/articles/360035667771-Making-Great-Searches-on-the-Feedback-Site-\" rel=\"nofollow noreferrer\">https://feedback.minecraft.net/hc/en-us/articles/360035667771-Making-Great-Searches-on-the-Feedback-Site-</a><span style=\"color: black;\">&nbsp;</span></p>\n<p style=\"font-family: Calibri; font-size: 11.0pt;\">&nbsp;</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt;\">Additionally, feel free to check out a list of our previously considered suggestions that have already been discussed and/or rejected. Please make sure the idea you want to post about is not listed on this page as posts about these topics will automatically be considered spam. Thank you! (<a href=\"/hc/en-us/articles/360005029872-Previously-Considered-Suggestions\" rel=\"nofollow noreferrer\"><span style=\"background: white;\">https://feedback.minecraft.net/hc/en-us/articles/360005029872-Previously-Considered-Suggestions</span></a></p>",
+        "author_id": 416783211012,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078445212-New-Underwater-Death-Message/comments/360016283731",
+        "created_at": "2021-06-09T20:13:47Z",
+        "updated_at": "2021-06-09T20:13:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078445212/comments/360016283731.json",
+        "post_id": 360078445212,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078264172,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360016327852,
+        "body": "<p>No please don't it will ruin Minecraft&nbsp;</p>",
+        "author_id": 401919442011,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078264172-Updated-Combat-Mechanics-For-The-Modern-Minecraft-Theme/comments/360016327852",
+        "created_at": "2021-06-09T15:24:33Z",
+        "updated_at": "2021-06-09T15:24:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078264172/comments/360016327852.json",
+        "post_id": 360078264172,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078106871,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015621471,
+        "body": "<p>Or... instead you could just stop using your good pickaxe when its low on durability, and wait until you get a chance to repair it to use it again.</p>",
+        "author_id": 412314468832,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078106871-Tools-are-not-destroyed/comments/360015621471",
+        "created_at": "2021-06-03T04:57:45Z",
+        "updated_at": "2021-06-04T03:30:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078106871/comments/360015621471.json",
+        "post_id": 360078106871,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078085031,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015677992,
+        "body": "<p>Oh, you mean a mode that makes Netherite Block trees? XD</p>\n<p>It's totally legit!</p>",
+        "author_id": 412314468832,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078085031-Speed-running-mode-for-practice-reasons/comments/360015677992",
+        "created_at": "2021-06-01T04:48:46Z",
+        "updated_at": "2021-06-01T04:48:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078085031/comments/360015677992.json",
+        "post_id": 360078085031,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078073751,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 34621939610893,
+        "body": "<p>That would defeat the purpose of the mode, which was defined by that.</p>",
+        "author_id": 32772015081485,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078073751-Hardcore-should-be-less-punishing/comments/34621939610893",
+        "created_at": "2025-02-28T03:17:28Z",
+        "updated_at": "2025-02-28T03:17:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078073751/comments/34621939610893.json",
+        "post_id": 360078073751,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078025951,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015585271,
+        "body": "<p>it's really cool but I play creative but because its such a brilliant idea i'm voting</p>",
+        "author_id": 413390570011,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078025951-impossible-mode/comments/360015585271",
+        "created_at": "2021-05-29T05:56:10Z",
+        "updated_at": "2021-05-29T11:42:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078025951/comments/360015585271.json",
+        "post_id": 360078025951,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078117472,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015559252,
+        "body": "<p>That would cause a major increase in lag.</p>",
+        "author_id": 412314468832,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078117472-World-Redstone-Continuity-Redstone-from-far-away-in-your-world/comments/360015559252",
+        "created_at": "2021-05-25T17:07:55Z",
+        "updated_at": "2021-05-25T17:07:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078117472/comments/360015559252.json",
+        "post_id": 360078117472,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077953271,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015495492,
+        "body": "<p>good idea, on top of that though I think giving creeper explosions a 100% droprate on everything they blow up would be the best feature. the annoying part is that you cant fill in the holes left by creepers bc lots of blocks just disappear. 100% droprate would fix that</p>",
+        "author_id": 396200603832,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077953271-Less-Punishing-Creeper-Explosions/comments/360015495492",
+        "created_at": "2021-05-16T22:36:24Z",
+        "updated_at": "2021-05-17T03:56:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077953271/comments/360015495492.json",
+        "post_id": 360077953271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4406235098765,
+        "body": "<p>I feel that creepers should have the same behavior as spiders during daylight because I am always having to deal with them blowing things up. The most annoying thing though is when they blow something, and some blocks that they blew up don't drop. It's so annoying.</p>",
+        "author_id": 418854739992,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077953271-Less-Punishing-Creeper-Explosions/comments/4406235098765",
+        "created_at": "2021-08-01T16:09:54Z",
+        "updated_at": "2021-08-01T16:09:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077953271/comments/4406235098765.json",
+        "post_id": 360077953271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 6749168920973,
+        "body": "<p>No I hate when people try to make games easier the game's already easy as it is so why ruin it more</p>",
+        "author_id": 6282088964877,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077953271-Less-Punishing-Creeper-Explosions/comments/6749168920973",
+        "created_at": "2022-06-08T04:39:33Z",
+        "updated_at": "2022-06-08T04:39:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077953271/comments/6749168920973.json",
+        "post_id": 360077953271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078050312,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015482552,
+        "body": "<p>no</p>",
+        "author_id": 416342319471,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078050312-The-Ability-to-Mine-and-Obtain-Diamonds/comments/360015482552",
+        "created_at": "2021-05-14T12:12:24Z",
+        "updated_at": "2021-05-14T12:12:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078050312/comments/360015482552.json",
+        "post_id": 360078050312,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360015484672,
+        "body": "<p>Just no.</p>",
+        "author_id": 412314468832,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078050312-The-Ability-to-Mine-and-Obtain-Diamonds/comments/360015484672",
+        "created_at": "2021-05-14T16:25:55Z",
+        "updated_at": "2021-05-14T16:25:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078050312/comments/360015484672.json",
+        "post_id": 360078050312,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360015485452,
+        "body": "<p>getting an iron pickaxe isn't that hard</p>",
+        "author_id": 406795646711,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078050312-The-Ability-to-Mine-and-Obtain-Diamonds/comments/360015485452",
+        "created_at": "2021-05-14T18:03:01Z",
+        "updated_at": "2021-05-14T18:03:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078050312/comments/360015485452.json",
+        "post_id": 360078050312,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360015421691,
+        "body": "<p>Why. Just why. Or is it what TNTexploging900 said?</p>",
+        "author_id": 411461528872,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078050312-The-Ability-to-Mine-and-Obtain-Diamonds/comments/360015421691",
+        "created_at": "2021-05-16T13:46:33Z",
+        "updated_at": "2021-05-16T13:46:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078050312/comments/360015421691.json",
+        "post_id": 360078050312,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078049212,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015412831,
+        "body": "<p>It's not that Blazes have high spawn rate, it's that Wither Skeletons have low spawn rate.</p>",
+        "author_id": 412314468832,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078049212-Annoying-Blazes/comments/360015412831",
+        "created_at": "2021-05-14T16:27:02Z",
+        "updated_at": "2021-05-14T16:27:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078049212/comments/360015412831.json",
+        "post_id": 360078049212,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077935431,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4404165181453,
+        "body": "<p>\"flavorless\" is a subjective term, crystal pvp isn't \"a joke\" just because you're bad at it</p>",
+        "author_id": 418072649732,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077935431-End-Crystal-s-re-balance/comments/4404165181453",
+        "created_at": "2021-07-01T14:30:37Z",
+        "updated_at": "2021-07-01T14:30:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077935431/comments/4404165181453.json",
+        "post_id": 360077935431,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

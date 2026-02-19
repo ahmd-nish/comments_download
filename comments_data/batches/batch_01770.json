@@ -1,0 +1,772 @@
+[
+  {
+    "post_id": 360052758311,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014863032,
+        "body": "<p>Wait... you can add new enchantments???</p>",
+        "author_id": 412314468832,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360052758311-The-anvil-should-apply-custom-enchantment-id-s/comments/360014863032",
+        "created_at": "2021-04-11T02:17:30Z",
+        "updated_at": "2021-04-11T02:17:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360052758311/comments/360014863032.json",
+        "post_id": 360052758311,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360050369431,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009119171,
+        "body": "<p>Sound is played clientsided but datapacks are server sided so this wont work!</p>",
+        "author_id": 387762685231,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050369431-sound-in-datapacks/comments/360009119171",
+        "created_at": "2020-01-30T04:02:23Z",
+        "updated_at": "2020-01-30T04:02:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050369431/comments/360009119171.json",
+        "post_id": 360050369431,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043938172,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005956492,
+        "body": "<p>😎</p>\n<p>&nbsp;</p>",
+        "author_id": 382773376572,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043938172-Add-code-snippets-for-the-scripting-API/comments/360005956492",
+        "created_at": "2019-06-06T04:23:15Z",
+        "updated_at": "2019-06-06T04:23:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043938172/comments/360005956492.json",
+        "post_id": 360043938172,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043868492,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007338072,
+        "body": "<p>Yes, this is really important for things with multiple parts.</p>",
+        "author_id": 372200418132,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043868492-Scripting-API-Add-ability-to-determine-clicked-block-face/comments/360007338072",
+        "created_at": "2019-08-29T06:38:18Z",
+        "updated_at": "2019-08-29T06:38:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043868492/comments/360007338072.json",
+        "post_id": 360043868492,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 41828621727245,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41839039090573,
+        "body": "<p>They have a new update naming system, version 26.0 comes out next year</p>",
+        "author_id": 17253743137677,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41828621727245-please-ad-animations/comments/41839039090573",
+        "created_at": "2025-12-11T02:10:40Z",
+        "updated_at": "2025-12-11T02:10:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41828621727245/comments/41839039090573.json",
+        "post_id": 41828621727245,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 41129479985293,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41129666252173,
+        "body": "<p>Here are some examples:</p>\n<pre>#supported_formats compatible<br>#a pack which is compatible from 1.21.5 to 25w46a<br>\"suppported_formats\":[4325,4662]<br><br>\"suppported_formats\":{\"min_inclusive\":4325,\"max_inclusive\":4662}<br><br>#a pack which is compatible from 1.21.5 to future update<br>\"suppported_formats\":[4325,-1]<br><br>\"suppported_formats\":{\"min_inclusive\":4325,\"max_inclusive\":-1}<br><br>#a pack which is only compatible in 1.21.5<br>\"suppported_formats\":4325<br><br>#min_format and max_format compatible<br>#a pack which is compatible from 1.21.5 to 25w46a<br>\"min_format\":4325,\"max_format\":4662<br><br>#a pack which is compatible from 1.21.5 to future update<br>\"min_format\":4325,\"max_format\":-1</pre>",
+        "author_id": 41128656571277,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41129479985293-Make-pack-format-consistent-with-data-version/comments/41129666252173",
+        "created_at": "2025-11-14T01:14:09Z",
+        "updated_at": "2025-11-14T01:14:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41129479985293/comments/41129666252173.json",
+        "post_id": 41129479985293,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40459922269709,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40765023621133,
+        "body": "<p>We need this</p>",
+        "author_id": 9801199767565,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40459922269709-EntityHurtBeforeEvent-Class/comments/40765023621133",
+        "created_at": "2025-10-31T07:47:49Z",
+        "updated_at": "2025-10-31T07:47:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40459922269709/comments/40765023621133.json",
+        "post_id": 40459922269709,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40447149211277,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40448369898893,
+        "body": "<p>This should be done</p>",
+        "author_id": 40448369626253,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40447149211277-When-will-Minecraft-Bedrock-Edition-be-synced-with-Java-Edition/comments/40448369898893",
+        "created_at": "2025-10-19T07:11:33Z",
+        "updated_at": "2025-10-19T07:11:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40447149211277/comments/40448369898893.json",
+        "post_id": 40447149211277,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38868011502989,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38951906126733,
+        "body": "<p>Kpop demon hunters is my favorite movie and I want to play in minecraft.</p>",
+        "author_id": 38942891473421,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38868011502989-we-need-more-mods/comments/38951906126733",
+        "created_at": "2025-08-20T10:37:30Z",
+        "updated_at": "2025-08-20T16:20:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38868011502989/comments/38951906126733.json",
+        "post_id": 38868011502989,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 39367727652749,
+        "body": "<p>Bruh, suggest that to Mod developers not Minecraft</p>",
+        "author_id": 39367585536397,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38868011502989-we-need-more-mods/comments/39367727652749",
+        "created_at": "2025-09-06T03:57:22Z",
+        "updated_at": "2025-09-06T03:57:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38868011502989/comments/39367727652749.json",
+        "post_id": 38868011502989,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38628546075533,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 39652849261325,
+        "body": "<div><strong>BlockCustomComponent.onParse</strong></div>\n<div><strong>ItemCustomComponent.onParse</strong></div>\n<div>This function is called when the block/item JSON is parsed. For custom component validation.</div>\n<div>&nbsp;</div>",
+        "author_id": 400334639332,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38628546075533-Bedrock-Scripting-QOL-Improvements/comments/39652849261325",
+        "created_at": "2025-09-17T18:56:00Z",
+        "updated_at": "2025-09-17T22:23:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38628546075533/comments/39652849261325.json",
+        "post_id": 38628546075533,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35812923406989,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35990885099021,
+        "body": "<p>I think the hold up is that they would have to <em>buy</em> those mods, contracts are legal-heavy work that can slow down the process, a deal will likely have to be struck so that the mods are still available for use in past versions of Minecraft, and changes must be made to the mods themselves to <em>add</em> them to Minecraft. That is a lot more work than we realize.&nbsp;</p>\n<p>That being said, I feel like it would be worthwhile work, so you have my vote.</p>\n<p>&nbsp;</p>",
+        "author_id": 34495023570957,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35812923406989-why-not-add-really-good-performance-mods-to-minecraft-officially/comments/35990885099021",
+        "created_at": "2025-04-21T00:36:45Z",
+        "updated_at": "2025-04-22T17:54:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35812923406989/comments/35990885099021.json",
+        "post_id": 35812923406989,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 30516701921933,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 34617752970253,
+        "body": "<p>NO</p>",
+        "author_id": 20830825829517,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/30516701921933-bring-back-mobvote/comments/34617752970253",
+        "created_at": "2025-02-27T22:42:50Z",
+        "updated_at": "2025-02-27T22:42:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/30516701921933/comments/34617752970253.json",
+        "post_id": 30516701921933,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 28226257291149,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 32312069469965,
+        "body": "<p>-Walks in</p>\n<p>-Suggests moving a 15-year-old game to an entirely new programming language</p>\n<p>-Elaborates</p>\n<p>-Leaves</p>\n<p>Seriously - even if the languages are similar, this is a huge shift and won't come along in the form of a singular suggestion. Honestly not a bad idea, but this'd probably come from a Minecraft rewrite entirely, which is never gonna happen, because...</p>\n<p>1. Mojang Developers are so unbelievably slow at development, that this would single-handedly cause another huge stall in updates, exceeding the 1.12.2 to 1.13 gap by a few years easily. A rewrite is already incredibly time-consuming, it helps the languages are similar, but still.</p>\n<p>2. If they were to rewrite Minecraft, they'd definitely go back and fix ancient code, which as far as I can tell, messing with ancient Java code always leads to thousands of errors. Sounds like torture.</p>\n<p>3. Also similar to the 1.12.2 to 1.13 gap, would absolutely destroy modding.</p>\n<p>4. They don't care for Java, they love Bedrock because that's where they get their marketplace money.</p>\n<p>Yeah, all that unoptimized, hard coded, and ancient code isn't going anywhere, and believe me, we all want it gone. But it's simply too unrealistic. Honestly, the closest we're gonna get to that is Hytale, which isn't ever coming out. I mean, have you seen the janky player movement code?</p>\n<p>Honestly, I don't even want updates anymore, this game is bloated.</p>",
+        "author_id": 20830825829517,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/28226257291149-I-would-like-to-help-rewrite-minecraft-code-from-Java-to-Kotlin/comments/32312069469965",
+        "created_at": "2024-11-30T21:02:34Z",
+        "updated_at": "2024-11-30T21:27:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/28226257291149/comments/32312069469965.json",
+        "post_id": 28226257291149,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 27037155654029,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 27349891457293,
+        "body": "<p>Please keep in mind that Bedrock is coding in C++, while Java is coding in... Java.</p>",
+        "author_id": 25876022306061,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/27037155654029-Mods-in-bedrock-pocket-edition/comments/27349891457293",
+        "created_at": "2024-06-06T14:35:47Z",
+        "updated_at": "2024-06-06T14:35:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/27037155654029/comments/27349891457293.json",
+        "post_id": 27037155654029,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 24717863928589,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 26679431706253,
+        "body": "<p>I have been dreaming that mojang would add this to the game, and I am so surprised that they have neglected to add this; it's so obvious</p>",
+        "author_id": 396996315712,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24717863928589-Add-EntityDisplay-Like-ItemDisplay-and-BlockDisplay/comments/26679431706253",
+        "created_at": "2024-05-13T14:26:49Z",
+        "updated_at": "2024-05-14T18:25:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24717863928589/comments/26679431706253.json",
+        "post_id": 24717863928589,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 24546539086861,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25073599748749,
+        "body": "<p>This could be an AMAZING new component, since it would add tons of features like item recharges/ammo levels!! It wouldn't even have to be fake, it could be even better to have actually modifiable custom durability. Cool idea!!!</p>",
+        "author_id": 21873573802253,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24546539086861-A-Way-To-Add-Fake-Durability-Bars-Or-Hide-Them/comments/25073599748749",
+        "created_at": "2024-03-17T02:40:37Z",
+        "updated_at": "2024-03-18T20:55:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24546539086861/comments/25073599748749.json",
+        "post_id": 24546539086861,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 25284898821517,
+        "body": "<p>They did it!! New max_damage component in the game!!!</p>",
+        "author_id": 21873573802253,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24546539086861-A-Way-To-Add-Fake-Durability-Bars-Or-Hide-Them/comments/25284898821517",
+        "created_at": "2024-03-24T03:03:45Z",
+        "updated_at": "2024-03-24T16:43:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24546539086861/comments/25284898821517.json",
+        "post_id": 24546539086861,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 26678682553997,
+        "body": "<p>YES</p>",
+        "author_id": 396996315712,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24546539086861-A-Way-To-Add-Fake-Durability-Bars-Or-Hide-Them/comments/26678682553997",
+        "created_at": "2024-05-13T14:09:58Z",
+        "updated_at": "2024-05-14T18:30:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24546539086861/comments/26678682553997.json",
+        "post_id": 24546539086861,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 24403550442381,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 24403793635085,
+        "body": "<p>Console justice!</p>",
+        "author_id": 24403375345677,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24403550442381-Console-justice/comments/24403793635085",
+        "created_at": "2024-02-23T21:32:56Z",
+        "updated_at": "2024-02-23T21:33:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24403550442381/comments/24403793635085.json",
+        "post_id": 24403550442381,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 21934847938573,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 21936400313357,
+        "body": "<p>It allows for 8th blocks and quarter blocks because Mojang will have to worry less about crafting recipes.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/21934847938573-Polymorph-For-Minecraft-From-Curseforge/comments/21936400313357",
+        "created_at": "2023-12-04T19:57:19Z",
+        "updated_at": "2024-01-15T21:04:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/21934847938573/comments/21936400313357.json",
+        "post_id": 21934847938573,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 21944060894349,
+        "body": "<p>🔁 The loop icon on the Crafting GUI is when clicked, shows you all possible recipes using the same shape and ingredients. It should be positioned above the result.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/21934847938573-Polymorph-For-Minecraft-From-Curseforge/comments/21944060894349",
+        "created_at": "2023-12-04T23:19:38Z",
+        "updated_at": "2024-01-15T21:04:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/21934847938573/comments/21944060894349.json",
+        "post_id": 21934847938573,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 23120811160077,
+        "body": "<p>This isn’t really needed on Bedrock for manual, player done crafting as the recipe book can deal with the conflicts, unless the new crafter block is crafting an item with 2 or more outcomes. It is still needed on smithing table and furnace recipes.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/21934847938573-Polymorph-For-Minecraft-From-Curseforge/comments/23120811160077",
+        "created_at": "2024-01-11T15:56:49Z",
+        "updated_at": "2024-05-14T18:42:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/21934847938573/comments/23120811160077.json",
+        "post_id": 21934847938573,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 23232917425549,
+        "body": "<p>The GIFs are from Curseforge. The original creator of the mod is user TheIllusiveC4 on Curseforge.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/21934847938573-Polymorph-For-Minecraft-From-Curseforge/comments/23232917425549",
+        "created_at": "2024-01-15T21:12:27Z",
+        "updated_at": "2024-01-15T21:12:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/21934847938573/comments/23232917425549.json",
+        "post_id": 21934847938573,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 13075559134989,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 16152687985805,
+        "body": "<p>Buena idea.</p>",
+        "author_id": 417138242592,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13075559134989-Libro-de-gu%C3%ADa-en-el-bloque-de-comandos/comments/16152687985805",
+        "created_at": "2023-05-26T13:02:27Z",
+        "updated_at": "2023-05-26T13:02:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13075559134989/comments/16152687985805.json",
+        "post_id": 13075559134989,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 9788051011085,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 22343704637325,
+        "body": "<p>ADD THE BLOOP TO THE GAME!!!!!!!!!!!          plz??\n</p>",
+        "author_id": 22343640101517,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/9788051011085-the-bloop-of-ocean/comments/22343704637325",
+        "created_at": "2023-12-14T12:03:12Z",
+        "updated_at": "2023-12-14T12:07:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/9788051011085/comments/22343704637325.json",
+        "post_id": 9788051011085,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 6995093732749,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35903941518861,
+        "body": "<p>Yes I agree for making better the pathfinding for villagers.</p>\n<p>My villagers have sometimes difficulties to find their bed. If the bed is in the opposite side of the door, close to the wall, they will come close to the wall but outside the house and won't turn around to find the door.</p>\n<p>&nbsp;</p>\n<p>Also they get stuck against my ladders, which makes me impossible to have ladders in my village.</p>",
+        "author_id": 32921122263821,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6995093732749-Pathfinding-in-pets-and-villagers/comments/35903941518861",
+        "created_at": "2025-04-16T16:36:19Z",
+        "updated_at": "2025-04-16T20:31:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6995093732749/comments/35903941518861.json",
+        "post_id": 6995093732749,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4581095044109,
+    "expected_comment_count": 6,
+    "actual_comment_count": 6,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5126062964493,
+        "body": "<p>If the idea gets into the snapshots, I would try to make Bluestone, separate from redstone.</p>",
+        "author_id": 400773365951,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4581095044109-Custom-Block-and-Item-Creation/comments/5126062964493",
+        "created_at": "2022-03-28T16:59:12Z",
+        "updated_at": "2022-03-28T23:54:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4581095044109/comments/5126062964493.json",
+        "post_id": 4581095044109,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 5567156771853,
+        "body": "<p>I would like to create command wands to execute commands by using it them. I was going to upload the mod but i delete it because I quit using mods.</p>",
+        "author_id": 400773365951,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4581095044109-Custom-Block-and-Item-Creation/comments/5567156771853",
+        "created_at": "2022-04-15T17:58:10Z",
+        "updated_at": "2022-04-15T20:07:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4581095044109/comments/5567156771853.json",
+        "post_id": 4581095044109,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 5595967477517,
+        "body": "<p>I was thinking that I could add a 2nd level of the blast furnace and the smoker that smelts the items in 1 second. I was thinking that the recipes for these are the same recipe pattern:</p>\n<p>For the Melter: # = blast furnace, x = iron ingot.</p>\n<p>For the Incinerator (or something like that): # = smoker, x = logs.</p>\n<pre>x#x<br>x#x<br>x#x</pre>",
+        "author_id": 400773365951,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4581095044109-Custom-Block-and-Item-Creation/comments/5595967477517",
+        "created_at": "2022-04-17T14:09:05Z",
+        "updated_at": "2022-04-17T14:09:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4581095044109/comments/5595967477517.json",
+        "post_id": 4581095044109,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 5601587960717,
+        "body": "<p>I was doing mods again, and now I quit using them again because when I was recreating the Lorenz Attractor project on Minecraft Makecode, it got an error and I don't see what was the problem of the error. My problem could also be why my other mod which is a recreation of the Earthquake project didn't work properly. That is going to be the last time I use mods. For now I will datapacks instead.</p>\n<p>I was using MCreator to make the mods.</p>",
+        "author_id": 400773365951,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4581095044109-Custom-Block-and-Item-Creation/comments/5601587960717",
+        "created_at": "2022-04-17T23:49:13Z",
+        "updated_at": "2022-04-18T01:47:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4581095044109/comments/5601587960717.json",
+        "post_id": 4581095044109,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 5620754730765,
+        "body": "<p>I think I wish for this feature for the 6th or 7th snapshot of Minecraft.</p>",
+        "author_id": 400773365951,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4581095044109-Custom-Block-and-Item-Creation/comments/5620754730765",
+        "created_at": "2022-04-18T19:59:39Z",
+        "updated_at": "2022-04-18T19:59:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4581095044109/comments/5620754730765.json",
+        "post_id": 4581095044109,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 12130842885261,
+        "body": "<p>I was using MCreator again, and at 1 moment, I thought it was too complicated. I was using a version of the software where if the project has finished (decompile/depile) task, it wouldn't close out or restart the system and have the project as if it was not there. I couldn't have custom blocks while having custom trees. I Couldn't have items or projectiles with custom models. I couldn't have custom entities with custom models. I couldn't have custom identities set up properly like with vanilla.</p>",
+        "author_id": 400773365951,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4581095044109-Custom-Block-and-Item-Creation/comments/12130842885261",
+        "created_at": "2023-01-10T20:32:44Z",
+        "updated_at": "2023-02-15T20:59:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4581095044109/comments/12130842885261.json",
+        "post_id": 4581095044109,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4416169606925,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4424799737613,
+        "body": "<p>This would be handy for scoreboards. Java has something like this, but Bedrock only has \"dummy\" type...</p>",
+        "author_id": 394519325351,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4416169606925-onDeathEvent/comments/4424799737613",
+        "created_at": "2022-02-09T18:20:14Z",
+        "updated_at": "2022-02-09T18:20:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4416169606925/comments/4424799737613.json",
+        "post_id": 4416169606925,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077952351,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015423591,
+        "body": "<p>They should have a json file or something so it can easily be edited by data packs as well...</p>",
+        "author_id": 412314468832,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077952351-Allow-registering-fuel-items-in-Item-Properties/comments/360015423591",
+        "created_at": "2021-05-16T19:09:05Z",
+        "updated_at": "2021-05-17T03:24:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077952351/comments/360015423591.json",
+        "post_id": 360077952351,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076174251,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014040432,
+        "body": "<p>I think it should stay as-is because I always use trapdoors to keep villagers out of my house.</p>",
+        "author_id": 408074044531,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076174251-Villlagers-can-open-trap-doors/comments/360014040432",
+        "created_at": "2021-01-10T20:46:58Z",
+        "updated_at": "2021-03-08T11:25:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076174251/comments/360014040432.json",
+        "post_id": 360076174251,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014102591,
+        "body": "<p>It would break alot of farms</p>",
+        "author_id": 409948993392,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076174251-Villlagers-can-open-trap-doors/comments/360014102591",
+        "created_at": "2021-01-25T02:04:25Z",
+        "updated_at": "2021-03-08T11:25:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076174251/comments/360014102591.json",
+        "post_id": 360076174251,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014607172,
+        "body": "<p>This should be a gamerule so that people can still make traps for villagers and they dont break! :D</p>",
+        "author_id": 399870869431,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076174251-Villlagers-can-open-trap-doors/comments/360014607172",
+        "created_at": "2021-03-08T11:24:52Z",
+        "updated_at": "2021-03-08T11:25:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076174251/comments/360014607172.json",
+        "post_id": 360076174251,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

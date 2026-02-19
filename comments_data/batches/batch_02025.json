@@ -1,0 +1,952 @@
+[
+  {
+    "post_id": 360050573032,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7755210993421,
+        "body": "<p>Tra1234xnn</p>",
+        "author_id": 7754915808781,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050573032-Na-villagers/comments/7755210993421",
+        "created_at": "2022-07-18T13:18:35Z",
+        "updated_at": "2022-07-18T13:18:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050573032/comments/7755210993421.json",
+        "post_id": 360050573032,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7755211030541,
+        "body": "<p>Tra1234xnn</p>",
+        "author_id": 7754915808781,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050573032-Na-villagers/comments/7755211030541",
+        "created_at": "2022-07-18T13:18:35Z",
+        "updated_at": "2022-07-18T13:18:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050573032/comments/7755211030541.json",
+        "post_id": 360050573032,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7755230537485,
+        "body": "<p>Tra12345xnn</p>",
+        "author_id": 7754915808781,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050573032-Na-villagers/comments/7755230537485",
+        "created_at": "2022-07-18T13:19:45Z",
+        "updated_at": "2022-07-18T13:19:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050573032/comments/7755230537485.json",
+        "post_id": 360050573032,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360050307051,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 9683107574541,
+        "body": "<p>Perhaps renaming workstations should make then non linkable?</p>",
+        "author_id": 6733303377933,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050307051-Barrels-as-workstations/comments/9683107574541",
+        "created_at": "2022-10-06T04:09:42Z",
+        "updated_at": "2022-10-06T04:09:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050307051/comments/9683107574541.json",
+        "post_id": 360050307051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360049268711,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007249511,
+        "body": "<p>bruh, when villagers are struck by lightning they turn into witches</p>",
+        "author_id": 386227986752,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360049268711-Making-Illagers-Just-add-Lightning/comments/360007249511",
+        "created_at": "2019-08-24T20:50:15Z",
+        "updated_at": "2020-06-15T17:44:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360049268711/comments/360007249511.json",
+        "post_id": 360049268711,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008276552,
+        "body": "<p><br>Oh my gosh, I had this idea. I thought that librarians or clerics, being the smartest villagers probably, would become in 50/50 ratio an evoker or witch</p>",
+        "author_id": 389312666212,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360049268711-Making-Illagers-Just-add-Lightning/comments/360008276552",
+        "created_at": "2019-11-03T03:34:35Z",
+        "updated_at": "2020-06-15T17:44:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360049268711/comments/360008276552.json",
+        "post_id": 360049268711,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010981772,
+        "body": "<p>Librarians should pick up bows, and if struck, Illusion boi (Illusioner)</p>",
+        "author_id": 386689201891,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360049268711-Making-Illagers-Just-add-Lightning/comments/360010981772",
+        "created_at": "2020-06-15T17:46:17Z",
+        "updated_at": "2020-06-15T17:46:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360049268711/comments/360010981772.json",
+        "post_id": 360049268711,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360049087012,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007103672,
+        "body": "<p>its already in minecraft</p>\n<p>&nbsp;</p>",
+        "author_id": 386063852031,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360049087012-See-enchantment-books-before-trading-on-bedrock/comments/360007103672",
+        "created_at": "2019-08-18T09:56:14Z",
+        "updated_at": "2019-08-18T09:56:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360049087012/comments/360007103672.json",
+        "post_id": 360049087012,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7028606383885,
+        "body": "<p>There only way I can view the enchantment before trading is to have no emeralds, then click the item, then go to the right to view the book. If you have enough emeralds, you can't click without locking in the trade.</p>",
+        "author_id": 401614418252,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360049087012-See-enchantment-books-before-trading-on-bedrock/comments/7028606383885",
+        "created_at": "2022-06-18T16:15:35Z",
+        "updated_at": "2022-06-18T16:15:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360049087012/comments/7028606383885.json",
+        "post_id": 360049087012,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360047976531,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006914832,
+        "body": "<p>the reason there are no birch or dark oak villages are because those wood types are used in outposts and mansions</p>",
+        "author_id": 381360095811,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047976531-Tall-birch-tree-villagers/comments/360006914832",
+        "created_at": "2019-08-07T07:16:12Z",
+        "updated_at": "2019-08-07T19:14:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047976531/comments/360006914832.json",
+        "post_id": 360047976531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360047814952,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006109371,
+        "body": "<p>This is already a thing.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047814952-Villagers-After-Winning-The-Raid/comments/360006109371",
+        "created_at": "2019-06-18T03:25:33Z",
+        "updated_at": "2019-06-18T03:25:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047814952/comments/360006109371.json",
+        "post_id": 360047814952,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006314072,
+        "body": "<p>How about, not throw items, but launch fireworks with villager faces and then they place a cake and fishermen would feed the cats</p>",
+        "author_id": 374414959391,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047814952-Villagers-After-Winning-The-Raid/comments/360006314072",
+        "created_at": "2019-07-03T05:44:24Z",
+        "updated_at": "2019-07-03T16:43:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047814952/comments/360006314072.json",
+        "post_id": 360047814952,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360045968211,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005990891,
+        "body": "<p>This already exists. Whenever a mob or player hits a villager the iron golem will attack that target until they're dead.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360045968211-When-attacked-Villagers-alert-nearby-Iron-Golems/comments/360005990891",
+        "created_at": "2019-06-08T19:38:52Z",
+        "updated_at": "2019-06-11T02:58:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360045968211/comments/360005990891.json",
+        "post_id": 360045968211,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043441531,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005880591,
+        "body": "<p>no</p>",
+        "author_id": 382285663012,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043441531-Make-nitwits-have-dumb-trades/comments/360005880591",
+        "created_at": "2019-05-31T07:07:39Z",
+        "updated_at": "2019-05-31T07:07:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043441531/comments/360005880591.json",
+        "post_id": 360043441531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006547832,
+        "body": "<p>That would be similar to wandering traders. They don't have very good trades most of the time. Having nitwits doing the same would devalue the use and \"coolness\" of a wandering trader.</p>",
+        "author_id": 384919873791,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043441531-Make-nitwits-have-dumb-trades/comments/360006547832",
+        "created_at": "2019-07-19T03:37:03Z",
+        "updated_at": "2019-07-19T03:37:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043441531/comments/360006547832.json",
+        "post_id": 360043441531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014820932,
+        "body": "<p>a nitwit should give you forty-five emeralds for a poisonous potato</p>",
+        "author_id": 399769032231,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043441531-Make-nitwits-have-dumb-trades/comments/360014820932",
+        "created_at": "2021-04-05T20:25:25Z",
+        "updated_at": "2021-04-05T20:25:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043441531/comments/360014820932.json",
+        "post_id": 360043441531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41163577869453,
+        "body": "<p>I have a better Idea. Just search my post with the title, \"NITWIT'S REVAMP AS A CONSUMER THAT BUYS EVERYTHING FROM PLAYERS\".</p>\n\n<p>My idea has better use, and once you've read it, you'll understand why it should be recommended as revamp to Nitwits in Minecraft.</p>",
+        "author_id": 5552717415821,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043441531-Make-nitwits-have-dumb-trades/comments/41163577869453",
+        "created_at": "2025-11-15T09:04:52Z",
+        "updated_at": "2025-11-15T09:04:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043441531/comments/41163577869453.json",
+        "post_id": 360043441531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043532012,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005448191,
+        "body": "<p>I think you meant AI, so I fixed that.</p>\n<p>Moved to proper category.</p>\n<p>Thanks for your contribution.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043532012-Pillagers-AI-and-behaviour-upgrade-sugestions/comments/360005448191",
+        "created_at": "2019-04-30T01:39:52Z",
+        "updated_at": "2019-04-30T01:39:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043532012/comments/360005448191.json",
+        "post_id": 360043532012,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 17562178541581,
+        "body": "<p>I have an idea for an illager update</p>\n\n<p>For starters,pirates,the shipwrecks we find at the bottom of the sea shows that there is some base for the existence of them \n<br />In the boats you can find treasure and a map of pillager cities,bases,you can only find them in said boats\n<br />Once you find the cities you have to fight new types of illagers like the guards,wich have shield and swords;pirates,wich have swords and crossbows, along with the other regular illagers without exeptions. \n<br />Secondly there is a mod that creates a fully functional ship wich you can create with blocks,this alows the player to transport a great amount of items,this wont hinder the regular boats we have already in the game since they are small and can manuever in tight spaces</p>",
+        "author_id": 17561935878157,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043532012-Pillagers-AI-and-behaviour-upgrade-sugestions/comments/17562178541581",
+        "created_at": "2023-07-12T22:30:10Z",
+        "updated_at": "2023-09-22T16:26:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043532012/comments/17562178541581.json",
+        "post_id": 360043532012,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043509852,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005445291,
+        "body": "<p>Pictures removed (they're too dark), moved to correct category.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043509852-Artificer-villagers/comments/360005445291",
+        "created_at": "2019-04-29T21:16:25Z",
+        "updated_at": "2019-04-29T21:16:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043509852/comments/360005445291.json",
+        "post_id": 360043509852,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043437652,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005420891,
+        "body": "<p>MagicDiamond40 As in, only wear those two pieces of armor or only use those two items and not weapons?</p>",
+        "author_id": 364952098591,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043437652-Pillagers-Switching-Weapons/comments/360005420891",
+        "created_at": "2019-04-28T01:04:15Z",
+        "updated_at": "2019-04-28T01:04:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043437652/comments/360005420891.json",
+        "post_id": 360043437652,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043131531,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005249371,
+        "body": "<p>Moved to proper category.</p>\n<p>Clarified subject to help search results.</p>\n<p>Thanks for your contribution.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043131531-Farmers-should-plow/comments/360005249371",
+        "created_at": "2019-04-14T03:59:09Z",
+        "updated_at": "2019-04-14T03:59:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043131531/comments/360005249371.json",
+        "post_id": 360043131531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005327631,
+        "body": "<p>That sounds like a great idea! They could also maybe irrigate their plowed land and even fence it in!</p>",
+        "author_id": 380375527272,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043131531-Farmers-should-plow/comments/360005327631",
+        "created_at": "2019-04-22T01:17:23Z",
+        "updated_at": "2021-05-10T16:45:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043131531/comments/360005327631.json",
+        "post_id": 360043131531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042981791,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 30765273109133,
+        "body": "<p>Absolutely!&nbsp;</p>",
+        "author_id": 30679233169421,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042981791-A-new-mechanic-for-pillagers/comments/30765273109133",
+        "created_at": "2024-10-03T13:58:30Z",
+        "updated_at": "2024-10-03T13:58:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042981791/comments/30765273109133.json",
+        "post_id": 360042981791,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043170192,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005110531,
+        "body": "<p>Clarified subject to help search results.</p>\n<p>Thanks for your contribution.</p>\n<p>&nbsp;</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043170192-Villagers-Life-Weekend/comments/360005110531",
+        "created_at": "2019-04-02T20:17:40Z",
+        "updated_at": "2019-04-02T20:17:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043170192/comments/360005110531.json",
+        "post_id": 360043170192,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005120591,
+        "body": "<p>My opinions of this, in summary are, relaxing days yes, family system no, but maybe seeing children yes, teaching no, maybe learning to work overtime, with their parents, more villager 'games' yes.</p>",
+        "author_id": 365326150692,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043170192-Villagers-Life-Weekend/comments/360005120591",
+        "created_at": "2019-04-03T17:22:18Z",
+        "updated_at": "2019-04-03T18:47:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043170192/comments/360005120591.json",
+        "post_id": 360043170192,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042930451,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005096452,
+        "body": "<p>Clarified subject to help search results.</p>\n<p>Thanks for your contribution.</p>\n<p>&nbsp;</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042930451-Beacons-and-Conduits-Villager-Benefits/comments/360005096452",
+        "created_at": "2019-04-02T04:51:07Z",
+        "updated_at": "2019-04-02T04:51:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042930451/comments/360005096452.json",
+        "post_id": 360042930451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014580832,
+        "body": "<p>I agree with this one. I'd love it if villagers were able to then walk underwater. The downside is then the drowned would be more of a problem for villagers than normal. Maybe this capability could come with underwater villages being generated? With glass domes and lots of light to prevent drowned from spawning inside the domes? Of course, a conduit would generate with these villages so the villagers would be able to breathe in the water. Would also be cool to have different villages generated that, depending on size, would change how many rings generate on the conduit for that village.</p>",
+        "author_id": 379059090472,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042930451-Beacons-and-Conduits-Villager-Benefits/comments/360014580832",
+        "created_at": "2021-03-04T18:25:22Z",
+        "updated_at": "2021-03-04T23:36:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042930451/comments/360014580832.json",
+        "post_id": 360042930451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042779991,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005002332,
+        "body": "<p>Updated subject line to make it easier to find.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042779991-Villagers-Testificates-should-Craft-using-Items-Thrown/comments/360005002332",
+        "created_at": "2019-03-26T18:33:45Z",
+        "updated_at": "2019-03-26T18:33:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042779991/comments/360005002332.json",
+        "post_id": 360042779991,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005010971,
+        "body": "<p>@ Nova Thanks for that. I've been calling them testificates out of habit for years.</p>",
+        "author_id": 376821981371,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042779991-Villagers-Testificates-should-Craft-using-Items-Thrown/comments/360005010971",
+        "created_at": "2019-03-27T00:56:33Z",
+        "updated_at": "2019-03-27T01:44:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042779991/comments/360005010971.json",
+        "post_id": 360042779991,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005011091,
+        "body": "<p>No problem! Helping make things easy to find is one of my favorite ways to help out here.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042779991-Villagers-Testificates-should-Craft-using-Items-Thrown/comments/360005011091",
+        "created_at": "2019-03-27T01:45:07Z",
+        "updated_at": "2019-03-27T01:45:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042779991/comments/360005011091.json",
+        "post_id": 360042779991,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 22566789969805,
+        "body": "<p>With the auto-crafter coming up, it's almost like a missed chance to make an actually interactive and useful villager.&nbsp;</p>",
+        "author_id": 22563732571789,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042779991-Villagers-Testificates-should-Craft-using-Items-Thrown/comments/22566789969805",
+        "created_at": "2023-12-21T14:35:09Z",
+        "updated_at": "2023-12-26T03:05:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042779991/comments/22566789969805.json",
+        "post_id": 360042779991,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042760511,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009252211,
+        "body": "<p>Additionally, in Sky Block it is very much needed because charcoal is a renewable resource, while coal is a rarity (if available at all).</p>",
+        "author_id": 393744868852,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042760511-Villager-Coal-Trades/comments/360009252211",
+        "created_at": "2020-02-10T08:58:14Z",
+        "updated_at": "2020-05-17T16:32:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042760511/comments/360009252211.json",
+        "post_id": 360042760511,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042834972,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005204072,
+        "body": "<p>great idea!!!</p>",
+        "author_id": 379824502071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042834972-Pigman-priests/comments/360005204072",
+        "created_at": "2019-04-10T15:10:49Z",
+        "updated_at": "2019-04-10T15:10:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042834972/comments/360005204072.json",
+        "post_id": 360042834972,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006114332,
+        "body": "<p>@ilovepiggies666\n<br />Thanks!\n<br />Though I suspect that with a username like that you may be slightly biased ;) </p>",
+        "author_id": 378131505672,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042834972-Pigman-priests/comments/360006114332",
+        "created_at": "2019-06-18T11:22:31Z",
+        "updated_at": "2019-06-18T11:22:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042834972/comments/360006114332.json",
+        "post_id": 360042834972,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 39485308797197,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 39510410954893,
+        "body": "<p>I never thought about that. It is weird how this argument makes sense, even with the mythology part.</p>\n<p>But this will means a big change for the community (villagers with big noses are iconic). Expect a lot of people against this, but for me, I really think these big noses are too much (did you see a zombie villager with a carved pumpkin?).</p>",
+        "author_id": 407000818272,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39485308797197-Remove-villagers-giant-noses-the-yre-an-anti-semitic-stereotype/comments/39510410954893",
+        "created_at": "2025-09-11T21:52:56Z",
+        "updated_at": "2025-09-12T14:27:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39485308797197/comments/39510410954893.json",
+        "post_id": 39485308797197,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 39764807695245,
+        "body": "<p>I’ve never thought of Villagers as being greedy, although I believe this topic has been brought up before...</p>",
+        "author_id": 28619981439245,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39485308797197-Remove-villagers-giant-noses-the-yre-an-anti-semitic-stereotype/comments/39764807695245",
+        "created_at": "2025-09-22T17:15:30Z",
+        "updated_at": "2025-09-22T17:15:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39485308797197/comments/39764807695245.json",
+        "post_id": 39485308797197,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 33966707987341,
+    "expected_comment_count": 2,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38996487364493,
+        "body": "<p>I have that same issue on bedrock, the attack range of the zombie feels too unfair</p>",
+        "author_id": 38996443207565,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33966707987341-I-hate-the-zombie-s-attack-range/comments/38996487364493",
+        "created_at": "2025-08-21T18:51:01Z",
+        "updated_at": "2025-08-21T18:51:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33966707987341/comments/38996487364493.json",
+        "post_id": 33966707987341,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41464094952845,
+        "body": "<p>I have this same issue, it makes fighting significantly more difficult and it is very irritating when they can hit me before I have a chance to hit them. I play on minecraft for windows(bedrock) and use a mouse, but it is still way too high of an attack range when compared to java.</p>",
+        "author_id": 6550763147789,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33966707987341-I-hate-the-zombie-s-attack-range/comments/41464094952845",
+        "created_at": "2025-11-27T03:57:02Z",
+        "updated_at": "2025-11-27T03:57:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33966707987341/comments/41464094952845.json",
+        "post_id": 33966707987341,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 42485458380301,
+        "body": "<p>I honestly believe that bedrock need a complete fixing, Its gotten so bad that it doesn't feel enjoyable to play. The zombie issue is awful. I can't even get a hit in without being knocked back from the zombie hits</p>",
+        "author_id": 42485282822157,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33966707987341-I-hate-the-zombie-s-attack-range/comments/42485458380301",
+        "created_at": "2026-01-07T17:32:27Z",
+        "updated_at": "2026-01-07T17:32:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33966707987341/comments/42485458380301.json",
+        "post_id": 33966707987341,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 29063948692237,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 29887004657549,
+        "body": "<p>Of course! The bar could provide beds actually allocated for the player so he need not barge into some villager's house at night. I hope one can increase reputation with the village by regularly drinking there.</p>\n<p>(P.S. - Did you mean anything with the 'Town Hall' of the title?)</p>",
+        "author_id": 13233749971981,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/29063948692237-Better-Villages-Bars-defense-and-town-hall/comments/29887004657549",
+        "created_at": "2024-09-03T03:43:04Z",
+        "updated_at": "2024-09-03T16:46:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/29063948692237/comments/29887004657549.json",
+        "post_id": 29063948692237,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25693032988557,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25695322284045,
+        "body": "<p>Interesting idea, I will vote as you vote for my idea \"Yeti (village, new igloos, mobs - Yeti)\".</p>",
+        "author_id": 24689663094157,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25693032988557-Talking-villager-AI/comments/25695322284045",
+        "created_at": "2024-04-07T18:18:30Z",
+        "updated_at": "2024-04-07T18:18:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25693032988557/comments/25695322284045.json",
+        "post_id": 25693032988557,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 26223941928333,
+        "body": "<p>Heck yess lol I want to see the villagers reaction when I trap them at a single block permanently,, standing and staring at the lectern without any getting any food evr.</p>",
+        "author_id": 406077929831,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25693032988557-Talking-villager-AI/comments/26223941928333",
+        "created_at": "2024-04-26T06:49:28Z",
+        "updated_at": "2024-04-26T16:51:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25693032988557/comments/26223941928333.json",
+        "post_id": 25693032988557,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 24764401172109,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 24764856718733,
+        "body": "<p>Yes! They can sell populated beehives, honeycombs, glass bottles, honey bottles, and rare or uncommon flowers!</p>",
+        "author_id": 20395832682765,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24764401172109-ADD-NEW-A-beekeeper-JOB-FOR-VILLAGER/comments/24764856718733",
+        "created_at": "2024-03-06T23:13:33Z",
+        "updated_at": "2024-03-08T21:33:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24764401172109/comments/24764856718733.json",
+        "post_id": 24764401172109,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 24778955272717,
+        "body": "<p>What would he sell?</p>\n<p>It sounds good but there is not many items related to bees and they are pretty common, and i really dont like switching game mechanics for shortcuts with villagers, trading halls should be less op than they are now, not more.</p>",
+        "author_id": 393513029351,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24764401172109-ADD-NEW-A-beekeeper-JOB-FOR-VILLAGER/comments/24778955272717",
+        "created_at": "2024-03-07T14:08:53Z",
+        "updated_at": "2024-03-08T21:33:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24764401172109/comments/24778955272717.json",
+        "post_id": 24764401172109,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 23986937596301,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 23986956814477,
+        "body": "<p>Would Be Cool To Be Able To Trade For Swift Sneak And Or Armor Trims</p>",
+        "author_id": 23986877981965,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/23986937596301-Deep-Dark-Villagers/comments/23986956814477",
+        "created_at": "2024-02-09T02:29:03Z",
+        "updated_at": "2024-03-11T11:50:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/23986937596301/comments/23986956814477.json",
+        "post_id": 23986937596301,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 24118048705549,
+        "body": "<p>Or it could also be a lost adventurer that we could rarely meet in deep darks, a kind of wandering trader.</p>",
+        "author_id": 1904198949807,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/23986937596301-Deep-Dark-Villagers/comments/24118048705549",
+        "created_at": "2024-02-14T16:42:39Z",
+        "updated_at": "2024-03-11T11:50:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/23986937596301/comments/24118048705549.json",
+        "post_id": 23986937596301,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 24165344770701,
+        "body": "<p>pretty neat it would be to see how the humanoids adapt to the deep dark.</p>",
+        "author_id": 23554547270413,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/23986937596301-Deep-Dark-Villagers/comments/24165344770701",
+        "created_at": "2024-02-16T03:58:32Z",
+        "updated_at": "2024-03-11T11:50:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/23986937596301/comments/24165344770701.json",
+        "post_id": 23986937596301,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 26245841297549,
+        "body": "<p>I love the deep dark and having more life in there would be amazing!</p>",
+        "author_id": 26245665880717,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/23986937596301-Deep-Dark-Villagers/comments/26245841297549",
+        "created_at": "2024-04-26T21:24:48Z",
+        "updated_at": "2024-04-26T21:32:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/23986937596301/comments/26245841297549.json",
+        "post_id": 23986937596301,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 22827966506125,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 22864540161293,
+        "body": "<p>I think that the rebalance it's ok, but also agree with the fact that it's really expensive purchase a lot of items in the newest versions. Maybe another rework to the traiding system would work.</p>",
+        "author_id": 20137013800205,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/22827966506125-Zombie-Villagers-Cures/comments/22864540161293",
+        "created_at": "2024-01-02T22:25:02Z",
+        "updated_at": "2024-01-08T15:47:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/22827966506125/comments/22864540161293.json",
+        "post_id": 22827966506125,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

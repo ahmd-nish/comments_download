@@ -1,0 +1,787 @@
+[
+  {
+    "post_id": 360055263812,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008538571,
+        "body": "<p>This can already be achieved in 2 commands:<br>tag @e[tag=foo] add bar<br>tag @e remove foo<br>This is absolutely not needed; a toggle command (to remove when the tag exists, and add when not) would be twice as useful, as that currently requires 4 commands.</p>",
+        "author_id": 365162152092,
+        "vote_sum": 4,
+        "vote_count": 4,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055263812-Replace-a-sub-command-for-tag/comments/360008538571",
+        "created_at": "2019-11-27T14:04:31Z",
+        "updated_at": "2020-05-21T22:18:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055263812/comments/360008538571.json",
+        "post_id": 360055263812,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360054908832,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009146811,
+        "body": "<p>Can't you just change size tag when summoning the entity?</p>",
+        "author_id": 385731322111,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054908832-Changing-the-Evoker-Fang-Size-Command/comments/360009146811",
+        "created_at": "2020-02-01T23:31:12Z",
+        "updated_at": "2020-02-01T23:31:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054908832/comments/360009146811.json",
+        "post_id": 360054908832,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360050677212,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007793332,
+        "body": "<p>this can be accomplished pretty easily with /execute</p>",
+        "author_id": 387752129351,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050677212--Pinpoint-command/comments/360007793332",
+        "created_at": "2019-09-24T22:04:14Z",
+        "updated_at": "2019-09-24T22:04:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050677212/comments/360007793332.json",
+        "post_id": 360050677212,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360050445132,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007697531,
+        "body": "<p>What would you do with saved vaults. And this is already possible with storing it in an item tag tag or in /data storage now</p>",
+        "author_id": 375600302911,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050445132-The-vault-command/comments/360007697531",
+        "created_at": "2019-09-18T22:08:26Z",
+        "updated_at": "2024-01-27T22:27:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050445132/comments/360007697531.json",
+        "post_id": 360050445132,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048326372,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007154391,
+        "body": "<p>That was generally the plan. Dinnerbone noted that it would be better to break everything all at once rather than to break something <em>every single update.</em> Odds are, the command system that we have now won't have any significant changes in the foreseeable future.</p>",
+        "author_id": 386066946412,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048326372-Command-Syntax/comments/360007154391",
+        "created_at": "2019-08-20T19:56:38Z",
+        "updated_at": "2019-08-20T19:56:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048326372/comments/360007154391.json",
+        "post_id": 360048326372,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048271372,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006766591,
+        "body": "<p>/data merge entity @e[type=YourMob,limit=1] {nbt tags to edit your mob}</p>",
+        "author_id": 385074260532,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048271372--editmob-command/comments/360006766591",
+        "created_at": "2019-07-29T05:12:41Z",
+        "updated_at": "2019-07-29T18:50:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048271372/comments/360006766591.json",
+        "post_id": 360048271372,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006850171,
+        "body": "<p>its for pe</p>",
+        "author_id": 381486111591,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048271372--editmob-command/comments/360006850171",
+        "created_at": "2019-08-02T09:00:42Z",
+        "updated_at": "2019-08-02T09:00:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048271372/comments/360006850171.json",
+        "post_id": 360048271372,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048193132,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006565091,
+        "body": "<p>This would help me and fellow builders so much</p>\n<p>&nbsp;</p>",
+        "author_id": 368554662372,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048193132--grab-location-fill-clone/comments/360006565091",
+        "created_at": "2019-07-19T23:26:04Z",
+        "updated_at": "2019-07-20T19:49:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048193132/comments/360006565091.json",
+        "post_id": 360048193132,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360047764931,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006341011,
+        "body": "<p>This is a cool idea and although it can be implemented via data pack I agree that these tags should exist.</p>",
+        "author_id": 376590307111,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047764931-Create-some-block-groups-for-execute/comments/360006341011",
+        "created_at": "2019-07-05T04:45:58Z",
+        "updated_at": "2019-07-05T04:45:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047764931/comments/360006341011.json",
+        "post_id": 360047764931,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006366751,
+        "body": "<p>Air, cave_air, and void_air should all be in #air</p>",
+        "author_id": 384414225091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047764931-Create-some-block-groups-for-execute/comments/360006366751",
+        "created_at": "2019-07-07T22:23:22Z",
+        "updated_at": "2019-07-07T22:23:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047764931/comments/360006366751.json",
+        "post_id": 360047764931,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360044118692,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005707991,
+        "body": "<p>I don't know a lot about complicated commands but this should be in the Commands Category instead seeing that this has to do with commands.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360044118692-Independent-Command-Block-type/comments/360005707991",
+        "created_at": "2019-05-20T00:10:53Z",
+        "updated_at": "2019-05-20T00:10:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360044118692/comments/360005707991.json",
+        "post_id": 360044118692,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005711951,
+        "body": "<p>Sorry, just confused.</p>",
+        "author_id": 371064832532,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360044118692-Independent-Command-Block-type/comments/360005711951",
+        "created_at": "2019-05-20T11:18:12Z",
+        "updated_at": "2019-05-20T11:18:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360044118692/comments/360005711951.json",
+        "post_id": 360044118692,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005722312,
+        "body": "<p>It's all good bro. :D</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360044118692-Independent-Command-Block-type/comments/360005722312",
+        "created_at": "2019-05-20T23:27:41Z",
+        "updated_at": "2019-05-20T23:27:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360044118692/comments/360005722312.json",
+        "post_id": 360044118692,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006268332,
+        "body": "<p>I love this idea, adding more command block types definitely would help, and I know your pain with the whole \"add a tag and check them\" things, I do it way too often forscoreboard currency things.. so I'm definitely on board with this.</p>",
+        "author_id": 378675044132,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360044118692-Independent-Command-Block-type/comments/360006268332",
+        "created_at": "2019-06-30T05:45:52Z",
+        "updated_at": "2019-07-01T20:49:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360044118692/comments/360006268332.json",
+        "post_id": 360044118692,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006385191,
+        "body": "<p>Yea um if the execution of this \"independent\" command block <em>depends</em> on another command block, that would make it <em>depend</em>ent. Because it&nbsp;<em>depends</em> on something else. Not independent.</p>",
+        "author_id": 384380991192,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360044118692-Independent-Command-Block-type/comments/360006385191",
+        "created_at": "2019-07-08T21:58:16Z",
+        "updated_at": "2019-07-08T21:58:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360044118692/comments/360006385191.json",
+        "post_id": 360044118692,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043749291,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005874311,
+        "body": "<p>not needed, just use execute positioned</p>",
+        "author_id": 365162152092,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043749291--inside/comments/360005874311",
+        "created_at": "2019-05-30T19:16:28Z",
+        "updated_at": "2019-05-30T19:16:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043749291/comments/360005874311.json",
+        "post_id": 360043749291,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043468271,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006381112,
+        "body": "<p>When a potion hits the ground, the potion entity disappears. So there would be no entity on which to apply the inGround tag. There really is no elegant way to add a feature so that you detect when a potion, snowball, etc. hits the ground.</p>",
+        "author_id": 384380991192,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043468271-nbt-inGround-1b-if-a-potion-hits-the-ground/comments/360006381112",
+        "created_at": "2019-07-08T22:03:19Z",
+        "updated_at": "2019-07-08T22:03:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043468271/comments/360006381112.json",
+        "post_id": 360043468271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043032931,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005290891,
+        "body": "<p>What would this do to the specified mobs?</p>",
+        "author_id": 380147910592,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043032931--mixmobs-command/comments/360005290891",
+        "created_at": "2019-04-17T16:14:02Z",
+        "updated_at": "2019-04-17T16:14:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043032931/comments/360005290891.json",
+        "post_id": 360043032931,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005889992,
+        "body": "<p>you could make the sheeper! jk</p>",
+        "author_id": 382285663012,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043032931--mixmobs-command/comments/360005889992",
+        "created_at": "2019-06-01T01:34:53Z",
+        "updated_at": "2019-06-01T01:34:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043032931/comments/360005889992.json",
+        "post_id": 360043032931,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043120912,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005053131,
+        "body": "<p>? the command is /effect &lt;selector&gt; invincibility &lt;time&gt; &lt;level&gt; &lt;particles on/off&gt;</p>",
+        "author_id": 379184034491,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043120912--effect-300-invencibilidy-250/comments/360005053131",
+        "created_at": "2019-03-29T17:13:13Z",
+        "updated_at": "2019-03-29T17:41:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043120912/comments/360005053131.json",
+        "post_id": 360043120912,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042870071,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004993332,
+        "body": "<p><span class=\"pl-k\">You can already do this (at least in JE 1.13.2)</span></p>\n<p>&nbsp;</p>\n<p><span class=\"pl-k\">execute</span> <span class=\"pl-en\">store</span> <span class=\"pl-en\">result</span> <span class=\"pl-en\">score</span> <span class=\"pl-c1\">@p</span> <span class=\"pl-en\">pos_z</span> <span class=\"pl-en\">run</span> <span class=\"pl-k\">data</span> <span class=\"pl-en\">get</span> <span class=\"pl-en\">entity</span> <span class=\"pl-c1\">@p</span> <span class=\"pl-s\">Pos</span><span class=\"pl-c1\">[</span><span class=\"pl-c1\">2</span><span class=\"pl-c1\">]</span> <span class=\"pl-c1\">1</span></p>\n<p><span class=\"pl-c1\">scoreboard player add @p pos_z 3</span></p>\n<p><span class=\"pl-c1\"><span class=\"pl-k\">execute</span> <span class=\"pl-en\">store</span> <span class=\"pl-en\">result</span> <span class=\"pl-en\">entity</span> @p <span class=\"pl-s\">Pos</span>[2] <span class=\"pl-en\">double</span> 1 <span class=\"pl-en\">run</span> <span class=\"pl-k\">scoreboard</span> <span class=\"pl-en\">players</span> <span class=\"pl-en\">get</span> @p pos_z</span></p>\n<table class=\"highlight tab-size js-file-line-container\">\n<tbody>\n<tr>\n<td id=\"LC5\" class=\"blob-code blob-code-inner js-file-line\">&nbsp;</td>\n</tr>\n</tbody>\n</table>\n<p><span class=\"pl-c1\">&nbsp;</span></p>",
+        "author_id": 377847226292,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042870071-An-addition-to-the-scoreboard-command/comments/360004993332",
+        "created_at": "2019-03-26T09:56:39Z",
+        "updated_at": "2019-03-26T17:28:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042870071/comments/360004993332.json",
+        "post_id": 360042870071,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042849351,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011361732,
+        "body": "<p>That is good! Don’t like to get lost ether.</p>",
+        "author_id": 400586063431,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042849351-Locate-command-in-nether-to-find-portal/comments/360011361732",
+        "created_at": "2020-07-13T19:44:49Z",
+        "updated_at": "2020-07-13T19:44:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042849351/comments/360011361732.json",
+        "post_id": 360042849351,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360041867312,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004710331,
+        "body": "<p>We can already do that:</p>\n<p>/kill @e[type=!player]</p>",
+        "author_id": 377847226292,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041867312-Add-an-option-for-kill-not-affecting-creative-players/comments/360004710331",
+        "created_at": "2019-03-04T14:28:34Z",
+        "updated_at": "2019-03-04T14:28:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041867312/comments/360004710331.json",
+        "post_id": 360041867312,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360041098012,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004397391,
+        "body": "<p>There's already AttributeModifiers NBT data that can do that.</p>",
+        "author_id": 365162152092,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041098012--WeaponDamage-Weapon-Name-DamageNumber/comments/360004397391",
+        "created_at": "2019-02-11T11:49:53Z",
+        "updated_at": "2019-02-11T15:10:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041098012/comments/360004397391.json",
+        "post_id": 360041098012,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360040715372,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006090971,
+        "body": "<p>I could see this being something that's stored in the mob's NBT data, rather than hard-coded. Having it as a separate command might be a little awkward.</p>",
+        "author_id": 382912237632,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040715372--Type-nbt-tag-for-entities/comments/360006090971",
+        "created_at": "2019-06-16T20:49:35Z",
+        "updated_at": "2020-05-18T00:09:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040715372/comments/360006090971.json",
+        "post_id": 360040715372,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006599111,
+        "body": "<p>Looking up what you said, yes it would be much better as an NBT tag. Thank you for the input!</p>",
+        "author_id": 371701175212,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040715372--Type-nbt-tag-for-entities/comments/360006599111",
+        "created_at": "2019-07-23T01:09:00Z",
+        "updated_at": "2020-05-18T00:09:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040715372/comments/360006599111.json",
+        "post_id": 360040715372,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360039770852,
+    "expected_comment_count": 2,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360003987551,
+        "body": "<p>Already possible, use ^ ^ ^ notation</p>",
+        "author_id": 364935466911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360039770852-Tp-relative-to-player/comments/360003987551",
+        "created_at": "2019-01-22T18:05:13Z",
+        "updated_at": "2020-06-01T03:57:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360039770852/comments/360003987551.json",
+        "post_id": 360039770852,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360039422611,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360003973892,
+        "body": "<p>1. You can simply teleport the entity to the void</p>\n<p>2. /setblock air already doesn't drop chest contents</p>",
+        "author_id": 364935466911,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360039422611--remove-command/comments/360003973892",
+        "created_at": "2019-01-21T22:07:23Z",
+        "updated_at": "2023-03-03T14:56:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360039422611/comments/360003973892.json",
+        "post_id": 360039422611,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360038148792,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360003777831,
+        "body": "<p>What would this command do? Would it affect every item of it's type, or would it only affect 1 item? If the latter, why not just NBT data?</p>",
+        "author_id": 365162152092,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360038148792--additemeffect-for-example-poison-insert-item-here/comments/360003777831",
+        "created_at": "2019-01-14T14:35:20Z",
+        "updated_at": "2019-01-14T16:53:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360038148792/comments/360003777831.json",
+        "post_id": 360038148792,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360034456571,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360003506631,
+        "body": "<p>you can place a nether portal with setblock</p>",
+        "author_id": 368049848432,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360034456571--netherportal-command/comments/360003506631",
+        "created_at": "2018-12-23T08:41:36Z",
+        "updated_at": "2018-12-26T17:53:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360034456571/comments/360003506631.json",
+        "post_id": 360034456571,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360003523692,
+        "body": "<p>Why not just use 2 fill commands? One fill obsidian for the frame and 1 to fill in the actual portal blocks; this command seems completely redundant.</p>",
+        "author_id": 365162152092,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360034456571--netherportal-command/comments/360003523692",
+        "created_at": "2018-12-25T16:10:13Z",
+        "updated_at": "2018-12-25T16:10:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360034456571/comments/360003523692.json",
+        "post_id": 360034456571,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360003547491,
+        "body": "<p>use /setblock &lt;x y z&gt; nether portal</p>",
+        "author_id": 374599325272,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360034456571--netherportal-command/comments/360003547491",
+        "created_at": "2018-12-27T18:01:43Z",
+        "updated_at": "2018-12-27T18:45:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360034456571/comments/360003547491.json",
+        "post_id": 360034456571,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360003618831,
+        "body": "<p>Just do:</p>\n<p>/fill &lt;x y z&gt; &lt;x y z&gt; obsidian hollow</p>\n<p>/fill &lt;x y z&gt; &lt;x y z&gt; nether_portal</p>\n<p>put the nether portals inside the obsidian although this would be a good feature to simplify things</p>",
+        "author_id": 374659168312,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360034456571--netherportal-command/comments/360003618831",
+        "created_at": "2019-01-02T23:35:52Z",
+        "updated_at": "2019-01-03T00:12:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360034456571/comments/360003618831.json",
+        "post_id": 360034456571,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360032660432,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360003523752,
+        "body": "<p>I prefer the current way, makes it much more clear what is part of execution details.</p>",
+        "author_id": 365162152092,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360032660432-Simplify-execute-subcommands/comments/360003523752",
+        "created_at": "2018-12-25T16:16:52Z",
+        "updated_at": "2018-12-26T17:52:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360032660432/comments/360003523752.json",
+        "post_id": 360032660432,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009037332,
+        "body": "<p>yeah but how can you kill someone in an area and not a specific block ? For instance , kill everything from 0 64 0 up to</p>\n<p>10 70 0 . the command would be like execute as @a at @s if block 82 67 -197 77 67 -189&nbsp;</p>\n<p>&nbsp;</p>",
+        "author_id": 392843996791,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360032660432-Simplify-execute-subcommands/comments/360009037332",
+        "created_at": "2020-01-21T17:00:37Z",
+        "updated_at": "2020-01-21T17:09:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360032660432/comments/360009037332.json",
+        "post_id": 360032660432,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010304812,
+        "body": "<p>This is really needed so datapacks aren't ridiculously verbose.</p>",
+        "author_id": 397137254112,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360032660432-Simplify-execute-subcommands/comments/360010304812",
+        "created_at": "2020-04-27T04:06:11Z",
+        "updated_at": "2020-04-27T15:47:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360032660432/comments/360010304812.json",
+        "post_id": 360032660432,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 27168285201549,
+        "body": "<p>This doesn't really make sense due to how /execute works. You would have to add every possible subcommand as it's own command and as a subcommand of every other subcommand</p>",
+        "author_id": 24315250893325,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360032660432-Simplify-execute-subcommands/comments/27168285201549",
+        "created_at": "2024-05-30T17:33:05Z",
+        "updated_at": "2024-05-30T18:11:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360032660432/comments/27168285201549.json",
+        "post_id": 360032660432,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360032577452,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360003285471,
+        "body": "<p><a href=\"https://feedback.minecraft.net/hc/en-us/community/posts/360011487871-Clone-Update-Clone-Your-Self-\" rel=\"nofollow noreferrer\">https://feedback.minecraft.net/hc/en-us/community/posts/360011487871-Clone-Update-Clone-Your-Self-</a></p>\n<p style=\"font-family: 'Helvetica Neue'; font-size: 9.0pt; color: #454545;\">Sorry, it looks like there is already an existing thread on this topic. Go support them - clearly great minds think alike?</p>\n<p style=\"font-family: 'Helvetica Neue'; font-size: 9.0pt; color: #454545;\">Cutting down on duplicate threads will allow relevant threads and ideas to stay together so they can receive the attention they deserve from our developers.</p>\n<p style=\"font-family: 'Helvetica Neue'; font-size: 9.0pt; color: #454545;\">We want to help everyone have their ideas succeed. Thanks for your contribution.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360032577452-Creative-Creator/comments/360003285471",
+        "created_at": "2018-12-06T23:06:51Z",
+        "updated_at": "2018-12-06T23:06:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360032577452/comments/360003285471.json",
+        "post_id": 360032577452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360030678072,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360003526151,
+        "body": "<p>@e[type=!player]<br><br>there, is it really that hard?</p>",
+        "author_id": 365162152092,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360030678072-Kill-command/comments/360003526151",
+        "created_at": "2018-12-25T16:27:47Z",
+        "updated_at": "2020-04-09T12:15:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360030678072/comments/360003526151.json",
+        "post_id": 360030678072,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

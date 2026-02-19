@@ -1,0 +1,1102 @@
+[
+  {
+    "post_id": 360069583312,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011230171,
+        "body": "<p>And this is a easy-solved-problem. Just add a dot on the texture, if it's always-active, the dot is white; if it's needs-redstone, the dot is red.</p>",
+        "author_id": 396757417812,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360069583312-Always-Active-signifier-on-Command-Block-texture/comments/360011230171",
+        "created_at": "2020-07-03T01:49:06Z",
+        "updated_at": "2020-07-12T20:51:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360069583312/comments/360011230171.json",
+        "post_id": 360069583312,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011322471,
+        "body": "<p>Very good idea! I would love to see this implemented.</p>",
+        "author_id": 369958737352,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360069583312-Always-Active-signifier-on-Command-Block-texture/comments/360011322471",
+        "created_at": "2020-07-10T17:28:03Z",
+        "updated_at": "2020-07-18T10:03:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360069583312/comments/360011322471.json",
+        "post_id": 360069583312,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360062346892,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010385131,
+        "body": "<p>You can already do that with functions. You just have to do a recursive function with a counter or you just copy and paste the command multiple times.</p>",
+        "author_id": 373712550711,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062346892-Summon-lots-of-mobs-at-once/comments/360010385131",
+        "created_at": "2020-05-02T11:50:24Z",
+        "updated_at": "2020-05-24T17:48:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062346892/comments/360010385131.json",
+        "post_id": 360062346892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360056263351,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4416539659661,
+        "body": "<p>I can't believe there's still no map advancements in Java Edition. Bedrock has one for filling in 9 adjacent ones. This should be added to Java! It takes a lot of time and is definitely an advancement.</p>",
+        "author_id": 422456992972,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360056263351-An-advancement-trigger-for-filling-in-a-map/comments/4416539659661",
+        "created_at": "2021-12-14T04:38:10Z",
+        "updated_at": "2021-12-14T10:48:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360056263351/comments/4416539659661.json",
+        "post_id": 360056263351,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360055861491,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008933632,
+        "body": "<p>I’d like the align subcommand to have more functionality, like /execute align 0 0. This should align it to an axis around X and Z coordinates equal to 0. </p>",
+        "author_id": 369987069152,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055861491-Being-able-to-align-execute-with-chunks/comments/360008933632",
+        "created_at": "2020-01-10T17:58:14Z",
+        "updated_at": "2022-08-06T20:00:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055861491/comments/360008933632.json",
+        "post_id": 360055861491,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009101151,
+        "body": "<p>this is a good idea, but i think it should be a sub-argument for positioned</p>\n<p>/execute positioned chunk 0 0 positioned coordinates 3 3 3 run setblock ~ ~ ~ minecraft:diorite</p>\n<p>/execute positioned coordinates 3 3 3 run setblock ~ ~ ~ minecraft:diorite</p>\n<p>/execute positioned chunk 0 0 run setblock ~ ~ ~ minecraft:diorite</p>",
+        "author_id": 365292343452,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055861491-Being-able-to-align-execute-with-chunks/comments/360009101151",
+        "created_at": "2020-01-28T18:15:53Z",
+        "updated_at": "2020-01-29T16:39:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055861491/comments/360009101151.json",
+        "post_id": 360055861491,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360055535771,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008740431,
+        "body": "<p>You could add it by yourself using data packs</p>",
+        "author_id": 373712550711,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055535771-Add-a-block-tag-minecraft-full-block/comments/360008740431",
+        "created_at": "2019-12-18T17:21:28Z",
+        "updated_at": "2020-05-07T13:57:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055535771/comments/360008740431.json",
+        "post_id": 360055535771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360055196091,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008734271,
+        "body": "<p>agreed</p>",
+        "author_id": 391018988491,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055196091-Creating-pop-ups/comments/360008734271",
+        "created_at": "2019-12-18T00:09:28Z",
+        "updated_at": "2019-12-18T00:09:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055196091/comments/360008734271.json",
+        "post_id": 360055196091,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012895991,
+        "body": "<p>I Really need this command!</p>\n<p>&nbsp;</p>",
+        "author_id": 403846896791,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055196091-Creating-pop-ups/comments/360012895991",
+        "created_at": "2020-09-26T17:40:07Z",
+        "updated_at": "2020-09-27T10:53:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055196091/comments/360012895991.json",
+        "post_id": 360055196091,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012975972,
+        "body": "<p>I would also like this command to be in Minecraft Bedrock</p>\n<p>&nbsp;</p>",
+        "author_id": 403846896791,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055196091-Creating-pop-ups/comments/360012975972",
+        "created_at": "2020-09-26T17:41:04Z",
+        "updated_at": "2020-09-27T10:53:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055196091/comments/360012975972.json",
+        "post_id": 360055196091,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 6642868549773,
+        "body": "<p>Olá! \n<br />Minha sugestão seria, ao segurar por 2 segundos qualquer coisa do jogo que for ajustável, o game me dar um pop up daquele objeto e para que ele serve ..</p>",
+        "author_id": 6642815700493,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055196091-Creating-pop-ups/comments/6642868549773",
+        "created_at": "2022-06-02T22:17:05Z",
+        "updated_at": "2022-06-04T11:38:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055196091/comments/6642868549773.json",
+        "post_id": 360055196091,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360053623352,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008705671,
+        "body": "<p>You should probably expand on this, as this is already possible by specifying the gamerule, without specifying the value. For example:</p>\n<p><strong>/gamerule disableRaids</strong> with return either \"true\" or \"false\", if the second argument is not specified.</p>\n<p>If that is all you want, it already exists. Otherwise, if your command is to show everything that is already set, you can check in the world's \"level.dat\" file.</p>",
+        "author_id": 379849267991,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360053623352--gamerule-query/comments/360008705671",
+        "created_at": "2019-12-14T20:51:04Z",
+        "updated_at": "2019-12-16T21:09:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360053623352/comments/360008705671.json",
+        "post_id": 360053623352,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360052510211,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007944312,
+        "body": "<p>Jump Boost makes you jump higher but maybe you can jump lower or not jump at all.</p>",
+        "author_id": 370007613871,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360052510211-Jump-Height/comments/360007944312",
+        "created_at": "2019-10-03T15:08:06Z",
+        "updated_at": "2019-10-03T15:08:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360052510211/comments/360007944312.json",
+        "post_id": 360052510211,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010440771,
+        "body": "<p>stop using gamerules for everything. It should be more like /jumpheight &lt;entity&gt; &lt;number of blocks&gt;</p>",
+        "author_id": 382910346032,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360052510211-Jump-Height/comments/360010440771",
+        "created_at": "2020-05-06T22:55:25Z",
+        "updated_at": "2020-05-07T14:40:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360052510211/comments/360010440771.json",
+        "post_id": 360052510211,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014586032,
+        "body": "<p>Will the player receive fall damage if the jump height is set too high, like now being at too high level of Jump Boost?</p>",
+        "author_id": 397674401791,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360052510211-Jump-Height/comments/360014586032",
+        "created_at": "2021-03-05T03:48:35Z",
+        "updated_at": "2021-03-05T13:21:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360052510211/comments/360014586032.json",
+        "post_id": 360052510211,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 22640118793741,
+        "body": "<p>I think it should be in /attribute &lt;entity&gt; minecraft:generic.jumpheight</p>",
+        "author_id": 22640141841933,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360052510211-Jump-Height/comments/22640118793741",
+        "created_at": "2023-12-24T00:33:01Z",
+        "updated_at": "2023-12-26T20:05:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360052510211/comments/22640118793741.json",
+        "post_id": 360052510211,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360050604592,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007699832,
+        "body": "<p>If this where to be added it should probably be in the form of an acutal item and not a command</p>",
+        "author_id": 375600302911,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050604592-Pet-commands/comments/360007699832",
+        "created_at": "2019-09-18T21:48:31Z",
+        "updated_at": "2020-04-20T22:23:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050604592/comments/360007699832.json",
+        "post_id": 360050604592,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010213111,
+        "body": "<p>Why should this be a command? And how will this improve the game if added?</p>",
+        "author_id": 384380991192,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050604592-Pet-commands/comments/360010213111",
+        "created_at": "2020-04-20T22:24:52Z",
+        "updated_at": "2020-04-20T23:50:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050604592/comments/360010213111.json",
+        "post_id": 360050604592,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360050445272,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007354331,
+        "body": "<p>Yeeeees! I need that!</p>",
+        "author_id": 364959285411,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050445272-Mob-Aggression-Command/comments/360007354331",
+        "created_at": "2019-08-30T03:09:08Z",
+        "updated_at": "2019-08-30T03:09:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050445272/comments/360007354331.json",
+        "post_id": 360050445272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013443392,
+        "body": "<p>Love it hope it gets added, this would be a fun little command to help with mob battles. Also help map makers or something </p>",
+        "author_id": 402944242011,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050445272-Mob-Aggression-Command/comments/360013443392",
+        "created_at": "2020-11-09T14:50:25Z",
+        "updated_at": "2020-11-09T21:30:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050445272/comments/360013443392.json",
+        "post_id": 360050445272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043267551,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005423452,
+        "body": "<p>+1. There's no reason that this shouldn't be in the game, and it seems like something relatively simple to implement.</p>\n<p>I'm going to build off of this and say that we should just have a minecraft.interacted_with criterion that includes all blocks. When you right-click on a block, this criteria goes up for all blocks.</p>\n<p>For your problem, I think that you can work around it placing an invisible villager on top of the lever. If you give the villager no trades, the talking with villager criteria will go up even though no menu opens. You can simulate the lever flip with commands.</p>",
+        "author_id": 380741653551,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043267551-Levers-Flipped-Scoreboard-Criteria/comments/360005423452",
+        "created_at": "2019-04-28T14:56:14Z",
+        "updated_at": "2019-04-29T16:32:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043267551/comments/360005423452.json",
+        "post_id": 360043267551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043007911,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005150692,
+        "body": "<p>This is possible by summoning an armor stand at their position then /spreadplayers as it always puts you on top of all blocks (Rain can only happen if you are on the top layer already.) Then execute them to execute all armorstands within 1 block to set a Redstone block at your desired position then have them to to the closest armor stand. Meanwhile have a timer going for mabye four ticks just enough for you to be sure the process is done then attach an and gate with the timer and the desired position from before. Then you kill the armorstand and you have an ITPIRD ( Is This Player In Rain Detector). Wow that's a long one.</p>\n<p>Hope you have a good day!&nbsp;</p>\n<p>&nbsp;</p>\n<p>3dit:</p>\n<p>I forgot to mention that you can then attach another and gate and a command block that checks what block they are in and make it water.</p>",
+        "author_id": 376657084391,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043007911-A-way-to-detect-if-the-player-is-wet-underwater-or-in-the-rain/comments/360005150692",
+        "created_at": "2019-04-06T20:32:16Z",
+        "updated_at": "2019-04-22T21:58:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043007911/comments/360005150692.json",
+        "post_id": 360043007911,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 25285833019149,
+        "body": "<p>Possible to detect if an entity is in rain, but its actually really hard to detect water since so many blocks are waterloggable. Until mojang makes a full-on fluid check, there's not much you can do other than check for water, water-filled blocks, and the waterlogged state of any waterloggable block. Would be super useful to have a simpler way!</p>",
+        "author_id": 21873573802253,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043007911-A-way-to-detect-if-the-player-is-wet-underwater-or-in-the-rain/comments/25285833019149",
+        "created_at": "2024-03-24T05:16:47Z",
+        "updated_at": "2024-03-24T17:08:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043007911/comments/25285833019149.json",
+        "post_id": 360043007911,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042989431,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006076411,
+        "body": "<p>It looks like /disableRaids was put into effect with MCJE 1.14.3 Beta 3, and this was very sorely needed.<br>It sounds like this \"Mob Event Tweak\" also requested something that would be /disableSieges to disable the newly debugged Zombie Sieges. Reasons for disabling Raids would also overlap with reasons to disable Sieges. /mobevent &lt;options&gt; would likely have been a more consistent, better way to go to resolve ALL of this stuff, in my opinion, but at least having a /disableSieges compliment to /disableRaids would really help those of us who just want to have our villages unmolested once we make them safe from normal spawning.</p>",
+        "author_id": 365502762851,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042989431-Mob-Event-Tweaks/comments/360006076411",
+        "created_at": "2019-06-14T22:49:03Z",
+        "updated_at": "2019-06-17T15:15:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042989431/comments/360006076411.json",
+        "post_id": 360042989431,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042969631,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005150712,
+        "body": "<p>You can already do this lol</p>",
+        "author_id": 376657084391,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042969631-Command-Machine-in-one-block/comments/360005150712",
+        "created_at": "2019-04-06T20:35:55Z",
+        "updated_at": "2019-04-08T19:50:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042969631/comments/360005150712.json",
+        "post_id": 360042969631,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005225752,
+        "body": "<p>Not in bedrock edition.</p>",
+        "author_id": 379857234092,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042969631-Command-Machine-in-one-block/comments/360005225752",
+        "created_at": "2019-04-12T04:53:16Z",
+        "updated_at": "2019-04-12T04:53:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042969631/comments/360005225752.json",
+        "post_id": 360042969631,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005349551,
+        "body": "<p>Use functions</p>",
+        "author_id": 380447682052,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042969631-Command-Machine-in-one-block/comments/360005349551",
+        "created_at": "2019-04-23T06:30:49Z",
+        "updated_at": "2019-04-23T21:40:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042969631/comments/360005349551.json",
+        "post_id": 360042969631,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005417152,
+        "body": "<p>Functions would work, it's just that something like this would be nice for the more engineer type creation, server designing, and easier for sharing, plus there's a lot of stuff that redstone can do that a function can't, such as redstone repeaters, or having redstone compactors, or pistons, and etc.</p>",
+        "author_id": 379250238871,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042969631-Command-Machine-in-one-block/comments/360005417152",
+        "created_at": "2019-04-27T21:00:07Z",
+        "updated_at": "2019-07-24T00:43:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042969631/comments/360005417152.json",
+        "post_id": 360042969631,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 18062984809101,
+        "body": "<p>I want to play one block please 🙏🥺😔</p>",
+        "author_id": 10255245796365,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042969631-Command-Machine-in-one-block/comments/18062984809101",
+        "created_at": "2023-07-30T14:58:32Z",
+        "updated_at": "2023-07-30T14:58:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042969631/comments/18062984809101.json",
+        "post_id": 360042969631,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042982892,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004999171,
+        "body": "<p>Why ?</p>",
+        "author_id": 377847226292,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042982892-gamemode-s-and-c-1-and-2-or-3/comments/360004999171",
+        "created_at": "2019-03-26T10:36:38Z",
+        "updated_at": "2019-03-26T10:36:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042982892/comments/360004999171.json",
+        "post_id": 360042982892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042725311,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007947772,
+        "body": "<p>Cool</p>",
+        "author_id": 388132005732,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042725311-Min-and-Max-scoreboard-specifiers-in-Minecraft-Bedrock-edition/comments/360007947772",
+        "created_at": "2019-10-03T19:25:21Z",
+        "updated_at": "2019-10-03T19:25:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042725311/comments/360007947772.json",
+        "post_id": 360042725311,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 6518504637453,
+        "body": "<p>Do you mean like:</p>\n<p>@a[scores={\"scoreboard\"=1..}]</p>\n<p>@a[scores={\"scoreboard\"=..50}]</p>\n<p>and</p>\n<p>@a[scores={\"scoreboard\"=1..50}]</p>\n<p>?</p>",
+        "author_id": 394133184451,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042725311-Min-and-Max-scoreboard-specifiers-in-Minecraft-Bedrock-edition/comments/6518504637453",
+        "created_at": "2022-05-27T17:17:45Z",
+        "updated_at": "2022-05-27T17:18:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042725311/comments/6518504637453.json",
+        "post_id": 360042725311,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042725071,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010305451,
+        "body": "<p>Yeah</p>",
+        "author_id": 397150508992,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042725071-add-new-commands-please/comments/360010305451",
+        "created_at": "2020-04-27T12:08:25Z",
+        "updated_at": "2021-05-10T09:35:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042725071/comments/360010305451.json",
+        "post_id": 360042725071,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360015374471,
+        "body": "<p>Yes! Pleaseee we really Really&nbsp;<strong>REALLY </strong>need this. Command in&nbsp;<em>Bedrock</em><em> Edition&nbsp;</em>isn’t really that complex and flexible compared to <em>Java Edition</em>’s</p>",
+        "author_id": 407275286091,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042725071-add-new-commands-please/comments/360015374471",
+        "created_at": "2021-05-10T09:37:36Z",
+        "updated_at": "2021-05-10T10:34:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042725071/comments/360015374471.json",
+        "post_id": 360042725071,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360037386212,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360003767532,
+        "body": "<p>I'd like a command that shows all three coordinates of the most nearby location of any block type specified by the player (not only minerals). In spectator and creative mode.</p>",
+        "author_id": 375454880151,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360037386212-Locate-minerals-command/comments/360003767532",
+        "created_at": "2019-01-12T14:55:59Z",
+        "updated_at": "2019-01-14T17:52:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360037386212/comments/360003767532.json",
+        "post_id": 360037386212,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012634652,
+        "body": "<p>but that ruins the point of mining</p>",
+        "author_id": 400557257112,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360037386212-Locate-minerals-command/comments/360012634652",
+        "created_at": "2020-08-21T17:30:41Z",
+        "updated_at": "2020-08-21T17:30:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360037386212/comments/360012634652.json",
+        "post_id": 360037386212,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360032438431,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360003278612,
+        "body": "<p>This is good. Though it may not apply to commands that are run indirectly due to another (such as a command that grants an achievement, and that achievement runs a function as a reward.). IDK how it works.</p>",
+        "author_id": 373659873032,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360032438431-Merge-the-two-command-related-gamerules-1-9-0-3/comments/360003278612",
+        "created_at": "2018-12-07T03:53:32Z",
+        "updated_at": "2020-04-02T16:27:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360032438431/comments/360003278612.json",
+        "post_id": 360032438431,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360003307331,
+        "body": "<p>Bedrock doesn't have advancements which grant functions as rewards. And this suggestion only applies to Bedrock, as Java already uses a single gamerule for this purpose.</p>",
+        "author_id": 364935466911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360032438431-Merge-the-two-command-related-gamerules-1-9-0-3/comments/360003307331",
+        "created_at": "2018-12-08T23:56:20Z",
+        "updated_at": "2018-12-08T23:56:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360032438431/comments/360003307331.json",
+        "post_id": 360032438431,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360030074531,
+    "expected_comment_count": 14,
+    "actual_comment_count": 14,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360003176712,
+        "body": "<p>Im so used to use /clear</p>\n<p>Only /clear</p>\n<p>Nothing else than /clear ;P</p>",
+        "author_id": 373310461771,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360030074531-Command-Merge-Inventory/comments/360003176712",
+        "created_at": "2018-11-28T22:25:40Z",
+        "updated_at": "2018-11-28T22:25:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360030074531/comments/360003176712.json",
+        "post_id": 360030074531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005504671,
+        "body": "<p>How about \"clear &lt;item&gt; [count]\"</p>",
+        "author_id": 371064832532,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360030074531-Command-Merge-Inventory/comments/360005504671",
+        "created_at": "2019-05-05T02:41:09Z",
+        "updated_at": "2019-05-05T02:41:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360030074531/comments/360005504671.json",
+        "post_id": 360030074531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008024471,
+        "body": "<p><em>[offtopic comment removed by admin, let's stick to the topic here ~ admin]</em><br>This is a good way to clean up the command system, as each of those commands do similar things.I would like to note, however, that each one is capable a few unique ways of manipulating inventories, and those capabilities ought to persist in the new /inventory command. I will attempt to outline each command's current functionality, the advantages a merged /inventory command would have on each, and what, if any, current workarounds I am aware of to achieve the same goals that this new command system would do more efficiently.</p>",
+        "author_id": 388285541091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360030074531-Command-Merge-Inventory/comments/360008024471",
+        "created_at": "2019-10-10T18:13:05Z",
+        "updated_at": "2019-10-11T20:38:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360030074531/comments/360008024471.json",
+        "post_id": 360030074531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008024511,
+        "body": "<p>/give: Arguably the simplest command of the three, it attempts to place the specified item into the player's inventory in the first available slot. Naturally, \"/inventory (block/entity) give\" would do the same, putting the item into the first available slot in a player or container's inventory, or the given default slot for mobs and other entities. /give also is unique in that it always succeeds (if the target exists), dropping the given item at the player's location if their inventory is full. Therefore /inventory give should also do this, as the current equivalent to this is testing each inventory slot for all possible items (to determine if it is full), and then running /replaceitem in the first slot that returned empty, or summoning the item instead if they all returned full, which is completely impractical to program, and probably not the most efficient performance-wise either. (One could argue that you can just summon the item and let it get picked up by the target, but that only works for players and some mobs.) </p>",
+        "author_id": 388285541091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360030074531-Command-Merge-Inventory/comments/360008024511",
+        "created_at": "2019-10-10T18:13:33Z",
+        "updated_at": "2019-10-11T20:38:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360030074531/comments/360008024511.json",
+        "post_id": 360030074531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008026012,
+        "body": "<p>/clear: Currently tests for a specific item irrespective of inventory slots, and then removes the specified number. This would be a very useful feature to extend to blocks and non-player entities, as the current equivalent is to use /data remove (block/entity) and delete the stored inventory, which is a more difficult and complex process, potentially without all the arguments available to /clear. (I don't know enough about inventory editing via /data to be sure, which should be proof enough that it's harder to understand since I know the features of /clear and use it often.) /clear also features the unique ability to test the inventory, once again irrespective of slots, without clearing anything. This is a very useful tool and should be included in the /inventory command, however the way I suggest it be implemented is not specific to the /clear command, and will be discussed later.</p>",
+        "author_id": 388285541091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360030074531-Command-Merge-Inventory/comments/360008026012",
+        "created_at": "2019-10-10T18:15:03Z",
+        "updated_at": "2019-10-11T20:38:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360030074531/comments/360008026012.json",
+        "post_id": 360030074531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008026032,
+        "body": "<p>/replaceitem: Sets the prescribed slot to the item specified, regardless of the previous contents of that slot. This is a very powerful command, but is limited in some ways that could be remedied by integration into a /inventory command. I originally was going to make my own post outlining these changes, but they fit so well with this post's suggestion, that I decided to make a comment on this post and boost it instead. Rather than focusing on what /replaceitem can do, I'd like to touch on the things /replaceitem cannot currently do, but are already features of the game, and could easily be implemented in a /inventory command:</p>",
+        "author_id": 388285541091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360030074531-Command-Merge-Inventory/comments/360008026032",
+        "created_at": "2019-10-10T18:15:22Z",
+        "updated_at": "2019-10-11T20:38:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360030074531/comments/360008026032.json",
+        "post_id": 360030074531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008026052,
+        "body": "<p>1. /replaceitem is limited to 1 slot. There is no way to apply the command to multiple slots, much less all available slots. The only workaround is to list each possible slot individually, which still limits you to the slots available as selectors. (see below)<br>2. /replaceitem cannot access every possible item slot, such as the player's cursor. /clear is able to clear the player's inventory, including the player's cursor, and when clearing no items, is able to detect items as soon as they are picked up by the cursor, without them being assigned to any other slot in the player's inventory (e.g. when clicked on in a chest or other container), so the cursor is a separate slot with separate item storage, at least as long as the player's inventory is open.<br>3. /replaceitem only sets the slot to the new item. It cannot add or subtract from existing items. /clear allows one&nbsp; to remove items, but it operates unlike /replaceitem in that there is no way to specify a slot, so it is imprecise and useless in some applications. There is also no way to use /clear's testing ability on specific slots, which is even more useful, however this can be accomplished using /execute.</p>",
+        "author_id": 388285541091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360030074531-Command-Merge-Inventory/comments/360008026052",
+        "created_at": "2019-10-10T18:15:38Z",
+        "updated_at": "2019-10-11T20:38:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360030074531/comments/360008026052.json",
+        "post_id": 360030074531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008026072,
+        "body": "<p>I propose the following additions to the new /inventory command to allow for these features:<br><br>/inventory test: This would function like /clear 0, and allow for checking an inventory for a specified item, as well as being slot-specific, giving more functionality than /clear. Since with the new system, /inventory clear could also be slot-specific, the main difference is that /inventory test can test for a specific item count, where clear 0 can only determine if any number of that item is present. While /inventory test + an optional clear argument or /inventory replace + a none option could /inventory clear completely redundant (and I think either or both of those are elegant solutions and worth including), many people are familiar with /clear, and taking away the convenience of it for a longer and more confusing replacement doesn't seem like a good option.</p>",
+        "author_id": 388285541091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360030074531-Command-Merge-Inventory/comments/360008026072",
+        "created_at": "2019-10-10T18:16:12Z",
+        "updated_at": "2019-10-11T20:38:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360030074531/comments/360008026072.json",
+        "post_id": 360030074531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008024531,
+        "body": "<p>/inventory add: This is like a more powerful version of /give, granting the power to place an item in a specific slot, succeeding only if the slot is empty or contains an incomplete stack of the same item. This would allow one to adjust the amount of items in a slot without having to check how many are there. With no item specified, one could even increase or decrease the stack count of any item (as long as the item is stackable) without needing to test for what item is there. (This is also a possible addition to /replace to set the stack count without knowing what item is there.) The main advantage of this, though, is the ability to give the player an item only under the condition that they already have it, irrespective of how full their inventory is, or what the rest of their inventory contains. Since there's no way to currently do this, and the only workaround would be searching for an item via /execute and running a /inventory give (with slot selectors), it seems like a valuable addition.</p>",
+        "author_id": 388285541091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360030074531-Command-Merge-Inventory/comments/360008024531",
+        "created_at": "2019-10-10T18:16:28Z",
+        "updated_at": "2019-10-11T20:38:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360030074531/comments/360008024531.json",
+        "post_id": 360030074531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008024551,
+        "body": "<p>slot selectors for /inventory clear/give: (Wouldn't really be necessary if the previously mentioned alternatives were added, leaving /inventory give and /inventory clear as the simplified versions of test, add, and replace) I already touched upon it, but it would make /clear much more powerful if there were optional slot selectors, /give would function almost identically, the optional slot selector allowing one to override which slot is checked, and the item placed into if empty, but since /give drops the item if it fails to place it, it would just go into the first available inventory slot anyway, but it would add a tiny bit of control over what slot the item lands on in some cases.</p>",
+        "author_id": 388285541091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360030074531-Command-Merge-Inventory/comments/360008024551",
+        "created_at": "2019-10-10T18:16:53Z",
+        "updated_at": "2019-10-11T20:38:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360030074531/comments/360008024551.json",
+        "post_id": 360030074531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008026112,
+        "body": "<p>Additional slot selectors: There are only three slot selectors missing that I see as vitally important, though there may be others that i am not aware of, specifically regarding containers or entities that I am less familiar with:</p>\n<ul>\n<li>all: We desperately need the ability to apply inventory edits to every available slot simultaneously. Not only would this save a lot of coding each time a function needed to perform a task to a whole inventory at once, but would also allow one to reach unlisted slots if any are present (see below). This selector would perform the task on the whole inventory collectively, like /clear, and any results would be compiled from every applicable slot. For tasks such as /inventory replace, it would apply to every inventory slot, however tasks like /inventory add would add to the first available slot, and only fail if no slot was available.</li>\n</ul>",
+        "author_id": 388285541091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360030074531-Command-Merge-Inventory/comments/360008026112",
+        "created_at": "2019-10-10T18:17:52Z",
+        "updated_at": "2019-10-11T20:38:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360030074531/comments/360008026112.json",
+        "post_id": 360030074531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008026152,
+        "body": "<p>(additional slot selectors cont.)<br><br></p>\n<ul>\n<li>each: Like all, but applies the command to each slot individually. In many cases, this would produce identical results to all but in some, like when using /inventory add, it would run on each slot, adding the specified number of items to every slot it can, and ignoring the others.</li>\n</ul>\n<ul>\n<li>cursor (cursor, weapon.cursor, inventory.hand, etc): The slot that is holding items when moving them around the inventory or into a crafting grid. /clear currently has access to this, being able to test for and clear items held by the cursor, even before they are placed in the inventory. This would let /inventory replace and all the other functions of /inventory access this slot specifically, which is very useful, both for preventing players from removing items chests and other containers, and their own inventories, and for interesting visual tools that can take advantage of the ability to change the appearance of the cursor by replacing the held item.</li>\n</ul>",
+        "author_id": 388285541091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360030074531-Command-Merge-Inventory/comments/360008026152",
+        "created_at": "2019-10-10T18:18:29Z",
+        "updated_at": "2019-10-11T20:38:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360030074531/comments/360008026152.json",
+        "post_id": 360030074531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008026192,
+        "body": "<p>Locked Inventory slots: There is another request <a href=\"/hc/en-us/community/posts/360043029971-Add-Inventory-Locking\" target=\"_blank\" rel=\"nofollow noreferrer\">here</a> that covers this pretty well so I won't rehash it, but /inventory lock would be another great addition, and fits well with the /inventory syntax established here.<br><br>[End of prior comment. Once again apologies for the many posts, but 1500 characters is not a lot to work with when doing a complete analysis of game mechanics. I would love to know if there's a way to increase that limit in some way, and what the correct protocol is to post long blocks of commentary like this. I try to provide an in-depth analysis of anything I want to be changed, for the benefit of the users interested, and potentially even the developers.]</p>",
+        "author_id": 388285541091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360030074531-Command-Merge-Inventory/comments/360008026192",
+        "created_at": "2019-10-10T18:19:22Z",
+        "updated_at": "2019-10-10T18:27:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360030074531/comments/360008026192.json",
+        "post_id": 360030074531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010218192,
+        "body": "<p><x-zendesk-user data-user-name=\"WalnutLawyer346\">388285541091</x-zendesk-user></p>\n<p>Good job with that. I agree with pretty much everything you wrote.</p>",
+        "author_id": 384380991192,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360030074531-Command-Merge-Inventory/comments/360010218192",
+        "created_at": "2020-04-20T22:46:17Z",
+        "updated_at": "2020-04-20T23:53:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360030074531/comments/360010218192.json",
+        "post_id": 360030074531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 28688717493901,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 28811427425677,
+        "body": "<p>omg this would be wonderful and in know it can be done simple stroll down curseforge and you will find that one</p>",
+        "author_id": 6423183084941,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/28688717493901--gamerule-TrialVaultsRefresh/comments/28811427425677",
+        "created_at": "2024-07-29T23:47:44Z",
+        "updated_at": "2024-07-30T00:16:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/28688717493901/comments/28811427425677.json",
+        "post_id": 28688717493901,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 21341721997325,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 21347405424269,
+        "body": "<p>Maybe instead of being called moving_inventory_slot, it could be called _inventory_slot_switching</p>",
+        "author_id": 400271757932,
+        "vote_sum": 4,
+        "vote_count": 4,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/21341721997325--Bedrock-More-permissions-to-set-with-the-inputpermission-command/comments/21347405424269",
+        "created_at": "2023-11-15T04:42:07Z",
+        "updated_at": "2023-11-18T15:16:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/21341721997325/comments/21347405424269.json",
+        "post_id": 21341721997325,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 21460274650381,
+        "body": "<p>this would be so helpful i wish this was real</p>",
+        "author_id": 21197720881421,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/21341721997325--Bedrock-More-permissions-to-set-with-the-inputpermission-command/comments/21460274650381",
+        "created_at": "2023-11-18T15:17:11Z",
+        "updated_at": "2023-11-19T17:54:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/21341721997325/comments/21460274650381.json",
+        "post_id": 21341721997325,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 27563491872909,
+        "body": "<p>Manifesting!! more Inputpermission command!</p>",
+        "author_id": 396572794272,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/21341721997325--Bedrock-More-permissions-to-set-with-the-inputpermission-command/comments/27563491872909",
+        "created_at": "2024-06-14T01:18:19Z",
+        "updated_at": "2024-06-14T14:51:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/21341721997325/comments/27563491872909.json",
+        "post_id": 21341721997325,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 20892368059789,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 21314968843149,
+        "body": "<p>This is such a great idea!</p>",
+        "author_id": 19902602944781,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/20892368059789-New-Command-ownership/comments/21314968843149",
+        "created_at": "2023-11-14T10:42:30Z",
+        "updated_at": "2023-11-14T10:42:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/20892368059789/comments/21314968843149.json",
+        "post_id": 20892368059789,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 27273398273677,
+        "body": "<p>pls add this</p>\n<p>&nbsp;</p>",
+        "author_id": 27273379273229,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/20892368059789-New-Command-ownership/comments/27273398273677",
+        "created_at": "2024-06-04T04:03:27Z",
+        "updated_at": "2024-06-04T04:03:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/20892368059789/comments/27273398273677.json",
+        "post_id": 20892368059789,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10348141034509,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 10351421641229,
+        "body": "<p>You can cut the vine with scissors on RMB, stopping it from growing.</p>",
+        "author_id": 416461943171,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10348141034509--Gamerule-VineSpread-false/comments/10351421641229",
+        "created_at": "2022-11-03T11:14:04Z",
+        "updated_at": "2022-11-16T19:17:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10348141034509/comments/10351421641229.json",
+        "post_id": 10348141034509,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 9947908922893,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 10063714955533,
+        "body": "<p>I realy like this idea as like the rest of the comunity i HATE the chat report feture, do not belive minecraft will remove it.</p>",
+        "author_id": 9572710118541,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/9947908922893--gamerule-chatReport/comments/10063714955533",
+        "created_at": "2022-10-21T22:41:41Z",
+        "updated_at": "2023-05-26T12:40:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/9947908922893/comments/10063714955533.json",
+        "post_id": 9947908922893,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

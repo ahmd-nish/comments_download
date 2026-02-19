@@ -1,0 +1,1012 @@
+[
+  {
+    "post_id": 39731968148109,
+    "expected_comment_count": 5,
+    "actual_comment_count": 6,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 39745566450957,
+        "body": "<p>good idea. this should be located in video settings as a toggle default: true.</p>",
+        "author_id": 39745125553293,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39731968148109-Ability-to-turn-off-end-flashes/comments/39745566450957",
+        "created_at": "2025-09-21T22:24:28Z",
+        "updated_at": "2025-09-21T22:24:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39731968148109/comments/39745566450957.json",
+        "post_id": 39731968148109,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41004180498957,
+        "body": "<p>I support this idea, ever since i moved to play on version 1.21.10 , i dont want to visit the end dimension, flashes are just too much both for gameplay and my interpretation of end dimention being dark void. There has to be a an option to turn them off, both the flash and the lighting of the terrain. </p>",
+        "author_id": 33413458449293,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39731968148109-Ability-to-turn-off-end-flashes/comments/41004180498957",
+        "created_at": "2025-11-10T10:49:24Z",
+        "updated_at": "2025-11-10T10:49:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39731968148109/comments/41004180498957.json",
+        "post_id": 39731968148109,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41223138254605,
+        "body": "<p>Hi there. I already contacted Mojang about this. Because i have epilepsy and had a seizure in the end because of the end flashes. They didnt say anything about deactivating it complete. Just that they are going to take a look into it. I want to deactivate them too.&nbsp;</p>",
+        "author_id": 27721051822477,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39731968148109-Ability-to-turn-off-end-flashes/comments/41223138254605",
+        "created_at": "2025-11-18T06:17:21Z",
+        "updated_at": "2025-11-18T06:17:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39731968148109/comments/41223138254605.json",
+        "post_id": 39731968148109,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41691868001805,
+        "body": "<p>Hello, I also had a seizure as a result of end flashes last night, just like another user mentioned last month. I was completely blindsided by the introduction of the End Flashes. I was in the End flattening an end island for a shulker farm when the End Flashes triggered my Epilepsy, causing a seizure. I notice in the Accessibility Settings there's an option to \"Hide Sky Flashes\", but this disables Lightning Bolts as well. Storms are rare enough that the Lightning Bolts don't trigger me, but the End Flashes are extremely triggering given how frequent they are.</p>",
+        "author_id": 41691160193805,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39731968148109-Ability-to-turn-off-end-flashes/comments/41691868001805",
+        "created_at": "2025-12-05T16:48:26Z",
+        "updated_at": "2025-12-05T16:48:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39731968148109/comments/41691868001805.json",
+        "post_id": 39731968148109,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41825934869645,
+        "body": "<p>I strongly agree that an in-game toggle should be introduced, which completely disables the three elements that make up this feature:</p>\n<ul>\n<li>The sound of the flashes</li>\n<li>The visible flash in the sky</li>\n<li>The lighting effect that applies to the world / blocks with every flash</li>\n</ul>\n<p>Effectively, it should be possible to revert The End's sky to what it was in 1.21.8<br><br>For further context, The End was once a barren, yet tranquil place. Vast and peaceful. Quiet. Still.<br>It had a dignity to its aesthetic, which the End Flashes have completely shattered.</p>\n<p>Where one The End was serene, it is now grating and aggravating, the longer you inhabit the dimension. I would be VERY grateful if this feature could be reconsidered soon.</p>",
+        "author_id": 424010519832,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39731968148109-Ability-to-turn-off-end-flashes/comments/41825934869645",
+        "created_at": "2025-12-10T18:22:17Z",
+        "updated_at": "2025-12-10T18:22:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39731968148109/comments/41825934869645.json",
+        "post_id": 39731968148109,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 42770025390477,
+        "body": "<p>From a quick wiki search, it seems that End Flashes are able to be turned off on Bedrock Edition, but for Java Edition, i can't find that the option exists. Adding a way to turn them off on Java Edition is only fair and makes sense. Please consider this.</p>",
+        "author_id": 42135885532045,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39731968148109-Ability-to-turn-off-end-flashes/comments/42770025390477",
+        "created_at": "2026-01-18T16:07:27Z",
+        "updated_at": "2026-01-18T16:07:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39731968148109/comments/42770025390477.json",
+        "post_id": 39731968148109,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 39223575633677,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 42112456994701,
+        "body": "<p>Personally throwing in my shared agreement with this feedback.</p>\n<p>Very obtuse changes to the Debug menu make it incredibly difficult to read at a moments notice as someone who's been used to the way its been positioned for years. It would be extremely appreciated to allow the player to change how the word wrapping occurs because there's significant problems even with how it shows up on 4k monitor scaled up UIs.</p>\n<p>Would love to see some more capability for editing.</p>",
+        "author_id": 42112394777869,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39223575633677-More-F3-customization/comments/42112456994701",
+        "created_at": "2025-12-21T05:14:30Z",
+        "updated_at": "2025-12-21T05:14:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39223575633677/comments/42112456994701.json",
+        "post_id": 39223575633677,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38290019116301,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38365910421517,
+        "body": "<p>Agreed. There should be a way to automatically change the copper golem's pose, like you can already do with armor stands in Bedrock Edition.</p>",
+        "author_id": 37968381809165,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38290019116301-Change-the-copper-golem-statues-poses-with-redstone/comments/38365910421517",
+        "created_at": "2025-07-27T23:46:03Z",
+        "updated_at": "2025-07-28T01:04:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38290019116301/comments/38365910421517.json",
+        "post_id": 38290019116301,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40071654394125,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41063668506893,
+        "body": "<p>I agree. If you want to make it customizable do that but then make it fully customizable including the ability to put things in specific locations. I am finding the new F3 screen so frustrating, I don't think I will play the new versions until you come to your senses.</p>",
+        "author_id": 41063611477901,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40071654394125-New-F3-Menu-Sucks/comments/41063668506893",
+        "created_at": "2025-11-12T01:14:00Z",
+        "updated_at": "2025-11-12T01:14:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40071654394125/comments/41063668506893.json",
+        "post_id": 40071654394125,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 39849877778573,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 39916354866701,
+        "body": "<p>Makes sense and would be a nice feature </p>",
+        "author_id": 30669199062541,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39849877778573-If-the-Copper-Golem-catches-fire-the-flames-should-turn-green/comments/39916354866701",
+        "created_at": "2025-09-28T01:07:06Z",
+        "updated_at": "2025-09-28T01:07:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39849877778573/comments/39916354866701.json",
+        "post_id": 39849877778573,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 39927702956301,
+        "body": "<p>makes sense cuz' there are copper torches, it has green flames! so make copper golems on that are on fire have green fire.</p>",
+        "author_id": 33376739436557,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39849877778573-If-the-Copper-Golem-catches-fire-the-flames-should-turn-green/comments/39927702956301",
+        "created_at": "2025-09-29T01:50:40Z",
+        "updated_at": "2025-09-29T01:50:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39849877778573/comments/39927702956301.json",
+        "post_id": 39849877778573,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38628746539405,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38636241129485,
+        "body": "<p>Vote for this!!!!!</p>",
+        "author_id": 38636246947469,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38628746539405-Bring-back-the-illusioner/comments/38636241129485",
+        "created_at": "2025-08-07T07:10:54Z",
+        "updated_at": "2025-08-07T07:10:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38628746539405/comments/38636241129485.json",
+        "post_id": 38628746539405,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38637179716749,
+        "body": "<p>I think if the illusioner was added, Mojang would possibly have to change the way it works, much like they did with the copper golem.</p>",
+        "author_id": 38637166739853,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38628746539405-Bring-back-the-illusioner/comments/38637179716749",
+        "created_at": "2025-08-07T09:19:15Z",
+        "updated_at": "2025-08-07T19:47:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38628746539405/comments/38637179716749.json",
+        "post_id": 38628746539405,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 39153726971405,
+        "body": "<p>Don't worry it's coming, if it wans't minecraft would have completly removed it from the game by now.</p>",
+        "author_id": 38284557613837,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38628746539405-Bring-back-the-illusioner/comments/39153726971405",
+        "created_at": "2025-08-28T13:20:41Z",
+        "updated_at": "2025-08-28T13:20:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38628746539405/comments/39153726971405.json",
+        "post_id": 38628746539405,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38496478731533,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38496566151949,
+        "body": "<p>🌱 Plant Diversity: Biomes with Unique Flora</p>\n\n<p>Many biomes feel underdeveloped when it comes to plant life. Adding more unique plants would give each environment stronger identity and visual richness, without complicating gameplay.</p>\n\n<p>Suggestions:\n<br />🕳️ Cave plants – Glowshrooms, moss bulbs, and root clusters could generate in caves, making underground areas more alive and atmospheric.\n<br />🌊 Water plants – Lily clusters, algae mats, and water reeds would bring new variety to ponds, rivers, and swamps.\n<br />🏔️ Mountain plants – Add alpine bluebells, stonecap mushrooms, and wool moss to cold biomes and cliff edges.\n<br />🏜️ Desert plants – Include succulent tufts, cracked shrubs, and stoneflowers to diversify dry areas.\n<br />🌾 Savanna plants – Add firegrass, acacia sprouts, and thorn creepers for a drier, more distinct vegetation style.\n<br />🍁 Colored leaves – Some trees could have red, yellow, or orange leaves depending on the biome, not tied to seasons.</p>\n\n<p>This update would give more meaning to biome exploration and improve visual immersion across the world.</p>",
+        "author_id": 38493163888013,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38496478731533--Tree-Diversity-Natural-Shapes-Forest-Life/comments/38496566151949",
+        "created_at": "2025-08-01T13:55:55Z",
+        "updated_at": "2025-08-01T17:13:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38496478731533/comments/38496566151949.json",
+        "post_id": 38496478731533,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40996341657485,
+        "body": "<p>This is a great idea because all the trees in minecraft are actually really small compared to real life also exploding mushrooms and other plants would be cool they would activate when a player or mob walks on them and would not destroy blocks but only damage the player they could also be activated by redstone</p>",
+        "author_id": 40992331076621,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38496478731533--Tree-Diversity-Natural-Shapes-Forest-Life/comments/40996341657485",
+        "created_at": "2025-11-09T19:16:51Z",
+        "updated_at": "2025-11-09T19:16:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38496478731533/comments/40996341657485.json",
+        "post_id": 38496478731533,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38335783067277,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38343632925581,
+        "body": "<p>I think the recipe for this could include a water bottle or water bucket (The bottle or bucket is returned) as a way to 'corrode' the copper golem.</p>",
+        "author_id": 34999267364877,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38335783067277-Craft-Copper-Golem-Statues-Directly/comments/38343632925581",
+        "created_at": "2025-07-26T02:46:43Z",
+        "updated_at": "2025-07-26T02:46:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38335783067277/comments/38343632925581.json",
+        "post_id": 38335783067277,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 22727008101261,
+    "expected_comment_count": 11,
+    "actual_comment_count": 11,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 23132457135885,
+        "body": "<p>A new building would be the Trial Village Hall, where villagers gather. There is chest loot, but if any chest is opened, iron golems become hostile. The loot uses the</p>\n<pre>low_item_tiers</pre>\n<p>loot table from Bedrock Edition, but the gear is very damaged, however, any potential enchantments are very powerful and can include treasure enchantments.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/22727008101261-Trial-Villages/comments/23132457135885",
+        "created_at": "2024-01-11T20:43:41Z",
+        "updated_at": "2024-01-15T21:56:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/22727008101261/comments/23132457135885.json",
+        "post_id": 22727008101261,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 23573112304141,
+        "body": "<h2><strong>Trial Village Restaurants</strong></h2>\n<p>This is a sub post for the Trial Village. It spawns in Trial Villages and this is where the villagers eat. There are also Butchers in that building. Underground, there are vaults and trial spawners. The floor in this building is made of tuff.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/22727008101261-Trial-Villages/comments/23573112304141",
+        "created_at": "2024-01-27T10:43:51Z",
+        "updated_at": "2024-01-27T10:48:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/22727008101261/comments/23573112304141.json",
+        "post_id": 22727008101261,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 25755157116045,
+        "body": "<p>In the trial village well is 8 bells around it. There is a center consisting of tuff bricks as the path.</p>\n<p><img src=\"https://feedback.minecraft.net/hc/user_images/01HV1Y20TN335ZVYFEMWC4V1FE.png\"></p>\n<ul>\n<li>Copper stairs generate if the village well is 1 block below or above the ground.</li>\n</ul>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/22727008101261-Trial-Villages/comments/25755157116045",
+        "created_at": "2024-04-09T17:20:02Z",
+        "updated_at": "2024-04-09T17:30:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/22727008101261/comments/25755157116045.json",
+        "post_id": 22727008101261,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 25755906608269,
+        "body": "<p>In the secret well room of the trial village, 8 chests/vaults can spawn.</p>\n<ul>\n<li>There is a 25% chance for a chest to be replaced with a vault.</li>\n<li>If a vault generates, it has a 15% chance to be ominous.</li>\n<li>In the enderman trial spawner, there is a 55% chance of an ender pearl, 10% chance of a trial key, 5% chance for an ender pearl, 10% chance of a shulker shell, a 15% chance of chorus fruit and a 5% chance of an ominous trial key.</li>\n<li>In this secret room, normal vaults can be unlocked up to twice per player, while ominous vaults can only be unlocked once per player.</li>\n<li>This room's center is directly under the well center.</li>\n</ul>\n<p><br><img src=\"https://feedback.minecraft.net/hc/user_images/01HV1Z46Z9T0YQC94MTD1E5DCZ.png\"></p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/22727008101261-Trial-Villages/comments/25755906608269",
+        "created_at": "2024-04-09T17:39:53Z",
+        "updated_at": "2024-04-09T17:52:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/22727008101261/comments/25755906608269.json",
+        "post_id": 22727008101261,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 25756381642765,
+        "body": "<p>In template minecraft:village/trial/houses/trial_accessory_1, this sub-structure is the same as template minecraft:village/plains/houses/plains_accessory_1, but the trapdoors are copper trapdoors instead of oak trapdoors, as shown below:</p>\n<p><img src=\"https://feedback.minecraft.net/hc/user_images/01HV2031B8S4ARN9CJ06AG1NTB.png\"></p>",
+        "author_id": 21545826601869,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/22727008101261-Trial-Villages/comments/25756381642765",
+        "created_at": "2024-04-09T17:53:44Z",
+        "updated_at": "2024-04-09T18:10:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/22727008101261/comments/25756381642765.json",
+        "post_id": 22727008101261,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 25756775155981,
+        "body": "<p>In template minecraft:village/trial/trial_decoration_1, this sub-structure is the same as template minecraft:village/taiga/taiga_decoration_1, but the trapdoors are copper trapdoors instead of spruce trapdoors and cut copper is used instead of spruce planks, as shown below:</p>\n<p><img src=\"https://feedback.minecraft.net/hc/user_images/01HV20H9DF9QDXPHASW2EK20RS.png\"></p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/22727008101261-Trial-Villages/comments/25756775155981",
+        "created_at": "2024-04-09T18:03:19Z",
+        "updated_at": "2024-04-09T18:10:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/22727008101261/comments/25756775155981.json",
+        "post_id": 22727008101261,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 25757057470605,
+        "body": "<p>Attacking the trial blacksmith will cause him to shoot a fiery wind charge at you, dealing fire damage.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/22727008101261-Trial-Villages/comments/25757057470605",
+        "created_at": "2024-04-09T18:09:01Z",
+        "updated_at": "2024-04-09T18:09:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/22727008101261/comments/25757057470605.json",
+        "post_id": 22727008101261,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 25757087216397,
+        "body": "<p>looks cool. bro</p>",
+        "author_id": 25695724476045,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/22727008101261-Trial-Villages/comments/25757087216397",
+        "created_at": "2024-04-09T18:09:44Z",
+        "updated_at": "2024-04-09T21:48:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/22727008101261/comments/25757087216397.json",
+        "post_id": 22727008101261,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37922991622669,
+        "body": "<p>If we ever get around to updating villages again, I'd like to see this pallet used somehow. Maybe \"big\" villages look like this, and traditional villages stay small but have better topographical generation please I beg.</p>",
+        "author_id": 1903717750287,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/22727008101261-Trial-Villages/comments/37922991622669",
+        "created_at": "2025-07-08T23:05:43Z",
+        "updated_at": "2025-07-08T23:05:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/22727008101261/comments/37922991622669.json",
+        "post_id": 22727008101261,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38039965732493,
+        "body": "<p>oh no don't remind me about the harry potter villages with chunks of land floating on water PLEASE BRING BACK THE PLANK VILLAGES I BEG YOU</p>",
+        "author_id": 30738692558093,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/22727008101261-Trial-Villages/comments/38039965732493",
+        "created_at": "2025-07-14T13:25:26Z",
+        "updated_at": "2025-07-14T13:25:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/22727008101261/comments/38039965732493.json",
+        "post_id": 22727008101261,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38452031948685,
+        "body": "<p>The copper golem should spawn there instead of the iron golem</p>",
+        "author_id": 38450839330061,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/22727008101261-Trial-Villages/comments/38452031948685",
+        "created_at": "2025-07-30T21:26:06Z",
+        "updated_at": "2025-07-30T21:26:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/22727008101261/comments/38452031948685.json",
+        "post_id": 22727008101261,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38669278397069,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38687682630285,
+        "body": "<p>This one is heavily redundant. Amethysts are very hard to find so making them worse than iron or an equal sounds like a bad idea. Not all items need a gear and each have different purposes. Emeralds are the money of the game and amethysts could be used in different things such as magic as many have suggested. Maybe a shield with amethyst that reflects projectiles or a shaft that is craft with amethyst, making a new weapon in the game.</p>",
+        "author_id": 31018250387853,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38669278397069-Emerald-or-Amethyst-Armor-and-Tools/comments/38687682630285",
+        "created_at": "2025-08-08T22:58:07Z",
+        "updated_at": "2025-08-08T22:58:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38669278397069/comments/38687682630285.json",
+        "post_id": 38669278397069,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38700406851597,
+        "body": "<p>despite I dont think we need either, it do follow logic of copper armor, it is not needed and that is only excuse why not make it as copper gear had<br>amethyst armor and tools could possibly have some sound/tone related use, emerald armor could have some benefits for villager trading if that would be reworked<br>still ye, not really necessary, I comment under this just as mocking/meme on copper gear which was declined multiple times in past as \"not necessary\" and now being added in, indeed, as not necessary gear tier</p>",
+        "author_id": 24637847411853,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38669278397069-Emerald-or-Amethyst-Armor-and-Tools/comments/38700406851597",
+        "created_at": "2025-08-09T20:46:09Z",
+        "updated_at": "2025-08-09T20:46:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38669278397069/comments/38700406851597.json",
+        "post_id": 38669278397069,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38717262035725,
+        "body": "<div>&nbsp;This is a review of mine, <strong>Registered User:</strong>\n</div>\n<section>\n<p>Your message: This one is heavily redundant. Amethysts are very hard to find so making them worse than iron or an equal sounds like a bad idea. Not all items need a gear and each have different purposes. Amethysts could be used in different things such as magic as many have suggested. Maybe a shield with amethyst that reflects projectiles or a shaft that is craft with amethyst, making a new weapon in the game.</p>\n<p>My message here: Ok, sorry about that, as i had found one amythyst geode instantly</p>\n</section>",
+        "author_id": 38554260494861,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38669278397069-Emerald-or-Amethyst-Armor-and-Tools/comments/38717262035725",
+        "created_at": "2025-08-11T09:50:38Z",
+        "updated_at": "2025-08-11T18:55:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38669278397069/comments/38717262035725.json",
+        "post_id": 38669278397069,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38613641449101,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38614144643981,
+        "body": "<p>This would be cool but we have most of the colours only missing yellow black and green</p>",
+        "author_id": 36800129342221,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38613641449101-Dyed-wood-and-log-slabs/comments/38614144643981",
+        "created_at": "2025-08-06T15:24:47Z",
+        "updated_at": "2025-08-07T20:10:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38613641449101/comments/38614144643981.json",
+        "post_id": 38613641449101,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38601446078861,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38602276072717,
+        "body": "<p>No, Minecraft shouldn't go for realism, it simply had way better aesthetics for builds and actually viewing them when they were larger and centered into their slot.&nbsp;<br><br>It's Minecraft, not real life.&nbsp;</p>",
+        "author_id": 396867292972,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38601446078861-The-new-shelfs-with-the-items-actually-sitting-on-the-shelves-are-better/comments/38602276072717",
+        "created_at": "2025-08-06T02:21:54Z",
+        "updated_at": "2025-08-07T19:25:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38601446078861/comments/38602276072717.json",
+        "post_id": 38601446078861,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38555794973837,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38683389418765,
+        "body": "<p>Picture this: A jukebox in a minecart. All need now is note blocks.</p>",
+        "author_id": 38571220646797,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38555794973837-COPPER-DISCS/comments/38683389418765",
+        "created_at": "2025-08-08T19:56:51Z",
+        "updated_at": "2025-08-08T19:56:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38555794973837/comments/38683389418765.json",
+        "post_id": 38555794973837,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38259104195341,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38616401841293,
+        "body": "<p>Make it an enchantment for bundles! I think they could be more useful, I only ever use one throughout the game to hold my enderchest, crafting table and other knickknacks because they are soooo limited. You could hold 4 potiontypes up to 64 total in the bag but it wont take other items anymore. How about that?</p>",
+        "author_id": 38022839879693,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38259104195341-Stacking-Potions-to-16/comments/38616401841293",
+        "created_at": "2025-08-06T16:17:25Z",
+        "updated_at": "2025-08-07T20:17:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38259104195341/comments/38616401841293.json",
+        "post_id": 38259104195341,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38047733032717,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38072740904333,
+        "body": "<p>This would be an interesting feature and having an achievement linked to copper armor, gives people who already have iron armor a reason to get copper, since that is the aim of this drop.</p>",
+        "author_id": 38062641693837,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38047733032717-Make-copper-armor-increase-the-chance-to-be-hit-by-lightning-during-thunder/comments/38072740904333",
+        "created_at": "2025-07-15T14:28:30Z",
+        "updated_at": "2025-07-15T14:28:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38047733032717/comments/38072740904333.json",
+        "post_id": 38047733032717,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37818943586317,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40975544889485,
+        "body": "<p>Gold is alchemically magical, it's just better for \"food\" you know.\n<br />Copper is redstone conductive it's technologically magical, it's just a better use for rails.\n<br />it's also copper is more common cheaper than gold so more people are able to use rails more.</p>",
+        "author_id": 37818648838797,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37818943586317-Powered-rails-should-be-crafted-with-Copper-instead-of-gold/comments/40975544889485",
+        "created_at": "2025-11-08T05:27:49Z",
+        "updated_at": "2025-11-08T16:36:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37818943586317/comments/40975544889485.json",
+        "post_id": 37818943586317,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37793802360973,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38486211426317,
+        "body": "<p>This fails to solve the problem with the allay, which is that the allay only picks up dropped items. I suggest that instead the allay could gain the ability to mine blocks, making it 1) more like those seen in Legends, and 2) allowing it to actually do the work for players gathering things besides the few things mobs dying of natural causes drop nearby.</p>",
+        "author_id": 12270814940301,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37793802360973-Allow-allays-to-pick-up-multiple-types-of-items-Copper-golem-synergy/comments/38486211426317",
+        "created_at": "2025-07-31T23:53:03Z",
+        "updated_at": "2025-08-01T14:34:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37793802360973/comments/38486211426317.json",
+        "post_id": 37793802360973,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37756738944781,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 37766991427725,
+        "body": "<p>I believe that this would be unbalanced and overall pointless. It does not take much effort to just make another space, and you can just fill a Shulker box up and then put it in the chest, which is essentially the same thing.&nbsp;</p>",
+        "author_id": 10238140100237,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37756738944781-Triple-chest-variants-for-copper-chest/comments/37766991427725",
+        "created_at": "2025-07-02T03:02:13Z",
+        "updated_at": "2025-07-03T21:48:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37756738944781/comments/37766991427725.json",
+        "post_id": 37756738944781,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38742571447309,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38743064664845,
+        "body": "<p>I agree, but this ability should be a exclusive enchantment for copper armor, mutually exclusive to all other protection enchantments. This protection could make the player immune to electric damage, with that special protection effect lasting longer as bigger the enchantment level.</p>\n<p>The effect should boost speed, resistance, damage and should extinguish fire.</p>",
+        "author_id": 407000818272,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38742571447309-Copper-Armor-Golem-Lightning-Boost-did-you-not-fink-we-need-this/comments/38743064664845",
+        "created_at": "2025-08-12T01:24:46Z",
+        "updated_at": "2025-08-12T18:59:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38742571447309/comments/38743064664845.json",
+        "post_id": 38742571447309,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38766376038285,
+        "body": "<p>Thanks for your feedback! 🙌 I really like your idea of making it an exclusive enchantment for copper armor. It could make thunderstorms even more exciting to play in. Maybe it could also have a unique sound or visual effect when activated! </p>",
+        "author_id": 408810602671,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38742571447309-Copper-Armor-Golem-Lightning-Boost-did-you-not-fink-we-need-this/comments/38766376038285",
+        "created_at": "2025-08-12T19:59:02Z",
+        "updated_at": "2025-08-13T00:26:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38742571447309/comments/38766376038285.json",
+        "post_id": 38742571447309,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38777183604109,
+        "body": "<p>Thanks to those who have already voted 💖 every support means a lot to me! If you like the idea, leave a vote 🌟</p>",
+        "author_id": 408810602671,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38742571447309-Copper-Armor-Golem-Lightning-Boost-did-you-not-fink-we-need-this/comments/38777183604109",
+        "created_at": "2025-08-13T09:34:22Z",
+        "updated_at": "2025-08-13T09:34:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38742571447309/comments/38777183604109.json",
+        "post_id": 38742571447309,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 39089492016141,
+        "body": "<p>You said that if I voted for this idea you'd vote for my ideas, so here are my ideas: <a href=\"/hc/en-us/community/posts/38996802554637-Wool-golem\" rel=\"nofollow noreferrer\">Wool golem</a>,&nbsp;<a href=\"/hc/en-us/community/posts/38866014534029-All-of-the-categories-need-to-be-visible\" rel=\"nofollow noreferrer\">All of the categories need to be visible</a>,&nbsp;<a href=\"/hc/en-us/community/posts/38978267549709-Hive-golem\" rel=\"nofollow noreferrer\">Hive golem</a>,&nbsp;<a href=\"/hc/en-us/community/posts/38147537376013-Dragon-skin-material\" rel=\"nofollow noreferrer\">Dragon skin material</a>,&nbsp;<a href=\"/hc/en-us/community/posts/38176385630861-Quartz-golem\" rel=\"nofollow noreferrer\">Quartz golem</a>,&nbsp;<a href=\"/hc/en-us/community/posts/38834450123277-Giant-flying-fish-It-s-not-as-weird-as-it-sounds\" rel=\"nofollow noreferrer\">Giant flying fish (It's not as weird as it sounds)</a>,&nbsp;<a href=\"/hc/en-us/community/posts/38763914310413-Bring-back-the-mob-vote-but-much-better-than-before\" rel=\"nofollow noreferrer\">Bring back the mob vote (but much better than before)</a>,&nbsp;<a href=\"/hc/en-us/community/posts/38162436775181-Ancient-mob-for-the-nether\" rel=\"nofollow noreferrer\">Ancient mob for the nether</a>,&nbsp;<a href=\"/hc/en-us/community/posts/38176294856973-Ancient-mob-for-the-end\" rel=\"nofollow noreferrer\">Ancient mob for the end</a>,&nbsp;<a href=\"/hc/en-us/community/posts/38147099143565-Enderite-for-easier-transportation\" rel=\"nofollow noreferrer\">Enderite (for easier transportation)</a>,&nbsp;<a href=\"/hc/en-us/community/posts/38173221121293-Wild-golem-grows-plants\" rel=\"nofollow noreferrer\">Wild golem (grows plants)</a>,&nbsp;<a href=\"/hc/en-us/community/posts/38949136644877-Copper-golems-should-be-able-to-wear-armor\" rel=\"nofollow noreferrer\">Copper golems should be able to wear armor</a>,&nbsp;<a href=\"/hc/en-us/community/posts/38949000226189-Copper-golems-should-be-a-bit-less-strict-about-sorting\" rel=\"nofollow noreferrer\">Copper golems should be a bit less strict about sorting</a>,&nbsp;<a href=\"/hc/en-us/community/posts/38949018893581-Copper-golems-should-become-charged-when-struck-by-lightning\" rel=\"nofollow noreferrer\">Copper golems should become charged when struck by lightning</a></p>",
+        "author_id": 38139901507725,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38742571447309-Copper-Armor-Golem-Lightning-Boost-did-you-not-fink-we-need-this/comments/39089492016141",
+        "created_at": "2025-08-26T03:23:36Z",
+        "updated_at": "2025-08-26T16:43:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38742571447309/comments/39089492016141.json",
+        "post_id": 38742571447309,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40985748420621,
+        "body": "<p>Oh my god this is so good!!!!</p>",
+        "author_id": 39959937507853,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38742571447309-Copper-Armor-Golem-Lightning-Boost-did-you-not-fink-we-need-this/comments/40985748420621",
+        "created_at": "2025-11-08T21:07:26Z",
+        "updated_at": "2025-11-08T21:10:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38742571447309/comments/40985748420621.json",
+        "post_id": 38742571447309,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38718571912973,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38759238031117,
+        "body": "<p>Hi! I have an idea similar to yours — Oregolem – Master of Mining, Lava, and Loot.\n<br />If you have a moment, could you please take a look?\n<br />Thanks for your time, have a great day! 👋(Oregolem – Master of Mining, Lava, and Loot) </p>",
+        "author_id": 408810602671,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38718571912973-Copper-Doors-can-lock-with-a-type-of-key/comments/38759238031117",
+        "created_at": "2025-08-12T16:40:43Z",
+        "updated_at": "2025-08-12T18:18:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38718571912973/comments/38759238031117.json",
+        "post_id": 38718571912973,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38669693689869,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38687675135629,
+        "body": "<p>The issue then is, what would the normal iron minecart have to offer? Honey isn´t precisely hard to get and you could just wax it off with your axe. I do like the idea of copper minecarts and copper rails, but maybe they should have something else? Another functionality?&nbsp;</p>",
+        "author_id": 31018250387853,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38669693689869-Faster-minecarts-made-of-copper/comments/38687675135629",
+        "created_at": "2025-08-08T22:55:50Z",
+        "updated_at": "2025-08-08T22:55:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38669693689869/comments/38687675135629.json",
+        "post_id": 38669693689869,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38622151209357,
+    "expected_comment_count": 1,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38642813165581,
+        "body": "<p>What about Baby Zombie/Husks/Zombie Villagers?\n<br />And do you gonna need a Water Bucket for every one of them, since Striders and Magma Cobes are Nethermobs it would be a nice idea to use a Lava Bucket for them</p>",
+        "author_id": 38642672467853,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38622151209357-Bucketable-baby-mobs/comments/38642813165581",
+        "created_at": "2025-08-07T14:09:37Z",
+        "updated_at": "2025-08-07T20:22:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38622151209357/comments/38642813165581.json",
+        "post_id": 38622151209357,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 43059655602573,
+        "body": "<p>this really seems like a no-brainer<br>those mobs seem small enough to fit into buckets, and would make those mobs easier to transport with a fair catch, was already weird for them to not do it for baby nautilus</p>",
+        "author_id": 14243572847245,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38622151209357-Bucketable-baby-mobs/comments/43059655602573",
+        "created_at": "2026-01-29T00:55:50Z",
+        "updated_at": "2026-01-29T00:55:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38622151209357/comments/43059655602573.json",
+        "post_id": 38622151209357,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38435367183245,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41645543050893,
+        "body": "<p>I like the idea, but I think this might not have been added because Mojang doesn't want to make lightning rods useless if another block with the same ability and more is added. To fix this, I think lightning rods could be included in the golem recipe, with a copper block on the bottom, a carved pumpkin in the middle, and a lightning rod on top.</p>",
+        "author_id": 406280981491,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38435367183245-Lightning-should-awaken-copper-golem-statues/comments/41645543050893",
+        "created_at": "2025-12-04T03:00:13Z",
+        "updated_at": "2025-12-04T03:00:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38435367183245/comments/41645543050893.json",
+        "post_id": 38435367183245,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41645569885325,
+        "body": "<p>Then again, this might have been added so that you can use copper golems in builds without lightning being attracted to them, changing the aesthetic, causing damage to the buildings, or even just changing the copper golem oxidation. Then again again, if that is the concern, perhaps they could make it so waxed copper golems don't attract lightning but normal ones do</p>",
+        "author_id": 406280981491,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38435367183245-Lightning-should-awaken-copper-golem-statues/comments/41645569885325",
+        "created_at": "2025-12-04T03:02:56Z",
+        "updated_at": "2025-12-04T03:02:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38435367183245/comments/41645569885325.json",
+        "post_id": 38435367183245,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38264158719629,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38272078540045,
+        "body": "<p>This could be interesting with the copper golem mob-to-block state mechanic!</p>",
+        "author_id": 10114439404557,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38264158719629-Axes-should-be-able-to-deoxidise-copper-in-dispenser/comments/38272078540045",
+        "created_at": "2025-07-23T16:34:55Z",
+        "updated_at": "2025-07-23T16:34:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38264158719629/comments/38272078540045.json",
+        "post_id": 38264158719629,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40114904796173,
+        "body": "<p>this needs more votes! I have this cool build concept where golems walk on a single block, but if one turns into a statue it could break the whole build!</p>",
+        "author_id": 21967310738061,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38264158719629-Axes-should-be-able-to-deoxidise-copper-in-dispenser/comments/40114904796173",
+        "created_at": "2025-10-06T12:33:30Z",
+        "updated_at": "2025-10-06T12:33:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38264158719629/comments/40114904796173.json",
+        "post_id": 38264158719629,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38258805154061,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38262154278925,
+        "body": "<p>This is already in the game, it is just a bit strange</p>",
+        "author_id": 38262137453581,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38258805154061-Different-Potion-Textures/comments/38262154278925",
+        "created_at": "2025-07-23T10:27:40Z",
+        "updated_at": "2025-07-23T10:27:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38258805154061/comments/38262154278925.json",
+        "post_id": 38258805154061,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38288001446797,
+        "body": "<p>I meant new, distinct potion textures</p>",
+        "author_id": 10114439404557,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38258805154061-Different-Potion-Textures/comments/38288001446797",
+        "created_at": "2025-07-24T02:21:46Z",
+        "updated_at": "2025-07-24T02:21:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38258805154061/comments/38288001446797.json",
+        "post_id": 38258805154061,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

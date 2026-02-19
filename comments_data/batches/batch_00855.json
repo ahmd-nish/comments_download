@@ -1,0 +1,846 @@
+[
+  {
+    "post_id": 37529300420621,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 37531092743437,
+        "body": "<p>No</p>",
+        "author_id": 27294693734797,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37529300420621-Harness-and-rope/comments/37531092743437",
+        "created_at": "2025-06-21T17:21:28Z",
+        "updated_at": "2025-06-21T17:21:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37529300420621/comments/37531092743437.json",
+        "post_id": 37529300420621,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 36682915835661,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36695614734989,
+        "body": "<p>This sounds like a cool April Fools update</p>",
+        "author_id": 18919228872717,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36682915835661-The-Steve-saga-update/comments/36695614734989",
+        "created_at": "2025-05-17T21:21:29Z",
+        "updated_at": "2025-05-17T21:40:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36682915835661/comments/36695614734989.json",
+        "post_id": 36682915835661,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 36900392779661,
+        "body": "<p>what!? bruh. no way this while be added into the base game. maybe april fools.</p>",
+        "author_id": 31476998050701,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36682915835661-The-Steve-saga-update/comments/36900392779661",
+        "created_at": "2025-05-26T01:17:51Z",
+        "updated_at": "2025-05-26T01:17:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36682915835661/comments/36900392779661.json",
+        "post_id": 36682915835661,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 36225552055181,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36261278939021,
+        "body": "<p>You know we are doing game drops now. Right?</p>",
+        "author_id": 36261194774157,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36225552055181-Update-1-23-update-suggestions/comments/36261278939021",
+        "created_at": "2025-04-30T23:40:35Z",
+        "updated_at": "2025-04-30T23:40:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36225552055181/comments/36261278939021.json",
+        "post_id": 36225552055181,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 36267621045645,
+        "body": "<p>Yes thank you</p>",
+        "author_id": 33806911912461,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36225552055181-Update-1-23-update-suggestions/comments/36267621045645",
+        "created_at": "2025-05-01T10:23:29Z",
+        "updated_at": "2025-05-01T16:41:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36225552055181/comments/36267621045645.json",
+        "post_id": 36225552055181,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 36309502428557,
+        "body": "<p>Okay, all of those ideas feel so out of place in minecraft. First, duct tape and cars are way too modern and just totally don't fit in. What would tape even be useful for? And adding cars, when we have horses, minecarts, boats, and upcoming happy ghasts? It doesn't fit. Second, villagers are passive mobs who don't want to hurt anyone; that's why they have iron golems who do it for them. Third, rag doll physics wouldn't fit with Minecraft. And being able to throw mobs/entities around would make it feel more like Gang Beasts or something... Minecraft is a delicate game, and simply adding one thing can ruin the experience. (I think I just quoted that from somewhere, but I'm not sure where)</p>",
+        "author_id": 35091728595085,
+        "vote_sum": 4,
+        "vote_count": 4,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36225552055181-Update-1-23-update-suggestions/comments/36309502428557",
+        "created_at": "2025-05-02T20:51:41Z",
+        "updated_at": "2025-05-02T21:07:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36225552055181/comments/36309502428557.json",
+        "post_id": 36225552055181,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 36499120635789,
+        "body": "<p>Tats a funny joke! (:&nbsp;</p>",
+        "author_id": 36498957085325,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36225552055181-Update-1-23-update-suggestions/comments/36499120635789",
+        "created_at": "2025-05-09T21:43:37Z",
+        "updated_at": "2025-05-09T21:43:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36225552055181/comments/36499120635789.json",
+        "post_id": 36225552055181,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 36516801495053,
+        "body": "<p>Bruh This sounds like a cringe mod.</p>",
+        "author_id": 36498957085325,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36225552055181-Update-1-23-update-suggestions/comments/36516801495053",
+        "created_at": "2025-05-10T23:56:25Z",
+        "updated_at": "2025-05-11T18:27:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36225552055181/comments/36516801495053.json",
+        "post_id": 36225552055181,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35809138726669,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36166989141517,
+        "body": "<p>For the speed suggestion, I would prefer the base stats for speed were faster and when you added a breeze rod the speed would be faster then a player sprint-jumping. I would like a second opinion on wherever or not it should be faster or the same speed as a boat on water. Maybe these harness upgrades could be made using the smithing table?&nbsp;</p>",
+        "author_id": 26581285659533,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35809138726669-Happy-Ghast-Harness-Improvements/comments/36166989141517",
+        "created_at": "2025-04-28T06:11:33Z",
+        "updated_at": "2025-04-28T23:33:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35809138726669/comments/36166989141517.json",
+        "post_id": 35809138726669,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35761184017165,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36166995174285,
+        "body": "<p>If this idea was going to be added, I would rather you could choose between a ghast or a happy ghast based on if you incubated the dried ghast in water or lava.&nbsp;</p>",
+        "author_id": 26581285659533,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35761184017165-Happy-Ghasts-convert-back-to-normal-Ghasts-in-lava-or-fire/comments/36166995174285",
+        "created_at": "2025-04-28T06:16:53Z",
+        "updated_at": "2025-04-28T06:16:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35761184017165/comments/36166995174285.json",
+        "post_id": 35761184017165,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35753127075213,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35888620052749,
+        "body": "<blockquote>\n<p>I am going on an adventure with Sir Barksalot, my dearest pup!</p>\n<p>We climb the clifside to my air dock.</p>\n<p>He looks scared to follow me onto this flying beast.</p>\n<p>\"Sit, boy!\"</p>\n<p>He sits. And I nudge him forward onto the big balloon.</p>\n<p>I mount the creature, and we are off!</p>\n<p>But as I look back, I see that Sir Barksalot is not where I left him.</p>\n</blockquote>\n<p>&nbsp;</p>\n<p><em>Sir Barksalot didn't make it home that day.</em></p>\n<p><em>---</em></p>\n<p>Help save future comrades from meeting Sir Barksalot's fate.</p>\n<p>Entities should be able to path-find onto / on the happy ghast.</p>",
+        "author_id": 35887629594893,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35753127075213-Standing-on-the-happy-ghast/comments/35888620052749",
+        "created_at": "2025-04-16T03:11:23Z",
+        "updated_at": "2025-04-16T17:33:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35753127075213/comments/35888620052749.json",
+        "post_id": 35753127075213,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35703131755405,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35703162990477,
+        "body": "<p>Yeah, they must breed with powder snow. The result could be a dried ghast in the nether and a ghastling in other dimensions.</p>",
+        "author_id": 18919228872717,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35703131755405-Happy-ghast-tempting-with-powder-snow/comments/35703162990477",
+        "created_at": "2025-04-09T08:19:11Z",
+        "updated_at": "2025-04-09T08:19:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35703131755405/comments/35703162990477.json",
+        "post_id": 35703131755405,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 35703180173325,
+        "body": "<p>This would make things so much easier, on the snapshot I hurt my happy ghast with snow ball a lot of times by accident</p>",
+        "author_id": 18919228872717,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35703131755405-Happy-ghast-tempting-with-powder-snow/comments/35703180173325",
+        "created_at": "2025-04-09T08:20:16Z",
+        "updated_at": "2025-04-09T08:20:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35703131755405/comments/35703180173325.json",
+        "post_id": 35703131755405,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35623954132493,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 39988071038605,
+        "body": "<p>Hi</p>",
+        "author_id": 35623838715149,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35623954132493-Skies-and-Seasons-Heights-and-Flights-update/comments/39988071038605",
+        "created_at": "2025-09-30T21:31:38Z",
+        "updated_at": "2025-09-30T21:31:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35623954132493/comments/39988071038605.json",
+        "post_id": 35623954132493,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 34392004687629,
+    "expected_comment_count": 1,
+    "actual_comment_count": 0,
+    "status": "404_not_found",
+    "comments": []
+  },
+  {
+    "post_id": 41710209218317,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41716334618253,
+        "body": "<p>Could be interesting. Like an inefficient but early/mid-game way to make and use a brewing stand before you get the blaze powder and a new use to copper. Pretty good!</p>",
+        "author_id": 404423904512,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41710209218317-Changing-the-crafting-of-the-brewing-stand/comments/41716334618253",
+        "created_at": "2025-12-06T16:02:57Z",
+        "updated_at": "2025-12-06T16:02:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41710209218317/comments/41716334618253.json",
+        "post_id": 41710209218317,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41719575303437,
+        "body": "<p>No, for the purpose of LORE brewing stands need to be crafted with blaze rods. And it's not that difficult to craft. And it makes sense that villages would have them because of the war between the overworld and the nether.</p>",
+        "author_id": 11165279061645,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41710209218317-Changing-the-crafting-of-the-brewing-stand/comments/41719575303437",
+        "created_at": "2025-12-06T19:37:58Z",
+        "updated_at": "2025-12-06T19:37:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41710209218317/comments/41719575303437.json",
+        "post_id": 41710209218317,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41984675536781,
+        "body": "<p>agreed, the lore makes it clear that we were not the first to go into the nether. aside from that potions are a mid game element that requires going to the nether, so making a copper brewing stand would be totally pointless if you don't have blaze powder and nether wart anyways.</p>",
+        "author_id": 40425855238285,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41710209218317-Changing-the-crafting-of-the-brewing-stand/comments/41984675536781",
+        "created_at": "2025-12-16T18:11:55Z",
+        "updated_at": "2025-12-16T18:11:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41710209218317/comments/41984675536781.json",
+        "post_id": 41710209218317,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 41528310686221,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41734528746893,
+        "body": "<p>i&nbsp; mean you kind of can if you give them an item&nbsp;</p>",
+        "author_id": 33216037286541,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41528310686221-Tamable-Allays/comments/41734528746893",
+        "created_at": "2025-12-07T21:53:14Z",
+        "updated_at": "2025-12-07T21:53:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41528310686221/comments/41734528746893.json",
+        "post_id": 41528310686221,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 41459981589645,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41510872845325,
+        "body": "<p>No never absolutely not&nbsp;</p>",
+        "author_id": 39925551591693,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41459981589645-Glow-Bread/comments/41510872845325",
+        "created_at": "2025-11-29T00:25:20Z",
+        "updated_at": "2025-11-29T00:26:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41459981589645/comments/41510872845325.json",
+        "post_id": 41459981589645,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41514880181133,
+        "body": "<p>I think it sounds cool\n</p>",
+        "author_id": 41514805528205,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41459981589645-Glow-Bread/comments/41514880181133",
+        "created_at": "2025-11-29T08:43:50Z",
+        "updated_at": "2025-11-29T08:43:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41459981589645/comments/41514880181133.json",
+        "post_id": 41459981589645,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41579050366221,
+        "body": "<p>Why tho?</p>",
+        "author_id": 41578664613901,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41459981589645-Glow-Bread/comments/41579050366221",
+        "created_at": "2025-12-02T03:24:13Z",
+        "updated_at": "2025-12-02T03:24:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41459981589645/comments/41579050366221.json",
+        "post_id": 41459981589645,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41718122580109,
+        "body": "<p>Meh cool but unnecessary </p>",
+        "author_id": 34814211293965,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41459981589645-Glow-Bread/comments/41718122580109",
+        "created_at": "2025-12-06T17:58:52Z",
+        "updated_at": "2025-12-06T17:58:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41459981589645/comments/41718122580109.json",
+        "post_id": 41459981589645,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 41385573552525,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41409573103885,
+        "body": "<p>put this in market place feedback</p>",
+        "author_id": 39499990138509,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41385573552525-Add-Exploration-Lite-s-touch-screen-controls-to-phons-and-tablet-game/comments/41409573103885",
+        "created_at": "2025-11-25T13:28:42Z",
+        "updated_at": "2025-11-25T13:28:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41385573552525/comments/41409573103885.json",
+        "post_id": 41385573552525,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41414312847757,
+        "body": "<p>They do have this in the settings on mobile.</p>",
+        "author_id": 11165279061645,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41385573552525-Add-Exploration-Lite-s-touch-screen-controls-to-phons-and-tablet-game/comments/41414312847757",
+        "created_at": "2025-11-25T15:43:28Z",
+        "updated_at": "2025-11-25T15:43:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41385573552525/comments/41414312847757.json",
+        "post_id": 41385573552525,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40975506607117,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40983476442381,
+        "body": "<p>yeah only mc Preview releases but like a few months until that update comes out</p>",
+        "author_id": 16870176095117,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40975506607117-Minecraft-Java-Edition-Bedrock-Edition-Update-Releases-Frequency/comments/40983476442381",
+        "created_at": "2025-11-08T18:09:44Z",
+        "updated_at": "2025-11-08T18:09:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40975506607117/comments/40983476442381.json",
+        "post_id": 40975506607117,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40983976205069,
+        "body": "<p>We need more mobs yall</p>\n<p>&nbsp;</p>",
+        "author_id": 40983966785037,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40975506607117-Minecraft-Java-Edition-Bedrock-Edition-Update-Releases-Frequency/comments/40983976205069",
+        "created_at": "2025-11-08T18:47:26Z",
+        "updated_at": "2025-11-08T18:47:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40975506607117/comments/40983976205069.json",
+        "post_id": 40975506607117,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41010953205517,
+        "body": "<p>thats what minecraft said today!!! update: its been a year theres one update through all of this</p>\n<p>&nbsp;</p>",
+        "author_id": 41010244355213,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40975506607117-Minecraft-Java-Edition-Bedrock-Edition-Update-Releases-Frequency/comments/41010953205517",
+        "created_at": "2025-11-10T14:47:35Z",
+        "updated_at": "2025-11-10T14:47:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40975506607117/comments/41010953205517.json",
+        "post_id": 40975506607117,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40924255837709,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41137995403277,
+        "body": "<p>It sounds more like enchantment. Thing with curses is - they are supposed to be irritaiting, at least for most people (yes, curse of vanishing is good for PvP servers, but it's bad for almost everyone else). Yes, flying items sound irritaiting, but the part about you levitating with Elytra sounds bit too good, considering Elytra is already quite broken mean of transportation.</p>",
+        "author_id": 9949840692493,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40924255837709-Curse-of-Levitation/comments/41137995403277",
+        "created_at": "2025-11-14T12:50:44Z",
+        "updated_at": "2025-11-14T12:50:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40924255837709/comments/41137995403277.json",
+        "post_id": 40924255837709,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 39818210743053,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40336451142157,
+        "body": "<p>Wait, it does? I play bedrock edition and never really noticed that.</p>",
+        "author_id": 40335688015629,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39818210743053-Torch-on-wall-looks-stretched-in-bedrock-edition/comments/40336451142157",
+        "created_at": "2025-10-14T21:16:40Z",
+        "updated_at": "2025-10-14T21:16:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39818210743053/comments/40336451142157.json",
+        "post_id": 39818210743053,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 39537683330317,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 39794051622029,
+        "body": "<p>people are always complaining that the happy ghast it too easy to get or is too slow. It's funny that no one seems to relize it's because if the happy ghast was easy to get and fast, it would be overpowered, and if it was slow and hard to get than no one would ever use it.</p>",
+        "author_id": 38284557613837,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39537683330317-Happy-that-is-too-slow/comments/39794051622029",
+        "created_at": "2025-09-23T15:12:47Z",
+        "updated_at": "2025-09-23T18:22:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39537683330317/comments/39794051622029.json",
+        "post_id": 39537683330317,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 36252599384717,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36279530254733,
+        "body": "<p>not heart, but it would be cool using tools as the waypoint, for example marking something with picaxe meaning its a big mine out there, or a sword there is an spawner</p>",
+        "author_id": 36270407754125,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36252599384717-Heart-Waypoint-Icon/comments/36279530254733",
+        "created_at": "2025-05-01T19:05:51Z",
+        "updated_at": "2025-05-01T19:24:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36252599384717/comments/36279530254733.json",
+        "post_id": 36252599384717,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 36329888919565,
+        "body": "<p>Or make named banners on the ground show what the picture is. Kinda like with named banners on maps.&nbsp;</p>",
+        "author_id": 33438371132557,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36252599384717-Heart-Waypoint-Icon/comments/36329888919565",
+        "created_at": "2025-05-04T01:36:11Z",
+        "updated_at": "2025-05-04T20:23:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36252599384717/comments/36329888919565.json",
+        "post_id": 36252599384717,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35815101527053,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36326679347469,
+        "body": "<p>It should be harder to duplicate, but they should still be duplicatable (is that a word?). Maybe add something rarer to the crafting recipe, like armadillo scutes in the saddle recipe.</p>",
+        "author_id": 35091728595085,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35815101527053-Duplicable-saddles-and-name-tags-like-armor-trims/comments/36326679347469",
+        "created_at": "2025-05-03T20:57:22Z",
+        "updated_at": "2025-05-03T20:57:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35815101527053/comments/36326679347469.json",
+        "post_id": 35815101527053,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35814463722381,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35854010960397,
+        "body": "<p>I love this could be easily implemented and I hope they do it.</p>",
+        "author_id": 25088699383309,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35814463722381-Locator-Tag/comments/35854010960397",
+        "created_at": "2025-04-15T01:36:16Z",
+        "updated_at": "2025-04-15T17:37:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35814463722381/comments/35854010960397.json",
+        "post_id": 35814463722381,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35795382153485,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36162174719757,
+        "body": "<p>Here is how you can regen chunks as it stands:&nbsp;</p>\n<ul>\n<li>find an area you want to reload, set your render to about as many chunks as you want to delete.</li>\n<li>save, back out, edit, open world folder,</li>\n<li>look for regions folder, delete what's inside it,</li>\n<li>reinter Minecraft, click save, reenter your world.</li>\n</ul>\n<p>Boom. New updated installed.&nbsp;</p>\n<p>Make sure - and I absolutely cannot emphasize this enough - <strong>you are not anywhere near anything you want to keep!!!!!&nbsp;</strong>Check that render distance, check what's loaded.&nbsp;Keep your files in the recycle bin and be prepared to cycle through them to recover anything lost. Also, I believe spawn is always in the region files? Because it's always loaded? Some technical player knows that answer.&nbsp;</p>\n<p>If Mojang added anything, I think it should be a tool on their website where you can drop in your region files and get the map view of said chunk, similar to MC Selector, so that you have an easier time not deleting things you want to keep. But between some judicious study of chunk-base seed map and application of render distance you can get this pretty easy.&nbsp;</p>\n<p>Hope this helps!</p>",
+        "author_id": 34495023570957,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35795382153485-Regenerate-untouched-biomes-when-updating-worlds/comments/36162174719757",
+        "created_at": "2025-04-27T20:15:06Z",
+        "updated_at": "2025-04-28T21:04:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35795382153485/comments/36162174719757.json",
+        "post_id": 35795382153485,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35771745083917,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36166936496653,
+        "body": "<p>This is a great solution as it's not viable to move them around large distances as they are really slow. I think it would be great if they updated the texture to make it have cloud like features giving weight to the fact that they can fit inside a bottle. I really hope this gets added into the game, it would make the happy ghast actually useful.&nbsp;</p>",
+        "author_id": 26581285659533,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35771745083917-Ghastling-and-Happy-ghast-Storage-Capture-it-in-a-Bottle/comments/36166936496653",
+        "created_at": "2025-04-28T06:06:18Z",
+        "updated_at": "2025-04-28T23:35:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35771745083917/comments/36166936496653.json",
+        "post_id": 35771745083917,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 36201080875661,
+        "body": "<p>And this could be an advancement, e.g.: Genie in the Bottle.</p>",
+        "author_id": 20709450560397,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35771745083917-Ghastling-and-Happy-ghast-Storage-Capture-it-in-a-Bottle/comments/36201080875661",
+        "created_at": "2025-04-29T05:45:02Z",
+        "updated_at": "2025-04-29T05:45:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35771745083917/comments/36201080875661.json",
+        "post_id": 35771745083917,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35684069124621,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36167106631821,
+        "body": "<p>Or give the happy ghast (and ghastling) and it's spawn egg blue whiskers to show it's affinity with water.&nbsp;</p>",
+        "author_id": 26581285659533,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35684069124621-Change-the-happy-ghast-spawn-egg-texture-to-look-less-like-og-ghast/comments/36167106631821",
+        "created_at": "2025-04-28T06:28:04Z",
+        "updated_at": "2025-04-28T06:28:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35684069124621/comments/36167106631821.json",
+        "post_id": 35684069124621,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35543750357901,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35825096426509,
+        "body": "<p>well, it will logically be a block of flint instead</p>",
+        "author_id": 35812266625165,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35543750357901-Craftable-Gravel/comments/35825096426509",
+        "created_at": "2025-04-14T12:10:59Z",
+        "updated_at": "2025-04-14T12:10:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35543750357901/comments/35825096426509.json",
+        "post_id": 35543750357901,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37770909467149,
+        "body": "<p>maybe as a mix of <strong>2 flint an 2 cobble</strong>, arranged diagonally, like crafting diorite</p>",
+        "author_id": 37770506130189,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35543750357901-Craftable-Gravel/comments/37770909467149",
+        "created_at": "2025-07-02T11:12:40Z",
+        "updated_at": "2025-07-02T11:12:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35543750357901/comments/37770909467149.json",
+        "post_id": 35543750357901,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 34932526789901,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 34936418622861,
+        "body": "<p>Mojang wants to make Minecraft a fantasy game, but not an rpg, and with the xp bar out of sight and out of mind, I think that would make this feel more accurate to what the game is supposed to be.</p>",
+        "author_id": 25876653178765,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/34932526789901-Make-the-Player-Tracker-its-Own-Bar/comments/34936418622861",
+        "created_at": "2025-03-11T23:38:27Z",
+        "updated_at": "2025-03-12T19:39:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/34932526789901/comments/34936418622861.json",
+        "post_id": 34932526789901,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 34970020814861,
+        "body": "<p>No, like mentioned <a href=\"/hc/en-us/community/posts/34967992635405\" target=\"_blank\" rel=\"nofollow noreferrer\">here</a>, I would prefer if the XP Bar was visible but the icons for the Locater Bar were just placed on top of the existing XP Bar.</p>",
+        "author_id": 398891540972,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/34932526789901-Make-the-Player-Tracker-its-Own-Bar/comments/34970020814861",
+        "created_at": "2025-03-12T23:56:14Z",
+        "updated_at": "2025-03-13T15:51:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/34932526789901/comments/34970020814861.json",
+        "post_id": 34932526789901,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 35043685196941,
+        "body": "<p>You're right! I like your idea much more! Also thanks for recommending my other post about using layer heads as icons!</p>",
+        "author_id": 10114439404557,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/34932526789901-Make-the-Player-Tracker-its-Own-Bar/comments/35043685196941",
+        "created_at": "2025-03-15T16:04:40Z",
+        "updated_at": "2025-03-15T21:19:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/34932526789901/comments/35043685196941.json",
+        "post_id": 34932526789901,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

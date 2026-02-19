@@ -1,0 +1,667 @@
+[
+  {
+    "post_id": 26941080752909,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 28195086122253,
+        "body": "<p>Pelo amor de Deus, otimizem o Minecraft Bedrock no Nintendo Switch, é tudo que peço a vocês.</p>",
+        "author_id": 1903511610027,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26941080752909-Optimize-Minecraft-Bedrock-for-Nintendo-Switch/comments/28195086122253",
+        "created_at": "2024-07-06T17:12:27Z",
+        "updated_at": "2024-07-06T17:12:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26941080752909/comments/28195086122253.json",
+        "post_id": 26941080752909,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 26794079031565,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 26873637709453,
+        "body": "<p>Déjenos editarlas ... </p>",
+        "author_id": 8310405174797,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26794079031565-Custom-capes/comments/26873637709453",
+        "created_at": "2024-05-20T17:15:47Z",
+        "updated_at": "2024-05-20T18:56:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26794079031565/comments/26873637709453.json",
+        "post_id": 26794079031565,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 26661706110989,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 26806992735117,
+        "body": "<p>Every month, testing slots should increase by 1000 minimum, up to the maximum of 10,000 tester slots. There is a cap on this unfortunately due to software limitations.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26661706110989--iOS-Increase-Preview-Slots-to-10-000/comments/26806992735117",
+        "created_at": "2024-05-17T15:36:15Z",
+        "updated_at": "2024-05-17T15:39:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26661706110989/comments/26806992735117.json",
+        "post_id": 26661706110989,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 26254816395405,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 26344411645197,
+        "body": "<p>of course</p>",
+        "author_id": 26304155184141,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26254816395405-New-portal/comments/26344411645197",
+        "created_at": "2024-04-30T21:38:03Z",
+        "updated_at": "2024-04-30T21:38:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26254816395405/comments/26344411645197.json",
+        "post_id": 26254816395405,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 26207000030349,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 26561511919757,
+        "body": "<p>Great idea! I've always wanted that.</p>",
+        "author_id": 26560251880845,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26207000030349-spears/comments/26561511919757",
+        "created_at": "2024-05-08T15:25:59Z",
+        "updated_at": "2024-05-08T15:25:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26207000030349/comments/26561511919757.json",
+        "post_id": 26207000030349,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25865492661901,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25865509816589,
+        "body": "<p>Here are some achievements that could be made harder for hardcore:</p>\n<ul>\n<li>Taking Inventory: Open your inventory and a chest inventory within 5 seconds of each other.</li>\n<li>Getting Wood: Pick up all the Overworld and the Nether wood tree types from the ground. <strong>Note that all of the wood types do not have to be in the inventory at the same time, but must be picked up at least once.</strong>\n</li>\n<li>Benchmarking: Craft a crafting table using a crafting table. <strong>Note that you need to use a crafting table to craft a crafting table for this achievement, and the result item need to be picked up from a crafting table output.</strong>\n</li>\n</ul>\n<ul>\n<li>Time To Mine: Make a wooden pickaxe and a gold pickaxe using a crafting table. <strong>Both pickaxes need to be picked up from a crafting table output at least once.</strong>\n</li>\n<li>Hot Topic: Make all three furnace types in a crafting table. <strong>All three furnace types&nbsp;need to be picked up from a crafting table output at least once.</strong>\n</li>\n<li>Acquire Hardware: Smelt 9 iron ingots. <strong>The iron ingots need to be picked up from a furnace output at least 9 times. A stack of 9 iron ingots picked up from a furnace output will count, it won’t work with hoppers.</strong>\n</li>\n<li>Time to Farm! Make hoes of two different types when crafting them using a crafting table. <strong>The two hoes cannot be of the same type for this achievement and both hoes need to be picked up from a crafting table output.</strong>\n</li>\n</ul>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25865492661901-Add-a-full-hardcore-set-of-achievements/comments/25865509816589",
+        "created_at": "2024-04-13T10:39:48Z",
+        "updated_at": "2024-04-13T14:37:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25865492661901/comments/25865509816589.json",
+        "post_id": 25865492661901,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 39326310033549,
+        "body": "<p>There can a set of achievements native to hardcore mode that do not have a non-hardcore counterpart.</p>\n<ul>\n<li>For example, there could be an achievement called “Hardcore Starter”, where the player has to create their first hardcore world.&nbsp;</li>\n<li>There can also be another hardcore exclusive achievement called “Hardcore Survivor”, where the player needs to survive at least 5 days in a single hardcore world.</li>\n</ul>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25865492661901-Add-a-full-hardcore-set-of-achievements/comments/39326310033549",
+        "created_at": "2025-09-04T16:52:37Z",
+        "updated_at": "2025-09-04T16:53:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25865492661901/comments/39326310033549.json",
+        "post_id": 25865492661901,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25670648209805,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25692119468557,
+        "body": "<p>Well i want to play 1.20 version\n</p>",
+        "author_id": 25692074252813,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25670648209805-Playing-on-beta-versions-with-friends-on-latest-versions/comments/25692119468557",
+        "created_at": "2024-04-07T14:55:32Z",
+        "updated_at": "2024-04-07T14:55:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25670648209805/comments/25692119468557.json",
+        "post_id": 25670648209805,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25035234409741,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25073042689421,
+        "body": "<p>I think it will be better to give a root \"Height\" in the damage function. I don't want to see the player who can get enouth height can't complete a \"Big Shock\"in their imagine. But we can make it more and more difficult to raise the damage. I think give a root is a good choice to fix the damage of mace</p>",
+        "author_id": 25072972003085,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25035234409741-The-Mace-is-awesome-but-a-bit-TOO-awesome/comments/25073042689421",
+        "created_at": "2024-03-17T01:49:20Z",
+        "updated_at": "2024-03-29T12:39:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25035234409741/comments/25073042689421.json",
+        "post_id": 25035234409741,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 25440033434765,
+        "body": "<p>dont add this mojang&nbsp;<strong>I WANT THE MACE OP</strong></p>",
+        "author_id": 24973454380045,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25035234409741-The-Mace-is-awesome-but-a-bit-TOO-awesome/comments/25440033434765",
+        "created_at": "2024-03-29T01:27:49Z",
+        "updated_at": "2024-03-29T16:35:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25035234409741/comments/25440033434765.json",
+        "post_id": 25035234409741,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 24843576486669,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 24861261598349,
+        "body": "<p>That’s a spam post!</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24843576486669--summon-prehistoricfauna-citipati-1/comments/24861261598349",
+        "created_at": "2024-03-10T10:24:51Z",
+        "updated_at": "2024-03-10T10:24:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24843576486669/comments/24861261598349.json",
+        "post_id": 24843576486669,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 23953609673485,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 24414038085773,
+        "body": "<p>And it should actually pause the game, along with options to exit without saving and manual save.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/23953609673485-New-Pause-Menu/comments/24414038085773",
+        "created_at": "2024-02-24T10:44:40Z",
+        "updated_at": "2024-02-24T10:44:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/23953609673485/comments/24414038085773.json",
+        "post_id": 23953609673485,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 23404752274189,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 23407090523789,
+        "body": "<p>you can vote for your own post</p>",
+        "author_id": 400271757932,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/23404752274189-Please-we-need-one-of-these-mobs/comments/23407090523789",
+        "created_at": "2024-01-22T03:02:19Z",
+        "updated_at": "2024-01-22T03:02:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/23404752274189/comments/23407090523789.json",
+        "post_id": 23404752274189,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 22746877322893,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 22746895942157,
+        "body": "<p>minecraft has to have them!VOTE FOR THEM!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</p>",
+        "author_id": 22746625467277,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/22746877322893-Egg-foods/comments/22746895942157",
+        "created_at": "2023-12-28T16:52:28Z",
+        "updated_at": "2023-12-28T16:52:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/22746877322893/comments/22746895942157.json",
+        "post_id": 22746877322893,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 22658245744781,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 23206948558349,
+        "body": "<p>yes i agree</p>",
+        "author_id": 22793030176781,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/22658245744781-Renaming-am-item-for-Cooked-Beef-To-Steak/comments/23206948558349",
+        "created_at": "2024-01-15T01:47:27Z",
+        "updated_at": "2024-01-15T22:02:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/22658245744781/comments/23206948558349.json",
+        "post_id": 22658245744781,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 23332655587341,
+        "body": "<p>This would be a parity feature.</p>",
+        "author_id": 8944989431053,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/22658245744781-Renaming-am-item-for-Cooked-Beef-To-Steak/comments/23332655587341",
+        "created_at": "2024-01-18T20:41:14Z",
+        "updated_at": "2024-01-18T20:41:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/22658245744781/comments/23332655587341.json",
+        "post_id": 22658245744781,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 22135810384525,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 22230208665357,
+        "body": "<p>Adventure mode already exists in Bedrock.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/22135810384525-Hardcore-and-adventure-mode-in-Bedrock/comments/22230208665357",
+        "created_at": "2023-12-11T15:20:46Z",
+        "updated_at": "2024-03-17T08:36:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/22135810384525/comments/22230208665357.json",
+        "post_id": 22135810384525,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 21895900187917,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 21898404380557,
+        "body": "<p>There are many of them on the web. You can even create it using old textures.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/21895900187917-Alpha-Programmer-Art/comments/21898404380557",
+        "created_at": "2023-12-03T11:15:36Z",
+        "updated_at": "2023-12-03T11:15:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/21895900187917/comments/21898404380557.json",
+        "post_id": 21895900187917,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 22061585452173,
+        "body": "<p>Hsp. Kwpbx</p>",
+        "author_id": 22061571614477,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/21895900187917-Alpha-Programmer-Art/comments/22061585452173",
+        "created_at": "2023-12-07T20:22:54Z",
+        "updated_at": "2023-12-07T20:23:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/21895900187917/comments/22061585452173.json",
+        "post_id": 21895900187917,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 21101493769741,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 24729135369101,
+        "body": "<p>It’s coming soon!</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/21101493769741-I-need-hardcore-mode-to-be-in-bedrick-edition/comments/24729135369101",
+        "created_at": "2024-03-05T22:53:28Z",
+        "updated_at": "2024-03-06T16:54:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/21101493769741/comments/24729135369101.json",
+        "post_id": 21101493769741,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 18600603530509,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 21898442127629,
+        "body": "<p>Invalid feedback post; also seems to duplicate another post. It needs info.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/18600603530509-capibara/comments/21898442127629",
+        "created_at": "2023-12-03T11:21:53Z",
+        "updated_at": "2023-12-03T11:21:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/18600603530509/comments/21898442127629.json",
+        "post_id": 18600603530509,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 18233986736141,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 18234012274829,
+        "body": "<p>Please get this a lot of votes</p>",
+        "author_id": 18233503143821,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/18233986736141-Glow-squids/comments/18234012274829",
+        "created_at": "2023-08-04T17:40:53Z",
+        "updated_at": "2023-08-04T17:41:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/18233986736141/comments/18234012274829.json",
+        "post_id": 18233986736141,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 16897831820557,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 20141506385037,
+        "body": "<p>DO IT NOW I WISH IT WAS HERE</p>",
+        "author_id": 18275964993421,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/16897831820557-I-would-like-april-fools-updates-on-bedrock-edition/comments/20141506385037",
+        "created_at": "2023-10-05T20:28:08Z",
+        "updated_at": "2023-10-05T20:28:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/16897831820557/comments/20141506385037.json",
+        "post_id": 16897831820557,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 20521167597837,
+        "body": "<p>not having them on bedrock but watching java youtubers play them is just so sad :(</p>",
+        "author_id": 400271757932,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/16897831820557-I-would-like-april-fools-updates-on-bedrock-edition/comments/20521167597837",
+        "created_at": "2023-10-19T07:43:21Z",
+        "updated_at": "2023-10-19T14:19:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/16897831820557/comments/20521167597837.json",
+        "post_id": 16897831820557,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 14874656045709,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 15149903700621,
+        "body": "<p>Hii op to Minecraft </p>",
+        "author_id": 15149881601549,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/14874656045709-Minecraft-code-version/comments/15149903700621",
+        "created_at": "2023-04-23T18:51:18Z",
+        "updated_at": "2023-04-23T18:51:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/14874656045709/comments/15149903700621.json",
+        "post_id": 14874656045709,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 14013670401677,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 14049483322765,
+        "body": "<p>Nick</p>",
+        "author_id": 14049470477581,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/14013670401677-SPLIT-CONTROL-IN-TOUCH-CONTROL/comments/14049483322765",
+        "created_at": "2023-03-16T14:51:30Z",
+        "updated_at": "2023-03-24T08:41:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/14013670401677/comments/14049483322765.json",
+        "post_id": 14013670401677,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 13815905381261,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 14686682143501,
+        "body": "<p>Wow\n</p>",
+        "author_id": 14686718159373,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13815905381261-Um-pacote-de-textura-indev-para-relembrar-os-primeiros-dias-de-minecraft/comments/14686682143501",
+        "created_at": "2023-04-09T14:36:14Z",
+        "updated_at": "2023-04-09T14:36:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13815905381261/comments/14686682143501.json",
+        "post_id": 13815905381261,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 13441213463437,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 13882545843469,
+        "body": "<p>yeeah</p>",
+        "author_id": 9627921953037,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13441213463437-Please-add-this/comments/13882545843469",
+        "created_at": "2023-03-10T15:27:53Z",
+        "updated_at": "2023-03-10T15:27:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13441213463437/comments/13882545843469.json",
+        "post_id": 13441213463437,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 13199901630093,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 13223384441357,
+        "body": "<p>चचचग</p>",
+        "author_id": 13223369676557,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13199901630093--kuroxpi0/comments/13223384441357",
+        "created_at": "2023-02-18T05:23:14Z",
+        "updated_at": "2023-02-19T15:45:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13199901630093/comments/13223384441357.json",
+        "post_id": 13199901630093,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 13125221630221,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 13165707279117,
+        "body": "<p>Dusu</p>",
+        "author_id": 13165703856141,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13125221630221-Add-the-new-birch-forest-biome-type/comments/13165707279117",
+        "created_at": "2023-02-16T13:53:51Z",
+        "updated_at": "2023-07-28T01:10:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13125221630221/comments/13165707279117.json",
+        "post_id": 13125221630221,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 18004292217741,
+        "body": "<p>Ok</p>",
+        "author_id": 18004267510541,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13125221630221-Add-the-new-birch-forest-biome-type/comments/18004292217741",
+        "created_at": "2023-07-28T01:11:06Z",
+        "updated_at": "2023-07-28T01:11:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13125221630221/comments/18004292217741.json",
+        "post_id": 13125221630221,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

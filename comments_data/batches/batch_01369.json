@@ -1,0 +1,787 @@
+[
+  {
+    "post_id": 26746963527693,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 27147653360653,
+        "body": "<p>Ok they just increased it to 0.6, will have to test that out&nbsp;</p>",
+        "author_id": 21410653842829,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26746963527693-Increase-the-mace-attack-speed-to-0-7/comments/27147653360653",
+        "created_at": "2024-05-29T21:12:58Z",
+        "updated_at": "2024-05-29T21:16:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26746963527693/comments/27147653360653.json",
+        "post_id": 26746963527693,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 26598323517325,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 26606668547597,
+        "body": "<p>Bogged poison should depend on difficulty.</p>\n<ul>\n<li>Easy: 2s</li>\n<li>Normal: 4s</li>\n<li>Hard: 6s</li>\n</ul>",
+        "author_id": 21545826601869,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26598323517325-The-Bogged-is-Unbalanced-and-Needs-a-Buff/comments/26606668547597",
+        "created_at": "2024-05-09T21:32:11Z",
+        "updated_at": "2024-05-09T21:32:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26598323517325/comments/26606668547597.json",
+        "post_id": 26598323517325,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 26606676825485,
+        "body": "<p>Slowness inflicted by strays should also depend on difficulty.</p>\n<ul>\n<li>Easy: 15s</li>\n<li>Normal: 30s</li>\n<li>Hard: 45s</li>\n</ul>",
+        "author_id": 21545826601869,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26598323517325-The-Bogged-is-Unbalanced-and-Needs-a-Buff/comments/26606676825485",
+        "created_at": "2024-05-09T21:33:19Z",
+        "updated_at": "2024-05-09T21:33:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26598323517325/comments/26606676825485.json",
+        "post_id": 26598323517325,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 26631021204621,
+        "body": "<p>On top of everything, they fire projectiles... Meaning that in a room full of mobs, they'll just end up shooting each other more often than the player.</p>",
+        "author_id": 25463771186317,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26598323517325-The-Bogged-is-Unbalanced-and-Needs-a-Buff/comments/26631021204621",
+        "created_at": "2024-05-10T19:00:55Z",
+        "updated_at": "2024-05-10T19:00:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26598323517325/comments/26631021204621.json",
+        "post_id": 26598323517325,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 26584099954829,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 26584121649037,
+        "body": "<p>That sounds so cool!</p>\n<p>&nbsp;</p>",
+        "author_id": 26584008164237,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26584099954829-A-NEW-DIMENSION/comments/26584121649037",
+        "created_at": "2024-05-09T07:58:31Z",
+        "updated_at": "2024-05-09T13:52:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26584099954829/comments/26584121649037.json",
+        "post_id": 26584099954829,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 26521481342989,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 26638017158925,
+        "body": "<p>The redesigned inventory could look like this:</p>\n<p><img src=\"https://feedback.minecraft.net/hc/user_images/01HXJCMZ1EWJV2V9DKQNFVPKV2.png\"></p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26521481342989-Can-you-add-the-new-Minecraft-Bedrock-inventory-in-1-21-0-25-beta/comments/26638017158925",
+        "created_at": "2024-05-10T23:15:11Z",
+        "updated_at": "2024-05-10T23:36:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26521481342989/comments/26638017158925.json",
+        "post_id": 26521481342989,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 26344622554765,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35101867235341,
+        "body": "<p>I don't think Minecraft should directly resemble real-life cultures, it hurts the open-end lore. Better to invent an original civilisation.</p>\n<p>Also, probably not a boss, but a mini boss would be cool. Maybe something to do with sandstorms?</p>",
+        "author_id": 25023873997069,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26344622554765-What-do-you-guys-think-about-adding-a-Egyptian-boss-to-the-game/comments/35101867235341",
+        "created_at": "2025-03-18T09:03:54Z",
+        "updated_at": "2025-03-18T20:45:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26344622554765/comments/35101867235341.json",
+        "post_id": 26344622554765,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 26087378787469,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 26265462314765,
+        "body": "<p>No</p>",
+        "author_id": 15882144629133,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26087378787469-Make-the-Poisonous-Potato-Update-as-the-next-1-22/comments/26265462314765",
+        "created_at": "2024-04-27T22:57:09Z",
+        "updated_at": "2024-04-27T22:57:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26087378787469/comments/26265462314765.json",
+        "post_id": 26087378787469,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25975077511693,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25975415599757,
+        "body": "<p>ignore the \"and\" after copper</p>",
+        "author_id": 25974763786253,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25975077511693-Copper-and-Armor-and-Tools/comments/25975415599757",
+        "created_at": "2024-04-17T16:08:54Z",
+        "updated_at": "2024-04-17T16:08:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25975077511693/comments/25975415599757.json",
+        "post_id": 25975077511693,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 25992863744781,
+        "body": "<p>I don’t think this is a good idea.</p>",
+        "author_id": 24780090693389,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25975077511693-Copper-and-Armor-and-Tools/comments/25992863744781",
+        "created_at": "2024-04-18T03:27:17Z",
+        "updated_at": "2024-04-18T03:27:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25975077511693/comments/25992863744781.json",
+        "post_id": 25975077511693,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 26007884633613,
+        "body": "<p>I think they should make some copper armor an tools but not make a full set so as to not follow the same path as the other tool sets if you know what I mean. Maybe make a full copper armor suit that is designed like an old scuba suit for breathing underwater easier and something like a copper sword which can conduct lightning like lightning rods while equipped.\n<br />S</p>",
+        "author_id": 11423708750477,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25975077511693-Copper-and-Armor-and-Tools/comments/26007884633613",
+        "created_at": "2024-04-18T16:47:51Z",
+        "updated_at": "2024-04-18T16:47:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25975077511693/comments/26007884633613.json",
+        "post_id": 25975077511693,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25902845122445,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25903350018829,
+        "body": "<p>I think this would be a better crafting recipe:</p>\n<p><img src=\"https://feedback.minecraft.net/hc/user_images/01HVH02R7T27WXFEH1DT5CQBN7.jpeg\"><br>I also think that it should just be Bottles of Enchanting instead of a new item.</p>",
+        "author_id": 24780090693389,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25902845122445-XP-Table/comments/25903350018829",
+        "created_at": "2024-04-15T13:44:39Z",
+        "updated_at": "2024-04-16T21:38:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25902845122445/comments/25903350018829.json",
+        "post_id": 25902845122445,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25886038401293,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25909057558925,
+        "body": "<p>I think this should, and shouldn't be in the game. It should, because a lot of the features in MCD and MCL would be sweet in the base game, but it shouldn't, because a lot of the features in MCD and MCL should stay in those games. What I'm saying is, they should add some features, not all of them.</p>",
+        "author_id": 6430936501389,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25886038401293-Add-every-dead-game-and-feature-to-the-base-game-next-update/comments/25909057558925",
+        "created_at": "2024-04-15T16:06:20Z",
+        "updated_at": "2024-04-15T21:20:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25886038401293/comments/25909057558925.json",
+        "post_id": 25886038401293,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25726096924301,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25730019409677,
+        "body": "<p>Mojang doesn’t run the featured servers.</p>",
+        "author_id": 24780090693389,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25726096924301-The-server-lifeboat/comments/25730019409677",
+        "created_at": "2024-04-08T21:50:14Z",
+        "updated_at": "2024-04-09T18:12:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25726096924301/comments/25730019409677.json",
+        "post_id": 25726096924301,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 25757223759629,
+        "body": "<p>This is up to the featured server to fully decide, not just by Mojang.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25726096924301-The-server-lifeboat/comments/25757223759629",
+        "created_at": "2024-04-09T18:13:32Z",
+        "updated_at": "2024-04-09T18:23:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25726096924301/comments/25757223759629.json",
+        "post_id": 25726096924301,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25672314461709,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25678852626957,
+        "body": "<p>This is a good idea the iron golem is found in villages but not a pillager Outpost however the ravanger is already a sort of iron golem doing similar things protecting illagers, so Mojang is probably not considering a illager Golem because the ravanger is already strong. However maybe we can see a new illager in a raid maybe just maybe the illusioner.</p>",
+        "author_id": 23955893503501,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25672314461709-illager-or-villager-golems/comments/25678852626957",
+        "created_at": "2024-04-06T17:19:10Z",
+        "updated_at": "2024-04-06T17:26:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25672314461709/comments/25678852626957.json",
+        "post_id": 25672314461709,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 25786689779853,
+        "body": "<p>Ravager already fill the role of tanker and heavy hitter during raid, so adding a golem to it might be overkill. The turn againts its creators also sounds really annoying rather than interesting as i dont know whats the reason of this mechanic existing.</p>\n\n<p>What i would think would be better is by just making them spawn on mansion as Illager currently doesnt have the \"protector\" of their kind, it would certainly make the the mansion fight more harder and interesting (Could have different gameplay compared to iron golem).Maybe they could drop a stuff that could be used to build player own illager golems</p>",
+        "author_id": 4691156238989,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25672314461709-illager-or-villager-golems/comments/25786689779853",
+        "created_at": "2024-04-10T17:32:54Z",
+        "updated_at": "2024-04-10T19:17:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25672314461709/comments/25786689779853.json",
+        "post_id": 25672314461709,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 27025765779469,
+        "body": "<p>the point of the turn against its creators is to show that illager golems have no soul and in fact can't help but destroy everything in sight&nbsp;</p>",
+        "author_id": 25488141903117,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25672314461709-illager-or-villager-golems/comments/27025765779469",
+        "created_at": "2024-05-25T01:20:41Z",
+        "updated_at": "2024-05-25T13:36:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25672314461709/comments/27025765779469.json",
+        "post_id": 25672314461709,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 29328083046669,
+        "body": "<p>anyone who sees this pls check out the links</p>",
+        "author_id": 25488141903117,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25672314461709-illager-or-villager-golems/comments/29328083046669",
+        "created_at": "2024-08-16T15:31:01Z",
+        "updated_at": "2024-08-16T15:31:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25672314461709/comments/29328083046669.json",
+        "post_id": 25672314461709,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25605985461389,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25619072295565,
+        "body": "<p>Sounds cool! Maybe it could be like a Sky Temple on a floating island that is filled with traps, both triggerable by the Breezes and the player. The temple could be largely open air but have a underground section where the traps and a treasure room of some kind could be.</p>",
+        "author_id": 25121615238157,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25605985461389-A-Future-Home-for-the-Breeze/comments/25619072295565",
+        "created_at": "2024-04-04T16:51:42Z",
+        "updated_at": "2024-04-04T22:03:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25605985461389/comments/25619072295565.json",
+        "post_id": 25605985461389,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 25624907151117,
+        "body": "<p>Some sort of floating palace or smth maybe</p>",
+        "author_id": 25624571382669,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25605985461389-A-Future-Home-for-the-Breeze/comments/25624907151117",
+        "created_at": "2024-04-04T19:06:05Z",
+        "updated_at": "2024-04-05T19:20:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25605985461389/comments/25624907151117.json",
+        "post_id": 25605985461389,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25484934059789,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25489960764941,
+        "body": "<p>idk if they even have the rights to Minecraft Storymode's music... Adding a song from a completely different game feels out of place, and very un-Minecrafty.</p>",
+        "author_id": 25463771186317,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25484934059789-ADD-THE-WITHER-STORM-THEME-AS-A-MUSIC-DISC/comments/25489960764941",
+        "created_at": "2024-03-31T19:56:15Z",
+        "updated_at": "2024-03-31T20:56:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25484934059789/comments/25489960764941.json",
+        "post_id": 25484934059789,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25467311469453,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25662148136333,
+        "body": "<p>I really like this. I can’t believe the developers are going to change the way you get Bad Omen. It’s unnecessary in my opinion. Your way works so much better because it’s just for the Trial Chambers, a place where your most likely going to want to activate a challenge. Although the rewards are why people do it, it just makes more sense if Raids are summoned in a way that is ‘out of your control’. I hope this makes sense </p>",
+        "author_id": 18482222196621,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25467311469453-Separate-raid-bad-omen-from-trial-chamber-bad-omen/comments/25662148136333",
+        "created_at": "2024-04-05T21:51:49Z",
+        "updated_at": "2024-04-05T22:19:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25467311469453/comments/25662148136333.json",
+        "post_id": 25467311469453,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25402258787341,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25402275207693,
+        "body": "<p>I know the team likely has no time for this to be put in the current update, but it would be great to see something like this in the future :)</p>",
+        "author_id": 416186283251,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25402258787341-Getting-a-Dragon-Egg-through-an-Ominous-Dragon-Fight/comments/25402275207693",
+        "created_at": "2024-03-27T22:28:25Z",
+        "updated_at": "2024-03-29T12:32:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25402258787341/comments/25402275207693.json",
+        "post_id": 25402258787341,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 25447699531533,
+        "body": "<p>Maybe this feature could be added in a minor update if Mojang does not have time to put it in the major update.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25402258787341-Getting-a-Dragon-Egg-through-an-Ominous-Dragon-Fight/comments/25447699531533",
+        "created_at": "2024-03-29T13:47:47Z",
+        "updated_at": "2024-03-29T16:09:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25402258787341/comments/25447699531533.json",
+        "post_id": 25402258787341,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 29383103646349,
+        "body": "<p>Um I guess this update will be more intresting</p>",
+        "author_id": 29373009807757,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25402258787341-Getting-a-Dragon-Egg-through-an-Ominous-Dragon-Fight/comments/29383103646349",
+        "created_at": "2024-08-19T06:49:59Z",
+        "updated_at": "2024-08-19T19:34:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25402258787341/comments/29383103646349.json",
+        "post_id": 25402258787341,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25188628171277,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25292913611405,
+        "body": "<p>This was rejected. :(</p>",
+        "author_id": 21194147466893,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25188628171277-Voice-Chat-In-Minecraft-Java-And-Bedrock/comments/25292913611405",
+        "created_at": "2024-03-24T18:08:30Z",
+        "updated_at": "2024-03-24T18:08:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25188628171277/comments/25292913611405.json",
+        "post_id": 25188628171277,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25110667470989,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25517416005261,
+        "body": "<p>NO</p>",
+        "author_id": 25515620884621,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25110667470989-the-mace-doesn-t-need-a-nerf/comments/25517416005261",
+        "created_at": "2024-04-01T18:14:34Z",
+        "updated_at": "2024-04-01T18:14:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25110667470989/comments/25517416005261.json",
+        "post_id": 25110667470989,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25076297957133,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25084439900429,
+        "body": "<p>Villagers dosen’t take or lose jobs. Takes wrong work</p>",
+        "author_id": 25084409225229,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25076297957133-Minecraft-bedrock/comments/25084439900429",
+        "created_at": "2024-03-17T20:53:30Z",
+        "updated_at": "2024-03-19T21:25:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25076297957133/comments/25084439900429.json",
+        "post_id": 25076297957133,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 25120141848077,
+        "body": "<p>yes monjang kinda forgot about bedrock</p>",
+        "author_id": 25118872225421,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25076297957133-Minecraft-bedrock/comments/25120141848077",
+        "created_at": "2024-03-18T21:34:42Z",
+        "updated_at": "2024-03-18T21:39:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25076297957133/comments/25120141848077.json",
+        "post_id": 25076297957133,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37978626063885,
+        "body": "<p>They have a sort of debug screen only for preview</p>",
+        "author_id": 32772015081485,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25076297957133-Minecraft-bedrock/comments/37978626063885",
+        "created_at": "2025-07-11T00:29:59Z",
+        "updated_at": "2025-07-11T00:29:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25076297957133/comments/37978626063885.json",
+        "post_id": 25076297957133,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25062388565005,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25080431914509,
+        "body": "<p>I think they should keep shaping the story of minecraft into their own idea to a minimum. Remember. The entire idea for the trails and tails update was to make adventures that identify the lore of the world for yourself. You make the story with the building blocks given.</p>",
+        "author_id": 11423708750477,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25062388565005-Inscriptions/comments/25080431914509",
+        "created_at": "2024-03-17T16:10:56Z",
+        "updated_at": "2024-03-19T21:36:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25062388565005/comments/25080431914509.json",
+        "post_id": 25062388565005,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25023216406413,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25047867735565,
+        "body": "<p>No se su opinión pero para balancear la canalización que solo sea desde cierta altura para abajo, tal vez desde los 10 bloques. </p>",
+        "author_id": 22348490671629,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25023216406413-Mace-Enchantments/comments/25047867735565",
+        "created_at": "2024-03-15T21:15:40Z",
+        "updated_at": "2024-03-16T14:55:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25023216406413/comments/25047867735565.json",
+        "post_id": 25023216406413,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25004109168397,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25022663581581,
+        "body": "<p>Like MC Legends mace and/or MC Dungeons mace!</p>",
+        "author_id": 13407702189453,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25004109168397-Blocky-Texture-for-Mace/comments/25022663581581",
+        "created_at": "2024-03-15T03:08:22Z",
+        "updated_at": "2024-03-16T15:37:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25004109168397/comments/25022663581581.json",
+        "post_id": 25004109168397,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 24862042663437,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25044152608141,
+        "body": "<p>this will be stronger than diamond I'm saying as well pls Minecraft add battle axes that would be so COOL</p>",
+        "author_id": 20368830325773,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24862042663437-emerald-amour-and-tools/comments/25044152608141",
+        "created_at": "2024-03-15T19:26:40Z",
+        "updated_at": "2024-03-16T14:42:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24862042663437/comments/25044152608141.json",
+        "post_id": 24862042663437,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 24793337104781,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25066776627853,
+        "body": "<p>Mojang lo escuche joven... let Mojang listen to you..</p>",
+        "author_id": 6670475528461,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24793337104781-Two-things-that-Minecraft-needs-in-1-21/comments/25066776627853",
+        "created_at": "2024-03-16T18:21:08Z",
+        "updated_at": "2024-03-17T20:43:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24793337104781/comments/25066776627853.json",
+        "post_id": 24793337104781,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 24556060678925,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 24626270240525,
+        "body": "<p>Sadly this was rejected, Mojang said it would look too similar to iron. :(</p>",
+        "author_id": 21194147466893,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24556060678925-New-Ore-Silver-Unleash-the-Silver-A-New-Frontier-in-Minecraft/comments/24626270240525",
+        "created_at": "2024-03-02T09:21:17Z",
+        "updated_at": "2024-03-04T18:29:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24556060678925/comments/24626270240525.json",
+        "post_id": 24556060678925,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38867740445325,
+        "body": "<p>it would need to be able to do more with it like make a special golem outof it with less materials like make it in the crafting table with ingots maybe have bouneses with the armour like speed boost or night vision.</p>\n<p>&nbsp;</p>",
+        "author_id": 38867689385869,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24556060678925-New-Ore-Silver-Unleash-the-Silver-A-New-Frontier-in-Minecraft/comments/38867740445325",
+        "created_at": "2025-08-16T18:25:47Z",
+        "updated_at": "2025-08-16T22:09:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24556060678925/comments/38867740445325.json",
+        "post_id": 24556060678925,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 24441355093773,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 24445529126157,
+        "body": "<p>I think this is a cool idea, but also just a map that only shows where the new trial chambers are would be cool.</p>",
+        "author_id": 18478561461005,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24441355093773-New-Type-of-Map-sold-by-Cartographers/comments/24445529126157",
+        "created_at": "2024-02-26T03:34:10Z",
+        "updated_at": "2024-02-29T16:46:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24441355093773/comments/24445529126157.json",
+        "post_id": 24441355093773,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

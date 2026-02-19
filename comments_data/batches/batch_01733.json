@@ -1,0 +1,802 @@
+[
+  {
+    "post_id": 7890742669965,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7903053836557,
+        "body": "<p>So, you step on a pressure plate on top of, let’s say cobblestone, and you want a redstone torch on the side of the said cobblestone to turn off?\n<br />If so, that should already be a feature. If not, send this to the bug tracker.</p>",
+        "author_id": 423562415371,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7890742669965-Redstone-upgrade/comments/7903053836557",
+        "created_at": "2022-07-24T03:59:44Z",
+        "updated_at": "2022-07-24T03:59:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7890742669965/comments/7903053836557.json",
+        "post_id": 7890742669965,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7369863272717,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7553395550605,
+        "body": "<p>still pending approval?</p>\n<p>&nbsp;</p>",
+        "author_id": 409233446211,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7369863272717-signal-block/comments/7553395550605",
+        "created_at": "2022-07-09T10:00:49Z",
+        "updated_at": "2022-07-09T10:00:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7369863272717/comments/7553395550605.json",
+        "post_id": 7369863272717,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 8679404073229,
+        "body": "<p>for 1 tick pulse they can just port it to bedrock. mayberedstone are dimmer in the frist frame so people know one tick pulse existed by themselves</p>",
+        "author_id": 409233446211,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7369863272717-signal-block/comments/8679404073229",
+        "created_at": "2022-08-25T12:07:12Z",
+        "updated_at": "2022-08-25T12:07:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7369863272717/comments/8679404073229.json",
+        "post_id": 7369863272717,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7237738713997,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7603792738189,
+        "body": "<p>Its a regularly requested item, though I personally would argue to use copper ingots to get more uses out of copper, give it the speed of a hopper but only 2 slots, so its a bottle neck of sorts to think about</p>",
+        "author_id": 405125404971,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7237738713997-Tubes-for-redstone-contraptions/comments/7603792738189",
+        "created_at": "2022-07-11T21:08:50Z",
+        "updated_at": "2022-07-21T16:50:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7237738713997/comments/7603792738189.json",
+        "post_id": 7237738713997,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5693497342861,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5693548068621,
+        "body": "<p>also i only want this in java</p>",
+        "author_id": 5693404885517,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5693497342861-tag-block/comments/5693548068621",
+        "created_at": "2022-04-21T20:46:26Z",
+        "updated_at": "2022-04-21T20:46:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5693497342861/comments/5693548068621.json",
+        "post_id": 5693497342861,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 6765875053709,
+        "body": "<p>can already be done with a note block, an observer, and a command block (only for the entity.player.hurt sound)</p>",
+        "author_id": 390450252532,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5693497342861-tag-block/comments/6765875053709",
+        "created_at": "2022-06-08T18:36:58Z",
+        "updated_at": "2022-06-09T21:25:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5693497342861/comments/6765875053709.json",
+        "post_id": 5693497342861,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5561628589837,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 6378127935757,
+        "body": "<p>You could also just use honey.</p>",
+        "author_id": 405306164292,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5561628589837-Packed-Slime-Block/comments/6378127935757",
+        "created_at": "2022-05-20T21:44:55Z",
+        "updated_at": "2022-05-20T21:44:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5561628589837/comments/6378127935757.json",
+        "post_id": 5561628589837,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4617422901005,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4618445283725,
+        "body": "<p>Мне кажется когда это добавят майнкрафт станет в 2 раза лучше</p>\n<p>&nbsp;</p>",
+        "author_id": 1901918083347,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4617422901005-%D0%9E%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BA%D0%B8%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9-%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B8/comments/4618445283725",
+        "created_at": "2022-03-05T19:43:00Z",
+        "updated_at": "2022-03-05T19:43:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4617422901005/comments/4618445283725.json",
+        "post_id": 4617422901005,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4863348764301,
+        "body": "<p>???</p>",
+        "author_id": 4863210172045,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4617422901005-%D0%9E%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BA%D0%B8%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9-%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B8/comments/4863348764301",
+        "created_at": "2022-03-17T02:34:52Z",
+        "updated_at": "2022-03-17T02:34:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4617422901005/comments/4863348764301.json",
+        "post_id": 4617422901005,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4422204286733,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4422210652173,
+        "body": "<p>This is technically for Pocket edition, but from the look of the terms and conditions for redstone, I would just put it down for Bedrock</p>",
+        "author_id": 422873093011,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4422204286733-Skulk-sensor-addition/comments/4422210652173",
+        "created_at": "2022-01-21T02:01:51Z",
+        "updated_at": "2022-01-21T10:31:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4422204286733/comments/4422210652173.json",
+        "post_id": 4422204286733,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4422216702477,
+        "body": "<p>Another reason Skulk sensors should detect noises from note blocks is that deaf people can feel the vibrations from music, so why shouldn't we make it so that a block with almost the same function a little more including of real life 'abilities'?</p>",
+        "author_id": 422873093011,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4422204286733-Skulk-sensor-addition/comments/4422216702477",
+        "created_at": "2022-01-21T02:05:06Z",
+        "updated_at": "2022-01-21T10:31:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4422204286733/comments/4422216702477.json",
+        "post_id": 4422204286733,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4420038369549,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4423558753549,
+        "body": "<pre id=\"tw-target-text\" class=\"tw-data-text tw-text-large tw-ta\" dir=\"ltr\" data-placeholder=\"Traduzione\"><span class=\"Y2IQFc\" lang=\"en\">I did not understand but it seems to me that it would not change much</span></pre>",
+        "author_id": 423703549251,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4420038369549-Smarter-Doors/comments/4423558753549",
+        "created_at": "2022-01-30T18:35:25Z",
+        "updated_at": "2022-01-30T18:35:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4420038369549/comments/4423558753549.json",
+        "post_id": 4420038369549,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4419600161805,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4592900364557,
+        "body": "<p>???</p>",
+        "author_id": 423859322491,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4419600161805-Redstone/comments/4592900364557",
+        "created_at": "2022-03-04T09:14:48Z",
+        "updated_at": "2022-03-06T13:42:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4419600161805/comments/4592900364557.json",
+        "post_id": 4419600161805,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4417116882189,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4417116885133,
+        "body": "<p>あ</p>",
+        "author_id": 422592077772,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4417116882189-%E3%81%82/comments/4417116885133",
+        "created_at": "2021-12-19T14:05:37Z",
+        "updated_at": "2021-12-19T14:05:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4417116882189/comments/4417116885133.json",
+        "post_id": 4417116882189,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4419500528013,
+        "body": "<p>?</p>",
+        "author_id": 1904592057727,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4417116882189-%E3%81%82/comments/4419500528013",
+        "created_at": "2022-01-08T16:19:32Z",
+        "updated_at": "2022-01-08T16:19:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4417116882189/comments/4419500528013.json",
+        "post_id": 4417116882189,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4416748350861,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5237553575693,
+        "body": "<p>Plssssss Minecraft plssssss do it</p>\n<p>&nbsp;</p>",
+        "author_id": 5237506845453,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4416748350861-Piston-extend-distance-based-on-redstone-power-level/comments/5237553575693",
+        "created_at": "2022-04-01T20:36:45Z",
+        "updated_at": "2022-04-01T20:36:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4416748350861/comments/5237553575693.json",
+        "post_id": 4416748350861,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 42206543530509,
+        "body": "<p>actually would break about 99.999999% of all redstone contraptions</p>",
+        "author_id": 33965446581133,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4416748350861-Piston-extend-distance-based-on-redstone-power-level/comments/42206543530509",
+        "created_at": "2025-12-25T16:06:38Z",
+        "updated_at": "2025-12-25T16:06:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4416748350861/comments/42206543530509.json",
+        "post_id": 4416748350861,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4413574934029,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4413575733005,
+        "body": "<div style=\"border-width: 100%;\">\n<div style=\"width: 6.109in;\">\n<div style=\"width: 6.109in;\">\n<p style=\"font-size: 11.0pt; color: black;\"><span style=\"font-family: Calibri;\">Hello, this appears to be a non-English post. Below you will find a transcription of the topic being discussed.&nbsp;</span><span style=\"font-family: WordVisiCarriageReturn_MSFontSe;\">&nbsp;</span></p>\n<p style=\"font-family: WordVisiCarriageReturn_MSFontSe; font-size: 11.0pt; color: black;\">&nbsp;</p>\n<p style=\"font-size: 11.0pt; color: black;\"><span style=\"font-weight: bold; font-family: Calibri;\">Title:</span><span style=\"font-family: Calibri;\">&nbsp;“School Stuff 28”&nbsp;</span><span style=\"font-family: WordVisiCarriageReturn_MSFontSe;\">&nbsp;</span></p>\n<p style=\"font-family: WordVisiCarriageReturn_MSFontSe; font-size: 11.0pt; color: black;\">&nbsp;</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\"><span style=\"font-weight: bold;\">Text:</span>&nbsp;“They should send you homework and the teachers would be villagers, there would be a new table that is crafted only with crimses wood surrounding a work table. They send you homework. You have to do homework. Many more things about school 28, with the same look.”&nbsp;</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\">- Translated by&nbsp;Admin</p>\n</div>\n</div>\n</div>",
+        "author_id": 401209274491,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4413574934029-Cosas-de-la-escuela-28/comments/4413575733005",
+        "created_at": "2021-11-14T20:43:58Z",
+        "updated_at": "2021-11-14T20:43:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4413574934029/comments/4413575733005.json",
+        "post_id": 4413574934029,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4411571521293,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4412005358221,
+        "body": "<p>Why java?</p>",
+        "author_id": 399769032231,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4411571521293--Java-Redstone-Shrieker-and-Redstone-Sensor/comments/4412005358221",
+        "created_at": "2021-10-25T04:04:41Z",
+        "updated_at": "2021-10-25T04:04:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4411571521293/comments/4412005358221.json",
+        "post_id": 4411571521293,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4410576762381,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4411023814157,
+        "body": "<p>You mean, like a repeater? Or an Etho Hopper Clock?</p>",
+        "author_id": 396170896571,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4410576762381-Redstone-timing-device-Java/comments/4411023814157",
+        "created_at": "2021-10-10T12:02:02Z",
+        "updated_at": "2021-10-10T12:02:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4410576762381/comments/4411023814157.json",
+        "post_id": 4410576762381,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4410252307853,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4411184020237,
+        "body": "<p>When would you use it?</p>",
+        "author_id": 1902412646787,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4410252307853-weighted-block/comments/4411184020237",
+        "created_at": "2021-10-12T21:00:49Z",
+        "updated_at": "2021-10-28T14:28:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4410252307853/comments/4411184020237.json",
+        "post_id": 4410252307853,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4409725614861,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4410077758989,
+        "body": "<p>Redstone is a mineral dust\n<br /> I think that nothing is more natural than this</p>",
+        "author_id": 419591804091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4409725614861-A-way-to-make-Redstone-feel-more-natural-in-Minecraft/comments/4410077758989",
+        "created_at": "2021-09-26T14:29:54Z",
+        "updated_at": "2021-09-26T14:29:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4409725614861/comments/4410077758989.json",
+        "post_id": 4409725614861,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4409031722893,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4409257657997,
+        "body": "<p>that's actually pretty cool, i was expecting it to attract compasses regardless of connection to other lodestones. but your take is pretty unique</p>",
+        "author_id": 403930208551,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4409031722893-Magnetic-Loadstones/comments/4409257657997",
+        "created_at": "2021-09-15T00:45:32Z",
+        "updated_at": "2021-09-15T06:51:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4409031722893/comments/4409257657997.json",
+        "post_id": 4409031722893,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4408526463885,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4408593559181,
+        "body": "<p>The redstone source block, such as redstone blocks and torches and levelrs are infinite, we will have the skulk sensor in 1.18 to allow us to have wireless redstone, and an electric oven doesn't seem to fit into minecraft</p>",
+        "author_id": 419591804091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4408526463885-More-redstone/comments/4408593559181",
+        "created_at": "2021-09-05T06:50:26Z",
+        "updated_at": "2021-09-05T11:09:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4408526463885/comments/4408593559181.json",
+        "post_id": 4408526463885,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4405348427405,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4405348439693,
+        "body": "<div style=\"border-width: 100%;\">\n<div style=\"width: 6.109in;\">\n<div style=\"width: 6.109in;\">\n<p style=\"font-size: 11.0pt; color: black;\"><span style=\"font-family: Calibri;\">Hello, this appears to be a non-English post. Below you will find a transcription of the topic being discussed.&nbsp;</span><span style=\"font-family: WordVisiCarriageReturn_MSFontSe;\">&nbsp;</span></p>\n<p style=\"font-family: WordVisiCarriageReturn_MSFontSe; font-size: 11.0pt; color: black;\">&nbsp;</p>\n<p style=\"font-size: 11.0pt; color: black;\"><span style=\"font-weight: bold; font-family: Calibri;\">Title:</span><span style=\"font-family: Calibri;\">&nbsp;“Pararayos Signal!”&nbsp;</span><span style=\"font-family: WordVisiCarriageReturn_MSFontSe;\">&nbsp;</span></p>\n<p style=\"font-family: WordVisiCarriageReturn_MSFontSe; font-size: 11.0pt; color: black;\">&nbsp;</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\"><span style=\"font-weight: bold;\">Text:</span>&nbsp;“Energy without levers or buttons? just add 3 copper on the crafting table and get hold of a pararayos.</p>\n<p>Add a battery block that can be charged with a pararayos, when lightning strikes the pararayos this will send a redstone signal of 1 energy that will be stored in a battery block. When the battery is charged, you can break the charged block and take its energy wherever you want.</p>\n<p>The battery block is crafted with 4 copper on the sides, 1 redstone in the middle and 4 iron in the corners.</p>\n<p>The battery has a loading duration of 3 days and nights in minecraft.</p>\n<p>It also adds a signal block, which works next to the battery block.</p>\n<p>When the battery is loaded, the signal block (if connected to a battery block) will send a signal that will receive another signal block without connection (it has to be connected to that same block) and that can turn on redstone mechanisms wirelessly.”&nbsp;</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\">- Translated by&nbsp;Admin</p>\n</div>\n</div>\n</div>",
+        "author_id": 401209274491,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4405348427405-Pararayos-Se%C3%B1al/comments/4405348439693",
+        "created_at": "2021-07-19T20:52:12Z",
+        "updated_at": "2021-07-19T20:52:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4405348427405/comments/4405348439693.json",
+        "post_id": 4405348427405,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078029551,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015492871,
+        "body": "<p>Add block</p>",
+        "author_id": 416944167011,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078029551-Add-More-blocks/comments/360015492871",
+        "created_at": "2021-05-25T18:27:42Z",
+        "updated_at": "2021-05-25T18:27:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078029551/comments/360015492871.json",
+        "post_id": 360078029551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360015560452,
+        "body": "<p>Dude. If you're going to post a suggestion, post an actually good suggestion. This is just spam.</p>",
+        "author_id": 412314468832,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078029551-Add-More-blocks/comments/360015560452",
+        "created_at": "2021-05-25T19:09:02Z",
+        "updated_at": "2021-06-02T17:41:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078029551/comments/360015560452.json",
+        "post_id": 360078029551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4404011381773,
+        "body": "<p>What block?</p>",
+        "author_id": 418002690312,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078029551-Add-More-blocks/comments/4404011381773",
+        "created_at": "2021-06-29T11:30:32Z",
+        "updated_at": "2021-06-29T11:30:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078029551/comments/4404011381773.json",
+        "post_id": 360078029551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077908272,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015281271,
+        "body": "<p>&nbsp;I actually thought it would be neat if you could set how much power it blocks like how for repeaters you can set them to slow the power. (:</p>\n<p>&nbsp;</p>",
+        "author_id": 415761120931,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077908272-redstone-signal-muffler/comments/360015281271",
+        "created_at": "2021-04-28T14:58:03Z",
+        "updated_at": "2021-04-28T14:58:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077908272/comments/360015281271.json",
+        "post_id": 360077908272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360015286351,
+        "body": "<p>can't you do that with comparators</p>",
+        "author_id": 415804765011,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077908272-redstone-signal-muffler/comments/360015286351",
+        "created_at": "2021-04-29T02:20:32Z",
+        "updated_at": "2021-05-07T18:48:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077908272/comments/360015286351.json",
+        "post_id": 360077908272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360015329091,
+        "body": "<p>I dont know.</p>",
+        "author_id": 415761120931,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077908272-redstone-signal-muffler/comments/360015329091",
+        "created_at": "2021-05-04T15:04:50Z",
+        "updated_at": "2021-05-04T15:04:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077908272/comments/360015329091.json",
+        "post_id": 360077908272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360015422232,
+        "body": "<p>You can run the signal through a comparator and choose how much to \"muffle\" the signal by subtracting that amount from the side input.</p>",
+        "author_id": 389627864772,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077908272-redstone-signal-muffler/comments/360015422232",
+        "created_at": "2021-05-06T13:15:21Z",
+        "updated_at": "2021-05-06T13:34:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077908272/comments/360015422232.json",
+        "post_id": 360077908272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360015673312,
+        "body": "<p>There is a more precise option, called using a comarator</p>",
+        "author_id": 417144821991,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077908272-redstone-signal-muffler/comments/360015673312",
+        "created_at": "2021-05-31T13:03:41Z",
+        "updated_at": "2021-05-31T13:36:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077908272/comments/360015673312.json",
+        "post_id": 360077908272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077776532,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4403402678797,
+        "body": "<p>no</p>",
+        "author_id": 413093782692,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077776532-Moveable-Command-Blocks/comments/4403402678797",
+        "created_at": "2021-06-20T07:54:47Z",
+        "updated_at": "2021-06-20T07:54:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077776532/comments/4403402678797.json",
+        "post_id": 360077776532,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077518131,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014752251,
+        "body": "<p>&nbsp;good idea . But it already exists in bedrock. &nbsp; But definitely should be in Java too.</p>",
+        "author_id": 408664392112,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077518131-Moveable-furnaces-and-things-like-that/comments/360014752251",
+        "created_at": "2021-04-05T04:58:42Z",
+        "updated_at": "2021-04-06T16:55:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077518131/comments/360014752251.json",
+        "post_id": 360077518131,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014824112,
+        "body": "<p>crafting tables are moveable even in java</p>",
+        "author_id": 411309065092,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077518131-Moveable-furnaces-and-things-like-that/comments/360014824112",
+        "created_at": "2021-04-06T12:48:41Z",
+        "updated_at": "2021-04-06T12:48:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077518131/comments/360014824112.json",
+        "post_id": 360077518131,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077573352,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014764292,
+        "body": "<p>Do you really want to have all your armor stolen and be stuck with a curse of binding pumpkin on your head in multiplayer?</p>",
+        "author_id": 370977842912,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077573352-dispensers-swapping-armour/comments/360014764292",
+        "created_at": "2021-03-29T12:47:14Z",
+        "updated_at": "2021-03-29T19:25:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077573352/comments/360014764292.json",
+        "post_id": 360077573352,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014705931,
+        "body": "<p>You mean, instead of un equip your armor to get equipped by dispenser, it automatically swap and stock the one you wear in the dispenser ? If it's this, I completely agree !</p>",
+        "author_id": 413394402172,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077573352-dispensers-swapping-armour/comments/360014705931",
+        "created_at": "2021-03-29T19:24:54Z",
+        "updated_at": "2021-04-03T16:12:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077573352/comments/360014705931.json",
+        "post_id": 360077573352,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014769052,
+        "body": "<p>And Zeffi Toto, in multiplayer, people already use anvil to broke your helmet, so it's doesn't change anything</p>",
+        "author_id": 413394402172,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077573352-dispensers-swapping-armour/comments/360014769052",
+        "created_at": "2021-03-29T19:26:50Z",
+        "updated_at": "2021-03-29T21:46:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077573352/comments/360014769052.json",
+        "post_id": 360077573352,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077544052,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014676031,
+        "body": "<div style=\"border-width: 100%;\">\n<div style=\"width: 6.109in;\">\n<div style=\"width: 6.109in;\">\n<p style=\"font-size: 11.0pt; color: black;\"><span style=\"font-family: Calibri;\">Hello, this appears to be a non-English post. Below you will find a transcription of the topic being discussed.&nbsp;</span><span style=\"font-family: WordVisiCarriageReturn_MSFontSe;\">&nbsp;</span></p>\n<p style=\"font-family: WordVisiCarriageReturn_MSFontSe; font-size: 11.0pt; color: black;\">&nbsp;</p>\n<p style=\"font-size: 11.0pt; color: black;\"><span style=\"font-weight: bold; font-family: Calibri;\">Title:</span><span style=\"font-family: Calibri;\">&nbsp;“Redstone Update”&nbsp;</span><span style=\"font-family: WordVisiCarriageReturn_MSFontSe;\">&nbsp;</span></p>\n<p style=\"font-family: WordVisiCarriageReturn_MSFontSe; font-size: 11.0pt; color: black;\">&nbsp;</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\"><span style=\"font-weight: bold;\">Text:</span>&nbsp;“Redstone energy is 15, an increase of 15. Redstone now has 30 energy, and now redstone powder, it can have climbing ability. Transfer redstone energy up, primary redstone elements and advanced redstone components. Also add the Redstone Energy Tower, you can legend the distant Redstone energy. And that adds a device that stores redstone's energy! And, of course, the caves of the Underground. I won't update this situation...”&nbsp;</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt; color: black;\">- Translated by&nbsp;Admin</p>\n</div>\n</div>\n</div>",
+        "author_id": 401209274491,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077544052-%E7%BA%A2%E7%9F%B3%E5%A4%A7%E6%9B%B4%E6%96%B0/comments/360014676031",
+        "created_at": "2021-03-24T23:57:21Z",
+        "updated_at": "2021-03-24T23:57:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077544052/comments/360014676031.json",
+        "post_id": 360077544052,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

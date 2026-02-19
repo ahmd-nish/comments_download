@@ -1,0 +1,802 @@
+[
+  {
+    "post_id": 360040450012,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004298012,
+        "body": "<p>/execute as @a run trigger givecash add 0</p>\n<p>This will do what you want</p>",
+        "author_id": 364935466911,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040450012-trigger-disable/comments/360004298012",
+        "created_at": "2019-02-02T03:46:10Z",
+        "updated_at": "2020-04-15T22:44:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040450012/comments/360004298012.json",
+        "post_id": 360040450012,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360004301932,
+        "body": "<p>No, it won't do what I want ;D</p>",
+        "author_id": 376322059891,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040450012-trigger-disable/comments/360004301932",
+        "created_at": "2019-02-02T17:13:30Z",
+        "updated_at": "2019-02-03T19:26:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040450012/comments/360004301932.json",
+        "post_id": 360040450012,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360004291691,
+        "body": "<p>Yes it does? When a player runs a trigger it gets disabled, so you do it forcibly without changing the score.</p>",
+        "author_id": 364935466911,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040450012-trigger-disable/comments/360004291691",
+        "created_at": "2019-02-03T06:21:59Z",
+        "updated_at": "2020-04-15T22:44:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040450012/comments/360004291691.json",
+        "post_id": 360040450012,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360004297611,
+        "body": "<p>Oh thanks a lot :D</p>",
+        "author_id": 376322059891,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040450012-trigger-disable/comments/360004297611",
+        "created_at": "2019-02-03T19:27:37Z",
+        "updated_at": "2019-02-03T19:27:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040450012/comments/360004297611.json",
+        "post_id": 360040450012,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360040153771,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004244171,
+        "body": "<p>To remove a goal use:<br>/ scoreboard objectives setdisplay sidebar</p>\n<p>This way the sidebar slot is deleted, without removing the objective.</p>\n<p>This is already in the game! :)</p>",
+        "author_id": 367735798711,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040153771-Don-t-show-objective-in-sidebar/comments/360004244171",
+        "created_at": "2019-01-30T20:06:29Z",
+        "updated_at": "2020-02-09T14:56:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040153771/comments/360004244171.json",
+        "post_id": 360040153771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005141252,
+        "body": "<p>Thank you KopperXP!&nbsp;</p>",
+        "author_id": 369987069152,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040153771-Don-t-show-objective-in-sidebar/comments/360005141252",
+        "created_at": "2019-04-05T17:14:31Z",
+        "updated_at": "2019-04-05T17:14:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040153771/comments/360005141252.json",
+        "post_id": 360040153771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360040061151,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008785992,
+        "body": "<p>We NEED this. It's really the thing that we shouldn't have to use a plugin for, on servers. It should be built into the vanilla game.</p>",
+        "author_id": 391512027732,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040061151-Add-a-farm-gamerule/comments/360008785992",
+        "created_at": "2019-12-25T22:29:17Z",
+        "updated_at": "2019-12-25T22:29:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040061151/comments/360008785992.json",
+        "post_id": 360040061151,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360033638011,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360003475692,
+        "body": "<p>You mean the NBT tag of similar name?<br><br>/give @s stone_pickaxe{CanDestroy:[\"minecraft:stone\"]}</p>\n<p>/give @s oak_planks{CanPlaceOn:[\"minecraft:stone\"]}</p>",
+        "author_id": 366131494412,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360033638011--can-destroy-and-can-place-on/comments/360003475692",
+        "created_at": "2018-12-21T01:44:34Z",
+        "updated_at": "2023-01-14T16:19:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360033638011/comments/360003475692.json",
+        "post_id": 360033638011,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009501931,
+        "body": "<p>/can_destroy and /can_place_on have never been commands, ever. They are components/NBT that you can add to an item.</p>\n<p>The way it works is you give a player an item like this.</p>\n<p>Bedrock:</p>\n<pre>/give @p dirt 1 0 {\"can_place_on\":{\"blocks\":[\"wool\"]}}</pre>\n<p>Java:</p>\n<pre>/give @p dirt{CanPlaceOn:[\"minecraft:white_wool\"]</pre>\n<p>And these commands work just fine in the current game, there is no need to fix anything.</p>",
+        "author_id": 385458255391,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360033638011--can-destroy-and-can-place-on/comments/360009501931",
+        "created_at": "2020-02-28T08:14:37Z",
+        "updated_at": "2023-01-14T16:18:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360033638011/comments/360009501931.json",
+        "post_id": 360033638011,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4442943641997,
+        "body": "<p>Hmm, can I ask a question, but how to give yourself a diamond ax on bedrock that can break not just boards, but a certain type of planks? For example, only oak planks, if I write give @p diamond_axe 1 0 {\"can_destroy\":{\"blocks\":[\"planks 0\"]}}, unable to issueg writes: Component 'can_destroy' could not be updated. Same with can_place</p>",
+        "author_id": 424185716631,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360033638011--can-destroy-and-can-place-on/comments/4442943641997",
+        "created_at": "2022-02-18T11:09:29Z",
+        "updated_at": "2022-02-18T14:27:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360033638011/comments/4442943641997.json",
+        "post_id": 360033638011,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360028853412,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012990931,
+        "body": "<p>Why do you write in Italian?</p>\n<p>&nbsp;</p>",
+        "author_id": 404367336951,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360028853412--summon-FireBall/comments/360012990931",
+        "created_at": "2020-10-05T17:38:21Z",
+        "updated_at": "2020-10-05T17:38:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360028853412/comments/360012990931.json",
+        "post_id": 360028853412,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360024605112,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360002473032,
+        "body": "<p>What do you mean with [...] <strong>Hotbar1 z true</strong>?</p>",
+        "author_id": 369987069152,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360024605112-Add-the-config-command/comments/360002473032",
+        "created_at": "2018-10-05T15:33:24Z",
+        "updated_at": "2018-10-05T15:33:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360024605112/comments/360002473032.json",
+        "post_id": 360024605112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002493291,
+        "body": "<p>Please please no. I don't want a map screwing with my options.</p>",
+        "author_id": 364935466911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360024605112-Add-the-config-command/comments/360002493291",
+        "created_at": "2018-10-06T21:21:57Z",
+        "updated_at": "2018-10-08T14:49:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360024605112/comments/360002493291.json",
+        "post_id": 360024605112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002644251,
+        "body": "<p>I like this idea, but pls make it so the keybinds only work on the specific world</p>",
+        "author_id": 365533636092,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360024605112-Add-the-config-command/comments/360002644251",
+        "created_at": "2018-10-13T05:25:32Z",
+        "updated_at": "2018-10-13T05:25:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360024605112/comments/360002644251.json",
+        "post_id": 360024605112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002641852,
+        "body": "<p>@GamingKing2436 You’re right. I think that’s the idea.&nbsp;</p>",
+        "author_id": 369987069152,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360024605112-Add-the-config-command/comments/360002641852",
+        "created_at": "2018-10-13T07:08:19Z",
+        "updated_at": "2018-10-13T07:08:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360024605112/comments/360002641852.json",
+        "post_id": 360024605112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 41027961930637,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41029495139725,
+        "body": "<p>I want this!</p>",
+        "author_id": 41026810154765,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41027961930637-Bedrock-Mannequins/comments/41029495139725",
+        "created_at": "2025-11-10T23:01:54Z",
+        "updated_at": "2025-11-10T23:01:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41027961930637/comments/41029495139725.json",
+        "post_id": 41027961930637,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41240162997133,
+        "body": "<p>I don't even understand why they did not add this to Bedrock when they added it to Java</p>",
+        "author_id": 33398733764749,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41027961930637-Bedrock-Mannequins/comments/41240162997133",
+        "created_at": "2025-11-18T18:29:00Z",
+        "updated_at": "2025-11-18T18:29:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41027961930637/comments/41240162997133.json",
+        "post_id": 41027961930637,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40450974274317,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40451165418125,
+        "body": "<p>(OG poster) Additional syntax examples below</p>\n<p>Equip/Unequip <br>/modifyInventory *target* slot.armor.chest 0 unequip <br>/modifyInventory *target* slot.inventory 16 equip swap slot.armor.legs 0</p>\n<p>This example is used to edit the information that displays where the author of writable books go: <br>/modifyInventory *target* slot.weapon.mainhand 0 editInfo §l§cUsed</p>\n<p>Change item name: <br>/modifyInventory *target* slot.weapon.offhand 0 editName §l§rotten of Undying</p>\n<p>Moving items from ender chest(PLEASE ADD THIS, THIS WOULD BE SO USEFUL): <br>/modifyInventory *target* slot.enderchest 0 swap slot.hotbar 0</p>\n<p>Thank you for reading all of this! I find this command ideally useful for me so much if this gets added. Sorry for being so long, I really want this added and I hope others think so too. Thank you y’all!</p>",
+        "author_id": 6610539391245,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40450974274317--modifyInventory/comments/40451165418125",
+        "created_at": "2025-10-19T14:37:36Z",
+        "updated_at": "2025-10-19T14:40:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40450974274317/comments/40451165418125.json",
+        "post_id": 40450974274317,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 39382998480269,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 39725582087565,
+        "body": "<p>it is especially annoying right now when I try despawning slimes in my pvp map, since they just split. right now I just teleport them ~ -100 ~</p>",
+        "author_id": 405322298991,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39382998480269-A-way-to-manually-despawn-entities/comments/39725582087565",
+        "created_at": "2025-09-20T12:38:05Z",
+        "updated_at": "2025-09-20T12:38:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39382998480269/comments/39725582087565.json",
+        "post_id": 39382998480269,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 39367496590221,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 39367548999693,
+        "body": "<p>I wish to use this selector command to simplify based on when a player interacted a shopping district. It'd make sure a right player if is away from @p @a or other selectors that doesn't match the appropriate execute patterns.</p>",
+        "author_id": 408448352071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39367496590221-Add-i-Initial-Player/comments/39367548999693",
+        "created_at": "2025-09-06T03:13:55Z",
+        "updated_at": "2025-09-06T14:10:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39367496590221/comments/39367548999693.json",
+        "post_id": 39367496590221,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 39392818050445,
+        "body": "<p>This is just @s?</p>",
+        "author_id": 38678043952141,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39367496590221-Add-i-Initial-Player/comments/39392818050445",
+        "created_at": "2025-09-08T02:34:59Z",
+        "updated_at": "2025-09-08T02:34:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39367496590221/comments/39392818050445.json",
+        "post_id": 39367496590221,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 39518704485005,
+        "body": "<p>no, @s and @i are two different usages of selectors, while sure it may sound a bit similar but they two have very different features to work.<br>@s is basically a self command made for anyone in their own chat or by execute then run with another command.<br>@i is a selector works very diffferent but the catch is that no matter have many tried using @p or @s or others within insighted variables. None works to simulate with @i. So having @i is where a person had interacted with a command block by pressing levers, preasure plates or buttons will automatically be chosen.<br>Like for example, if you were trying to setup a shop with only one or two command blocks,<br>/execute at @i[hasitem={item=diamond,count=5}] run give apple 1 - clear @i[hasitem={item=diamond,count=5}] - when a user pressed or interacted with an object will also attach the command blocks thinking the person who had interacted is trying to buy an apple.<br>If this was other way around using @s, @p, or other selectors, and if command has radius variable. Other user will try to sold you out and get an apple free by stealing it from you. Sure in Bedrock edition, players could use npc, but there's always a complicated catch by it. So it would be nice to have another selector that is like or is @i for intitial purpose of selector to help avoid griefing players.<br><br>If you may wonder why I didn't just try using an NPC? Using an NPC is complicated, and it can't run multiple commands like command blocks would. So I avoided NPC entirely.</p>",
+        "author_id": 408448352071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39367496590221-Add-i-Initial-Player/comments/39518704485005",
+        "created_at": "2025-09-12T10:46:05Z",
+        "updated_at": "2025-09-12T14:31:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39367496590221/comments/39518704485005.json",
+        "post_id": 39367496590221,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 39725615038349,
+        "body": "<p>nice idea! I have so many functions where I do</p>\n<pre>tag @s add caller<br>…<br>tag @s remove caller</pre>\n<p>since any&nbsp;<em>execute as …</em> will lose the execution context</p>",
+        "author_id": 405322298991,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39367496590221-Add-i-Initial-Player/comments/39725615038349",
+        "created_at": "2025-09-20T12:40:28Z",
+        "updated_at": "2025-09-20T12:40:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39367496590221/comments/39725615038349.json",
+        "post_id": 39367496590221,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 39214619699597,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 39381363092109,
+        "body": "<p>Awesome idea! 😎</p>",
+        "author_id": 37854489445389,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39214619699597-The-command-update/comments/39381363092109",
+        "created_at": "2025-09-07T03:48:04Z",
+        "updated_at": "2025-09-07T03:48:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39214619699597/comments/39381363092109.json",
+        "post_id": 39214619699597,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38411977500429,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38422877986061,
+        "body": "<p>/forceload is clunky, non intuitive, and im not going to portal spam on my server.&nbsp; its easier if im having issues to just lower the radius.&nbsp; the way it is now i can just tell my players \"hey x amount of chunks are loaded from spawn\" with this, stuff can be missed, and i have to give them coordinates which is just a pain for everyone</p>",
+        "author_id": 7645280349709,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38411977500429-Bring-back-SpawnChunkRadius-Gamerule/comments/38422877986061",
+        "created_at": "2025-07-29T22:09:52Z",
+        "updated_at": "2025-07-29T22:09:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38411977500429/comments/38422877986061.json",
+        "post_id": 38411977500429,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38177052179341,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38493226162573,
+        "body": "<p>Hello! Not much of a professional but, I do believe making new commands compatible with older versions. Older versions cannot get the new commands for, older versions are not meant to be updated. Although, I do agree old commands and other commands from other version should be added to each version of the game (java and bedrock).</p>",
+        "author_id": 38360282304781,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38177052179341-make-all-commands-compatible-on-all-versions/comments/38493226162573",
+        "created_at": "2025-08-01T11:52:04Z",
+        "updated_at": "2025-08-01T14:47:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38177052179341/comments/38493226162573.json",
+        "post_id": 38177052179341,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 33717718585613,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 34108506871693,
+        "body": "<p>You can already do this. Here's an example from the Minecraft Wiki:</p>\n<p>/give @s cooked_chicken[use_remainder={id:\"minecraft:bone\",components:{custom_name:'{text:\"Chicken Bone\"}'},count:2}]</p>",
+        "author_id": 405536094811,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33717718585613-Get-Custom-Remains-from-items-you-eat/comments/34108506871693",
+        "created_at": "2025-02-07T02:49:25Z",
+        "updated_at": "2025-02-07T15:16:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33717718585613/comments/34108506871693.json",
+        "post_id": 33717718585613,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 34118538270733,
+        "body": "<p>Thanks i didn't know</p>",
+        "author_id": 33716636927245,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33717718585613-Get-Custom-Remains-from-items-you-eat/comments/34118538270733",
+        "created_at": "2025-02-07T15:28:51Z",
+        "updated_at": "2025-02-07T15:28:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33717718585613/comments/34118538270733.json",
+        "post_id": 33717718585613,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 32909987664909,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 32938942714637,
+        "body": "<p>like it.</p>\n<p>&nbsp;</p>",
+        "author_id": 28283173633933,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/32909987664909-Random-item-id/comments/32938942714637",
+        "created_at": "2024-12-23T01:14:21Z",
+        "updated_at": "2024-12-23T01:14:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/32909987664909/comments/32938942714637.json",
+        "post_id": 32909987664909,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 32907453518477,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 33218281280653,
+        "body": "<p>Maybe try <strong>/execute align xyz positioned ~0.5 ~0.5 ~0.5<br><br></strong>This will position you to the exact center of the block where the command will be executed.<br>But for chunks, a scoreboard is indeed needed for calculation, but not much.<br></p>",
+        "author_id": 25879473223949,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/32907453518477--execute-positioned-center-new-syntax/comments/33218281280653",
+        "created_at": "2025-01-05T02:30:16Z",
+        "updated_at": "2025-01-05T17:13:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/32907453518477/comments/33218281280653.json",
+        "post_id": 32907453518477,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 28439236731661,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 28698671236365,
+        "body": "<p>In fact, the jigsaw block does not work in the bedrock version as it is incomplete, it lacks the option to generate, and that makes it useless</p>",
+        "author_id": 28698537453837,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/28439236731661-Jigsaw-Block-for-Nintendo-Switch/comments/28698671236365",
+        "created_at": "2024-07-25T05:29:56Z",
+        "updated_at": "2024-07-25T14:25:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/28439236731661/comments/28698671236365.json",
+        "post_id": 28439236731661,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 27729007484941,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 28118111058829,
+        "body": "<p>This can be useful for \"/fill\" command as well</p>",
+        "author_id": 28039776304013,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/27729007484941--setblock-from-block-entity-slot/comments/28118111058829",
+        "created_at": "2024-07-03T17:31:02Z",
+        "updated_at": "2024-07-03T18:34:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/27729007484941/comments/28118111058829.json",
+        "post_id": 27729007484941,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 27632078572813,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 28118007067917,
+        "body": "<p><strong>My alternative suggestion:</strong></p>\n<p>remove command \"/enchant\"</p>\n<p>add \"enchant\" subcommand to the \"/item\" command:</p>\n<pre>/item enchant (block &lt;x&gt; &lt;y&gt; &lt;z&gt;|entity &lt;selector&gt;) &lt;item slot&gt; &lt;enchantment&gt; &lt;level&gt; [check/force]</pre>\n<p>It can also enchant items inside blocks.</p>\n<p>The last argument is \"check\" by default, there are meanings for these keywords:</p>\n<ul>\n<li>\"check\" - command checks if the enchantment level is not too high</li>\n<li>\"force\" - it lets the enchantment level be higher (with the limit of 255 maybe)</li>\n</ul>",
+        "author_id": 28039776304013,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/27632078572813-Enchant-Command-Rework/comments/28118007067917",
+        "created_at": "2024-07-03T17:27:51Z",
+        "updated_at": "2024-07-03T18:34:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/27632078572813/comments/28118007067917.json",
+        "post_id": 27632078572813,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 28741908999821,
+        "body": "<p>Actually a good idea, but if you want to enchant something with levels that are not above normal why not just use books?</p>",
+        "author_id": 28741354225293,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/27632078572813-Enchant-Command-Rework/comments/28741908999821",
+        "created_at": "2024-07-26T18:08:51Z",
+        "updated_at": "2024-07-26T18:08:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/27632078572813/comments/28741908999821.json",
+        "post_id": 27632078572813,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 27168480192013,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 27169941577613,
+        "body": "<p>wouldn't it make more sense to only have this?</p>\n<pre>continue &lt;selector&gt;</pre>",
+        "author_id": 396385945472,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/27168480192013-Execute-subcommand-continue/comments/27169941577613",
+        "created_at": "2024-05-30T18:25:50Z",
+        "updated_at": "2024-05-30T18:25:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/27168480192013/comments/27169941577613.json",
+        "post_id": 27168480192013,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 26966004494861,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 27177736385421,
+        "body": "<p>This is a great idea and I would love to see it in the future!</p>",
+        "author_id": 27154301320589,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26966004494861-Execute-World-adjustments-weather-time-gamerule-difficulty-etc/comments/27177736385421",
+        "created_at": "2024-05-30T23:59:55Z",
+        "updated_at": "2024-05-31T16:52:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26966004494861/comments/27177736385421.json",
+        "post_id": 26966004494861,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 26376574593677,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 26376639641997,
+        "body": "<p>If you see this then hi</p>",
+        "author_id": 14278492585101,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26376574593677-Template-trim-command/comments/26376639641997",
+        "created_at": "2024-05-02T00:57:33Z",
+        "updated_at": "2024-05-02T00:57:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26376574593677/comments/26376639641997.json",
+        "post_id": 26376574593677,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 26132161017613,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 27673997113357,
+        "body": "<p>If we have this attribute, we can craft more special items or weapons, which I think would really enhance the gaming experience.</p>",
+        "author_id": 21042511124109,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26132161017613-attack-range-attribute/comments/27673997113357",
+        "created_at": "2024-06-18T15:23:02Z",
+        "updated_at": "2024-06-18T15:46:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26132161017613/comments/27673997113357.json",
+        "post_id": 26132161017613,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25980816673293,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25992845644941,
+        "body": "<p>This would be absurdly useful.</p>",
+        "author_id": 24780090693389,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25980816673293-Game-mode-selector-in-bedrock-chat/comments/25992845644941",
+        "created_at": "2024-04-18T03:25:08Z",
+        "updated_at": "2024-04-18T03:25:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25980816673293/comments/25992845644941.json",
+        "post_id": 25980816673293,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 24287009192589,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 24470091506445,
+        "body": "<p>The difficulty remains the same after using this gamerule for the purpose of the map making.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24287009192589--gamerule-hardcore/comments/24470091506445",
+        "created_at": "2024-02-26T19:33:51Z",
+        "updated_at": "2024-02-26T19:33:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24287009192589/comments/24470091506445.json",
+        "post_id": 24287009192589,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

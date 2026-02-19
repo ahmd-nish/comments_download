@@ -1,0 +1,982 @@
+[
+  {
+    "post_id": 360077112352,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014387512,
+        "body": "<p>This will also be for more biomes in the future. EG Jungle, taiga, more</p>",
+        "author_id": 409062736991,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077112352-Howling-peeks-to-minecraft-1-17/comments/360014387512",
+        "created_at": "2021-02-16T09:24:38Z",
+        "updated_at": "2021-11-21T12:51:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077112352/comments/360014387512.json",
+        "post_id": 360077112352,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076958471,
+    "expected_comment_count": 7,
+    "actual_comment_count": 7,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014304912,
+        "body": "<p>I really like the pipe idea.</p>",
+        "author_id": 410865028711,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076958471-Adding-to-the-Additional-Smithing-Table-use-in-1-17-Tin/comments/360014304912",
+        "created_at": "2021-02-08T14:18:31Z",
+        "updated_at": "2021-03-02T14:52:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076958471/comments/360014304912.json",
+        "post_id": 360076958471,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014410692,
+        "body": "<p>Tin should definitely be added, though I do have a few changes that I would propose to what you have suggested. First of all, I like the idea of in generating under/in mountain biomes and ocean biomes, (I myself had suggested mountains on the post you linked to) with mountains fitting with both the cliffs aspect of this update as well as the gray theme just fitting with them, and with oceans being a challenging but more common place to get tin.. In regard to rivers, that may be an option, but I am not as sure on that one and it might not. One small thing I would argue though is that tin not be&nbsp;<strong>exclusive</strong> to those biomes. It should instead generate only&nbsp;<strong>very</strong> rarely outside of them, at a rarity similar to netherite maybe. In those biomes where it more commonly generates, it should provide a true source of the material, enough so that bronze can be used in the amount that will be necessary. Additionally, as this would make it less rare, piglins would not need to barter it. Besides, gold has already finally achieved its own niche there. Adding tin will provide new benefits to exploration, create greater need for transportation, provide interesting new mining strategy, add new and interesting items, help flush out the archaeology system's benefits, and finally, will make the greatest progression change in the history of Minecraft, providing greater layers of complexity and more.</p>\n<p>I am running out of characters, so I will finish in a second post centered around uses of tin.</p>",
+        "author_id": 393065080012,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076958471-Adding-to-the-Additional-Smithing-Table-use-in-1-17-Tin/comments/360014410692",
+        "created_at": "2021-02-18T01:32:41Z",
+        "updated_at": "2021-07-25T04:42:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076958471/comments/360014410692.json",
+        "post_id": 360076958471,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014411172,
+        "body": "<p>Now that I have detailed my thoughts on tin ore's generation, I will speak of the uses of and items crafted from tin. First of all, while I would not be adverse to the proposed ratio, I currently feel that a 1:1 ratio of copper to iron may be advisable, as that would require an equal amount of resources on both parts, forcing player to . Then again, I believe that the historic ratio would be in favor of 2 copper to 1 tin (around 77% copper and 33% tin, though it may have been higher in copper's favor). Next, tin block and cut tin are also necessary and would look great, (I am also in favor of gold or cut gold stairs/slabs, as they would be very helpful in certain builds, though this thread isn't about that) and I would love to see a tin grating bar block, as I have tried to produce that on several occasions, and could not produce a pleasing effect despite the numerous materials I worked with, including trap doors. Pipes would be great, and I have seen them mentioned in several other places, described as having one slot (useful) and being able to also transport items vertically. This will be much easier than annoying rail mechanism and water columns, and will fix the issue of high material expense in survival for redstone contraption. I will note that I have seen suggestions for crafting them of copper or bronze too, so material is up for debate. More uses for nuggets are also necessary, and the keys would take advantage of the preexisting lock nbt.</p>",
+        "author_id": 393065080012,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076958471-Adding-to-the-Additional-Smithing-Table-use-in-1-17-Tin/comments/360014411172",
+        "created_at": "2021-02-18T02:34:28Z",
+        "updated_at": "2021-07-25T04:42:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076958471/comments/360014411172.json",
+        "post_id": 360076958471,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014349091,
+        "body": "<p>(More characters than I thought) Currently that operates entirely on names, but something similar to UUIDs could probably be done, if necessary. Shulker boxes would also be able to be locked, as they are with commands. Of course, there is still the age old problem of people mining the chest or door in a survival world, or, if you make a complex resource expensive contraption set up to detect said destruction and power a pit trap with hoppers and a rails (or now pipe) system to get dropped items back to the chest, or otherwise set up a locked chest and comparators to detect when something has been successfully placed in the chest and open up an iron door or piston door, people mining through the blocks and redstone that it is made of. Finally, I might like the increased vibration distance, as well as a sound, to be moved into a crying tin block, as <a href=\"/hc/en-us/profiles/387917873932-ArminageShikoba\" data-bi-name=\"arminageshikoba\" data-bi-id=\"n4a3\" data-bi-type=\"text\" rel=\"nofollow noreferrer\">ArminageShikoba&nbsp;</a>had originally said.</p>\n<p>By the way, I would like to congratulate you on the fact that you changed your mind on such a highly debated topic as this one, especially with you having been a chief proponent of said argument. While I am glad that you have now chosen the side which fits my preference and beliefs, it is more for the fact that you&nbsp;<strong>could</strong> change sides, that I congratulate you, and I am glad to know that such an active person on this site can do that.</p>",
+        "author_id": 393065080012,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076958471-Adding-to-the-Additional-Smithing-Table-use-in-1-17-Tin/comments/360014349091",
+        "created_at": "2021-02-18T02:46:24Z",
+        "updated_at": "2021-03-02T14:52:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076958471/comments/360014349091.json",
+        "post_id": 360076958471,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014505432,
+        "body": "<p><x-zendesk-user data-user-name=\"ArminageShikoba\">387917873932</x-zendesk-user>'s post needs more attention. Not only did it change my mind about tin, it is one of the few ore posts on that site that doesnt just say \"make armor and tools that 843 better than dimind and it cool to hav pls add mojand\"</p>",
+        "author_id": 398830310812,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076958471-Adding-to-the-Additional-Smithing-Table-use-in-1-17-Tin/comments/360014505432",
+        "created_at": "2021-02-26T00:18:07Z",
+        "updated_at": "2021-07-25T04:44:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076958471/comments/360014505432.json",
+        "post_id": 360076958471,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014559592,
+        "body": "<p>I really want tin in the game, but i still feel that an iron-copper alloy is more likely to be added, as mojang has shown no interest in adding more ores in 1.17.</p>",
+        "author_id": 398830310812,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076958471-Adding-to-the-Additional-Smithing-Table-use-in-1-17-Tin/comments/360014559592",
+        "created_at": "2021-03-02T14:53:36Z",
+        "updated_at": "2021-03-02T21:47:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076958471/comments/360014559592.json",
+        "post_id": 360076958471,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014624371,
+        "body": "<p>After looking at some of the ore generation and seeing how entirely separate the underground is being made from the overworld, I suggest that the method for generating higher tin amounts underneath rivers, oceans, and mountains would simply be based on the preexisting biome generation system, in which areas of biomes are generated according to large temperature and humidity sections. Tin would simply generate in those areas with maximum humidity and coldest temperatures, being mountains/tundras and oceans/rivers.</p>",
+        "author_id": 393065080012,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076958471-Adding-to-the-Additional-Smithing-Table-use-in-1-17-Tin/comments/360014624371",
+        "created_at": "2021-03-17T18:07:55Z",
+        "updated_at": "2021-07-25T04:44:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076958471/comments/360014624371.json",
+        "post_id": 360076958471,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077033192,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014213951,
+        "body": "<p>Yeah, I think it make sense and they already added this features to foxes.</p>",
+        "author_id": 394720488631,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077033192-Strays-should-walk-on-powdered-snow/comments/360014213951",
+        "created_at": "2021-02-04T16:39:44Z",
+        "updated_at": "2021-02-07T17:18:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077033192/comments/360014213951.json",
+        "post_id": 360077033192,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077028032,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014285232,
+        "body": "<p>Moss carpets could generate directly below large spruce trees in patches, or covering mossy cobblestone boulders.</p>",
+        "author_id": 388882555011,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077028032-Moss-can-generate-in-jungles-and-mega-tree-taigas/comments/360014285232",
+        "created_at": "2021-02-05T15:04:10Z",
+        "updated_at": "2021-09-14T16:02:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077028032/comments/360014285232.json",
+        "post_id": 360077028032,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076902471,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014271092,
+        "body": "<p>There's already a type of Zombie that drops Gold, they're the Zombiefied Piglins! Drowneds dropping Copper makes the mob more unique and interesting to farm, Husks should have something else to make they feel special not a Zombiefied Piglin loot ripoff</p>",
+        "author_id": 393530930631,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076902471-Drowned-should-still-drop-gold-Husks-should-drop-copper/comments/360014271092",
+        "created_at": "2021-02-04T08:09:37Z",
+        "updated_at": "2021-03-18T20:44:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076902471/comments/360014271092.json",
+        "post_id": 360076902471,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4407763051917,
+        "body": "<p>Dividing the three kinds of ingot between those three \"overworld-type\" zombies seems like a great idea. In-universe, the husks of the desert may seem reminiscent of bygone civilizations (mummies), which brings the bronze age to mind (Egypt, Mesopotamia, Halstatt). And husks may possibly be very old indeed. Very fitting to have them drop copper. The drowned makes one think of merchants and sailors, trading in gold and other valuable commodities. Also it fits a supposed connection to the gold-rich underwater monuments. As for the regular zombie, the occasional iron ingot completes the picture. <br>Answering the concern about zombified piglins, those are of another world, and the golden opportunities for those daring to venture into their world still seem to fit the bill of \"the drowned sailor\" and/or the remnant of the (supposedly advanced) underwater civilization.</p>",
+        "author_id": 396571790511,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076902471-Drowned-should-still-drop-gold-Husks-should-drop-copper/comments/4407763051917",
+        "created_at": "2021-08-24T07:54:27Z",
+        "updated_at": "2022-01-24T02:09:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076902471/comments/4407763051917.json",
+        "post_id": 360076902471,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4422689604621,
+        "body": "<p>i feel similar and there has been no other way atleast from what i can tell to farm gold in the overworld even if its in small quantities.</p>",
+        "author_id": 398950449191,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076902471-Drowned-should-still-drop-gold-Husks-should-drop-copper/comments/4422689604621",
+        "created_at": "2022-01-24T02:11:41Z",
+        "updated_at": "2022-01-25T20:11:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076902471/comments/4422689604621.json",
+        "post_id": 360076902471,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076847591,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014183631,
+        "body": "<p>I want the ruby!</p>\n<p>&nbsp;</p>",
+        "author_id": 406761633151,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076847591-Revive-The-Ruby/comments/360014183631",
+        "created_at": "2021-02-01T23:29:31Z",
+        "updated_at": "2021-02-02T01:34:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076847591/comments/360014183631.json",
+        "post_id": 360076847591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014184631,
+        "body": "<p>But maybe no ghast fireballs. That seems op and doesn't make much sense.</p>",
+        "author_id": 406758345491,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076847591-Revive-The-Ruby/comments/360014184631",
+        "created_at": "2021-02-02T01:34:31Z",
+        "updated_at": "2021-02-03T20:19:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076847591/comments/360014184631.json",
+        "post_id": 360076847591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014189091,
+        "body": "<p>I Know I Wrote That the New Wand should fire fireballs ,But I Really Don't Have That good ideas as others Just Comment What Else Ideas For Ruby use, to Collect As Much as possible</p>",
+        "author_id": 395572256132,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076847591-Revive-The-Ruby/comments/360014189091",
+        "created_at": "2021-02-02T15:10:28Z",
+        "updated_at": "2021-02-02T17:28:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076847591/comments/360014189091.json",
+        "post_id": 360076847591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076862172,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014192132,
+        "body": "<p>Really not a bad idea--maybe not just on the main island but on the smaller ones too.&nbsp;</p>",
+        "author_id": 410050402812,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076862172-Add-caves-to-the-end/comments/360014192132",
+        "created_at": "2021-01-26T22:32:55Z",
+        "updated_at": "2021-04-16T19:35:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076862172/comments/360014192132.json",
+        "post_id": 360076862172,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014192652,
+        "body": "<p>Edit: Added it so it would spawn in the outer islands as well.</p>",
+        "author_id": 410153507871,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076862172-Add-caves-to-the-end/comments/360014192652",
+        "created_at": "2021-01-26T23:27:07Z",
+        "updated_at": "2021-04-16T19:35:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076862172/comments/360014192652.json",
+        "post_id": 360076862172,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076427651,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014042671,
+        "body": "<p>Sorry but I love systemzee and I watched the same video so could you please give him some credit</p>",
+        "author_id": 408937330551,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076427651-The-Skulk-Bat/comments/360014042671",
+        "created_at": "2021-01-19T01:43:05Z",
+        "updated_at": "2021-01-19T05:48:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076427651/comments/360014042671.json",
+        "post_id": 360076427651,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014042691,
+        "body": "<p>Thank you</p>",
+        "author_id": 408937330551,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076427651-The-Skulk-Bat/comments/360014042691",
+        "created_at": "2021-01-19T01:43:16Z",
+        "updated_at": "2021-01-19T01:43:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076427651/comments/360014042691.json",
+        "post_id": 360076427651,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076558592,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4425796071437,
+        "body": "<p>Not a bad idea! I was thinking that there should be skeletal remains found in sculk pits and teeth-like structures found in the entrances of caves to make it even more terrifying.</p>",
+        "author_id": 411955481092,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076558592-Bone-blocks-could-occasionally-be-found-in-the-Deep-Dark/comments/4425796071437",
+        "created_at": "2022-02-11T21:06:14Z",
+        "updated_at": "2022-02-26T08:32:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076558592/comments/4425796071437.json",
+        "post_id": 360076558592,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076417491,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014035131,
+        "body": "<p>i really like this, and i have been saying this for the longest time they need more mob varients in different biomes and i'm still waiting on zebras in the savanah</p>",
+        "author_id": 379836829752,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076417491--Mountain-yak/comments/360014035131",
+        "created_at": "2021-01-18T08:44:18Z",
+        "updated_at": "2021-01-18T16:35:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076417491/comments/360014035131.json",
+        "post_id": 360076417491,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014322231,
+        "body": "<p>What if you could ride them?</p>",
+        "author_id": 385990882272,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076417491--Mountain-yak/comments/360014322231",
+        "created_at": "2021-02-15T21:37:52Z",
+        "updated_at": "2021-02-16T16:14:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076417491/comments/360014322231.json",
+        "post_id": 360076417491,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076164731,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014032312,
+        "body": "<p>Hi, thanks for your post there seems to be a similar post related to \"ancients in the caves\" please see the link below.&nbsp;<a href=\"/hc/en-us/community/posts/360073468331-The-Ancients\" rel=\"nofollow noreferrer\">The Ancients – Minecraft Feedback</a></p>\n<p>keep those ideas coming!</p>",
+        "author_id": 393262633972,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076164731-Ancient-aldeans-in-caves/comments/360014032312",
+        "created_at": "2021-01-09T03:41:35Z",
+        "updated_at": "2021-01-09T03:41:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076164731/comments/360014032312.json",
+        "post_id": 360076164731,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076161712,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013990492,
+        "body": "<p>good idea, after all, a warden in real life is the boss or whatever of prisons and jails!</p>",
+        "author_id": 408853395252,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076161712-Underground-Prison/comments/360013990492",
+        "created_at": "2021-01-05T01:52:23Z",
+        "updated_at": "2021-01-05T14:28:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076161712/comments/360013990492.json",
+        "post_id": 360076161712,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076114732,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013972672,
+        "body": "<p>It will add even more spice to the deep dark</p>",
+        "author_id": 400717298431,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076114732-Crawling-sculk/comments/360013972672",
+        "created_at": "2021-01-02T14:42:03Z",
+        "updated_at": "2021-04-07T19:11:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076114732/comments/360013972672.json",
+        "post_id": 360076114732,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013972732,
+        "body": "<p>Feel free to give me your opinions\n</p>",
+        "author_id": 400717298431,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076114732-Crawling-sculk/comments/360013972732",
+        "created_at": "2021-01-02T14:46:50Z",
+        "updated_at": "2021-01-03T22:14:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076114732/comments/360013972732.json",
+        "post_id": 360076114732,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014632172,
+        "body": "<p>im the same user just another account&nbsp;</p>\n<p>&nbsp;</p>",
+        "author_id": 412427641112,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076114732-Crawling-sculk/comments/360014632172",
+        "created_at": "2021-03-10T18:13:14Z",
+        "updated_at": "2021-03-10T18:13:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076114732/comments/360014632172.json",
+        "post_id": 360076114732,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014836612,
+        "body": "<p>Sounds cool. But I think they should also be scared of light because they would be very easy to spot in it and it wouldn’t be much challenge if they just slowly walked right into a well lit area. Or maybe they could slowly destroy torches from behind you and ambush you by surrounding you.</p>",
+        "author_id": 387570789951,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076114732-Crawling-sculk/comments/360014836612",
+        "created_at": "2021-04-07T19:15:06Z",
+        "updated_at": "2021-10-16T21:54:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076114732/comments/360014836612.json",
+        "post_id": 360076114732,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 17458454294925,
+        "body": "<p>Creepy</p>\n<p>r</p>\n<p>e</p>\n<p>e</p>\n<p>p</p>\n<p>y</p>",
+        "author_id": 17447181988621,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076114732-Crawling-sculk/comments/17458454294925",
+        "created_at": "2023-07-09T22:09:48Z",
+        "updated_at": "2023-07-09T22:09:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076114732/comments/17458454294925.json",
+        "post_id": 360076114732,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076101332,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013925491,
+        "body": "<p>maybe also happens more oftens when you are in deep dark</p>",
+        "author_id": 408882428452,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076101332-Ambient-sounds-should-play-reversely-in-the-deep-dark-biome/comments/360013925491",
+        "created_at": "2021-01-05T15:13:46Z",
+        "updated_at": "2021-01-05T15:13:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076101332/comments/360013925491.json",
+        "post_id": 360076101332,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076079532,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013892511,
+        "body": "<p>Topaz actually has sleeping properties which could be useful to make phantom repellent.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076079532-Topaz-Alchemy/comments/360013892511",
+        "created_at": "2020-12-31T04:42:02Z",
+        "updated_at": "2020-12-31T04:42:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076079532/comments/360013892511.json",
+        "post_id": 360076079532,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075863731,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4404321808653,
+        "body": "<p>I had an idea similar to this, where any copper blocks touching a copper block hit by lightning become charged for a second or two and any mobs touching them act as if struck by lightning.</p>",
+        "author_id": 418365660851,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075863731-Copper-can-Conduct-Lightning/comments/4404321808653",
+        "created_at": "2021-07-04T06:51:40Z",
+        "updated_at": "2021-07-04T11:49:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075863731/comments/4404321808653.json",
+        "post_id": 360075863731,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 6564307890573,
+        "body": "<p>I feel like it should rather be, that mobs/entities on connected copper blocks should take damage, same as with any copper connected to a lightning rod which is struck by lightning. Could be nerfed by adjusting the radius in which entities are damaged (e.g.: gamerule lightningDamageRadius; [0|255]).</p>",
+        "author_id": 6564264930957,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075863731-Copper-can-Conduct-Lightning/comments/6564307890573",
+        "created_at": "2022-05-30T17:35:04Z",
+        "updated_at": "2022-05-30T17:35:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075863731/comments/6564307890573.json",
+        "post_id": 360075863731,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38601708942861,
+        "body": "<p>I think this is a great idea but its should make copper blocks in a small radius 1-3 blocks from a lighting pole conduct the lightning strike dealing damage to nearby entities and lighting nearby blocks on fire.</p>",
+        "author_id": 35882538907789,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075863731-Copper-can-Conduct-Lightning/comments/38601708942861",
+        "created_at": "2025-08-06T01:29:53Z",
+        "updated_at": "2025-08-07T19:20:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075863731/comments/38601708942861.json",
+        "post_id": 360075863731,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075856191,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013977652,
+        "body": "<p>\"HaVe you HeArd of oResPawn\"</p>",
+        "author_id": 406805559751,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075856191-The-Serpent-King-Boss-Mob-for-Lush-Caves/comments/360013977652",
+        "created_at": "2021-01-03T15:44:57Z",
+        "updated_at": "2021-01-03T15:44:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075856191/comments/360013977652.json",
+        "post_id": 360075856191,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075952332,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013855311,
+        "body": "<p>Hope you all like my idea</p>",
+        "author_id": 408509863131,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075952332-Limestone-dust-farming/comments/360013855311",
+        "created_at": "2020-12-25T17:06:12Z",
+        "updated_at": "2020-12-26T03:43:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075952332/comments/360013855311.json",
+        "post_id": 360075952332,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075839371,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013857651,
+        "body": "<p>So... cave spiders on steroids?</p>",
+        "author_id": 396491242811,
+        "vote_sum": 4,
+        "vote_count": 4,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075839371-New-1-17-Spider/comments/360013857651",
+        "created_at": "2020-12-26T06:58:12Z",
+        "updated_at": "2021-02-13T23:03:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075839371/comments/360013857651.json",
+        "post_id": 360075839371,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075736011,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014793012,
+        "body": "<p>Love the idea!! New disc would fit perfectly in 1.17</p>",
+        "author_id": 412446839091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075736011-A-new-music-disc-for-caves-and-cliffs-update/comments/360014793012",
+        "created_at": "2021-03-31T20:52:06Z",
+        "updated_at": "2021-03-31T20:56:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075736011/comments/360014793012.json",
+        "post_id": 360075736011,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075725551,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013891692,
+        "body": "<p>But why cause so many villagers to die? I think it should summon all tamed animals in a one-hundred block radius instead, yes.</p>",
+        "author_id": 406795646711,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075725551-Use-for-goat-horn/comments/360013891692",
+        "created_at": "2020-12-21T02:01:29Z",
+        "updated_at": "2020-12-24T21:53:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075725551/comments/360013891692.json",
+        "post_id": 360075725551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013922452,
+        "body": "<p>What about you blow it near illager or in an illager biome (woodland mansion, illager outpost etc) and the illager won’t attack you for a limited amount of time (the effect could be called under cover)</p>",
+        "author_id": 407167604931,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075725551-Use-for-goat-horn/comments/360013922452",
+        "created_at": "2020-12-24T16:18:18Z",
+        "updated_at": "2020-12-25T18:06:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075725551/comments/360013922452.json",
+        "post_id": 360075725551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013851231,
+        "body": "<p>How about if you blow the goat horn it causes nearby illagers to ignore you</p>",
+        "author_id": 407167604931,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075725551-Use-for-goat-horn/comments/360013851231",
+        "created_at": "2020-12-24T16:19:05Z",
+        "updated_at": "2020-12-24T18:54:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075725551/comments/360013851231.json",
+        "post_id": 360075725551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075629411,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4407846447373,
+        "body": "<p>I think it would be lovely! you could record said planets their biomes, and they could be stepping stones to new dimensions.. ahh talking moonshine again.. i love this idea seeing ringed planets, huge planets with moons, some eyes moving across the night sky, comets, in love with the idea.</p>",
+        "author_id": 419432777832,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075629411-View-planets-with-the-Spyglass/comments/4407846447373",
+        "created_at": "2021-08-25T12:45:16Z",
+        "updated_at": "2021-08-25T22:39:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075629411/comments/4407846447373.json",
+        "post_id": 360075629411,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075527252,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013764871,
+        "body": "<p>Before making a post you should always give full details, Like what will the skulk antenna do? Also they said the wardens not supposed to be a mob you’re meant to hunt down, and kill. It’s meant to be an obstacle, not a goal.</p>",
+        "author_id": 365541837632,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075527252-Warden-loot/comments/360013764871",
+        "created_at": "2020-12-14T16:32:29Z",
+        "updated_at": "2020-12-14T16:32:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075527252/comments/360013764871.json",
+        "post_id": 360075527252,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013813271,
+        "body": "<p>my loot table. nothing but there is a structure in the deep dark heres my loot table for it . it will have a 30% chance to have a muting 1 book in the chest&nbsp; a 15% to have a muting 2 book and a 5% chance to have a muting 3 book and a 70% chance that it will have none also it will have a 99.9% chance the chest has 1 notch apple and a 0.1% chance to have five</p>",
+        "author_id": 407611917691,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075527252-Warden-loot/comments/360013813271",
+        "created_at": "2020-12-19T00:34:18Z",
+        "updated_at": "2020-12-23T17:46:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075527252/comments/360013813271.json",
+        "post_id": 360075527252,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 6837331074573,
+        "body": "<p>The disc 5 is a better option</p>",
+        "author_id": 6837314287501,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075527252-Warden-loot/comments/6837331074573",
+        "created_at": "2022-06-11T11:17:53Z",
+        "updated_at": "2022-06-11T11:17:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075527252/comments/6837331074573.json",
+        "post_id": 360075527252,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7727576154509,
+        "body": "<p>For as hard as it is to kill the Warden it should drop better loot. is what I think. Maybe some nice, rare book more then 5 xp for sure</p>",
+        "author_id": 7727454604301,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075527252-Warden-loot/comments/7727576154509",
+        "created_at": "2022-07-16T15:19:26Z",
+        "updated_at": "2022-07-17T04:46:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075527252/comments/7727576154509.json",
+        "post_id": 360075527252,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075274132,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013709471,
+        "body": "<p>Idk. Sounds like a bit too much work for the devs. Nice ideas tho.</p>",
+        "author_id": 387917296712,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075274132-Weaponized-fireworks-using-cave-update-features/comments/360013709471",
+        "created_at": "2020-12-08T15:53:22Z",
+        "updated_at": "2021-04-27T19:05:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075274132/comments/360013709471.json",
+        "post_id": 360075274132,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013786252,
+        "body": "<p>This is great! Like the way you craft firework stars to look cool, but instead you can also craft them for combat! It should have unique shapes too, in case you want them to look cool. And maybe the previously existing stars could have combat effects too?</p>",
+        "author_id": 394935776992,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075274132-Weaponized-fireworks-using-cave-update-features/comments/360013786252",
+        "created_at": "2020-12-09T02:29:08Z",
+        "updated_at": "2021-04-27T19:05:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075274132/comments/360013786252.json",
+        "post_id": 360075274132,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013788071,
+        "body": "<p>Not gonna lie, This is actually a good idea...</p>",
+        "author_id": 408000084272,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075274132-Weaponized-fireworks-using-cave-update-features/comments/360013788071",
+        "created_at": "2020-12-16T18:39:37Z",
+        "updated_at": "2021-04-27T19:05:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075274132/comments/360013788071.json",
+        "post_id": 360075274132,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013877512,
+        "body": "<p>I like this idea because shooting fireworks from a crossbow is currently useless. I'm thinking the firework would explode upon impact with a mob when fired from a crossbow.</p>",
+        "author_id": 407331815892,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075274132-Weaponized-fireworks-using-cave-update-features/comments/360013877512",
+        "created_at": "2020-12-18T14:55:25Z",
+        "updated_at": "2021-04-27T19:05:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075274132/comments/360013877512.json",
+        "post_id": 360075274132,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075273152,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013773912,
+        "body": "<p>I was thinking that squid ink would give the player blindness (making them more of a challenge to kill) while glow squids could either give night vision or blindness except the screen is white instead of black</p>",
+        "author_id": 406280981491,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075273152-Glow-Squid-Paralysis-Defense/comments/360013773912",
+        "created_at": "2020-12-08T02:25:54Z",
+        "updated_at": "2020-12-22T00:41:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075273152/comments/360013773912.json",
+        "post_id": 360075273152,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

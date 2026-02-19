@@ -1,0 +1,802 @@
+[
+  {
+    "post_id": 33625906492941,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 33790202798733,
+        "body": "<p>I HAVE HAD THIS SENTIMENT FOR YEARS, THANK YOU!</p>",
+        "author_id": 28031335818893,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33625906492941-Spin-off-Mobs/comments/33790202798733",
+        "created_at": "2025-01-26T07:20:24Z",
+        "updated_at": "2025-01-26T07:20:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33625906492941/comments/33790202798733.json",
+        "post_id": 33625906492941,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 29225671452685,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 29246149490189,
+        "body": "<p>That is so nice that you can play Minecraft Dungeons with your dad! (My dad's too busy to play, even though he introduced me to Minecraft in the first place.) I think that this is a great mechanic to add, maybe you can use your melee weapon to block an arrow/projectile quickly, with a three second cooldown, and it should disable all other movement and attack functions while blocking. Also the minimap is a great idea, wished for that myself before as well. Very creative ideas, and although they did say that they won't update Dungeons anymore, it may still come with the next Seasonal Adventure. Yay for Fauna Fair! Good luck on this idea, and again I think that it is very creative!</p>",
+        "author_id": 29150686106253,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/29225671452685-Projectile-Blocking-and-a-Mini-Map-option-for-Minecraft-Dungeons/comments/29246149490189",
+        "created_at": "2024-08-13T23:58:56Z",
+        "updated_at": "2024-08-14T00:06:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/29225671452685/comments/29246149490189.json",
+        "post_id": 29225671452685,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 27804967332877,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 30449860590221,
+        "body": "<p>Even if they do that, it'll still require an Internet connection to play.</p>",
+        "author_id": 403697570831,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/27804967332877-Steam-deck-compatibility-minecraft-dungeons/comments/30449860590221",
+        "created_at": "2024-09-21T12:19:58Z",
+        "updated_at": "2024-09-21T12:19:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/27804967332877/comments/30449860590221.json",
+        "post_id": 27804967332877,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25692809855373,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 26265136667661,
+        "body": "<p>Without the quiver, you can hold 5 arrows max, so you are still able to complete the tutorial.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25692809855373-Quiver-Minecraft-Dungeons/comments/26265136667661",
+        "created_at": "2024-04-27T22:27:22Z",
+        "updated_at": "2024-04-27T22:29:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25692809855373/comments/26265136667661.json",
+        "post_id": 25692809855373,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 26265184828045,
+        "body": "<p>This feedback changes how quivers work in Minecraft Dungeons. This would mean you have to get a quiver item near the beginning of the game if you want to hold more than 5 arrows, a change request to quivers currently.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25692809855373-Quiver-Minecraft-Dungeons/comments/26265184828045",
+        "created_at": "2024-04-27T22:30:32Z",
+        "updated_at": "2024-04-27T22:43:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25692809855373/comments/26265184828045.json",
+        "post_id": 25692809855373,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 26265187240845,
+        "body": "<p>Quiver items could have tiers. (Part 1)<br><br></p>\n<ul>\n<li>Basic Quiver:<br>\n<ul>\n<li>Obtained in Squid Coast’s starting lighthouse.</li>\n<li>Bows are given 40% of their starting ammo at the beginning of a mission.</li>\n<li>Up to 2 arrows could be saved for future missions and stored in the quiver.</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li>Iron Quiver:<br>\n<ul>\n<li>Obtained in Pumpkin Pastures as a chance to drop by evokers.</li>\n<li>Bows are given 50% of their starting ammo at the beginning of a mission.</li>\n<li>Up to 5 arrows could be saved for future missions and stored in the quiver.</li>\n</ul>\n</li>\n<li>Golden Quiver:<br>\n<ul>\n<li>Obtained in the Desert Temple Mission as a chance to drop by necromancers.</li>\n<li>Bows are given 75% of their starting ammo at the beginning of a mission.</li>\n<li>Up to 10 arrows could be saved for future missions and stored in the quiver.</li>\n</ul>\n</li>\n<li>Emerald Quiver:<br>\n<ul>\n<li>Obtained in the Gauntlet of Gales Mission as a chance to drop by illusioners.</li>\n<li>Bows are given 80% of their starting ammo at the beginning of a mission.</li>\n<li>Up to 20 arrows could be saved for future missions and stored in the quiver.</li>\n<li>It has a small chance to revive the hero from death.</li>\n</ul>\n</li>\n<li>Jungle Quiver:<br>\n<ul>\n<li>Obtained in the Treetop Tangle Mission as a chance to drop by the Treetop Wisperer.</li>\n<li>Bows are given 90% of their starting ammo at the beginning of a mission.</li>\n<li>Up to 40 arrows could be saved for future missions and stored in the quiver.</li>\n<li>It has a chance to poison mobs affected by shot arrows.</li>\n</ul>\n</li>\n</ul>\n<p>More variants will come later in part 2 of my comment.</p>\n<p>&nbsp;</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25692809855373-Quiver-Minecraft-Dungeons/comments/26265187240845",
+        "created_at": "2024-04-27T22:31:46Z",
+        "updated_at": "2024-04-29T00:18:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25692809855373/comments/26265187240845.json",
+        "post_id": 25692809855373,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 26265438811917,
+        "body": "<p>The unused Diamond dust could be used to upgrade the quiver.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25692809855373-Quiver-Minecraft-Dungeons/comments/26265438811917",
+        "created_at": "2024-04-27T22:56:50Z",
+        "updated_at": "2024-04-27T22:56:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25692809855373/comments/26265438811917.json",
+        "post_id": 25692809855373,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25560035682317,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 26611370812685,
+        "body": "<p>There is also a competitive mode, where players can battle each other and everyone have to compete to the top. The winner of the minigame in the competitive mode would get 1250-1750 emeralds and earn 10-25 Gold.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25560035682317-Minecraft-Dungeons-Rising-Lava-Minigame/comments/26611370812685",
+        "created_at": "2024-05-10T01:38:09Z",
+        "updated_at": "2024-05-10T17:06:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25560035682317/comments/26611370812685.json",
+        "post_id": 25560035682317,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 24723969454989,
+    "expected_comment_count": 6,
+    "actual_comment_count": 6,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 24724163137037,
+        "body": "<p>There is a specific order to buying DLC from the DLC merchant:</p>\n<ol>\n<li>Jungle Awakens and Creeping Winter</li>\n<li>Howling Peaks and Hidden Depths</li>\n<li>Flames of the Nether</li>\n<li>Echoing Void</li>\n</ol>\n<p>Example: If you have Echoing Void, then you can’t buy Hidden Depths from the DLC merchant unless you own Jungle Awakens and Creeping Winter.</p>\n<p>Example 2: If you have Howling Peaks, then you can’t buy Flames of the Nether from the DLC merchant unless you own Jungle Awakens, Creeping Winter and Hidden Depths.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24723969454989-Minecraft-Dungeons-DLC-Merchant/comments/24724163137037",
+        "created_at": "2024-03-05T20:33:47Z",
+        "updated_at": "2024-03-05T20:40:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24723969454989/comments/24724163137037.json",
+        "post_id": 24723969454989,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 24724737874701,
+        "body": "<p>For those who don’t have the Hero Edition, the Hero Pass, the Ultimate DLC Bundle or the Ultimate Edition of Minecraft Dungeons, these items are for sale by the DLC merchant:</p>\n<ul>\n<li>Hero Cape</li>\n<li>2 heroes, Pake and Wargen</li>\n<li>Baby Chicken</li>\n</ul>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24723969454989-Minecraft-Dungeons-DLC-Merchant/comments/24724737874701",
+        "created_at": "2024-03-05T20:47:21Z",
+        "updated_at": "2024-03-05T22:54:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24723969454989/comments/24724737874701.json",
+        "post_id": 24723969454989,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 24724757357453,
+        "body": "<p>You can also buy heroes from the DLC Merchant.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24723969454989-Minecraft-Dungeons-DLC-Merchant/comments/24724757357453",
+        "created_at": "2024-03-05T20:48:09Z",
+        "updated_at": "2024-03-05T20:59:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24723969454989/comments/24724757357453.json",
+        "post_id": 24723969454989,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 24729207530381,
+        "body": "<p>Adventure passes are bought from Cloudy Climb to Fauna Faire with the DLC Merchant.\n<br />Example: If you have the Luminous Night Adventure pass, you can’t get the Fauna Faire Adventure Pass from the DLC merchant until you get the Cloudy Climb Adventure Pass.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24723969454989-Minecraft-Dungeons-DLC-Merchant/comments/24729207530381",
+        "created_at": "2024-03-05T22:57:18Z",
+        "updated_at": "2024-03-06T16:55:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24723969454989/comments/24729207530381.json",
+        "post_id": 24723969454989,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 24729463634829,
+        "body": "<p>The DLC Merchant can sell you the Corrupted Pumpkin for 2 million Emeralds, but it cannot sell you unobtainable items such as the Monkey Motivator.</p>\n<ul>\n<li>It can however, sell you stone and gold swords.</li>\n<li>It can also make unobtainable enchantments available and applicable normally to the respective gear, an example would be knockback on melee weapons, regeneration or armor. The list is not exhaustive. However, it cannot give you the Unset enchantment, a fail-safe enchantment with no functionality.</li>\n</ul>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24723969454989-Minecraft-Dungeons-DLC-Merchant/comments/24729463634829",
+        "created_at": "2024-03-05T23:04:38Z",
+        "updated_at": "2024-03-06T16:56:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24723969454989/comments/24729463634829.json",
+        "post_id": 24723969454989,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 26265498118285,
+        "body": "<p>To buy capes and pets from the DLC Merchant, 10,000 gold ingots are also required. To buy adventure passes and DLC from the DLC Merchant, 100,000 gold ingots are also required. </p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24723969454989-Minecraft-Dungeons-DLC-Merchant/comments/26265498118285",
+        "created_at": "2024-04-27T23:01:23Z",
+        "updated_at": "2024-04-27T23:01:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24723969454989/comments/26265498118285.json",
+        "post_id": 24723969454989,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 23232077291917,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 23267379057421,
+        "body": "<p>The first secret level is Well Pipes. It is full of tropical slimes and slimes. It is a maze of pipes. There is an exit that unlocks the Radiant Ravine Level from the Hidden Depths DLC (if owned).</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/23232077291917-The-Sailing-Seas-DLC/comments/23267379057421",
+        "created_at": "2024-01-16T20:57:19Z",
+        "updated_at": "2024-01-16T20:57:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/23232077291917/comments/23267379057421.json",
+        "post_id": 23232077291917,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 23268475350797,
+        "body": "<p>The Second Level is Pillage Ship Fleet. The level looks like it’s constantly moving. There are many ships with illagers and trapped villagers. There is some broken and sinking ships.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/23232077291917-The-Sailing-Seas-DLC/comments/23268475350797",
+        "created_at": "2024-01-16T21:25:54Z",
+        "updated_at": "2024-01-16T22:32:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/23232077291917/comments/23268475350797.json",
+        "post_id": 23232077291917,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 22811199526541,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 28030136358669,
+        "body": "<p>I agree </p>",
+        "author_id": 28030166773517,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/22811199526541-Seasonal-Events/comments/28030136358669",
+        "created_at": "2024-07-01T09:47:31Z",
+        "updated_at": "2024-07-02T23:44:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/22811199526541/comments/28030136358669.json",
+        "post_id": 22811199526541,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 21343989577741,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 21345126549261,
+        "body": "<p>Minecraft dungeons is cancelled :(</p>",
+        "author_id": 14796125569805,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/21343989577741-Enslaver-creature/comments/21345126549261",
+        "created_at": "2023-11-15T01:55:07Z",
+        "updated_at": "2023-11-15T01:55:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/21343989577741/comments/21345126549261.json",
+        "post_id": 21343989577741,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 21345110917389,
+        "body": "<p>Minecraft dungeons is cancelled :(</p>",
+        "author_id": 14796125569805,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/21343989577741-Enslaver-creature/comments/21345110917389",
+        "created_at": "2023-11-15T01:55:19Z",
+        "updated_at": "2023-11-15T01:55:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/21343989577741/comments/21345110917389.json",
+        "post_id": 21343989577741,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 21345168011789,
+        "body": "<p>Oh really so like no new dlc for minecraft dungeons?</p>",
+        "author_id": 21343912980621,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/21343989577741-Enslaver-creature/comments/21345168011789",
+        "created_at": "2023-11-15T01:55:58Z",
+        "updated_at": "2023-11-15T06:41:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/21343989577741/comments/21345168011789.json",
+        "post_id": 21343989577741,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 20584496294925,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 20678722494605,
+        "body": "<p>Stop spamming \"That's a great idea.\"</p>",
+        "author_id": 12353175589645,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/20584496294925-Pets-in-Minecraft-Legends-lobby/comments/20678722494605",
+        "created_at": "2023-10-24T17:28:52Z",
+        "updated_at": "2023-10-24T17:28:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/20584496294925/comments/20678722494605.json",
+        "post_id": 20584496294925,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 16954839549965,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 24639390978829,
+        "body": "<p>The sculk shriekers could summon wardens as minibosses, but the corrupt warden is a boss.</p>\n<p>Warden Miniboss base damage:</p>\n<ul>\n<li>Normal: 12&nbsp;</li>\n<li>Adventure: 86</li>\n<li>Apocalypse: 224</li>\n</ul>\n<p>Warden Miniboss sonic boom base damage:</p>\n<ul>\n<li>Normal: 30% of player health + 5</li>\n<li>Adventure: 50% of player health + 42</li>\n<li>Apocalypse: 75% of player heath + 100</li>\n</ul>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/16954839549965-New-DLC-Idea-Deep-Dark/comments/24639390978829",
+        "created_at": "2024-03-02T22:55:26Z",
+        "updated_at": "2024-03-04T18:46:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/16954839549965/comments/24639390978829.json",
+        "post_id": 16954839549965,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 16594062342157,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 16675675159949,
+        "body": "<p>Dude its not a dlc</p>",
+        "author_id": 16675659717133,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/16594062342157-Minecraft-Dungeons-Mooshroom-DLC/comments/16675675159949",
+        "created_at": "2023-06-12T15:17:17Z",
+        "updated_at": "2023-06-12T15:17:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/16594062342157/comments/16675675159949.json",
+        "post_id": 16594062342157,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 13161332859277,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 13161334606861,
+        "body": "<p>LMK thoughts please!</p>",
+        "author_id": 12460776874509,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13161332859277-Better-Quests-in-Minecraft-Dungeons/comments/13161334606861",
+        "created_at": "2023-02-16T10:05:17Z",
+        "updated_at": "2023-02-16T10:05:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13161332859277/comments/13161334606861.json",
+        "post_id": 13161332859277,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 11653745703821,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 23377421531917,
+        "body": "<p>Please translate your idea to English so Mojang understands your post.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11653745703821-Minecraft-Dungeons-Progreso-100/comments/23377421531917",
+        "created_at": "2024-01-20T11:03:39Z",
+        "updated_at": "2024-01-22T18:12:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11653745703821/comments/23377421531917.json",
+        "post_id": 11653745703821,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 11356113023757,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 24539713807373,
+        "body": "<p>If the player dies even once, their hero is deleted, maybe.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11356113023757-Hardcore-Mode/comments/24539713807373",
+        "created_at": "2024-02-28T19:07:56Z",
+        "updated_at": "2024-03-01T17:00:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11356113023757/comments/24539713807373.json",
+        "post_id": 11356113023757,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10082337356429,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 10785713614349,
+        "body": "<p>its good but nah maybee in the tower tho but i&nbsp; voted and followed</p>",
+        "author_id": 10785504928013,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10082337356429-Add-the-Retired-Adventurer-aka-Quest-Giver-into-Dungeons/comments/10785713614349",
+        "created_at": "2022-11-21T13:41:20Z",
+        "updated_at": "2022-12-01T05:27:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10082337356429/comments/10785713614349.json",
+        "post_id": 10082337356429,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7770501038349,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8189881237901,
+        "body": "<p>this would be a great opportunity for collaboration events. if bedrock marketplace creators can make maps based off of ip they don't own, then surely mojang themselves can do something like that (of course they would need to do a collaboration because they are a larger company)</p>",
+        "author_id": 404817932711,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7770501038349-Event-Island-in-Minecraft-Dungeons/comments/8189881237901",
+        "created_at": "2022-08-04T20:16:40Z",
+        "updated_at": "2022-08-11T18:51:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7770501038349/comments/8189881237901.json",
+        "post_id": 7770501038349,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7392482433805,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7667331624589,
+        "body": "<p>Good idea! I made a vote for the key golem pet to exist! Do YOU want the Key Golem Pet to be inMinecraft Dungeons?</p>",
+        "author_id": 7665134532621,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7392482433805-Sorcerers-and-Mayhem-DLC/comments/7667331624589",
+        "created_at": "2022-07-14T01:13:37Z",
+        "updated_at": "2022-07-14T01:13:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7392482433805/comments/7667331624589.json",
+        "post_id": 7392482433805,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 8508117761933,
+        "body": "<p>Maybe they could add a skeleton sorcerer</p>",
+        "author_id": 415677959512,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7392482433805-Sorcerers-and-Mayhem-DLC/comments/8508117761933",
+        "created_at": "2022-08-18T11:36:00Z",
+        "updated_at": "2022-08-18T11:36:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7392482433805/comments/8508117761933.json",
+        "post_id": 7392482433805,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5942907540365,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 6150374255757,
+        "body": "<p>Also give it an hp pool (min 1hp so it isn't destroyed) so effects of certain enchants can assessed (committed for example). Have it replenish hp if not attacked for, say, 3 seconds. It should probably respond to Unchanted and any other specialist enchants. Or perhaps having more than one dummy, one for regular mobs, one for enchanted and another for Illagers?&nbsp;</p>",
+        "author_id": 406215449411,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5942907540365-I-have-an-Idea-for-Minecraft-Dungeons-target-dummy/comments/6150374255757",
+        "created_at": "2022-05-11T10:06:50Z",
+        "updated_at": "2022-05-13T18:39:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5942907540365/comments/6150374255757.json",
+        "post_id": 5942907540365,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5838874055821,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 6321183056141,
+        "body": "<p>when i discovered this change to the tome of duplication, i immediately tested it out and the faster cooldwon is totally fine, it allowed me to play more aggresively with potions but the soul requirment is simply tedious, forcing me to use a soul build and prioritazing 3 weapons out of the entire mcd armament.<br>the soul requirment could be removed to leave the \"meme\" aspect of the artifact, giving the playerbase safe or aggressive and funny options. the cooldown reduction is totally ok, the soul requirement on its own just makes the experience with the artifact more complicated than it needs to be</p>\n<p>&nbsp;</p>",
+        "author_id": 6320886321805,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5838874055821-Tome-of-Duplication-remove-souls-requirement/comments/6321183056141",
+        "created_at": "2022-05-18T17:05:31Z",
+        "updated_at": "2022-05-18T17:07:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5838874055821/comments/6321183056141.json",
+        "post_id": 5838874055821,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5391811246477,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5391840843917,
+        "body": "<p>I'm not entirely sure if this should be under Minecraft Dungeons. I can move it to a different tab. This one just made the most sense.</p>",
+        "author_id": 5206161244685,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5391811246477-Spelunker-Helmet/comments/5391840843917",
+        "created_at": "2022-04-08T03:50:26Z",
+        "updated_at": "2022-04-08T03:50:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5391811246477/comments/5391840843917.json",
+        "post_id": 5391811246477,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4518676634253,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7558043013645,
+        "body": "<p>This would be incredibly game changing and might actually motivate me to get the DLC</p>",
+        "author_id": 7557962775949,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4518676634253-Keyboard-movement-option-in-Minecraft-Dungeons/comments/7558043013645",
+        "created_at": "2022-07-09T14:26:15Z",
+        "updated_at": "2022-07-09T14:26:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4518676634253/comments/7558043013645.json",
+        "post_id": 4518676634253,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41530278409997,
+        "body": "<p>i agree with this user due to the combat mixed with mouse at the same time is hard ( side note: i got a bundle for cheaper and i don't want the money spent to go to waste</p>",
+        "author_id": 41530280975501,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4518676634253-Keyboard-movement-option-in-Minecraft-Dungeons/comments/41530278409997",
+        "created_at": "2025-11-30T09:13:18Z",
+        "updated_at": "2025-11-30T09:14:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4518676634253/comments/41530278409997.json",
+        "post_id": 4518676634253,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4425406966797,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4425627531405,
+        "body": "<p>I like it</p>",
+        "author_id": 404323012531,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4425406966797-Baby-Dog-Follower/comments/4425627531405",
+        "created_at": "2022-02-11T15:20:25Z",
+        "updated_at": "2022-05-05T16:02:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4425406966797/comments/4425627531405.json",
+        "post_id": 4425406966797,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4584371954317,
+        "body": "<p>Thank you! I am the creator!</p>",
+        "author_id": 421465372612,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4425406966797-Baby-Dog-Follower/comments/4584371954317",
+        "created_at": "2022-03-03T20:40:22Z",
+        "updated_at": "2022-05-05T16:03:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4425406966797/comments/4584371954317.json",
+        "post_id": 4425406966797,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4417207186061,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4417203812365,
+        "body": "<p>the book of enchant gives a RANDOM enchantment</p>",
+        "author_id": 394775366412,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4417207186061-Witch-in-acampment-and-a-USE-for-the-old-secret-rune-rooms-useless-now/comments/4417203812365",
+        "created_at": "2021-12-20T18:10:44Z",
+        "updated_at": "2021-12-20T18:10:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4417207186061/comments/4417203812365.json",
+        "post_id": 4417207186061,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4416040622349,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4417377602957,
+        "body": "<p>You can do this with the xbox controller</p>",
+        "author_id": 422639827012,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4416040622349--Move-only-force-move-key-and-Attack-only-force-attack-key/comments/4417377602957",
+        "created_at": "2021-12-22T13:04:00Z",
+        "updated_at": "2021-12-22T13:04:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4416040622349/comments/4417377602957.json",
+        "post_id": 4416040622349,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4417710176653,
+        "body": "<p>In console you can already do this, and in PC I think that if you press shift you can just do that</p>\n<p>&nbsp;</p>",
+        "author_id": 417303010892,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4416040622349--Move-only-force-move-key-and-Attack-only-force-attack-key/comments/4417710176653",
+        "created_at": "2021-12-25T18:22:01Z",
+        "updated_at": "2021-12-25T18:22:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4416040622349/comments/4417710176653.json",
+        "post_id": 4416040622349,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

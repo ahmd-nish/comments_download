@@ -1,0 +1,952 @@
+[
+  {
+    "post_id": 360077056832,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 11879160647949,
+        "body": "<p>Absolutely, I'm tired of my wings constantly being replaced with plain gray elytras.</p>",
+        "author_id": 11879158148109,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077056832-Character-creator-Back-item-wings-act-like-capes/comments/11879160647949",
+        "created_at": "2023-01-01T03:00:34Z",
+        "updated_at": "2023-02-14T19:29:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077056832/comments/11879160647949.json",
+        "post_id": 360077056832,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076341312,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013982871,
+        "body": "<p>I would propose Custom Game Modes / Difficulties</p>",
+        "author_id": 406280981491,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076341312-Hardcore-Minecraft-with-other-difficulties/comments/360013982871",
+        "created_at": "2021-01-12T04:32:48Z",
+        "updated_at": "2021-01-12T04:32:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076341312/comments/360013982871.json",
+        "post_id": 360076341312,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014092852,
+        "body": "<p>peaceful hardcore! XD</p>",
+        "author_id": 398392652652,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076341312-Hardcore-Minecraft-with-other-difficulties/comments/360014092852",
+        "created_at": "2021-01-15T20:51:44Z",
+        "updated_at": "2021-01-15T20:51:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076341312/comments/360014092852.json",
+        "post_id": 360076341312,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076302332,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 9818437609613,
+        "body": "<p>Dejen jugar\n</p>",
+        "author_id": 9818401818765,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076302332-Poder-jugar-multijugador-con-red-local-sin-Internet/comments/9818437609613",
+        "created_at": "2022-10-11T23:59:37Z",
+        "updated_at": "2022-10-11T23:59:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076302332/comments/9818437609613.json",
+        "post_id": 360076302332,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076119672,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013973692,
+        "body": "<p>\"F3\"+\"G\" does this.</p>\n<p>There's tons of \"F3\"+__ functions, and there's a list of them on the wikia. Don't think there's any in-game indication about these unfortunately.</p>",
+        "author_id": 396200603832,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076119672-Chunk-finder/comments/360013973692",
+        "created_at": "2021-01-02T18:31:29Z",
+        "updated_at": "2021-01-02T18:57:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076119672/comments/360013973692.json",
+        "post_id": 360076119672,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013905031,
+        "body": "<p>There should be a command of sorts to show the borders for force-loaded chunks</p>",
+        "author_id": 406280981491,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076119672-Chunk-finder/comments/360013905031",
+        "created_at": "2021-01-02T18:58:08Z",
+        "updated_at": "2021-01-03T22:28:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076119672/comments/360013905031.json",
+        "post_id": 360076119672,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014001792,
+        "body": "<p>Or, when using F3 + G, forceloaded chunks appear differently</p>",
+        "author_id": 406280981491,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076119672-Chunk-finder/comments/360014001792",
+        "created_at": "2021-01-06T02:49:04Z",
+        "updated_at": "2021-01-06T02:49:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076119672/comments/360014001792.json",
+        "post_id": 360076119672,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076089912,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5681013896077,
+        "body": "<p>Yes please. I have a skin that i use for a character that i cant quite replicate in the character creator but if i could equip some wings it would fit the skin perfectly. What im saying is this idea is wonderf and should be added</p>",
+        "author_id": 5681004999693,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076089912-Using-your-own-skins-with-character-creation/comments/5681013896077",
+        "created_at": "2022-04-21T10:56:16Z",
+        "updated_at": "2022-04-23T09:34:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076089912/comments/5681013896077.json",
+        "post_id": 360076089912,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075083732,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013680112,
+        "body": "<p>I think there should be a quick sneak button all together which would work by just touching it once to sneak but when you let go it would stop sneaking. This would also work for shields of course.&nbsp;</p>",
+        "author_id": 367575015631,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075083732-Optional-button-to-activate-shield-quickly-on-mobile-devices/comments/360013680112",
+        "created_at": "2020-12-01T17:54:20Z",
+        "updated_at": "2020-12-03T14:10:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075083732/comments/360013680112.json",
+        "post_id": 360075083732,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 20489585753357,
+        "body": "<p>Sneak</p>",
+        "author_id": 19553421937933,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075083732-Optional-button-to-activate-shield-quickly-on-mobile-devices/comments/20489585753357",
+        "created_at": "2023-10-18T11:08:21Z",
+        "updated_at": "2023-10-18T11:08:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075083732/comments/20489585753357.json",
+        "post_id": 360075083732,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074423851,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014237151,
+        "body": "<p>Nice idea but there are some occasions where some people would want to get all the achievements in a hardcore world, so having to die for an achievement is abit too much</p>",
+        "author_id": 410794224331,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074423851-Negative-Bad-Advancements/comments/360014237151",
+        "created_at": "2021-02-07T05:10:09Z",
+        "updated_at": "2021-02-07T11:27:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074423851/comments/360014237151.json",
+        "post_id": 360074423851,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014364752,
+        "body": "<p>Good point. Maybe it could be a total amount of damage at once. Taken down to two hearts would probably be a good line. At that point it's dangerous but, if you are careful, you can still get there without to big a risk.</p>",
+        "author_id": 408264691852,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074423851-Negative-Bad-Advancements/comments/360014364752",
+        "created_at": "2021-02-13T05:56:52Z",
+        "updated_at": "2021-02-13T13:46:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074423851/comments/360014364752.json",
+        "post_id": 360074423851,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073076071,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012915871,
+        "body": "<p>WE NEED THIS</p>",
+        "author_id": 399035242772,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073076071-Op-only-tab-in-creative-inventory/comments/360012915871",
+        "created_at": "2020-09-29T06:32:53Z",
+        "updated_at": "2021-05-03T14:46:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073076071/comments/360012915871.json",
+        "post_id": 360073076071,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360072263832,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014237271,
+        "body": "<p>Even though I know you need atleast 15 bookshelves for an enchantment table to be max, I can tell by opening the enchantment table and checking the last option of enchanting, if it tells me I need 30 levels to unlock that option, then I know the enchantment table is maxed out</p>",
+        "author_id": 410794224331,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072263832-Max-Level-Enchantment-UI/comments/360014237271",
+        "created_at": "2021-02-07T05:36:34Z",
+        "updated_at": "2021-02-07T05:36:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072263832/comments/360014237271.json",
+        "post_id": 360072263832,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014297712,
+        "body": "<p>Also, if you want to know how much rescourses you need for 15 bookshelves and you're not bothered to work it out, your lucky that I simply know how to:</p>\n\n<p>15 bookshelves = 45 books + 90 planks\n<br />45 bookshelves = 135 paper + 45 leather\n<br />92 planks = 23 logs\n</p>",
+        "author_id": 410794224331,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072263832-Max-Level-Enchantment-UI/comments/360014297712",
+        "created_at": "2021-02-07T05:40:06Z",
+        "updated_at": "2021-02-07T11:47:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072263832/comments/360014297712.json",
+        "post_id": 360072263832,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360072139092,
+    "expected_comment_count": 8,
+    "actual_comment_count": 8,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012279791,
+        "body": "<p>I thought it was \"hit the ground too hard\", or at least used to be. Still, interesting and funny suggestion</p>",
+        "author_id": 399989965651,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072139092-We-have-been-Falling-from-high-places-long-enough/comments/360012279791",
+        "created_at": "2020-08-04T22:40:09Z",
+        "updated_at": "2020-08-07T15:00:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072139092/comments/360012279791.json",
+        "post_id": 360072139092,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012375952,
+        "body": "<p>\"Player\" died due to they're questionable knowledge on gravity</p>",
+        "author_id": 399922701751,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072139092-We-have-been-Falling-from-high-places-long-enough/comments/360012375952",
+        "created_at": "2020-08-05T07:19:08Z",
+        "updated_at": "2020-08-07T15:00:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072139092/comments/360012375952.json",
+        "post_id": 360072139092,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012375972,
+        "body": "<p>\"Player\" went splat</p>",
+        "author_id": 399922701751,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072139092-We-have-been-Falling-from-high-places-long-enough/comments/360012375972",
+        "created_at": "2020-08-05T07:21:55Z",
+        "updated_at": "2020-08-05T20:01:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072139092/comments/360012375972.json",
+        "post_id": 360072139092,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012288811,
+        "body": "<p>player fell far to far&nbsp;</p>",
+        "author_id": 401523003252,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072139092-We-have-been-Falling-from-high-places-long-enough/comments/360012288811",
+        "created_at": "2020-08-05T16:41:35Z",
+        "updated_at": "2020-08-05T16:41:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072139092/comments/360012288811.json",
+        "post_id": 360072139092,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012387692,
+        "body": "<p>“Player became a pancake”</p>",
+        "author_id": 398769620952,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072139092-We-have-been-Falling-from-high-places-long-enough/comments/360012387692",
+        "created_at": "2020-08-06T04:49:41Z",
+        "updated_at": "2020-08-06T04:49:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072139092/comments/360012387692.json",
+        "post_id": 360072139092,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012303871,
+        "body": "<p>[player] fell to their death while fighting [mob]</p>\n<p>[player] was launched to their death by [player]</p>\n<p>[player] plunged to their death</p>",
+        "author_id": 399405334511,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072139092-We-have-been-Falling-from-high-places-long-enough/comments/360012303871",
+        "created_at": "2020-08-06T19:29:39Z",
+        "updated_at": "2020-08-06T19:29:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072139092/comments/360012303871.json",
+        "post_id": 360072139092,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012310691,
+        "body": "<p>[playername] yeeted to death</p>",
+        "author_id": 393571722172,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072139092-We-have-been-Falling-from-high-places-long-enough/comments/360012310691",
+        "created_at": "2020-08-07T12:39:50Z",
+        "updated_at": "2020-08-07T16:32:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072139092/comments/360012310691.json",
+        "post_id": 360072139092,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012550752,
+        "body": "<p>How about instead of Mojang coming up with death messages, we can write our own in-game? /deathmessages would be the answer.</p>\n<p>Restrictions: Operator Only</p>\n<p>Does not count as cheats</p>\n<p>Syntax:</p>\n<p>Java Edition: /deathmessages &lt;deathmessage&gt; &lt;typeofdeath&gt; &lt;deathmessagenumber&gt; [color] [format]&nbsp;</p>\n<p>Example: /deathmessages \"\\\"[Player] thought they could fly\"\"\\ minecraft:falling 0 blue italic</p>\n<p>Bedrock Edition: /deathmessages &lt;deathmessage&gt; &lt;typeofdeath&gt; &lt;deathmessagenumber&gt;</p>\n<p>Example: /deathmessages \"§c§l[Player] likes lava. A little bit too much.\" lava 0</p>\n<p>Use [Player] to represent the player that is dying.</p>\n<p>&lt;deathmessagenumber&gt; is zero-indexed, meaning that the first deathmessage would be 0, second would be 1, third would be 2, and so on. The game will cycle through the different death messages of that death type depending on the number. Using the same number for 2 different messages will replace the first one.</p>\n<p>&lt;deathmessage&gt; Must be in a string (quotes).</p>\n<p>Have fun with the customization!</p>\n<p>&nbsp;</p>",
+        "author_id": 377100940511,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072139092-We-have-been-Falling-from-high-places-long-enough/comments/360012550752",
+        "created_at": "2020-08-17T15:32:27Z",
+        "updated_at": "2020-08-17T15:42:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072139092/comments/360012550752.json",
+        "post_id": 360072139092,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071620832,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011580912,
+        "body": "<p>i think this is very creative but it would be cooler if how you died would matter what mob you would become. for an example if you starved to death you would become a skeleton or if you died from a zombie you would become a zombie.</p>",
+        "author_id": 400317252091,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071620832-Respawn-as-a-mob/comments/360011580912",
+        "created_at": "2020-07-18T17:38:40Z",
+        "updated_at": "2020-07-20T17:30:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071620832/comments/360011580912.json",
+        "post_id": 360071620832,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011553111,
+        "body": "<p>i think this is very creative but it would be cooler if how you died would matter what mob you would become. for an example if you starved to death you would become a skeleton or if you died from a zombie you would become a zombie.&nbsp;</p>",
+        "author_id": 400317252091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071620832-Respawn-as-a-mob/comments/360011553111",
+        "created_at": "2020-07-18T17:39:33Z",
+        "updated_at": "2020-07-20T15:37:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071620832/comments/360011553111.json",
+        "post_id": 360071620832,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011630792,
+        "body": "<p>This make only in multi player sense.\n<br />But nice idea.</p>",
+        "author_id": 400609919471,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071620832-Respawn-as-a-mob/comments/360011630792",
+        "created_at": "2020-07-18T19:39:21Z",
+        "updated_at": "2020-07-20T15:40:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071620832/comments/360011630792.json",
+        "post_id": 360071620832,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071482192,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012237971,
+        "body": "<p>You right! ADD IT ADD IT ADD IT ADD IT ADD IT ADD IT ADD IT ADD IT!!!!!</p>",
+        "author_id": 401332631792,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071482192-Original-Background-For-Programmer-Art-Resource-Pack/comments/360012237971",
+        "created_at": "2020-08-01T06:36:53Z",
+        "updated_at": "2020-08-01T06:36:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071482192/comments/360012237971.json",
+        "post_id": 360071482192,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360070240312,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011157671,
+        "body": "<p>This is why I came here too!! I have been saying this since I started playing Minecraft several years ago. My poor kid is probably sick of hearing it. 😁&nbsp; When I searched for this subject I found a post with a suggestion somewhat like this but more complex and it was way back in March of 2019. I was thrilled to see one posted today!</p>",
+        "author_id": 399776578332,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070240312-Hostile-Mob-Toggle-Switch/comments/360011157671",
+        "created_at": "2020-06-28T02:03:46Z",
+        "updated_at": "2020-06-29T20:03:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070240312/comments/360011157671.json",
+        "post_id": 360070240312,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012802472,
+        "body": "<p>There’s a reason it’s in cheats. That would be cheating, so you aren’t allowed to earn achievements for playing the game without it’s difficulties. If you ask me even peaceful mode should require cheats. (I’m assuming you play on bedrock because you said “cheats” which don’t exist on java)</p>",
+        "author_id": 370495501712,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070240312-Hostile-Mob-Toggle-Switch/comments/360012802472",
+        "created_at": "2020-09-08T21:27:21Z",
+        "updated_at": "2020-09-08T21:27:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070240312/comments/360012802472.json",
+        "post_id": 360070240312,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4406906739341,
+        "body": "<p>Unless if it's a separate gamemode that can't be changed, it would be too overpowered. It would also take away the challenge of creating a mob switch if this was just added as an option that can be toggled.</p>",
+        "author_id": 407999197812,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070240312-Hostile-Mob-Toggle-Switch/comments/4406906739341",
+        "created_at": "2021-08-12T00:52:14Z",
+        "updated_at": "2021-08-12T00:52:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070240312/comments/4406906739341.json",
+        "post_id": 360070240312,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360069736671,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012615472,
+        "body": "<p>That can't happen using the same account otherwise the game wouldn't work properly at all or you would basically be controlling each other not as a separate character.</p>",
+        "author_id": 386476504472,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360069736671-Change-how-Microsoft-accounts-are-handled/comments/360012615472",
+        "created_at": "2020-08-19T20:42:24Z",
+        "updated_at": "2020-08-19T20:42:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360069736671/comments/360012615472.json",
+        "post_id": 360069736671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013647672,
+        "body": "<p>How do u do it tho how do you change your age on your Microsoft account!!!!!!???!??!?😠😠😠😠😠😠😠\n</p>",
+        "author_id": 407073286831,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360069736671-Change-how-Microsoft-accounts-are-handled/comments/360013647672",
+        "created_at": "2020-11-27T21:52:38Z",
+        "updated_at": "2021-09-30T23:54:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360069736671/comments/360013647672.json",
+        "post_id": 360069736671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014584251,
+        "body": "<p>Gggggggggggggfffffffgffffggggg</p>",
+        "author_id": 411063504811,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360069736671-Change-how-Microsoft-accounts-are-handled/comments/360014584251",
+        "created_at": "2021-03-11T22:26:05Z",
+        "updated_at": "2021-03-11T22:26:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360069736671/comments/360014584251.json",
+        "post_id": 360069736671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360069230632,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013044772,
+        "body": "<p>We need this back!</p>",
+        "author_id": 404297184951,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360069230632-A-Button-To-Reset-Dimensions/comments/360013044772",
+        "created_at": "2020-10-03T20:56:05Z",
+        "updated_at": "2020-10-04T06:31:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360069230632/comments/360013044772.json",
+        "post_id": 360069230632,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360068343691,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014632572,
+        "body": "<p>I always wanted to have a partner in Minecraft because I play alone</p>",
+        "author_id": 407906452411,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360068343691-Bring-Back-The-Ability-to-Spawn-Steves/comments/360014632572",
+        "created_at": "2021-03-10T18:47:13Z",
+        "updated_at": "2024-02-27T16:02:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360068343691/comments/360014632572.json",
+        "post_id": 360068343691,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360068166872,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012662532,
+        "body": "<p>Wow! Great idea</p>\n<p>&nbsp;</p>",
+        "author_id": 402393388012,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360068166872-Signing-in-on-Nintendo-Switch-should-have-a-QR-Code/comments/360012662532",
+        "created_at": "2020-08-25T07:50:01Z",
+        "updated_at": "2020-08-25T07:50:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360068166872/comments/360012662532.json",
+        "post_id": 360068166872,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4415659500173,
+        "body": "<p>Hi</p>",
+        "author_id": 422462045331,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360068166872-Signing-in-on-Nintendo-Switch-should-have-a-QR-Code/comments/4415659500173",
+        "created_at": "2021-12-05T17:26:31Z",
+        "updated_at": "2024-02-16T20:48:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360068166872/comments/4415659500173.json",
+        "post_id": 360068166872,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360062887612,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011239791,
+        "body": "<p>Yeah, that would be really useful if you needed to craft a bunch of stuff later on and you could pin what you wanted to craft for easy accessibility later!</p>",
+        "author_id": 396505027571,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062887612-Favorite-crafting/comments/360011239791",
+        "created_at": "2020-07-03T23:27:15Z",
+        "updated_at": "2020-07-06T19:55:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062887612/comments/360011239791.json",
+        "post_id": 360062887612,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360055839452,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008757691,
+        "body": "<p>The idea is there, I like it, and nobody knows the first thing about wild plant cultivation. Let's get this added.</p>",
+        "author_id": 385731322111,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055839452--Forager-Advancement/comments/360008757691",
+        "created_at": "2019-12-20T14:40:17Z",
+        "updated_at": "2020-05-15T21:27:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055839452/comments/360008757691.json",
+        "post_id": 360055839452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010563672,
+        "body": "<p>Including crops and other food items?(sugarcane, coach beans, sweet berries)</p>",
+        "author_id": 386286492912,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055839452--Forager-Advancement/comments/360010563672",
+        "created_at": "2020-05-15T21:27:49Z",
+        "updated_at": "2020-05-16T00:44:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055839452/comments/360010563672.json",
+        "post_id": 360055839452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360054121631,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008088492,
+        "body": "<p>I'm curious what kind of holidays would be celebrated with this idea. Perhaps your game's language would determine what celebrations are shown (and obviously when)</p>",
+        "author_id": 388664446971,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054121631-Celebration-main-menu/comments/360008088492",
+        "created_at": "2019-10-15T23:41:19Z",
+        "updated_at": "2019-10-16T15:38:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054121631/comments/360008088492.json",
+        "post_id": 360054121631,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360049707191,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007251791,
+        "body": "<p>You can just put your sword at the first slot in your hotbar, and then pressing 1 would take it out. </p>",
+        "author_id": 386327304371,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360049707191-Be-able-to-assign-a-specific-slot-of-the-hotbar-to-a-controller-button/comments/360007251791",
+        "created_at": "2019-08-25T00:36:42Z",
+        "updated_at": "2019-08-25T00:36:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360049707191/comments/360007251791.json",
+        "post_id": 360049707191,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360007333932,
+        "body": "<p>I had this same idea, but I think that, since the lack of buttons on Controller, maybe they could make so that when your press a chosen Button (Say View on Xbox) it will open this \"Menu\" where you can press your chosen buttons that are mapped. Let me put this into an example...</p>\n<p>I am running and want to quickly get to my sword in the 3rd slot I would press \"View\" (In this example) and then press the button I had associated with my 3rd slot. I would be able to continue to run/look around during this time.</p>",
+        "author_id": 376707295512,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360049707191-Be-able-to-assign-a-specific-slot-of-the-hotbar-to-a-controller-button/comments/360007333932",
+        "created_at": "2019-08-29T01:33:54Z",
+        "updated_at": "2019-08-29T03:37:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360049707191/comments/360007333932.json",
+        "post_id": 360049707191,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014798331,
+        "body": "<p>this would be perfect a use for the d-pad, as you can bind lets say slot 3 to right d-pad select blocks and in a pvp situation be able to use them without delay</p>",
+        "author_id": 414845734731,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360049707191-Be-able-to-assign-a-specific-slot-of-the-hotbar-to-a-controller-button/comments/360014798331",
+        "created_at": "2021-04-11T08:18:24Z",
+        "updated_at": "2021-04-11T08:18:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360049707191/comments/360014798331.json",
+        "post_id": 360049707191,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 34517268223629,
+        "body": "<p>They should add dual input bindings.</p>\n<p>For example, Pressing LB could be hotbar slot 1 and RB for slot 9.</p>\n<p>You could then hold LB + A,B,X,Y which could be hotbar slots 2-5 then Hold RB + A,B,X,Y again for 6-8 then&nbsp;</p>",
+        "author_id": 34515833196813,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360049707191-Be-able-to-assign-a-specific-slot-of-the-hotbar-to-a-controller-button/comments/34517268223629",
+        "created_at": "2025-02-24T18:29:12Z",
+        "updated_at": "2025-02-24T18:29:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360049707191/comments/34517268223629.json",
+        "post_id": 360049707191,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360049273771,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009754032,
+        "body": "<p>Ok iwjwjwn</p>",
+        "author_id": 395438526952,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360049273771-Drag-to-move-servers-in-multiplayer-menu/comments/360009754032",
+        "created_at": "2020-03-20T01:27:21Z",
+        "updated_at": "2020-03-20T01:27:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360049273771/comments/360009754032.json",
+        "post_id": 360049273771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048171231,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008190491,
+        "body": "<p>This is a big problem on the switch as well. The screen is small, so UI needs to be as big as possible. There is so much unused space on the screen, UI scaling would make it much easier to play. The text is unnecessarily small, and lots of blocks that look similar is indistinguishable at this size. Like the different types of ores, stone, etc. Look at this image, of how small these inventory slots look from my perceptive as a player.<br><img src=\"https://feedback.minecraft.net/hc/user_images/CtC1mWRqTLenPNpt0Y3qCQ.jpeg\"></p>",
+        "author_id": 388990700972,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048171231-UI-Scaling-for-Minecraft-Switch-Bedrock-in-Handheld/comments/360008190491",
+        "created_at": "2019-10-25T20:19:52Z",
+        "updated_at": "2019-10-25T20:39:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048171231/comments/360008190491.json",
+        "post_id": 360048171231,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012803932,
+        "body": "<p>It's a problem in split screen too, even on a 50 inch TV.</p>",
+        "author_id": 403187703691,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048171231-UI-Scaling-for-Minecraft-Switch-Bedrock-in-Handheld/comments/360012803932",
+        "created_at": "2020-09-09T01:12:15Z",
+        "updated_at": "2022-06-18T10:59:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048171231/comments/360012803932.json",
+        "post_id": 360048171231,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048112431,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013278391,
+        "body": "<p>I disagree with the second suggestion to fix it. If I want to make a hidden entrance with two lecterns being on a certain page, I can't open them at the same time and hover my cursor over them. <strong>It should work just like in Java</strong>, also because at the time being you need to write so much to have a book that can actually be used in redstone. A short book will act, as you said, very wonky. I'm really waiting for this fix 'cause I want to build the afore-mentioned secret entrance and this is impeding me.</p>",
+        "author_id": 381741800012,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048112431--Bedrock-Codebase-Book-UI-Update-for-ease-of-redstone-application/comments/360013278391",
+        "created_at": "2020-10-31T19:55:17Z",
+        "updated_at": "2020-10-31T20:01:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048112431/comments/360013278391.json",
+        "post_id": 360048112431,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048191412,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010224332,
+        "body": "<p>And now, it's done</p>",
+        "author_id": 396835707291,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048191412-make-pc-and-ps4-cross-console/comments/360010224332",
+        "created_at": "2020-04-21T11:48:16Z",
+        "updated_at": "2020-04-21T11:48:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048191412/comments/360010224332.json",
+        "post_id": 360048191412,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

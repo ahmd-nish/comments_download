@@ -1,0 +1,622 @@
+[
+  {
+    "post_id": 360033633291,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006246072,
+        "body": "<p>It would be good since I tried making a villager banner but failed</p>",
+        "author_id": 382981000872,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360033633291--Banners-Add-a-light-soft-shade-pattern/comments/360006246072",
+        "created_at": "2019-06-28T04:35:42Z",
+        "updated_at": "2019-06-28T18:10:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360033633291/comments/360006246072.json",
+        "post_id": 360033633291,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360031743031,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011382352,
+        "body": "<p>This would be great. The more unstitched textures there are, the more options there are for both the users and creators of resource packs. I hope this gets a lot more votes, as I feel this is an important addition.</p>",
+        "author_id": 373574598172,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360031743031-Resource-pack-changes/comments/360011382352",
+        "created_at": "2020-07-15T04:15:39Z",
+        "updated_at": "2020-07-15T17:54:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360031743031/comments/360011382352.json",
+        "post_id": 360031743031,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 41739557310605,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41753955796365,
+        "body": "<p>thats a very good idea, very customizable, convenient, and creative. I like it. I vote YES</p>",
+        "author_id": 41751170018957,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41739557310605-Enchantment-Books-Change-For-Resource-Packs/comments/41753955796365",
+        "created_at": "2025-12-08T17:15:23Z",
+        "updated_at": "2025-12-08T17:15:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41739557310605/comments/41753955796365.json",
+        "post_id": 41739557310605,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 39025637889165,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 42236382610701,
+        "body": "<p>Ésto es justamente de lo que hablo. La nueva transparencia me parece bastante fea y para colmo no hay forma de desactivarla </p>",
+        "author_id": 27531969740045,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39025637889165-Revert-sugarcane-fading-effect/comments/42236382610701",
+        "created_at": "2025-12-27T08:53:06Z",
+        "updated_at": "2025-12-27T08:53:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39025637889165/comments/42236382610701.json",
+        "post_id": 39025637889165,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37480025923853,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40261139162381,
+        "body": "<p>I know this is an old suggestion, but RTX and Vibrant Visuals are extremely different in how they work and look. They are not the same.</p>",
+        "author_id": 19052982716429,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37480025923853-Ray-tracing-semicolon-key/comments/40261139162381",
+        "created_at": "2025-10-11T05:11:43Z",
+        "updated_at": "2025-10-11T05:11:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37480025923853/comments/40261139162381.json",
+        "post_id": 37480025923853,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37113705759373,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 37317930633869,
+        "body": "<p>For clarification, I mean let us change the output resolution. I am aware that with Vibrant Visuals enabled you can change the \"Resolution Scale\", but that setting is about the render resolution, not the output, so it has an impact on how it is seen even for 1080p monitors (even if it shouldn't because the native output is 4K). Moreover, there's no way to disable upscaling when you have a resolution scale smaller than 100%.</p>",
+        "author_id": 5218951975181,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37113705759373-Let-us-change-the-output-resolution-on-Xbox-Series-consoles/comments/37317930633869",
+        "created_at": "2025-06-12T08:53:05Z",
+        "updated_at": "2025-06-12T08:53:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37113705759373/comments/37317930633869.json",
+        "post_id": 37113705759373,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 36169406034061,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 37443733024013,
+        "body": "<p>This is being slept on, we need this, lol</p>",
+        "author_id": 13775214704909,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36169406034061-Please-add-RTX-DLSS-frame-generation-support-to-Minecraft-Bedrock-Edition/comments/37443733024013",
+        "created_at": "2025-06-17T20:53:17Z",
+        "updated_at": "2025-06-17T21:07:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36169406034061/comments/37443733024013.json",
+        "post_id": 36169406034061,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35870908696333,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35887886958605,
+        "body": "<p>this would be amazing lol</p>",
+        "author_id": 25273402814861,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35870908696333-A-Minecraft-movie-texture-pack/comments/35887886958605",
+        "created_at": "2025-04-16T02:01:45Z",
+        "updated_at": "2025-04-16T17:31:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35870908696333/comments/35887886958605.json",
+        "post_id": 35870908696333,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 34456284667149,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35509239203469,
+        "body": "<p>It would be more convinient to just use a texture pack that brings them back, or rather make one yourself.</p>",
+        "author_id": 419210795852,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/34456284667149-revert-spawn-egg-retextures/comments/35509239203469",
+        "created_at": "2025-04-02T02:27:19Z",
+        "updated_at": "2025-04-02T02:27:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/34456284667149/comments/35509239203469.json",
+        "post_id": 34456284667149,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 35529046537741,
+        "body": "<p>yeah it would, if only i could without risking downloading 20 virusis because of bedrock's files being hard to get to</p>",
+        "author_id": 30738692558093,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/34456284667149-revert-spawn-egg-retextures/comments/35529046537741",
+        "created_at": "2025-04-02T18:28:26Z",
+        "updated_at": "2025-04-02T20:42:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/34456284667149/comments/35529046537741.json",
+        "post_id": 34456284667149,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 27219502802701,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 27501695579277,
+        "body": "<p>Needs info.</p>\n<p>There's also a texture pack that brings the old textures back in Bedrock Edition's marketplace.</p>\n<p>Click <a href=\"https://www.minecraft.net/en-us/marketplace/pdp?id=cd2c492f-40cb-4a0a-bdae-8560e6a2c8d8\" target=\"_blank\" rel=\"nofollow noreferrer\">here</a>.</p>",
+        "author_id": 25284940540557,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/27219502802701-bring-old-all-old-textures-back/comments/27501695579277",
+        "created_at": "2024-06-12T02:28:08Z",
+        "updated_at": "2024-06-12T14:17:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/27219502802701/comments/27501695579277.json",
+        "post_id": 27219502802701,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 26153517005709,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 26456079607053,
+        "body": "<p>Yes! Like the Ominous bottle!</p>",
+        "author_id": 25284940540557,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26153517005709-Different-potion-bottle-shapes/comments/26456079607053",
+        "created_at": "2024-05-04T15:36:39Z",
+        "updated_at": "2024-05-04T17:32:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26153517005709/comments/26456079607053.json",
+        "post_id": 26153517005709,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 26094470758669,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 26366881729805,
+        "body": "<p>+1. I'm not usually a modded Minecraft guy, but Distant Horizons has singlehandedly renewed my interest in this game. I've been playing on and off since alpha first released, and being able to actually see the infinitely generated world without the framerate dropping to slideshow-levels feels like the first natural evolution I've seen in 15 years. Before more clutter is added, something like DH should be implemented as a priority, especially for the sake of the paid realms servers.&nbsp;</p>",
+        "author_id": 26366362991629,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26094470758669-Time-for-a-render-chunk-optimization-upgrade/comments/26366881729805",
+        "created_at": "2024-05-01T18:45:38Z",
+        "updated_at": "2024-05-01T18:56:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26094470758669/comments/26366881729805.json",
+        "post_id": 26094470758669,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 23308298999949,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 26612327115405,
+        "body": "<p>I would like this too. I expected the game to run at 120 FPS by this point.</p>",
+        "author_id": 378792598812,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/23308298999949-A-much-appreciated-addition-to-the-xbox-version-of-minecraft/comments/26612327115405",
+        "created_at": "2024-05-10T03:05:44Z",
+        "updated_at": "2024-05-10T03:05:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/23308298999949/comments/26612327115405.json",
+        "post_id": 23308298999949,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 21016494317837,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 22586931430413,
+        "body": "<p>no es posible</p>",
+        "author_id": 7336589675277,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/21016494317837-Shaders-a-nintendo-Switch/comments/22586931430413",
+        "created_at": "2023-12-21T23:35:15Z",
+        "updated_at": "2023-12-21T23:35:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/21016494317837/comments/22586931430413.json",
+        "post_id": 21016494317837,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 18256433184781,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 28192717931405,
+        "body": "<p>I suggest you should add a Trailers Texture Update because I don’t really like the actual textures and the Trailers Textures make the game cleaner.</p>",
+        "author_id": 27616726928269,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/18256433184781-New-texture-update/comments/28192717931405",
+        "created_at": "2024-07-06T14:56:33Z",
+        "updated_at": "2024-07-06T15:01:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/18256433184781/comments/28192717931405.json",
+        "post_id": 18256433184781,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 16449282933133,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 16496897168397,
+        "body": "<p>Use a texture pack or mod.</p>",
+        "author_id": 419344921172,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/16449282933133-Techno-blade-lives-on/comments/16496897168397",
+        "created_at": "2023-06-07T13:52:09Z",
+        "updated_at": "2023-06-07T13:52:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/16449282933133/comments/16496897168397.json",
+        "post_id": 16449282933133,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 14325176023821,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 14333890816141,
+        "body": "<p>And fading.</p>",
+        "author_id": 416461943171,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/14325176023821-Torch-animation/comments/14333890816141",
+        "created_at": "2023-03-27T06:41:12Z",
+        "updated_at": "2023-04-08T13:38:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/14325176023821/comments/14333890816141.json",
+        "post_id": 14325176023821,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 13378542630669,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38632307355405,
+        "body": "<p>This would be a great idea, but I feel like the skeleton cloth bits might look a bit similar to strays.&nbsp;</p>",
+        "author_id": 38632028346125,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13378542630669-Hostile-Mob-Cosmetics/comments/38632307355405",
+        "created_at": "2025-08-06T23:58:30Z",
+        "updated_at": "2025-08-06T23:58:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13378542630669/comments/38632307355405.json",
+        "post_id": 13378542630669,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38688524481165,
+        "body": "<p>I feel like the zombies's alterations might need to be smaller, otherwise it could be confusing after so many years of zombies wearing the same clothes. overall, though, great idea! vindicators could also have different color tassels and evokers could have different color robes.</p>",
+        "author_id": 38631223629069,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13378542630669-Hostile-Mob-Cosmetics/comments/38688524481165",
+        "created_at": "2025-08-09T00:00:09Z",
+        "updated_at": "2025-08-09T00:00:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13378542630669/comments/38688524481165.json",
+        "post_id": 13378542630669,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 9938223989773,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 11876890841869,
+        "body": "<p>Why does this have only 2 votes? We need this so we don't have blue torches that emit yellow light.</p>",
+        "author_id": 10118601016333,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/9938223989773-Addition-of-Colored-Lights/comments/11876890841869",
+        "created_at": "2022-12-31T22:44:50Z",
+        "updated_at": "2022-12-31T22:44:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/9938223989773/comments/11876890841869.json",
+        "post_id": 9938223989773,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 9542003556621,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 9579308873357,
+        "body": "<p>Agreed. It's generally much more helpful to have instant visual representations than to have to rely on texts, and is more easily accessible. Do this with enchanted books, too.</p>",
+        "author_id": 419344921172,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/9542003556621-Potion-Liquid-Variants/comments/9579308873357",
+        "created_at": "2022-10-01T17:07:23Z",
+        "updated_at": "2022-10-25T01:11:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/9542003556621/comments/9579308873357.json",
+        "post_id": 9542003556621,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 8629961905293,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8645260531341,
+        "body": "<p>They need more variants, really. Also some select mobs can have their current texture as a spawn chance among its other variants, rather than any replacements.</p>",
+        "author_id": 419344921172,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8629961905293-New-mob-textures/comments/8645260531341",
+        "created_at": "2022-08-24T03:27:41Z",
+        "updated_at": "2022-08-25T15:51:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8629961905293/comments/8645260531341.json",
+        "post_id": 8629961905293,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 8413741839629,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 9096214727437,
+        "body": "<p>NO Thats the POINT of programmer art!!</p>",
+        "author_id": 415573620452,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8413741839629-Updated-Textures-in-Programmer-Art-Pack/comments/9096214727437",
+        "created_at": "2022-09-12T10:49:09Z",
+        "updated_at": "2023-09-22T22:21:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8413741839629/comments/9096214727437.json",
+        "post_id": 8413741839629,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7381781976589,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7805518097037,
+        "body": "<p>METEORSSSSSSSSSSS (maybe)</p>",
+        "author_id": 420562648152,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7381781976589-Better-night-sky/comments/7805518097037",
+        "created_at": "2022-07-20T01:24:32Z",
+        "updated_at": "2022-07-20T01:24:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7381781976589/comments/7805518097037.json",
+        "post_id": 7381781976589,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 6358094761869,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8023027532685,
+        "body": "<p>Please add</p>",
+        "author_id": 4878318584717,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6358094761869-Custom-Animated-and-4D-Skins/comments/8023027532685",
+        "created_at": "2022-07-28T21:37:54Z",
+        "updated_at": "2022-07-28T21:37:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6358094761869/comments/8023027532685.json",
+        "post_id": 6358094761869,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 8737170822413,
+        "body": "<p>this a great idea</p>",
+        "author_id": 8737156592781,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6358094761869-Custom-Animated-and-4D-Skins/comments/8737170822413",
+        "created_at": "2022-08-27T17:53:44Z",
+        "updated_at": "2022-08-27T17:53:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6358094761869/comments/8737170822413.json",
+        "post_id": 6358094761869,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5958039083021,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 6236124053773,
+        "body": "<p><strong>2nd Sky Idea -</strong><br><br>To add onto this idea the clouds in the sky should always be higher than the build limit so when people are building say a sky base it doesn't actually get clouds inside of it.</p>",
+        "author_id": 5957606083213,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5958039083021-Moon-Day-Night-Sky-Idea/comments/6236124053773",
+        "created_at": "2022-05-14T19:42:25Z",
+        "updated_at": "2022-05-14T22:14:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5958039083021/comments/6236124053773.json",
+        "post_id": 5958039083021,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

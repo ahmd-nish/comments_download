@@ -1,0 +1,1042 @@
+[
+  {
+    "post_id": 360038364731,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012099131,
+        "body": "<p>I see this as a command:\n<br />/testforchat  target  message</p>\n\n<p>Example:\n<br />/testforchat steve hi</p>",
+        "author_id": 395653757932,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360038364731-listen-for-chat/comments/360012099131",
+        "created_at": "2020-07-20T19:11:37Z",
+        "updated_at": "2020-07-20T20:52:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360038364731/comments/360012099131.json",
+        "post_id": 360038364731,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360022368551,
+    "expected_comment_count": 7,
+    "actual_comment_count": 7,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360002233171,
+        "body": "<p>Are the loot tables hardcoded (which they are)? &nbsp;Are the experience orb drops hardcoded (which they are)? &nbsp;Are you saying that they should not be hardcoded? &nbsp;Are you saying that experience orbs should be part of loot tables? &nbsp;I think the last question is correct. &nbsp;I will base this comment on it.</p>\n<p>Loot tables are arrays of items. &nbsp;It would be impossible to add entities to a list of items.</p>",
+        "author_id": 367005687131,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360022368551-Add-experience-orb-drops-to-loot-tables/comments/360002233171",
+        "created_at": "2018-09-11T01:59:50Z",
+        "updated_at": "2018-09-11T01:59:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360022368551/comments/360002233171.json",
+        "post_id": 360022368551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002237091,
+        "body": "<p>In java, you can modify the loot tables using data packs.</p>\n<p>&nbsp;</p>\n<div class=\"comment-info\">\n<p>\"Loot tables are arrays of items. &nbsp;It would be impossible to add entities to a list of items.\"</p>\n</div>\n<div class=\"comment-actions-container\">&nbsp;</div>\n<div class=\"comment-actions-container\">That's exactly what this suggestion is about. To add a \"type\": \"experience\" to loot tables. There's currently a \"type\": \"loot_table\", \"type\": \"empty\" and \"type\": \"item\" right now.</div>\n<div class=\"comment-actions-container\">&nbsp;</div>\n<div class=\"comment-actions-container\">It's not impossible. No idea what you're talking about there. They code stuff, it's possible.</div>",
+        "author_id": 369091771512,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360022368551-Add-experience-orb-drops-to-loot-tables/comments/360002237091",
+        "created_at": "2018-09-11T12:10:40Z",
+        "updated_at": "2024-03-25T10:03:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360022368551/comments/360002237091.json",
+        "post_id": 360022368551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002243731,
+        "body": "<p>I will try to explain.</p>\n<p>Loot_table = {Items.iron_ingot, 3, Items.gold_ingot, 2, Items.diamond, 1};</p>\n<p>Actions.drop_items(Loot_table);</p>\n<p>Actions.spawn_entity(Experience_orb.class, 3);</p>\n<p>This is a basic example of code put in the onDeath() function, which is called when an entity dies. &nbsp;This would drop 3 xp orbs, 3 iron ingots, 2 gold ingots, and 1 diamond. &nbsp;Now, if you were to do this:</p>\n<p>Loot_table = {Items.iron_ingot, 3, Items.gold_ingot, 2, Items.diamond, 1, Experience_orb.class, 3};</p>\n<p>Actions.drop_items(Loot_table);</p>\n<p>The game would crash. &nbsp;An entity physically <em>cannot</em>&nbsp;be dropped as an item. &nbsp;I hope this helps.</p>",
+        "author_id": 367005687131,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360022368551-Add-experience-orb-drops-to-loot-tables/comments/360002243731",
+        "created_at": "2018-09-11T22:55:59Z",
+        "updated_at": "2018-09-12T15:41:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360022368551/comments/360002243731.json",
+        "post_id": 360022368551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002248891,
+        "body": "<p>I don't recall saying to drop it as an item though.</p>\n<p>&nbsp;</p>\n<p>The loot table should be made if the \"type\" is \"experience\", it drops the amount of experience orb entities that you specify. Not \"type\": \"item\", which I've already explained.</p>",
+        "author_id": 369091771512,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360022368551-Add-experience-orb-drops-to-loot-tables/comments/360002248891",
+        "created_at": "2018-09-12T15:44:11Z",
+        "updated_at": "2024-03-25T10:03:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360022368551/comments/360002248891.json",
+        "post_id": 360022368551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002275832,
+        "body": "<p>So the loot table is an array of items and entities combined, and it detects whether it is an item or an entity, and if it is an item, it drops an item, and if it is an entity, it drops an entity.</p>\n<p>I forgot to clarify that type(experience) is entity.</p>",
+        "author_id": 367005687131,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360022368551-Add-experience-orb-drops-to-loot-tables/comments/360002275832",
+        "created_at": "2018-09-15T03:44:09Z",
+        "updated_at": "2022-07-14T18:46:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360022368551/comments/360002275832.json",
+        "post_id": 360022368551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009817832,
+        "body": "<p>This would be greatly beneficial for a multitude of reasons.</p>\n<p>Block loot tables would of course give the experience when mining the block, like Coal Ore, Redstone Ore, Lapis Lazuli Ore, Diamond Ore, Emerald Ore, and Nether Quartz Ore.</p>\n<p>Entity loot tables would of course give the experience on killing the entity.</p>\n<p>Fishing loot tables would of course give the experience upon reeling the rod in.</p>\n<p>Chest loot tables would give the experience upon opening the chest for the first time, when the loot is generated.</p>\n<p>The Piglin Bartering, Cat Morning Gift, and Hero of the Village loot table would give the experience along with the resulting item(s).</p>",
+        "author_id": 387336076411,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360022368551-Add-experience-orb-drops-to-loot-tables/comments/360009817832",
+        "created_at": "2020-03-25T11:19:31Z",
+        "updated_at": "2024-03-25T10:04:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360022368551/comments/360009817832.json",
+        "post_id": 360022368551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360015487712,
+        "body": "<p>If it is added, I can make an addon for java edition where there is a ore that drops a bunch of xp! I am currently having an issue that the feature to have the block drop a different amount of xp doesn't exist.</p>",
+        "author_id": 400773365951,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360022368551-Add-experience-orb-drops-to-loot-tables/comments/360015487712",
+        "created_at": "2021-05-15T00:21:19Z",
+        "updated_at": "2022-07-14T18:46:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360022368551/comments/360015487712.json",
+        "post_id": 360022368551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360018839931,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360001985332,
+        "body": "<p>Actually there is in some server they use ui like that!</p>",
+        "author_id": 368270589091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360018839931-Custom-UI-Commands-for-the-end-user/comments/360001985332",
+        "created_at": "2018-08-12T01:23:56Z",
+        "updated_at": "2018-08-12T01:23:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360018839931/comments/360001985332.json",
+        "post_id": 360018839931,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002018531,
+        "body": "<p>I know about that but those are (at least usually) server-side, and in-house plugins for them only, and never the end-user.</p>\n<p>(I'm&nbsp;editing and adding more to this idea at this time)</p>",
+        "author_id": 367574390911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360018839931-Custom-UI-Commands-for-the-end-user/comments/360002018531",
+        "created_at": "2018-08-16T00:43:38Z",
+        "updated_at": "2018-08-16T15:47:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360018839931/comments/360002018531.json",
+        "post_id": 360018839931,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006477832,
+        "body": "<p>That would be super helpful for me in my realm.</p>",
+        "author_id": 378839005891,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360018839931-Custom-UI-Commands-for-the-end-user/comments/360006477832",
+        "created_at": "2019-07-15T10:53:13Z",
+        "updated_at": "2020-07-20T00:40:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360018839931/comments/360006477832.json",
+        "post_id": 360018839931,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4409640473357,
+        "body": "<p>genius</p>",
+        "author_id": 420172294772,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360018839931-Custom-UI-Commands-for-the-end-user/comments/4409640473357",
+        "created_at": "2021-09-20T10:55:51Z",
+        "updated_at": "2021-09-20T10:55:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360018839931/comments/4409640473357.json",
+        "post_id": 360018839931,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077704232,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014977172,
+        "body": "<p>Yhyyyyy</p>",
+        "author_id": 415698831491,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077704232--Java-Minecraft-1-16-5-4d-skin/comments/360014977172",
+        "created_at": "2021-04-26T14:36:50Z",
+        "updated_at": "2021-06-13T11:39:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077704232/comments/360014977172.json",
+        "post_id": 360077704232,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4561871573901,
+        "body": "<p>the game is very good</p>",
+        "author_id": 4561869937421,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077704232--Java-Minecraft-1-16-5-4d-skin/comments/4561871573901",
+        "created_at": "2022-03-02T16:20:57Z",
+        "updated_at": "2022-03-02T16:20:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077704232/comments/4561871573901.json",
+        "post_id": 360077704232,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4561878382477,
+        "body": "<p>Wow!</p>",
+        "author_id": 4561869937421,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077704232--Java-Minecraft-1-16-5-4d-skin/comments/4561878382477",
+        "created_at": "2022-03-02T16:21:14Z",
+        "updated_at": "2022-03-02T16:21:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077704232/comments/4561878382477.json",
+        "post_id": 360077704232,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4561879346573,
+        "body": "<p>Anjay</p>",
+        "author_id": 4561869937421,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077704232--Java-Minecraft-1-16-5-4d-skin/comments/4561879346573",
+        "created_at": "2022-03-02T16:21:34Z",
+        "updated_at": "2022-03-02T16:21:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077704232/comments/4561879346573.json",
+        "post_id": 360077704232,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077457171,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 14131587569933,
+        "body": "<p>The /no ai command could be changed to /ai remove to be consistent</p>",
+        "author_id": 404374846911,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077457171-new-AI-commands-for-bedrock/comments/14131587569933",
+        "created_at": "2023-03-19T19:35:29Z",
+        "updated_at": "2023-06-29T11:05:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077457171/comments/14131587569933.json",
+        "post_id": 360077457171,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 36469886179213,
+        "body": "<p>This should also be an nbt tag too</p>",
+        "author_id": 36469840688141,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077457171-new-AI-commands-for-bedrock/comments/36469886179213",
+        "created_at": "2025-05-08T22:31:04Z",
+        "updated_at": "2025-05-08T22:38:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077457171/comments/36469886179213.json",
+        "post_id": 360077457171,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360062423311,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012092511,
+        "body": "<p>The <em>item_used_on_block</em> advancement should also be one of the listed advancements.</p>\n<p>Also, this would work especially well if we had more advancement triggers involving blocks, like <em>mined_block</em>.</p>",
+        "author_id": 389612013252,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062423311-Functions-in-advancements-should-execute-from-the-targetted-block-position/comments/360012092511",
+        "created_at": "2020-07-20T11:07:21Z",
+        "updated_at": "2020-07-20T17:31:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062423311/comments/360012092511.json",
+        "post_id": 360062423311,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360057083872,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009240171,
+        "body": "<p>This will be good for map makers.</p>",
+        "author_id": 393807324311,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360057083872-Add-Incombustible-NBT-tag-to-items/comments/360009240171",
+        "created_at": "2020-02-08T17:43:56Z",
+        "updated_at": "2020-02-08T17:43:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360057083872/comments/360009240171.json",
+        "post_id": 360057083872,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009266311,
+        "body": "<p>Naming it \"fireproof\" would be better</p>",
+        "author_id": 393530930631,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360057083872-Add-Incombustible-NBT-tag-to-items/comments/360009266311",
+        "created_at": "2020-02-11T01:57:28Z",
+        "updated_at": "2020-02-11T01:57:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360057083872/comments/360009266311.json",
+        "post_id": 360057083872,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360011248411,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360001296112,
+        "body": "<p>you can already do that with /scoreboard and /execute commands</p>",
+        "author_id": 365499217771,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360011248411--detect/comments/360001296112",
+        "created_at": "2018-06-18T07:40:28Z",
+        "updated_at": "2018-06-18T18:12:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360011248411/comments/360001296112.json",
+        "post_id": 360011248411,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38209983412109,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38576583114893,
+        "body": "<p>yep yep!</p>\n<p>honestly not that much work or thought needs to be done</p>\n<p>BRING IT IN MOJANG! &lt;3</p>\n<p>&nbsp;</p>",
+        "author_id": 38222133939085,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38209983412109-Custom-Model-Data-in-Crafting-Ingredients/comments/38576583114893",
+        "created_at": "2025-08-05T11:53:43Z",
+        "updated_at": "2025-08-06T16:50:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38209983412109/comments/38576583114893.json",
+        "post_id": 38209983412109,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4415822669325,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4421076429325,
+        "body": "<p>You forgot about industrialcraft, RL modpack and others cool mods/modpack.</p>",
+        "author_id": 423158486952,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4415822669325-Reconsider-No-Longer-Integrating-Mod-Features-Into-Vanilla-Gameplay/comments/4421076429325",
+        "created_at": "2022-01-15T21:01:05Z",
+        "updated_at": "2022-01-20T21:23:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4415822669325/comments/4421076429325.json",
+        "post_id": 4415822669325,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 20446040760333,
+        "body": "<p>i realize this was posted 2 years ago, but if you have watched the lasted minecraft live, you will most likely have come to the conclusion that they have already silently reversed that decision. the crab claw is just the extendo-hand from create, the dog armor i remember seeing in mods from 1.8.9, and the auto crafter is just mecha-craft's mechanical crafter. So, i guess wish granted?</p>",
+        "author_id": 20445980538637,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4415822669325-Reconsider-No-Longer-Integrating-Mod-Features-Into-Vanilla-Gameplay/comments/20446040760333",
+        "created_at": "2023-10-17T00:47:08Z",
+        "updated_at": "2023-10-17T20:07:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4415822669325/comments/20446040760333.json",
+        "post_id": 4415822669325,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4407931787661,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38686514928269,
+        "body": "<p>TOTALLY!</p>",
+        "author_id": 35063234787469,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4407931787661-Full-Mod-Support-for-Java/comments/38686514928269",
+        "created_at": "2025-08-08T21:53:36Z",
+        "updated_at": "2025-08-08T21:53:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4407931787661/comments/38686514928269.json",
+        "post_id": 4407931787661,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360058277051,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009634332,
+        "body": "<p>I voite</p>",
+        "author_id": 387874367532,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360058277051-showHead-tag-for-shulkers/comments/360009634332",
+        "created_at": "2020-03-10T15:51:46Z",
+        "updated_at": "2020-03-10T15:51:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360058277051/comments/360009634332.json",
+        "post_id": 360058277051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014863012,
+        "body": "<p>Mwahahah, headless shulkers. :P</p>",
+        "author_id": 412314468832,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360058277051-showHead-tag-for-shulkers/comments/360014863012",
+        "created_at": "2021-04-11T02:07:58Z",
+        "updated_at": "2021-04-11T02:07:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360058277051/comments/360014863012.json",
+        "post_id": 360058277051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360056454772,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012447412,
+        "body": "<p>I also want to do it.</p>",
+        "author_id": 386536484252,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360056454772--Bedrock-Scripting-Allow-other-processes-to-read-the-content-log-while-the-game-is-still-running/comments/360012447412",
+        "created_at": "2020-08-11T16:35:52Z",
+        "updated_at": "2023-12-28T21:45:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360056454772/comments/360012447412.json",
+        "post_id": 360056454772,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 22758100816653,
+        "body": "<p>It will not let me download a mod file on minecraft mobile!!!! Please help :(</p>",
+        "author_id": 22758094222605,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360056454772--Bedrock-Scripting-Allow-other-processes-to-read-the-content-log-while-the-game-is-still-running/comments/22758100816653",
+        "created_at": "2023-12-28T21:45:54Z",
+        "updated_at": "2023-12-30T23:25:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360056454772/comments/22758100816653.json",
+        "post_id": 360056454772,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360021927212,
+    "expected_comment_count": 7,
+    "actual_comment_count": 7,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360002117632,
+        "body": "<p>Removed @u from title, as it wasn't in the post.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360021927212--Java-Parity-Additional-Operators-b-c-d/comments/360002117632",
+        "created_at": "2018-08-27T20:12:18Z",
+        "updated_at": "2018-08-27T20:12:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360021927212/comments/360002117632.json",
+        "post_id": 360021927212,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002120851,
+        "body": "<p>I don't think @c would work well with the current command system, as entities and players work very differently from tile entities.&nbsp;However, I do agree that being able to find block entities would be very useful, it just needs some better syntax.</p>",
+        "author_id": 369006239191,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360021927212--Java-Parity-Additional-Operators-b-c-d/comments/360002120851",
+        "created_at": "2018-08-28T17:00:09Z",
+        "updated_at": "2018-08-28T17:00:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360021927212/comments/360002120851.json",
+        "post_id": 360021927212,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002205432,
+        "body": "<p>@d: This is already trivially easy: @a[nbt={Health:0f}]</p>\n<p>@c: This doesn't make any sense because selectors are for entities, not blocks. What would /kill @c do? What about /team join team @c?</p>\n<p>@b: This is already trivially easy: /execute as @a at @s unless block ~ ~ ~ air</p>",
+        "author_id": 364935466911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360021927212--Java-Parity-Additional-Operators-b-c-d/comments/360002205432",
+        "created_at": "2018-09-07T03:13:37Z",
+        "updated_at": "2018-09-07T16:08:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360021927212/comments/360002205432.json",
+        "post_id": 360021927212,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002227732,
+        "body": "<p><a href=\"/hc/en-us/profiles/364935466911-tryashtar\" rel=\"nofollow noreferrer\">tryashtar&nbsp;</a>Actually no not on bedrock it is not! it's actually impossible to do at the moment.</p>",
+        "author_id": 364930660251,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360021927212--Java-Parity-Additional-Operators-b-c-d/comments/360002227732",
+        "created_at": "2018-09-10T18:04:11Z",
+        "updated_at": "2018-09-10T18:04:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360021927212/comments/360002227732.json",
+        "post_id": 360021927212,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002239451,
+        "body": "<p>In that case you'd be better off making a parity request</p>",
+        "author_id": 364935466911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360021927212--Java-Parity-Additional-Operators-b-c-d/comments/360002239451",
+        "created_at": "2018-09-11T16:35:30Z",
+        "updated_at": "2018-11-06T16:41:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360021927212/comments/360002239451.json",
+        "post_id": 360021927212,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360003055491,
+        "body": "<p>Wanting to reply to&nbsp;<a href=\"/hc/en-us/profiles/364023375071-Nova-inkycatz-Barlow\" rel=\"nofollow noreferrer\">Nova \"inkycatz\" Barlow</a>, It is on there, in the @d section though.</p>",
+        "author_id": 372775522931,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360021927212--Java-Parity-Additional-Operators-b-c-d/comments/360003055491",
+        "created_at": "2018-11-17T15:22:55Z",
+        "updated_at": "2018-11-17T15:22:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360021927212/comments/360003055491.json",
+        "post_id": 360021927212,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360003185811,
+        "body": "<p>execute as&nbsp; @e run say hi</p>\n<p>everyone will say hi but dead player,&nbsp;</p>\n<p>@e never selects dead players</p>",
+        "author_id": 373310461771,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360021927212--Java-Parity-Additional-Operators-b-c-d/comments/360003185811",
+        "created_at": "2018-11-28T23:33:02Z",
+        "updated_at": "2018-11-28T23:33:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360021927212/comments/360003185811.json",
+        "post_id": 360021927212,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360012805591,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360002901051,
+        "body": "<p>Agreed! Here is documentation for the format. This should work for /tellraw and /title:</p>\n<p><a href=\"https://minecraft.gamepedia.com/Commands#Raw_JSON_text\" rel=\"nofollow noreferrer\">https://minecraft.gamepedia.com/Commands#Raw_JSON_text</a></p>",
+        "author_id": 364935466911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360012805591--tellraw-Command/comments/360002901051",
+        "created_at": "2018-11-02T21:35:21Z",
+        "updated_at": "2018-11-02T23:53:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360012805591/comments/360002901051.json",
+        "post_id": 360012805591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 23328212767757,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 39840866242317,
+        "body": "<p><strong>Please add this!</strong>&nbsp;</p>\n<p>This feature would add so much customization to datapacks. Most mods could then be transferred to datapacks. This is a very big reason of why mods usually don't have a datapack version.&nbsp;</p>\n<p><strong>For non-Mojang people</strong></p>\n<p>Please vote and comment why you think this should be added. Wouldn't it be HUGE?</p>\n<p><strong>For the creator of this post</strong></p>\n<p>Thank you for adding this! You would need a way to activate multiple functions. (maybe edit the post). It would instead look something like this:</p>\n<p>\"custom_keybind\": {</p>\n<p>&nbsp; &nbsp; &nbsp;\"display_name\": \"CUSTOM_KEYBIND\",</p>\n<p>&nbsp; &nbsp; &nbsp;\"default_key\": \"Keyboard.X\",</p>\n<p>&nbsp; &nbsp; &nbsp;\"player_can_rebind\": true,</p>\n<p>&nbsp; &nbsp; &nbsp;\"called_functions\": [\"datapack:example_function_1\",\"datapack:example_function_2\"]</p>\n<p>}</p>",
+        "author_id": 20236146517517,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/23328212767757-Adding-a-keybind-option-in-datapacks/comments/39840866242317",
+        "created_at": "2025-09-24T22:40:49Z",
+        "updated_at": "2025-09-24T22:40:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/23328212767757/comments/39840866242317.json",
+        "post_id": 23328212767757,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360066087012,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010653132,
+        "body": "<p>I think a more intuitive way of implementing this would be a \"ground level\" setting and a \"height variation\" setting.</p>\n<p>Ground level would determine the average height of the terrain (63 by default in current release).</p>\n<p>Height variation would be an amplifier for hills and cave generation. Lowering this value would \"squish\" these features towards the ground level.</p>",
+        "author_id": 388349503011,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360066087012-TerrainBase-and-TerrainHeightLimit-for-Custom-Worlds/comments/360010653132",
+        "created_at": "2020-05-22T18:58:11Z",
+        "updated_at": "2020-05-26T18:47:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360066087012/comments/360010653132.json",
+        "post_id": 360066087012,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010693151,
+        "body": "<p>How would this be more intuitive? DepthBaseSize and HeightStretch from 1.12.2 custom worlds already did this. What If I wanted a farlands world that only generated up to Y 128? That's the point of my suggestion.</p>",
+        "author_id": 383961756051,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360066087012-TerrainBase-and-TerrainHeightLimit-for-Custom-Worlds/comments/360010693151",
+        "created_at": "2020-05-26T23:59:56Z",
+        "updated_at": "2020-05-27T13:53:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360066087012/comments/360010693151.json",
+        "post_id": 360066087012,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360061750412,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010254352,
+        "body": "<div>\n<div>■&nbsp;NBT&nbsp;Layout</div>\n<div>Since&nbsp;each&nbsp;element&nbsp;can&nbsp;have&nbsp;a&nbsp;different&nbsp;type,&nbsp;we&nbsp;need&nbsp;to&nbsp;write&nbsp;its&nbsp;type&nbsp;to&nbsp;each,&nbsp;like&nbsp;compound&nbsp;tags.</div>\n<div>&nbsp;&nbsp;&nbsp;&nbsp;[size:&nbsp;int]([type:&nbsp;byte][element:&nbsp;Tag])*</div>\n<div>&nbsp;&nbsp;&nbsp;&nbsp;(x)*&nbsp;repeats&nbsp;x&nbsp;zero&nbsp;or&nbsp;more&nbsp;times.</div>\n<br>\n<div>■&nbsp;Comparison</div>\n<div>・List&nbsp;tags</div>\n<div>&nbsp;&nbsp;&nbsp;&nbsp;×&nbsp;heterogeneous</div>\n<div>&nbsp;&nbsp;&nbsp;&nbsp;✔&nbsp;indexable&nbsp;(with&nbsp;int)</div>\n<div>&nbsp;&nbsp;&nbsp;&nbsp;✔&nbsp;iterable</div>\n<div>・Heterogeneous&nbsp;list&nbsp;tags</div>\n<div>&nbsp;&nbsp;&nbsp;&nbsp;✔&nbsp;heterogeneous</div>\n<div>&nbsp;&nbsp;&nbsp;&nbsp;✔&nbsp;indexable&nbsp;(with&nbsp;int)</div>\n<div>&nbsp;&nbsp;&nbsp;&nbsp;✔&nbsp;iterable</div>\n<div>・Compound&nbsp;tags</div>\n<div>&nbsp;&nbsp;&nbsp;&nbsp;✔&nbsp;heterogeneous</div>\n<div>&nbsp;&nbsp;&nbsp;&nbsp;✔&nbsp;indexable&nbsp;(with&nbsp;string)</div>\n<div>&nbsp;&nbsp;&nbsp;&nbsp;×&nbsp;iterable</div>\n<br>\n<div>Note&nbsp;that&nbsp;heterogeneous&nbsp;list&nbsp;tags&nbsp;cannot&nbsp;subsume&nbsp;list&nbsp;tags&nbsp;since&nbsp;the&nbsp;latter&nbsp;has&nbsp;a&nbsp;more&nbsp;efficient&nbsp;NBT&nbsp;layout&nbsp;for&nbsp;homogeneous&nbsp;cases.</div>\n<div>For&nbsp;example,&nbsp;the&nbsp;following&nbsp;heterogeneous&nbsp;list&nbsp;tag&nbsp;is&nbsp;4+(1+2)n&nbsp;bytes,</div>\n<div>&nbsp;&nbsp;&nbsp;&nbsp;[H;&nbsp;0s,&nbsp;0s,&nbsp;...]</div>\n<div>whereas&nbsp;the&nbsp;following&nbsp;list&nbsp;tag&nbsp;is&nbsp;1+4+2n&nbsp;bytes.</div>\n<div>&nbsp;&nbsp;&nbsp;&nbsp;[0s,&nbsp;0s,&nbsp;...]</div>\n<div>where&nbsp;n&nbsp;is&nbsp;the&nbsp;size&nbsp;of&nbsp;the&nbsp;lists.</div>\n<div>In&nbsp;this&nbsp;case,&nbsp;the&nbsp;size&nbsp;of&nbsp;the&nbsp;latter&nbsp;is&nbsp;less&nbsp;than&nbsp;that&nbsp;of&nbsp;the&nbsp;former&nbsp;for&nbsp;all&nbsp;n&nbsp;≥&nbsp;2.</div>\n</div>",
+        "author_id": 393759984431,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360061750412-Heterogeneous-List-Tags/comments/360010254352",
+        "created_at": "2020-04-23T02:52:39Z",
+        "updated_at": "2020-04-23T16:50:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360061750412/comments/360010254352.json",
+        "post_id": 360061750412,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360059173352,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009812091,
+        "body": "<p>this would be great! </p>",
+        "author_id": 395663828532,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360059173352-Ability-to-disable-Glint-Shimmer-effect-via-NBT/comments/360009812091",
+        "created_at": "2020-03-25T05:49:24Z",
+        "updated_at": "2023-01-06T08:52:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360059173352/comments/360009812091.json",
+        "post_id": 360059173352,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 12018686080525,
+        "body": "<p>This would change a lot</p>",
+        "author_id": 12018668848013,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360059173352-Ability-to-disable-Glint-Shimmer-effect-via-NBT/comments/12018686080525",
+        "created_at": "2023-01-06T08:52:15Z",
+        "updated_at": "2023-01-06T08:52:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360059173352/comments/12018686080525.json",
+        "post_id": 360059173352,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360057717451,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009479791,
+        "body": "<p>that would be really helpful for modding!</p>",
+        "author_id": 394565083091,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360057717451--Modding-Wasm-support/comments/360009479791",
+        "created_at": "2020-02-26T18:52:51Z",
+        "updated_at": "2020-04-10T02:49:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360057717451/comments/360009479791.json",
+        "post_id": 360057717451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 12599380827917,
+        "body": "<p>Great idea</p>",
+        "author_id": 12599379424653,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360057717451--Modding-Wasm-support/comments/12599380827917",
+        "created_at": "2023-01-27T06:58:42Z",
+        "updated_at": "2023-01-27T06:58:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360057717451/comments/12599380827917.json",
+        "post_id": 360057717451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360050213711,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007340231,
+        "body": "<p>Надеюсь что разработчики оценят мою идею .</p>",
+        "author_id": 386314574912,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050213711-%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BD%D1%86%D0%BE%D0%B2%D0%BA%D0%B8-%D0%B2-Minecraft/comments/360007340231",
+        "created_at": "2019-08-29T11:15:16Z",
+        "updated_at": "2019-08-29T11:15:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050213711/comments/360007340231.json",
+        "post_id": 360050213711,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360015761592,
+        "body": "<p><span>Hello, this appears to be a non-English post. Below you will find a transcription of the topic being discussed.&nbsp;</span>&nbsp;</p>\n<p><strong><span>Title:</span></strong><span>&nbsp;“New endings in Minecraft”&nbsp;</span>&nbsp;</p>\n<p><strong><span>Text:</span></strong><span>&nbsp;“I wish Minecraft didn't have just one ending. And there were some other endings, I suggest adding an ending associated with emptiness. Empty Ending, that-to get this ending you need to find the Wandering Merchant and buy from him an unusual key, after the player has bought this key, deep underground he must find a lying horizontal door and thus the key to open this door and jump into the void, that's my concept of this ending. Developers, you can supplement this ending or change it as something with your own details and their concepts, the main thing that the essence with emptiness should remain. And if the game's developers will add this ending to the game, then I also wanted something to add a tab associated with the endings in the menu. All good, dear developers of the game Minecraft!”</span>&nbsp;</p>\n<p><span>- Translated by Admin</span>&nbsp;</p>",
+        "author_id": 416781640632,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050213711-%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BD%D1%86%D0%BE%D0%B2%D0%BA%D0%B8-%D0%B2-Minecraft/comments/360015761592",
+        "created_at": "2021-06-04T02:58:52Z",
+        "updated_at": "2021-06-04T02:59:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050213711/comments/360015761592.json",
+        "post_id": 360050213711,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360023679052,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360002331891,
+        "body": "<p>\"it still shoots arrows if it holds a sword. \" not in java edition, skeletons will use both bows and swords appropriately (the only thing they won't use properly is tridents)<br>zombies and alike, however, don't use bows.</p>",
+        "author_id": 365162152092,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360023679052-Mobs-actually-using-the-items-they-re-holding/comments/360002331891",
+        "created_at": "2018-09-21T11:38:36Z",
+        "updated_at": "2020-05-22T19:42:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360023679052/comments/360002331891.json",
+        "post_id": 360023679052,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002346692,
+        "body": "<p>I thought that they would already use whatever they’re holding.</p>",
+        "author_id": 367005687131,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360023679052-Mobs-actually-using-the-items-they-re-holding/comments/360002346692",
+        "created_at": "2018-09-24T03:29:54Z",
+        "updated_at": "2018-09-24T03:29:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360023679052/comments/360002346692.json",
+        "post_id": 360023679052,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002354712,
+        "body": "<p>Yes this already works in Java, you might want to add \"(Java Parity)\" to the title to make it more clear</p>",
+        "author_id": 364935466911,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360023679052-Mobs-actually-using-the-items-they-re-holding/comments/360002354712",
+        "created_at": "2018-09-24T20:40:12Z",
+        "updated_at": "2020-05-22T19:42:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360023679052/comments/360002354712.json",
+        "post_id": 360023679052,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360018467951,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008453672,
+        "body": "<p>So I can open a gui of any mob without that gui existing? Like say for example.. a pigman </p>",
+        "author_id": 365495673291,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360018467951-OpenUI-command-was-New-command-to-open-UI/comments/360008453672",
+        "created_at": "2019-11-19T10:53:49Z",
+        "updated_at": "2019-11-19T10:53:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360018467951/comments/360008453672.json",
+        "post_id": 360018467951,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360011185251,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360001220311,
+        "body": "<pre>Just edit the max health using<br>{Attributes:[{Name:\"generic.maxHealth\",Base:9.0f}]}</pre>",
+        "author_id": 365538184652,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360011185251-Spawn-mobs-and-entities-with-different-health-levels/comments/360001220311",
+        "created_at": "2018-06-08T21:35:15Z",
+        "updated_at": "2018-06-08T21:35:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360011185251/comments/360001220311.json",
+        "post_id": 360011185251,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360001220531,
+        "body": "<p>You can do that already just buy spawning in that mob of choice and then putting in the command /effect @e[type=mob of choice] health_boost 100000000 10 true</p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Time. &nbsp; &nbsp; &nbsp; &nbsp;How much&nbsp;</p>",
+        "author_id": 365504110991,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360011185251-Spawn-mobs-and-entities-with-different-health-levels/comments/360001220531",
+        "created_at": "2018-06-08T21:49:34Z",
+        "updated_at": "2018-06-08T21:49:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360011185251/comments/360001220531.json",
+        "post_id": 360011185251,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360001224291,
+        "body": "<p><strong>/summon</strong> minecraft:zombie ~ ~1 ~ {Health:9} &lt;- this exist you know ?</p>",
+        "author_id": 365532009232,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360011185251-Spawn-mobs-and-entities-with-different-health-levels/comments/360001224291",
+        "created_at": "2018-06-09T10:17:32Z",
+        "updated_at": "2018-06-09T10:17:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360011185251/comments/360001224291.json",
+        "post_id": 360011185251,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 6509733947021,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8564380648717,
+        "body": "<p>Honestly they should do this with the crafting table too, letting us make crafting recipes for things with NBT like fireworks would be great since we can already make our own particles.</p>",
+        "author_id": 385782489631,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6509733947021-NBT-Data-for-Custom-Brewing/comments/8564380648717",
+        "created_at": "2022-08-20T12:32:45Z",
+        "updated_at": "2022-08-21T04:16:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6509733947021/comments/8564380648717.json",
+        "post_id": 6509733947021,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

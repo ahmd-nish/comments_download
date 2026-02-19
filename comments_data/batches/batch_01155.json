@@ -1,0 +1,637 @@
+[
+  {
+    "post_id": 40834973532557,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40854990649997,
+        "body": "<p>Pt 2 : 1634</p>\n<p>Continuation of Cloud City.</p>\n<p><strong>Twister</strong>/Tornado looking mob with 2 eyes and is hostile/Attacks by getting within half a block of target and throwing target 12 blocks into the air/Drops/Twister Sphere/Used to make Sphere of Cloud/ 90% chance to drop 1/50 % chance to drop 2.&nbsp;</p>\n<p><strong>Cloud Giant (NEW BOSS!!!)</strong></p>\n<p>Spawned when portal in central dome is lit with 4 Spheres of Cloud in each frame. Wields the <strong>Sky</strong> <strong>Sword</strong> that has knock back 3. When hit with sword, the target gets thrown 4 blocks into the air. Deals 10 hearts of damage (no armor), and can be used as a projectile. Has a boss bar. Has 200 health points, or 100 hearts, the same as the Ender Dragon. Height is 3.5 blocks. When the portal is activated, the doorways to the streets are shut off and locked until Cloud Giant is defeated. Projectiles deal 50% less damage than normal, and have a 50% chance to deflect off of the Cloud Giant. Can make earthquakes with a jump attack. Drops/<strong>Cloud Sword</strong>/Has Knock-Back 3, is throwable, allows flight for 15 seconds with a 15 second cooldown. Does same amount of damage when used by player as when used by Cloud Giant. 100% chance to drop.</p>\n<p><strong>Bigger Crafting</strong> <strong>Tables</strong> (blocks/tables)</p>\n<p>Crafting tables with bigger areas, allowing for more recipes, and more items to enter the game.The next level is crafted by filling the previous crafting table's complete area with crafting tables. Ex. 3x3 to 6x6 to 9x9 to 12x12.&nbsp;</p>\n<p>Next entry's code is 5383.</p>",
+        "author_id": 40833905783437,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40834973532557-New-Updates-Ideas-Pt-1-next-entry-will-have-these-numbers-at-the-end-1634/comments/40854990649997",
+        "created_at": "2025-11-04T12:48:47Z",
+        "updated_at": "2025-11-04T22:46:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40834973532557/comments/40854990649997.json",
+        "post_id": 40834973532557,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40950086909709,
+        "body": "<p>Code: 5383</p>\n<p><strong>Flail</strong> (weapon)</p>\n<p>A flail is a wooden pole with a mace on the on the end attached by chains. Ingredients : 4 mace weapons, 10 planks of any kind, 9 chains. Range is extends 2 blocks more than usual!!! Damage is 14 health points, or 7 hearts (no armor).&nbsp;</p>\n<p><strong>Imbedder&nbsp;</strong>(block/table)</p>\n<p>A machine that takes certain blocks, like wood, stone, and netherack, and puts an ore inside of them. Ex. Iron embedded acacia wood. In the interface, the block being imbedded would go before the ore.</p>\n<p><strong>Jungle Village&nbsp;</strong>(structure)</p>\n<p>A village in the trees, or a treehouse village, with wooden bridges connecting the houses. Otherwise, normal villagers, except for the fact that jungle villagers and iron golems can climb trees!!!</p>\n<p><strong>De-Crafter&nbsp;</strong>(block/table)</p>\n<p>Takes an item (iron pick-axe for example) and gives you the resources that were used to craft the item. The screen would have 1 slot on the left, then an inventory on the right for the resources that were used to make the item.&nbsp;</p>\n<p>Next Code is 4672.</p>\n<p>&nbsp;</p>",
+        "author_id": 40833905783437,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40834973532557-New-Updates-Ideas-Pt-1-next-entry-will-have-these-numbers-at-the-end-1634/comments/40950086909709",
+        "created_at": "2025-11-07T12:50:53Z",
+        "updated_at": "2025-11-07T16:14:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40834973532557/comments/40950086909709.json",
+        "post_id": 40834973532557,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40817293193741,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40828184738573,
+        "body": "<p>While testing village layouts in Creative Mode (Bedrock Edition), I discovered a consistent pathfinding issue that affects villager behavior. Specifically, villagers struggle to enter buildings when the ground outside is made of grass path blocks. Even with open doorways and direct access to workstations or beds, they often stall or wander aimlessly near the entrance.</p>\n\n<p>After some experimentation, I replaced the grass path blocks with stone blocks — and the change was immediate. Villagers began entering buildings reliably and interacting with their POIs as expected.</p>\n\n<p>This suggests that the AI may be miscalculating the block height transition between grass paths (which are slightly lower) and standard full blocks like stone or wood. The subtle “lip” created by this height difference might be interfering with their pathfinding logic.</p>\n\n<p>This issue is especially problematic for players trying to build living, immersive villages using vanilla tools. Since grass paths are the default aesthetic for village roads, this behavior breaks immersion and functionality — and it’s not obvious to most players why villagers are failing to behave correctly.</p>\n\n<p>I hope this insight helps identify and resolve the issue. A fix would go a long way toward improving villager reliability and restoring trust in core survival mechanics.</p>",
+        "author_id": 30116024308365,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40817293193741-Critical-AI-Pathfinding-Issue-in-Minecraft-Bedrock/comments/40828184738573",
+        "created_at": "2025-11-03T16:10:03Z",
+        "updated_at": "2025-11-03T16:10:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40817293193741/comments/40828184738573.json",
+        "post_id": 40817293193741,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40810659974157,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40813211929485,
+        "body": "<p>That would be cool. and just vote your own post.</p>",
+        "author_id": 37409896727437,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40810659974157-Bring-back-vr/comments/40813211929485",
+        "created_at": "2025-11-02T22:03:16Z",
+        "updated_at": "2025-11-02T22:03:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40810659974157/comments/40813211929485.json",
+        "post_id": 40810659974157,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40804695411597,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40813188260237,
+        "body": "<p>ILL Love SNAKES to minecraft!</p>",
+        "author_id": 37409896727437,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40804695411597-SNAKES-AND-BEING-STRUCK-BY-LIGHTNING-MOSTLY-SNAKES/comments/40813188260237",
+        "created_at": "2025-11-02T22:01:00Z",
+        "updated_at": "2025-11-02T22:01:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40804695411597/comments/40813188260237.json",
+        "post_id": 40804695411597,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40672285696781,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41040585484173,
+        "body": "<p>It's called an Allay.&nbsp;</p>\n<p>&nbsp;</p>",
+        "author_id": 41039963694605,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40672285696781-An-easier-way-to-get-allyas/comments/41040585484173",
+        "created_at": "2025-11-11T12:17:34Z",
+        "updated_at": "2025-11-11T12:17:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40672285696781/comments/41040585484173.json",
+        "post_id": 40672285696781,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40663588540045,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40726125535885,
+        "body": "<p>Fermented spider eye is already used in brewing to make most of the negative potion effects.</p>\n<p>Also, Minecraft isn't too concerned about logic either way, and we already have 4 bottles of water, 2 of which actually does nothing, and I'd even argue the third is redundant too.</p>\n<p>So I say no. We don't need more version of bottled water. I rather use those we already have.</p>",
+        "author_id": 16793922410125,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40663588540045-Different-Water-Types-in-Bottles-Sea-Swamp/comments/40726125535885",
+        "created_at": "2025-10-29T21:54:50Z",
+        "updated_at": "2025-10-29T22:05:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40663588540045/comments/40726125535885.json",
+        "post_id": 40663588540045,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40657655433357,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40671601803149,
+        "body": "<p>i am just now realizing that i used a more developer friendly explanation of my idea. when i probably should have made it easy to understand by anybody. here is a less formal explanation:<br><br><strong>Piglins should respect your gold armor more.</strong></p>\n<p>Piglins already love gold. they trade for it, wear it, and calm down if you wear some too. But right now, wearing gold armor is just a cheap trick to stop them from attacking you.</p>\n<p>But... What if the amount of gold armor you wore actually mattered?</p>\n<p>Every additional piece of gold you wore could make Piglins see you as a higher status piglin. prompting them to be more generous in trades, like they were being more respectful. A player in full gold armor might get extra loot, while another with only gold boots gets less.</p>\n<p>it would feel like you’re part of their social hierarchy, not just bribing them. it adds levels of risk and choice too: do you wear more of the fragile gold armor to get better trades, or stay safe with iron or diamond and get less?</p>\n<p>Gold armor would finally have a real purpose and Piglins would feel more alive.</p>",
+        "author_id": 10953071048845,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40657655433357-piglin-trading-and-emergent-behavior/comments/40671601803149",
+        "created_at": "2025-10-28T04:00:44Z",
+        "updated_at": "2025-10-28T17:35:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40657655433357/comments/40671601803149.json",
+        "post_id": 40657655433357,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40643452986765,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40643429030669,
+        "body": "<p>это не такая плохая идея</p>",
+        "author_id": 40643325572237,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40643452986765-Quickly-change-game-modes-like-in-Java/comments/40643429030669",
+        "created_at": "2025-10-27T11:33:28Z",
+        "updated_at": "2025-10-27T11:33:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40643452986765/comments/40643429030669.json",
+        "post_id": 40643452986765,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40617789255821,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40646618242445,
+        "body": "<p>Behaviour packs modify how the game behaves, theyre not cosmetic, unlike resource packs. You cannot modify game behaviour only on one end like that.&nbsp;</p>",
+        "author_id": 32121888668685,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40617789255821-Allow-behavior-packages-to-be-added-to-global-resources/comments/40646618242445",
+        "created_at": "2025-10-27T13:30:08Z",
+        "updated_at": "2025-10-27T13:30:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40617789255821/comments/40646618242445.json",
+        "post_id": 40617789255821,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40614339880717,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40975718738829,
+        "body": "<p>I also thought that it was a glitch but this is a feature that SUCKS.</p>",
+        "author_id": 40975680693133,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40614339880717-Bring-back-the-old-Xbox-Profile-Picture-System/comments/40975718738829",
+        "created_at": "2025-11-08T06:01:56Z",
+        "updated_at": "2025-11-08T15:16:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40614339880717/comments/40975718738829.json",
+        "post_id": 40614339880717,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40601317438733,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40601320083213,
+        "body": "<p>I choose 1 user name ajunderdragon </p>",
+        "author_id": 40600126634509,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40601317438733-Mob-vote/comments/40601320083213",
+        "created_at": "2025-10-24T17:50:18Z",
+        "updated_at": "2025-10-24T17:50:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40601317438733/comments/40601320083213.json",
+        "post_id": 40601317438733,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40594029367693,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40612248113421,
+        "body": "<p>Also crafting a dead leaves pile block like how you would craft a slab would be cool.</p>",
+        "author_id": 404423904512,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40594029367693-9-leaf-litter-should-make-dead-leaf-block/comments/40612248113421",
+        "created_at": "2025-10-25T01:29:08Z",
+        "updated_at": "2025-10-25T01:29:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40594029367693/comments/40612248113421.json",
+        "post_id": 40594029367693,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40452297445901,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40452291388173,
+        "body": "<p>i was the person hoo rote this and people im not going to stand FOR IT!</p>",
+        "author_id": 38644360671501,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40452297445901-BRING-MOB-VOTES-BACK/comments/40452291388173",
+        "created_at": "2025-10-19T16:15:02Z",
+        "updated_at": "2025-10-19T16:15:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40452297445901/comments/40452291388173.json",
+        "post_id": 40452297445901,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40452639925645,
+        "body": "<p>Please make a new BOSS for the jungle </p>",
+        "author_id": 40452636192909,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40452297445901-BRING-MOB-VOTES-BACK/comments/40452639925645",
+        "created_at": "2025-10-19T16:46:48Z",
+        "updated_at": "2025-10-19T16:46:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40452297445901/comments/40452639925645.json",
+        "post_id": 40452297445901,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40453099794445,
+        "body": "<p>The reason why mob votes were removed is because most people hated them and they divided the community to the point where everyone started fighting and some youtubers incentivized their fans to vote some mobs so basically everything went wrong. The mob vote is better gone.</p>",
+        "author_id": 404423904512,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40452297445901-BRING-MOB-VOTES-BACK/comments/40453099794445",
+        "created_at": "2025-10-19T17:21:11Z",
+        "updated_at": "2025-10-19T17:41:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40452297445901/comments/40453099794445.json",
+        "post_id": 40452297445901,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40363818658701,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40387361564429,
+        "body": "<p>sorry, I meant to also mention that this would be toggleable</p>",
+        "author_id": 36940807601933,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40363818658701-player-dancing/comments/40387361564429",
+        "created_at": "2025-10-16T16:41:08Z",
+        "updated_at": "2025-10-16T16:41:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40363818658701/comments/40387361564429.json",
+        "post_id": 40363818658701,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40348796792717,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40442780167821,
+        "body": "<p>This would be an interesting add-on/mod, but as a full feature it wouldnt make sense. Im a little biased because I dont believe AI should be used in the entertainment/creative field period, but I think ChatGPT and Generative AI should stay out of Minecraft. </p>",
+        "author_id": 40028231871373,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40348796792717-ChatGPT-Integration-Smart-Assistant-Player/comments/40442780167821",
+        "created_at": "2025-10-18T19:00:15Z",
+        "updated_at": "2025-10-18T19:00:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40348796792717/comments/40442780167821.json",
+        "post_id": 40348796792717,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40310785091853,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40367497000589,
+        "body": "<p>Mojang seid villagers are pacifist and don't want to fight</p>",
+        "author_id": 35963479015565,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40310785091853-Make-the-fletching-table-useful-Crafting-new-arrows-with-nuggets/comments/40367497000589",
+        "created_at": "2025-10-15T21:24:29Z",
+        "updated_at": "2025-10-15T21:24:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40310785091853/comments/40367497000589.json",
+        "post_id": 40310785091853,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40293296406157,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40293400505869,
+        "body": "<p>Even if the community doesn't vote this feature which, I believe it should because it is necessary, I would like the fellow carriers in Mojang: developers, to add this feature.</p>",
+        "author_id": 14660056524173,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40293296406157-Multiple-Tapping-for-Minecraft-PE-critical-for-PVP/comments/40293400505869",
+        "created_at": "2025-10-13T14:44:56Z",
+        "updated_at": "2025-10-13T14:44:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40293296406157/comments/40293400505869.json",
+        "post_id": 40293296406157,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40280390288909,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40283448655373,
+        "body": "<p>Every armor already reduces a percentage of damage (every armor point is 4% less damage, and every 2 damage the armor protects 4% less except diamond and netherite which require more damage to lose resistance)</p>\n<p>The idea of an armor that protects more against mace and spear attacks tho could actually be implemented with netherite since it's not much better than diamond rn and this would make it better and make sense because of its armor thoughness. If this happens maybe chainmail could protect more against swords and be combined with other armor for a little extra protection, that'd be cool</p>",
+        "author_id": 404423904512,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40280390288909-New-Armor-PVP-Balance/comments/40283448655373",
+        "created_at": "2025-10-13T01:08:07Z",
+        "updated_at": "2025-10-13T17:00:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40280390288909/comments/40283448655373.json",
+        "post_id": 40280390288909,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40280343192589,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40280347936397,
+        "body": "<p>Add the nautilus and the spear to Bedrock Edition as soon as possible!</p>",
+        "author_id": 40279972115469,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40280343192589-Add-Nautilus-and-Spear-to-Minecraft-Bedrock-Edition/comments/40280347936397",
+        "created_at": "2025-10-12T19:18:12Z",
+        "updated_at": "2025-10-12T19:18:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40280343192589/comments/40280347936397.json",
+        "post_id": 40280343192589,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40280403749517,
+        "body": "<p>Add the nautilus and the spear to Bedrock Edition as soon as possible!</p>",
+        "author_id": 40279972115469,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40280343192589-Add-Nautilus-and-Spear-to-Minecraft-Bedrock-Edition/comments/40280403749517",
+        "created_at": "2025-10-12T19:19:49Z",
+        "updated_at": "2025-10-12T19:19:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40280343192589/comments/40280403749517.json",
+        "post_id": 40280343192589,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40264646975245,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40269370053389,
+        "body": "<p>Debería subir 1 el coste de durabilidad por nivel (2, 3, 4) o duplicarlo (2, 4, 8) porque 128 por dash es demasiado</p>",
+        "author_id": 404423904512,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40264646975245-Boost-en-las-lanzas/comments/40269370053389",
+        "created_at": "2025-10-11T19:00:48Z",
+        "updated_at": "2025-10-11T19:00:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40264646975245/comments/40269370053389.json",
+        "post_id": 40264646975245,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40261903745165,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40269528093069,
+        "body": "<p>The spear shouldn't be changed. The point of a spear is to be cheap. Also when used in pvp it actually sucks if your enemy has a shield.</p>\n<p>Aqua Affinity shouldn't be removed nor changed but the turtle shell definitely should.</p>",
+        "author_id": 404423904512,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40261903745165-Turtle-Helmets-and-Horses/comments/40269528093069",
+        "created_at": "2025-10-11T19:08:43Z",
+        "updated_at": "2025-10-11T20:10:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40261903745165/comments/40269528093069.json",
+        "post_id": 40261903745165,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40238029138061,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40276192351245,
+        "body": "<p>There is already a system like this known as <a href=\"https://minecraft.wiki/w/Villager#Gossiping\" target=\"_blank\" rel=\"nofollow noreferrer\">popularity </a>(link leads to Minecraft Wiki), but it's an internal thing you can't see, similar to saturation. If you've ever noticed that all villagers' trades got more expensive, that's because your reputation with that village went down for some reason, and you can even sink your reputation so far that any iron golems tied to that village will be hostile. It's not a visible happiness/friendship bar like the ones for Stardew Valley's villagers or anything, but its still there.</p>",
+        "author_id": 9315212835085,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40238029138061-Minecraft-Villager-happiness-addition/comments/40276192351245",
+        "created_at": "2025-10-12T12:02:06Z",
+        "updated_at": "2025-10-12T23:52:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40238029138061/comments/40276192351245.json",
+        "post_id": 40238029138061,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40204607556493,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40276200145549,
+        "body": "<p>This is potentially already happening, there have been some leaks of backend tests for themed UIs on Bedrock Edition</p>",
+        "author_id": 9315212835085,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40204607556493-Pixelated-Themed-Inventory-GUIs-for-Every-Block/comments/40276200145549",
+        "created_at": "2025-10-12T12:07:06Z",
+        "updated_at": "2025-10-12T12:07:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40204607556493/comments/40276200145549.json",
+        "post_id": 40204607556493,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40203640371981,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40203655300365,
+        "body": "<p>Plzzzzzzzzzzzzzzzzzzzzzzz</p>",
+        "author_id": 40203562938253,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40203640371981-Add-a-new-mob-from-the-losser/comments/40203655300365",
+        "created_at": "2025-10-09T08:59:11Z",
+        "updated_at": "2025-10-09T08:59:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40203640371981/comments/40203655300365.json",
+        "post_id": 40203640371981,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40198252013325,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40230751615117,
+        "body": "<p>Spamming rotten flesh or armadillo scutes is basically the same. Having a wolf with thorns, blast protection and more would be really cool</p>",
+        "author_id": 404423904512,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40198252013325-Wolf-Armour/comments/40230751615117",
+        "created_at": "2025-10-10T03:54:52Z",
+        "updated_at": "2025-10-10T17:32:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40198252013325/comments/40230751615117.json",
+        "post_id": 40198252013325,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

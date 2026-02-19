@@ -1,0 +1,757 @@
+[
+  {
+    "post_id": 34143315167117,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 34147310860557,
+        "body": "<p>&nbsp;</p>\n<pre>data/&lt;namespace&gt;/entity_type/variant/farm_animal/pig_variant/&lt;id&gt;.json</pre>\n<pre>data/&lt;namespace&gt;/entity_type/variant/farm_animal/cow_variant/&lt;id&gt;.json</pre>\n<pre>data/&lt;namespace&gt;/entity_type/variant/farm_animal/chicken_variant/&lt;id&gt;.json</pre>",
+        "author_id": 18058462706445,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/34143315167117-Varients-Make-Easier-to-Add-Mobs-Vanilla-and-Custom/comments/34147310860557",
+        "created_at": "2025-02-08T23:35:18Z",
+        "updated_at": "2025-02-08T23:35:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/34143315167117/comments/34147310860557.json",
+        "post_id": 34143315167117,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 34135853246093,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 34147308349581,
+        "body": "<p>or make only a few items are destroyed when dropped on cactus. i don't know which.</p>",
+        "author_id": 33992988337165,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/34135853246093-Cactus-destruction-fix/comments/34147308349581",
+        "created_at": "2025-02-08T23:33:04Z",
+        "updated_at": "2025-02-08T23:33:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/34135853246093/comments/34147308349581.json",
+        "post_id": 34135853246093,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 34135553248909,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 34151570429581,
+        "body": "<p>as well as a snout and big ears. pigs could also get a snout and some ears. </p>",
+        "author_id": 18058462706445,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/34135553248909-Sheep-wool-overhang/comments/34151570429581",
+        "created_at": "2025-02-09T12:34:32Z",
+        "updated_at": "2025-02-09T12:34:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/34135553248909/comments/34151570429581.json",
+        "post_id": 34135553248909,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 34108885641101,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 34123915879565,
+        "body": "<p>I don't think they should be entirely green but I support a texture change to add some green into the design.&nbsp;</p>\n<p>&nbsp;</p>\n<p>Having them be more spread out I feel is essential, I hope Mojang listens to this suggestion.</p>",
+        "author_id": 13642392664973,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/34108885641101-Forest-Leaf-Litter-should-be-green-and-more-scattered/comments/34123915879565",
+        "created_at": "2025-02-07T18:23:26Z",
+        "updated_at": "2025-02-07T18:33:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/34108885641101/comments/34123915879565.json",
+        "post_id": 34108885641101,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 34269924482189,
+        "body": "<p>I agree, it makes forests look slightly dissheveled</p>",
+        "author_id": 5735385356813,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/34108885641101-Forest-Leaf-Litter-should-be-green-and-more-scattered/comments/34269924482189",
+        "created_at": "2025-02-13T20:56:09Z",
+        "updated_at": "2025-02-14T16:54:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/34108885641101/comments/34269924482189.json",
+        "post_id": 34108885641101,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 33931300089485,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 34021982644365,
+        "body": "<p>After further research, this appears to be a parity issue between Bedrock and Java. In Java the firefly pixels flash and are visible in the inventory texture of the Firefly Bush, while on Bedrock, the Firefly Bush looks like any other bush and there is no visual way to tell that it has fireflies in it. For more information please look at <a href=\"https://bugs.mojang.com/browse/MCPE-190248\" target=\"_blank\" rel=\"nofollow noreferrer\">MCPE-190248</a>.</p>",
+        "author_id": 398891540972,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33931300089485-Firefly-Bushes-should-be-visually-animated-in-the-inventory/comments/34021982644365",
+        "created_at": "2025-02-04T01:33:37Z",
+        "updated_at": "2025-02-04T17:01:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33931300089485/comments/34021982644365.json",
+        "post_id": 33931300089485,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 33883368819725,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 33889414230541,
+        "body": "<p>no i like it</p>",
+        "author_id": 13113189565837,
+        "vote_sum": 5,
+        "vote_count": 5,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33883368819725-Remove-3D-Snout-From-Cows/comments/33889414230541",
+        "created_at": "2025-01-29T19:26:59Z",
+        "updated_at": "2025-01-29T19:26:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33883368819725/comments/33889414230541.json",
+        "post_id": 33883368819725,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 33904924868237,
+        "body": "<p>The 3D snout just looks awkwardly tacked onto the cow. The 3D horns already identify it as a cow just as they do for its new biome variants, so I don't know why they had to define the snout too.</p>",
+        "author_id": 364975013012,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33883368819725-Remove-3D-Snout-From-Cows/comments/33904924868237",
+        "created_at": "2025-01-30T11:14:01Z",
+        "updated_at": "2025-01-30T11:14:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33883368819725/comments/33904924868237.json",
+        "post_id": 33883368819725,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 34442780045325,
+        "body": "<p>you ask to update the game and new things but you are afraid of change, minecraft gives you the opportunity to choose old versions if you feel nostalgic.</p>",
+        "author_id": 25088699383309,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33883368819725-Remove-3D-Snout-From-Cows/comments/34442780045325",
+        "created_at": "2025-02-20T20:08:05Z",
+        "updated_at": "2025-02-21T15:40:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33883368819725/comments/34442780045325.json",
+        "post_id": 33883368819725,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 33492236567565,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 33767859856269,
+        "body": "<p>Yes, we have birch forests, so why not oak ones?</p>",
+        "author_id": 25876653178765,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33492236567565-Oak-Forest-Biome/comments/33767859856269",
+        "created_at": "2025-01-25T00:20:06Z",
+        "updated_at": "2025-01-25T15:48:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33492236567565/comments/33767859856269.json",
+        "post_id": 33492236567565,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 33418818748429,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 33421750754317,
+        "body": "<p>They already have a Pumpkin Pie</p>",
+        "author_id": 33421716664333,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33418818748429-Pumpkin-slices-and-placeable-pie/comments/33421750754317",
+        "created_at": "2025-01-13T00:52:03Z",
+        "updated_at": "2025-01-13T00:52:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33418818748429/comments/33421750754317.json",
+        "post_id": 33418818748429,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38792502289165,
+        "body": "<p>Yes they need to add this to Minecraft!!</p>",
+        "author_id": 33786117443725,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33418818748429-Pumpkin-slices-and-placeable-pie/comments/38792502289165",
+        "created_at": "2025-08-13T18:17:20Z",
+        "updated_at": "2025-08-13T18:17:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33418818748429/comments/38792502289165.json",
+        "post_id": 33418818748429,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 33404829655949,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 33407919092877,
+        "body": "<p>I think this is a great fit for the variants of the savanna but I don't think it belongs in plains, as wouldn't a golden color look out of place against all the green. Additionally, I don't think it should in windswept biomes excluding the windswept savanna as again it looks out of place.&nbsp;&nbsp;</p>",
+        "author_id": 26581285659533,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33404829655949-grainy-grass-adding-extrinsic-value-to-daily-Minecraft-nature-pt-3/comments/33407919092877",
+        "created_at": "2025-01-11T21:33:56Z",
+        "updated_at": "2025-01-11T21:33:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33404829655949/comments/33407919092877.json",
+        "post_id": 33404829655949,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 33408236724749,
+        "body": "<p>maybe Mojang could add a separate \"prairie\" biome where the grainy grass will grow</p>",
+        "author_id": 11423708750477,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33404829655949-grainy-grass-adding-extrinsic-value-to-daily-Minecraft-nature-pt-3/comments/33408236724749",
+        "created_at": "2025-01-11T21:58:54Z",
+        "updated_at": "2025-01-11T22:06:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33404829655949/comments/33408236724749.json",
+        "post_id": 33404829655949,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 33481129341453,
+        "body": "<p>the purpose was to really put attention into colorado's and wyoming's open plains. look at just about any picture in google of grassy plains in colorado and wyoming areas. you will find no green grass without a little bit of grainy grass also dispersed around that. looking up a lawn or a golfing course is cheating. i was thinking that to commemorate the buffalo plains, we should make \"amber waves of grain\" a key part to minecraft nature.</p>",
+        "author_id": 11423708750477,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33404829655949-grainy-grass-adding-extrinsic-value-to-daily-Minecraft-nature-pt-3/comments/33481129341453",
+        "created_at": "2025-01-14T20:59:34Z",
+        "updated_at": "2025-01-14T21:10:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33404829655949/comments/33481129341453.json",
+        "post_id": 33404829655949,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35248248770829,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35363877392653,
+        "body": "<p>It's because the adult ghast has a high-res texture which looks uncanny and out of place</p>\n<p>&nbsp;</p>",
+        "author_id": 421021654472,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35248248770829-Change-the-adult-happy-ghast-texture-to-be-like-the-ghastling/comments/35363877392653",
+        "created_at": "2025-03-27T14:37:43Z",
+        "updated_at": "2025-03-27T19:14:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35248248770829/comments/35363877392653.json",
+        "post_id": 35248248770829,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35245193151629,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35313121597197,
+        "body": "<p>After some thinking, I would like to expand my thoughts here. It would be even more useful if the 4 slots could also be used for animal transportation. Animals like Cows, Sheep, Pigs, ect would use 1 slot. Larger animals like Pandas, Horses, ect would take up two slots.</p>",
+        "author_id": 27750932812685,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35245193151629-Happy-Ghast-Utility-Basket/comments/35313121597197",
+        "created_at": "2025-03-25T20:47:47Z",
+        "updated_at": "2025-03-25T20:47:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35245193151629/comments/35313121597197.json",
+        "post_id": 35245193151629,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35239505519501,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35416188247949,
+        "body": "<p>I think they should do they harness a bit more 3D. Even if the 2D harness is meant to look coherent with other elements, I'm sure there's a way to make it more 3D, less ugly and minecrafty anyway. Also place the smile higher, he doesn't look cute, he looks ugly and the pixel perfect retexture looks unfinished, like it's too scared of making too many changes</p>",
+        "author_id": 390554442991,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35239505519501-The-Happy-Ghast-Harness-Needs-A-Retexture/comments/35416188247949",
+        "created_at": "2025-03-29T11:05:39Z",
+        "updated_at": "2025-03-29T11:05:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35239505519501/comments/35416188247949.json",
+        "post_id": 35239505519501,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35051350881549,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41111480532237,
+        "body": "<p>I want it</p>",
+        "author_id": 33848872281485,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35051350881549-Sheep-variants/comments/41111480532237",
+        "created_at": "2025-11-13T15:24:59Z",
+        "updated_at": "2025-11-13T15:25:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35051350881549/comments/41111480532237.json",
+        "post_id": 35051350881549,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 34670163746829,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 34670133561613,
+        "body": "<p>coooolllll</p>",
+        "author_id": 34670089193357,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/34670163746829-Community-Interaction/comments/34670133561613",
+        "created_at": "2025-03-02T07:45:31Z",
+        "updated_at": "2025-03-02T07:45:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/34670163746829/comments/34670133561613.json",
+        "post_id": 34670163746829,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 34508278230541,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 34532923160973,
+        "body": "<p>just get a resource pack its not that much effort</p>",
+        "author_id": 27443800169869,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/34508278230541-Option-to-have-or-not-the-new-eggs-texture/comments/34532923160973",
+        "created_at": "2025-02-25T08:23:45Z",
+        "updated_at": "2025-02-25T17:39:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/34508278230541/comments/34532923160973.json",
+        "post_id": 34508278230541,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 34315337431565,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 34324225348621,
+        "body": "<p>The difficulty to add the variants is they will had to make the texture of 48 variations, and also think at 48 variations. But i think they are making the variations at the moment, but they just firt drop the color at the sheep at each biome, and later will add the variants</p>",
+        "author_id": 31560599647373,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/34315337431565-Wasted-opportunity-in-the-changes-to-the-sheep-and-their-generation/comments/34324225348621",
+        "created_at": "2025-02-16T17:05:19Z",
+        "updated_at": "2025-02-16T23:02:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/34315337431565/comments/34324225348621.json",
+        "post_id": 34315337431565,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 34357647660045,
+        "body": "<p>Well, you can have three different variants, but just change the color of the variant.&nbsp;</p>",
+        "author_id": 26581285659533,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/34315337431565-Wasted-opportunity-in-the-changes-to-the-sheep-and-their-generation/comments/34357647660045",
+        "created_at": "2025-02-18T07:25:00Z",
+        "updated_at": "2025-02-18T07:25:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/34315337431565/comments/34357647660045.json",
+        "post_id": 34315337431565,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 34302019244429,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 34423778936845,
+        "body": "<p>what if there was a new carver type other than canyon, cave, or nether cave; and was specifically named \"river\" as a type of carver, exactly for that reason. we could keep the legacy rivers in some aspect by reframing them as \"valleys\" and possibly keeping the frozen river as is for tranportation. the lake part could be a separate feature, but seems like a good fit for what a carver is and does (i think lol). </p>\n<p>speaking of the boats on ice. there could be some overhaul to the boat to make the ice boat less janky, right after adding the ability for boats to smoothly go up waterfalls vertically with enough speed and angle. just imagine the all rollercosters, parkour, racing, and etc we could build! </p>",
+        "author_id": 18058462706445,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/34302019244429-Sloped-River-Biome-Generation/comments/34423778936845",
+        "created_at": "2025-02-20T07:25:55Z",
+        "updated_at": "2025-02-21T15:09:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/34302019244429/comments/34423778936845.json",
+        "post_id": 34302019244429,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 34191760799117,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 34192468593805,
+        "body": "<p>Or give them individual and/or different uses.&nbsp;</p>",
+        "author_id": 26581285659533,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/34191760799117-Remove-different-chicken-eggs/comments/34192468593805",
+        "created_at": "2025-02-11T05:09:36Z",
+        "updated_at": "2025-02-11T05:10:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/34191760799117/comments/34192468593805.json",
+        "post_id": 34191760799117,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 34237267153165,
+        "body": "<p>Yes, please, and please change the textures on the chickens themselves. Blue chickens aren't something you find in the wild (you could have them in villages if you like) and it's not healthy for a chicken to lay blue eggs (most chicks die in the egg).</p>",
+        "author_id": 13371046621581,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/34191760799117-Remove-different-chicken-eggs/comments/34237267153165",
+        "created_at": "2025-02-12T18:19:38Z",
+        "updated_at": "2025-02-12T18:25:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/34191760799117/comments/34237267153165.json",
+        "post_id": 34191760799117,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 34148618791949,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 34151431394573,
+        "body": "<p>loam would also be great for the #dirt block tag. it could be 3 clay balls + 1 dirt block for 2 blocks of loam</p>",
+        "author_id": 18058462706445,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/34148618791949-Tina/comments/34151431394573",
+        "created_at": "2025-02-09T12:24:03Z",
+        "updated_at": "2025-02-09T12:24:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/34148618791949/comments/34151431394573.json",
+        "post_id": 34148618791949,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 33984160545421,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 34108449798541,
+        "body": "<p>no it should have gravity. but keeping it transparent would give it very unique functionality</p>",
+        "author_id": 18058462706445,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33984160545421-Vitrified-Sand/comments/34108449798541",
+        "created_at": "2025-02-07T02:44:22Z",
+        "updated_at": "2025-02-07T02:44:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33984160545421/comments/34108449798541.json",
+        "post_id": 33984160545421,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 33412267486477,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 33518852539021,
+        "body": "<p>Bro calm down, we're only on the second snapshot!</p>",
+        "author_id": 25956914417549,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33412267486477-More-Pigs-Variants/comments/33518852539021",
+        "created_at": "2025-01-15T23:37:00Z",
+        "updated_at": "2025-01-15T23:37:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33412267486477/comments/33518852539021.json",
+        "post_id": 33412267486477,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 33356798904333,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 33364063992077,
+        "body": "<p>I think it makes more sense for it to be in the pale garden because illagers have gray skin, and the biome they're in is (mostly) gray.</p>",
+        "author_id": 25876653178765,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33356798904333-Woodland-Mansion-generation-location/comments/33364063992077",
+        "created_at": "2025-01-10T00:14:48Z",
+        "updated_at": "2025-01-10T19:19:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33356798904333/comments/33364063992077.json",
+        "post_id": 33356798904333,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 33367328203789,
+        "body": "<p>Nah they made it so mansions can ALSO generate in pale gardens along with the dark oak biome. Just an additional biome where they can spawn on</p>",
+        "author_id": 30943729560461,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33356798904333-Woodland-Mansion-generation-location/comments/33367328203789",
+        "created_at": "2025-01-10T05:15:19Z",
+        "updated_at": "2025-01-10T05:15:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33356798904333/comments/33367328203789.json",
+        "post_id": 33356798904333,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37698223549197,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40387493931021,
+        "body": "<p>The firefly flashing during the day looks kind of odd to me. There should definitely be two block states for the item.</p>",
+        "author_id": 40387203029389,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37698223549197-Firefly-Bush-swaps-texture-between-night-and-day/comments/40387493931021",
+        "created_at": "2025-10-16T16:44:24Z",
+        "updated_at": "2025-10-16T16:44:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37698223549197/comments/40387493931021.json",
+        "post_id": 37698223549197,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35837916505869,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35853914535565,
+        "body": "<p>I hope they listen to you, and hire the people from ACTIONS AND STUFF, their animations are worthy of being in the game officially, they give life to the animals and a real personality.</p>",
+        "author_id": 25088699383309,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35837916505869-MOJANG-PLS-BUY-ACTIONS-AND-STUFF/comments/35853914535565",
+        "created_at": "2025-04-15T01:32:14Z",
+        "updated_at": "2025-04-15T17:40:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35837916505869/comments/35853914535565.json",
+        "post_id": 35837916505869,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 35853952638349,
+        "body": "<p>I support this idea!!!&nbsp;</p>",
+        "author_id": 25088699383309,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35837916505869-MOJANG-PLS-BUY-ACTIONS-AND-STUFF/comments/35853952638349",
+        "created_at": "2025-04-15T01:33:41Z",
+        "updated_at": "2025-04-15T17:38:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35837916505869/comments/35853952638349.json",
+        "post_id": 35837916505869,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 35864049116173,
+        "body": "<p>It wouldn't fit in with the vanilla game honestly. I love actions n stuff but its 100% not something that fits in Minecraft's simplistic style.</p>\n<p>&nbsp;</p>",
+        "author_id": 421021654472,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35837916505869-MOJANG-PLS-BUY-ACTIONS-AND-STUFF/comments/35864049116173",
+        "created_at": "2025-04-15T13:39:13Z",
+        "updated_at": "2025-04-15T18:35:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35837916505869/comments/35864049116173.json",
+        "post_id": 35837916505869,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35271150514829,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35363782219789,
+        "body": "<p>This incentivizes players to bring basically a Creeper-Shooting turret through their nether portal... It's going to heavily damage their Nether Strucutres as well as their Home Base once the Ghast finally goes through...</p>\n<p>&nbsp;</p>",
+        "author_id": 421021654472,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35271150514829-Modify-the-uneasy-alliance-achievement/comments/35363782219789",
+        "created_at": "2025-03-27T14:33:32Z",
+        "updated_at": "2025-03-27T14:33:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35271150514829/comments/35363782219789.json",
+        "post_id": 35271150514829,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 35803335612045,
+        "body": "<p>I think the ghast that turns into the happy ghast should keep there long tentacles and also be faster.</p>",
+        "author_id": 35803084007821,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35271150514829-Modify-the-uneasy-alliance-achievement/comments/35803335612045",
+        "created_at": "2025-04-12T18:09:06Z",
+        "updated_at": "2025-04-13T18:34:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35271150514829/comments/35803335612045.json",
+        "post_id": 35271150514829,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

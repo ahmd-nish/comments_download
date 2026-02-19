@@ -1,0 +1,802 @@
+[
+  {
+    "post_id": 360074395472,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013314211,
+        "body": "<p>It just makes more sense!</p>",
+        "author_id": 397022858491,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074395472-Elytras-should-look-worn-on-the-chestplate-when-its-broke-like-on-the-item/comments/360013314211",
+        "created_at": "2020-11-03T23:52:47Z",
+        "updated_at": "2020-11-03T23:52:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074395472/comments/360013314211.json",
+        "post_id": 360074395472,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073461971,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013386272,
+        "body": "<p>The copper ore should use the shape model of the first edition of the nether gold ore, and the colors of the second aging stage of copper blocks.</p>",
+        "author_id": 397022858491,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073461971-New-copper-look/comments/360013386272",
+        "created_at": "2020-11-04T00:02:46Z",
+        "updated_at": "2020-11-04T00:42:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073461971/comments/360013386272.json",
+        "post_id": 360073461971,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013756172,
+        "body": "<p>Copper ore DOES need a color change. It needs to be fully green. You do not ever find chunks of pure copper in the earth. Copper ore is made of malachite, which is a green, naturally occurring mineral. Malachite is then smelted down to make copper. You cannot \"find\" copper in real life. If you are interested, check out my post called \"copper ore needs a reskin\". Thank you. It could use a new&nbsp;<em>texture&nbsp;</em>though.</p>",
+        "author_id": 385440894111,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073461971-New-copper-look/comments/360013756172",
+        "created_at": "2020-12-06T06:02:57Z",
+        "updated_at": "2020-12-07T20:01:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073461971/comments/360013756172.json",
+        "post_id": 360073461971,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360072565871,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014491232,
+        "body": "<p>The normal hue is definitely too saturated for underground environments. I didn't really notice until I found underground water beneath a swamp, and was amazed at just how much nicer it looked!</p>",
+        "author_id": 387874651592,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072565871-Gray-water-underground/comments/360014491232",
+        "created_at": "2021-02-24T22:50:29Z",
+        "updated_at": "2021-02-25T00:41:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072565871/comments/360014491232.json",
+        "post_id": 360072565871,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 6172872900749,
+        "body": "<p>Whenever I work underground, this annoys me. The problem is, I don't know how they'd be able to implement this. Simply make water grayer under a certain y coordinate?</p>",
+        "author_id": 6172854309133,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072565871-Gray-water-underground/comments/6172872900749",
+        "created_at": "2022-05-12T01:52:50Z",
+        "updated_at": "2022-05-12T18:22:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072565871/comments/6172872900749.json",
+        "post_id": 360072565871,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360072271851,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012375591,
+        "body": "<p>Hello, this appears to be a non-English post. Below you will find a transcription of the topic being discussed. <br><br><strong>Title:</strong> “Nausea vignette color support” <br><br><strong>Text:</strong> “With 1.16.2, turning distortion effects to 0% now introduces a nausea vignette instead of view distortion. Giving players the ability to decide what color the nausea vignette overlay is would be highly rewarding. With resourcepacks and datapacks, map makers could change the nausea overlay color to red and adjust the level depending on a players health which would function as a very efficient method for visually displaying their health. Similarly, this effect with a blue color could accompany a snowy map and give the player a frosty atmosphere. Having a colored vignette accompany another effect visually is something players rejoice over. Lots of possibilities from a small implementation, and it would be a crowd sensation.”</p>\n<p>- Translated by Admin</p>",
+        "author_id": 393372541031,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072271851-Nausea-vignette-color-support/comments/360012375591",
+        "created_at": "2020-08-12T23:21:04Z",
+        "updated_at": "2020-08-12T23:21:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072271851/comments/360012375591.json",
+        "post_id": 360072271851,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360072099891,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012327711,
+        "body": "<p>No soul fire already deals double the damage of normal fire</p>",
+        "author_id": 391857537812,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072099891-Nausea-Effect-while-standing-in-Soul-Fire/comments/360012327711",
+        "created_at": "2020-08-09T09:01:05Z",
+        "updated_at": "2020-08-09T09:01:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072099891/comments/360012327711.json",
+        "post_id": 360072099891,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071458511,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012413232,
+        "body": "<p>that would be cool! I would also like it if anyone could replace the menu art with a screenshot of their own.</p>",
+        "author_id": 392607135431,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071458511-Custom-Block-Background/comments/360012413232",
+        "created_at": "2020-08-08T00:48:59Z",
+        "updated_at": "2020-08-10T15:52:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071458511/comments/360012413232.json",
+        "post_id": 360071458511,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360070497611,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012163751,
+        "body": "<p>Nice, and when you get hurt you make the sound OR!</p>",
+        "author_id": 388614168851,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070497611-minecraft-pocket-texture-pack-on-bedrock/comments/360012163751",
+        "created_at": "2020-07-26T11:05:35Z",
+        "updated_at": "2020-07-27T16:24:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070497611/comments/360012163751.json",
+        "post_id": 360070497611,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360068119871,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 17813260767501,
+        "body": "<p>Chum Corruption (My Series Based on Peppa Pig) Has a Three-Headed Monster (Uncle Pig)</p>",
+        "author_id": 405638851591,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360068119871-3-Headed-Custom-Skin/comments/17813260767501",
+        "created_at": "2023-07-21T09:57:08Z",
+        "updated_at": "2023-07-21T09:57:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360068119871/comments/17813260767501.json",
+        "post_id": 360068119871,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360068039172,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011320112,
+        "body": "<p>On Java this can already be done by making the \"enchanted_item_glint\" texture compleatly black with a resourspack.</p>",
+        "author_id": 366459351191,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360068039172-Removing-or-Changing-The-Enchantment-Glow/comments/360011320112",
+        "created_at": "2020-07-10T00:35:58Z",
+        "updated_at": "2020-07-10T01:17:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360068039172/comments/360011320112.json",
+        "post_id": 360068039172,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360060513472,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8476933722509,
+        "body": "<p>Background</p>",
+        "author_id": 8476903595149,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360060513472-Change-the-background-menu-title/comments/8476933722509",
+        "created_at": "2022-08-17T06:48:08Z",
+        "updated_at": "2022-08-17T06:48:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360060513472/comments/8476933722509.json",
+        "post_id": 360060513472,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 8476927861261,
+        "body": "<p>Change background\n</p>",
+        "author_id": 8476903595149,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360060513472-Change-the-background-menu-title/comments/8476927861261",
+        "created_at": "2022-08-17T06:48:27Z",
+        "updated_at": "2022-08-17T06:48:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360060513472/comments/8476927861261.json",
+        "post_id": 360060513472,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 8476954453005,
+        "body": "<p>Nether</p>",
+        "author_id": 8476903595149,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360060513472-Change-the-background-menu-title/comments/8476954453005",
+        "created_at": "2022-08-17T06:53:01Z",
+        "updated_at": "2022-08-17T06:53:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360060513472/comments/8476954453005.json",
+        "post_id": 360060513472,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 8476960032653,
+        "body": "<p>Nether\n</p>",
+        "author_id": 8476903595149,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360060513472-Change-the-background-menu-title/comments/8476960032653",
+        "created_at": "2022-08-17T06:53:14Z",
+        "updated_at": "2022-08-17T06:53:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360060513472/comments/8476960032653.json",
+        "post_id": 360060513472,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 8476939202829,
+        "body": "<p>Nether</p>",
+        "author_id": 8476903595149,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360060513472-Change-the-background-menu-title/comments/8476939202829",
+        "created_at": "2022-08-17T06:53:23Z",
+        "updated_at": "2022-08-17T06:53:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360060513472/comments/8476939202829.json",
+        "post_id": 360060513472,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360057076852,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009239912,
+        "body": "<p>They look fine,dont need to change in my opinion.</p>",
+        "author_id": 386757267652,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360057076852--20W06A-Make-Warped-Crimson-Planks-slightly-less-saturated-and-vibrant/comments/360009239912",
+        "created_at": "2020-02-08T01:32:39Z",
+        "updated_at": "2020-02-08T01:40:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360057076852/comments/360009239912.json",
+        "post_id": 360057076852,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360049487731,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007392132,
+        "body": "<p>Makes so much sense</p>\n<p>&nbsp;</p>",
+        "author_id": 386674109091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360049487731-Broken-Elytra-new-model/comments/360007392132",
+        "created_at": "2019-09-02T13:21:50Z",
+        "updated_at": "2019-09-02T13:21:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360049487731/comments/360007392132.json",
+        "post_id": 360049487731,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048316212,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006742272,
+        "body": "<p>Moved to proper category.</p>\n<p>Thanks for your contribution.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048316212-Slim-Hostile-Mobs-Zombies-Drowned-Husks-etc/comments/360006742272",
+        "created_at": "2019-07-26T17:38:24Z",
+        "updated_at": "2019-07-26T17:38:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048316212/comments/360006742272.json",
+        "post_id": 360048316212,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360045266772,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005863252,
+        "body": "<p>Although i get your point, i think the TNT on the side is also a little astethic (no idea how you spell that sorry). And it is also a indication of power (explosions are calculated with TNT(IRL)).&nbsp;</p>",
+        "author_id": 365660413332,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360045266772-Re-texture-TNT/comments/360005863252",
+        "created_at": "2019-05-30T10:36:11Z",
+        "updated_at": "2022-07-14T16:11:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360045266772/comments/360005863252.json",
+        "post_id": 360045266772,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4411601072653,
+        "body": "<p>i personally think that tnt stands more kid friendly as well as that thought is sort of engraved in our minds as the classic cartoons called explosives as 'tnt'. so ye, in my personal opinion tnt sounds more kid friendly than explosives... but i guess dynamite isnt bad either</p>",
+        "author_id": 404352641892,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360045266772-Re-texture-TNT/comments/4411601072653",
+        "created_at": "2021-10-19T05:19:54Z",
+        "updated_at": "2021-10-19T05:19:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360045266772/comments/4411601072653.json",
+        "post_id": 360045266772,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7681017628685,
+        "body": "<p>Your TNT without text looks weird. Just use a resource pack. i'm very against this idea.</p>",
+        "author_id": 399468269872,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360045266772-Re-texture-TNT/comments/7681017628685",
+        "created_at": "2022-07-14T16:14:24Z",
+        "updated_at": "2022-07-14T16:16:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360045266772/comments/7681017628685.json",
+        "post_id": 360045266772,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043441371,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006273012,
+        "body": "<p>This would be a huge improvement over the pop out of no where that currently happens</p>",
+        "author_id": 373547498991,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043441371-Give-dead-mobs-a-animation-when-generating/comments/360006273012",
+        "created_at": "2019-06-30T21:24:42Z",
+        "updated_at": "2019-06-30T21:24:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043441371/comments/360006273012.json",
+        "post_id": 360043441371,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043049032,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006273312,
+        "body": "<p>yea also when a player is in it there arms should move to holding the paddles</p>",
+        "author_id": 368089531032,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043049032-Reverse-animations-for-boats/comments/360006273312",
+        "created_at": "2019-06-30T22:32:27Z",
+        "updated_at": "2019-06-30T22:32:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043049032/comments/360006273312.json",
+        "post_id": 360043049032,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042841751,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 28212857388685,
+        "body": "<p>One slight problem (that doesn't affect me specifically, but would definitely affect some people) is that it would be a lot more annoying to use as a regular block for building, and it would mess up a lot of people's building style</p>",
+        "author_id": 28212813146381,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042841751-Make-Stripped-Logs-to-Grass-Path-Blocks/comments/28212857388685",
+        "created_at": "2024-07-07T23:00:09Z",
+        "updated_at": "2024-07-10T13:51:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042841751/comments/28212857388685.json",
+        "post_id": 360042841751,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360041857512,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004622352,
+        "body": "<p>Comment on the New Textures Thread!&nbsp;</p>",
+        "author_id": 376634431651,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041857512-ReTexture-Potato/comments/360004622352",
+        "created_at": "2019-02-26T01:58:30Z",
+        "updated_at": "2019-02-26T15:53:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041857512/comments/360004622352.json",
+        "post_id": 360041857512,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360004691592,
+        "body": "<p>I thought the potato looked fine as it was.</p>",
+        "author_id": 377580476132,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041857512-ReTexture-Potato/comments/360004691592",
+        "created_at": "2019-03-02T16:39:17Z",
+        "updated_at": "2019-03-02T16:39:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041857512/comments/360004691592.json",
+        "post_id": 360041857512,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005517012,
+        "body": "<p>Sorry but Minecraft can't make everything look realistic.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041857512-ReTexture-Potato/comments/360005517012",
+        "created_at": "2019-05-06T04:42:32Z",
+        "updated_at": "2019-05-06T04:42:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041857512/comments/360005517012.json",
+        "post_id": 360041857512,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360041611451,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004575511,
+        "body": "<p>Moved to Graphics, adjusted title slightly.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041611451-Fire-and-Grass-Burnt-grass/comments/360004575511",
+        "created_at": "2019-02-22T17:46:06Z",
+        "updated_at": "2019-02-22T17:46:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041611451/comments/360004575511.json",
+        "post_id": 360041611451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006741152,
+        "body": "<p>I think it should turn into plain dirt instead, so the grass can actually grow back.</p>",
+        "author_id": 365581309072,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041611451-Fire-and-Grass-Burnt-grass/comments/360006741152",
+        "created_at": "2019-07-26T16:49:50Z",
+        "updated_at": "2021-04-15T04:06:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041611451/comments/360006741152.json",
+        "post_id": 360041611451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360040236851,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004476572,
+        "body": "<p>I like it.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040236851-Cloud-Gazing/comments/360004476572",
+        "created_at": "2019-02-16T00:35:48Z",
+        "updated_at": "2020-08-22T03:53:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040236851/comments/360004476572.json",
+        "post_id": 360040236851,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005798732,
+        "body": "<p>Its technically already possible, did you know that? Clouds can form those formations, but only so rarely that the average Minecrafter will never see it...</p>",
+        "author_id": 365660413332,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040236851-Cloud-Gazing/comments/360005798732",
+        "created_at": "2019-05-26T09:42:24Z",
+        "updated_at": "2020-08-22T03:53:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040236851/comments/360005798732.json",
+        "post_id": 360040236851,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012639052,
+        "body": "<p>Intresting</p>",
+        "author_id": 371787537112,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040236851-Cloud-Gazing/comments/360012639052",
+        "created_at": "2020-08-22T03:53:48Z",
+        "updated_at": "2020-08-22T03:53:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040236851/comments/360012639052.json",
+        "post_id": 360040236851,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360037432892,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 29734296779789,
+        "body": "<p>I had been thinking of this, and had thought of them having a redstone powered animated texture layered on top of the original texture, that would be less laggy than using particles.</p>",
+        "author_id": 21441751789837,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360037432892-Powered-blocks-to-disctretely-emit-red-light-particles/comments/29734296779789",
+        "created_at": "2024-08-28T20:17:16Z",
+        "updated_at": "2024-08-28T20:21:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360037432892/comments/29734296779789.json",
+        "post_id": 360037432892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360025743392,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360002548732,
+        "body": "<p>Moved to graphics, as it represents a visual change request.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360025743392-Dirt-in-pots/comments/360002548732",
+        "created_at": "2018-10-08T20:17:54Z",
+        "updated_at": "2018-10-08T20:17:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360025743392/comments/360002548732.json",
+        "post_id": 360025743392,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360018923171,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 37651397390733,
+        "body": "<p>we need this, for some reason java lets you use any font color, while bedrock is heavilly limited</p>\n<p>&nbsp;</p>",
+        "author_id": 34454275916301,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360018923171-More-text-colors/comments/37651397390733",
+        "created_at": "2025-06-26T19:50:40Z",
+        "updated_at": "2025-06-26T19:55:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360018923171/comments/37651397390733.json",
+        "post_id": 360018923171,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360017018052,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010941771,
+        "body": "<p>I like the original font because it is pixelated and looks perfect\n<br />Force your computer if you want</p>",
+        "author_id": 399035242772,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360017018052-Improve-default-font-appearance-make-it-smoother/comments/360010941771",
+        "created_at": "2020-06-11T08:04:53Z",
+        "updated_at": "2020-10-03T05:37:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360017018052/comments/360010941771.json",
+        "post_id": 360017018052,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360011420972,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360001328432,
+        "body": "<p>It's not clear what you are asking for here....</p>",
+        "author_id": 364950077372,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360011420972-Blindness-Effect/comments/360001328432",
+        "created_at": "2018-06-21T14:14:17Z",
+        "updated_at": "2018-06-21T14:14:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360011420972/comments/360001328432.json",
+        "post_id": 360011420972,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360001339591,
+        "body": "<p>I think he is asking for blindness to not make looking at corners of the screen more effective than looking forward.</p>",
+        "author_id": 365326150692,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360011420972-Blindness-Effect/comments/360001339591",
+        "created_at": "2018-06-21T21:29:29Z",
+        "updated_at": "2022-11-25T11:11:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360011420972/comments/360001339591.json",
+        "post_id": 360011420972,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 10900583982733,
+        "body": "<p>You are right, this also applies to the fog in the Nether. It's worth fixing it.</p>",
+        "author_id": 416461943171,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360011420972-Blindness-Effect/comments/10900583982733",
+        "created_at": "2022-11-25T11:14:22Z",
+        "updated_at": "2022-11-25T11:14:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360011420972/comments/10900583982733.json",
+        "post_id": 360011420972,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

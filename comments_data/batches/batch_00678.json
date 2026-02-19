@@ -1,0 +1,862 @@
+[
+  {
+    "post_id": 360077527692,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014723932,
+        "body": "<p>I am excited to see what grain would do with this.</p>",
+        "author_id": 412057847072,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077527692-Minecraft-8th-block/comments/360014723932",
+        "created_at": "2021-03-23T14:33:23Z",
+        "updated_at": "2023-08-09T10:25:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077527692/comments/360014723932.json",
+        "post_id": 360077527692,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014723952,
+        "body": "<p>Very detailed builds with this</p>",
+        "author_id": 412057847072,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077527692-Minecraft-8th-block/comments/360014723952",
+        "created_at": "2021-03-23T14:34:34Z",
+        "updated_at": "2023-08-09T10:25:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077527692/comments/360014723952.json",
+        "post_id": 360077527692,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37051514670477,
+        "body": "<p>I would call it 1/8th block. It could solve vertical slabs and all kind of creative requests. But... it's kind of really heavy feature. Inventory will blow up. Needs better inventory management.</p>",
+        "author_id": 37051389890317,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077527692-Minecraft-8th-block/comments/37051514670477",
+        "created_at": "2025-05-31T23:05:20Z",
+        "updated_at": "2025-06-01T17:01:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077527692/comments/37051514670477.json",
+        "post_id": 360077527692,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077525752,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014726792,
+        "body": "<p>Bad move!</p>",
+        "author_id": 391049116092,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077525752-curse-of-binding-saddles/comments/360014726792",
+        "created_at": "2021-03-23T18:24:00Z",
+        "updated_at": "2021-04-15T05:17:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077525752/comments/360014726792.json",
+        "post_id": 360077525752,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014664751,
+        "body": "<p>Erase this post immediately, right now!</p>",
+        "author_id": 391049116092,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077525752-curse-of-binding-saddles/comments/360014664751",
+        "created_at": "2021-03-23T18:24:23Z",
+        "updated_at": "2021-04-15T05:17:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077525752/comments/360014664751.json",
+        "post_id": 360077525752,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014828331,
+        "body": "<p>never... plus i cant</p>\n<p>im stuck on a saddle</p>",
+        "author_id": 413062446112,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077525752-curse-of-binding-saddles/comments/360014828331",
+        "created_at": "2021-04-15T05:17:50Z",
+        "updated_at": "2021-04-15T05:18:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077525752/comments/360014828331.json",
+        "post_id": 360077525752,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 11257104427149,
+        "body": "<p>I like it :D</p>",
+        "author_id": 11165279061645,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077525752-curse-of-binding-saddles/comments/11257104427149",
+        "created_at": "2022-12-07T15:23:25Z",
+        "updated_at": "2022-12-07T15:23:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077525752/comments/11257104427149.json",
+        "post_id": 360077525752,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077510632,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014649951,
+        "body": "<p>While on the topic of bookshelves can we please add wood variants.</p>\n<p>Same with chests.</p>",
+        "author_id": 410049006331,
+        "vote_sum": 4,
+        "vote_count": 4,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077510632-Bookshelves/comments/360014649951",
+        "created_at": "2021-03-21T15:29:03Z",
+        "updated_at": "2021-12-19T10:00:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077510632/comments/360014649951.json",
+        "post_id": 360077510632,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077403251,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4404163057677,
+        "body": "<p>Copper wire would also be good to combine with this idea, making a harder-to-break tripwire.<br><a href=\"https://feedback.minecraft.net/hc/en-us/community/posts/360071381691-Metal-String-Wire\" rel=\"nofollow noreferrer\">https://feedback.minecraft.net/hc/en-us/community/posts/360071381691-Metal-String-Wire</a></p>\n<p>I don't think laying carpet over wire would work but I like the idea of being able to send redstone signals through the air unsupported by blocks underneath.</p>\n<p>(There are lots of duplicate threads asking about copper wire but I chose to comment on this one because it provides the most detailed explanation of the poster's idea.)</p>",
+        "author_id": 418019235752,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077403251-Copper-Wire/comments/4404163057677",
+        "created_at": "2021-07-01T12:08:53Z",
+        "updated_at": "2021-07-01T12:55:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077403251/comments/4404163057677.json",
+        "post_id": 360077403251,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4412480006669,
+        "body": "<p>good idea but it should go straight up and down and well look at my post on it and youll see</p>\n<p>&nbsp;</p>",
+        "author_id": 419785634612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077403251-Copper-Wire/comments/4412480006669",
+        "created_at": "2021-11-01T13:42:29Z",
+        "updated_at": "2021-11-01T13:42:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077403251/comments/4412480006669.json",
+        "post_id": 360077403251,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077492832,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 28003230055053,
+        "body": "<p>I like the idea of adding sand to both Husk and Drowned loot tables. Husk should have a higher chance. It just makes sense that either of these mobs might have sand on them because of the environment they spawn in.</p>",
+        "author_id": 401463233571,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077492832-Drowned-or-husk-Sand-farms/comments/28003230055053",
+        "created_at": "2024-06-29T16:18:29Z",
+        "updated_at": "2024-06-29T16:18:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077492832/comments/28003230055053.json",
+        "post_id": 360077492832,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077366491,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014628531,
+        "body": "<p>Who puts egg in lasagna?? Aside from that it’s a solid idea but I feel there should be a bowl like with stew</p>",
+        "author_id": 399734243012,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077366491-Lasagna/comments/360014628531",
+        "created_at": "2021-03-18T05:39:43Z",
+        "updated_at": "2021-03-24T18:54:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077366491/comments/360014628531.json",
+        "post_id": 360077366491,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014736232,
+        "body": "<p><x-zendesk-user data-user-name=\"Edith Fuller\">399734243012</x-zendesk-user>&nbsp;you make a good point, let me change that. I'll update the post and add a bowl to it as well.</p>",
+        "author_id": 400087919372,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077366491-Lasagna/comments/360014736232",
+        "created_at": "2021-03-24T18:54:44Z",
+        "updated_at": "2021-03-24T19:54:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077366491/comments/360014736232.json",
+        "post_id": 360077366491,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 31330290565389,
+        "body": "<p>this actually should be added as a cheeky little reference to Garfield</p>",
+        "author_id": 30718747752973,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077366491-Lasagna/comments/31330290565389",
+        "created_at": "2024-10-24T16:32:56Z",
+        "updated_at": "2024-10-24T16:32:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077366491/comments/31330290565389.json",
+        "post_id": 360077366491,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077451392,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014667112,
+        "body": "<p>Maybe the Gloomshroom, when eaten, will give you the glowing effect. I'm pretty sure the only other way to get the glowing effect without commands is by eating a specific suspicious stew, which for that you need a brown mooshroom, which for that you need mooshrooms, which for that you need a mushroom island, which are very rare. Also, Gloomshrooms could be crafted into a Glowshroom, or maybe even a gloom block, which is similar to Gloomshrooms but instead in block form. Maybe this could craft a special kind of torch, kind of like redstone torches, but a different texture.</p>",
+        "author_id": 412762177771,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077451392-Gloomshroom/comments/360014667112",
+        "created_at": "2021-03-15T16:59:06Z",
+        "updated_at": "2021-09-13T21:54:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077451392/comments/360014667112.json",
+        "post_id": 360077451392,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077434112,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4404078828301,
+        "body": "<p>Amazing idea\n</p>",
+        "author_id": 418034806512,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077434112-Smoked-betroots/comments/4404078828301",
+        "created_at": "2021-06-30T08:30:39Z",
+        "updated_at": "2021-06-30T08:30:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077434112/comments/4404078828301.json",
+        "post_id": 360077434112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077328291,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014585991,
+        "body": "<p>In all seriousness, we could just have javelins added to the game, or something, for a weapon similar to the trident, but that doesn't return to you.</p>",
+        "author_id": 370977842912,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077328291-Make-Loyalty-a-default-Trident-feature-rather-than-an-enchant/comments/360014585991",
+        "created_at": "2021-03-12T02:34:13Z",
+        "updated_at": "2021-03-12T02:34:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077328291/comments/360014585991.json",
+        "post_id": 360077328291,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014597491,
+        "body": "<p>Even if they don't add this, loyalty tridents should&nbsp;<em>at least</em>&nbsp;continue to take up whatever inventory slot you use for them after you throw them. The way it works now, you still lose the trident, and then you have to pick it back up after it flies back to you. This means if you throw it and pick something up in the slot you had your trident in, it's going to return to a different slot, or you'll have a full inventory and have to manage your inventory just to get your trident back. It's just too much unnecessary hassle.</p>\n<p>The worst part is that you can't use loyalty tridents in your offhand slot.</p>",
+        "author_id": 411814952331,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077328291-Make-Loyalty-a-default-Trident-feature-rather-than-an-enchant/comments/360014597491",
+        "created_at": "2021-03-14T00:28:08Z",
+        "updated_at": "2021-03-14T06:13:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077328291/comments/360014597491.json",
+        "post_id": 360077328291,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077387892,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014605492,
+        "body": "<p>I actually think all stone types should work, but I also still want that old idea of generating stone types based on biome rather than having normal stone be the default.</p>",
+        "author_id": 370977842912,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077387892-More-Ways-to-Craft-Stone-Tools/comments/360014605492",
+        "created_at": "2021-03-08T05:47:45Z",
+        "updated_at": "2021-11-23T07:49:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077387892/comments/360014605492.json",
+        "post_id": 360077387892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014631411,
+        "body": "<p><x-zendesk-user data-user-name=\"Zeffi Toto\">370977842912</x-zendesk-user>&nbsp;I agree that some different stone types should generate more frequently in different biomes or have a designated biome to spawn in, and i think using the different &nbsp;stone types to craft would give them more of a purpose at the moment, but I don’t thing it’s that necessary.</p>",
+        "author_id": 412839645852,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077387892-More-Ways-to-Craft-Stone-Tools/comments/360014631411",
+        "created_at": "2021-03-18T15:28:02Z",
+        "updated_at": "2021-11-23T07:50:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077387892/comments/360014631411.json",
+        "post_id": 360077387892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077384092,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014600812,
+        "body": "<p>Recuerda que el juego está ambientado en la edad media por lo tanto las mochilas no existian</p>",
+        "author_id": 412417171631,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077384092-Mochilas/comments/360014600812",
+        "created_at": "2021-03-07T06:48:23Z",
+        "updated_at": "2021-03-07T11:14:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077384092/comments/360014600812.json",
+        "post_id": 360077384092,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077268811,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014595892,
+        "body": "<p>1 in 10 chance is way to much you can better do 1 in 50 chance that would be more realistic</p>",
+        "author_id": 412376852671,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077268811-Diamonds-Should-be-in-patches-of-coal/comments/360014595892",
+        "created_at": "2021-03-06T08:44:24Z",
+        "updated_at": "2021-03-06T14:05:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077268811/comments/360014595892.json",
+        "post_id": 360077268811,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014596112,
+        "body": "<p>Yes, but they should be in coal still at y 12 or so because they form in coal very deep irl.</p>",
+        "author_id": 409325432931,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077268811-Diamonds-Should-be-in-patches-of-coal/comments/360014596112",
+        "created_at": "2021-03-06T09:54:43Z",
+        "updated_at": "2021-03-06T14:10:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077268811/comments/360014596112.json",
+        "post_id": 360077268811,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014596452,
+        "body": "<p>1/100</p>",
+        "author_id": 385788421311,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077268811-Diamonds-Should-be-in-patches-of-coal/comments/360014596452",
+        "created_at": "2021-03-06T13:25:05Z",
+        "updated_at": "2021-03-06T13:25:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077268811/comments/360014596452.json",
+        "post_id": 360077268811,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077261411,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4416598601997,
+        "body": "<p>You should be able to make candlesticks out of different materials: iron, copper, gold, glass</p>",
+        "author_id": 411809954872,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077261411-More-decoratives/comments/4416598601997",
+        "created_at": "2021-12-14T18:34:41Z",
+        "updated_at": "2022-02-04T13:17:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077261411/comments/4416598601997.json",
+        "post_id": 360077261411,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077255311,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014525031,
+        "body": "<p>Links to parts 1 and 2:<br><a href=\"https://feedback.minecraft.net/hc/en-us/community/posts/360077360332\" rel=\"nofollow noreferrer\">https://feedback.minecraft.net/hc/en-us/community/posts/360077360332</a></p>\n<p><a href=\"https://feedback.minecraft.net/hc/en-us/community/posts/360077255271\" rel=\"nofollow noreferrer\">https://feedback.minecraft.net/hc/en-us/community/posts/360077255271</a></p>",
+        "author_id": 385270477052,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077255311-Improving-Furnace-Minecarts-Part-3-Ladders-Acting-as-Rails/comments/360014525031",
+        "created_at": "2021-03-04T18:44:58Z",
+        "updated_at": "2021-03-04T23:39:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077255311/comments/360014525031.json",
+        "post_id": 360077255311,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077251771,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 15028650418061,
+        "body": "<p>i have this idea</p>\n<p>&nbsp;</p>",
+        "author_id": 15028601629837,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077251771-More-grindstone-functionality/comments/15028650418061",
+        "created_at": "2023-04-20T08:04:57Z",
+        "updated_at": "2023-04-20T08:04:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077251771/comments/15028650418061.json",
+        "post_id": 360077251771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 33092347713421,
+        "body": "<p>i had the same idea too</p>",
+        "author_id": 33092118117389,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077251771-More-grindstone-functionality/comments/33092347713421",
+        "created_at": "2024-12-30T13:27:25Z",
+        "updated_at": "2024-12-30T13:27:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077251771/comments/33092347713421.json",
+        "post_id": 360077251771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077343252,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014890931,
+        "body": "<p>You could even make them out of leather boots since the team seems to really want to give them use, like you could craft snow boots with iron ingots and leather boots!!</p>",
+        "author_id": 415591495011,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077343252-Snow-sand-boots/comments/360014890931",
+        "created_at": "2021-04-23T18:24:14Z",
+        "updated_at": "2021-04-24T03:51:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077343252/comments/360014890931.json",
+        "post_id": 360077343252,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077333052,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014492771,
+        "body": "<p>it shouldn't called scratched ore, it should called random ore, 40% you get coal, 20% you get iron if you have iron pickaxe or higher, 20% you get gold if you have iron pickaxe or higher(also gold pickaxe), 10% you get diamond if you have diamond pickaxe or higher, the other 10% is redstone and lapis(emerald if you at in extheme hill).</p>",
+        "author_id": 409233446211,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077333052-The-Scratched-Ore/comments/360014492771",
+        "created_at": "2021-03-01T12:17:13Z",
+        "updated_at": "2021-03-01T14:57:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077333052/comments/360014492771.json",
+        "post_id": 360077333052,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077329592,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014543752,
+        "body": "<p>Like a lily pad or something?</p>",
+        "author_id": 411461528872,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077329592-Nether-Dripleaf/comments/360014543752",
+        "created_at": "2021-02-28T18:32:47Z",
+        "updated_at": "2021-02-28T18:32:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077329592/comments/360014543752.json",
+        "post_id": 360077329592,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077328752,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014488931,
+        "body": "<p>This is a great idea!</p>",
+        "author_id": 405771019752,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077328752-More-Equipment-and-Enchantments/comments/360014488931",
+        "created_at": "2021-02-28T21:03:19Z",
+        "updated_at": "2021-05-09T17:44:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077328752/comments/360014488931.json",
+        "post_id": 360077328752,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360015370091,
+        "body": "<p>I would really love it if their were blankets and separate halters and other cool realistic horse equipment 🙂</p>",
+        "author_id": 416264236171,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077328752-More-Equipment-and-Enchantments/comments/360015370091",
+        "created_at": "2021-05-09T17:44:40Z",
+        "updated_at": "2021-05-09T22:26:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077328752/comments/360015370091.json",
+        "post_id": 360077328752,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077322472,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014478591,
+        "body": "<p>Wool.... Wool does exactly that</p>\n<p>&nbsp;</p>",
+        "author_id": 410851528132,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077322472-Sound-proof-blocks/comments/360014478591",
+        "created_at": "2021-02-26T22:35:38Z",
+        "updated_at": "2021-02-26T22:36:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077322472/comments/360014478591.json",
+        "post_id": 360077322472,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077202291,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4409531755021,
+        "body": "<p>I want this too. Make the observer similar to a repeater, you right click on it to change the pulse length. Default 1 tick, but can set to 2, 3, or 4 ticks, just like a repeater.</p>",
+        "author_id": 420318668111,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077202291-Observer/comments/4409531755021",
+        "created_at": "2021-09-18T12:03:04Z",
+        "updated_at": "2021-09-18T12:03:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077202291/comments/4409531755021.json",
+        "post_id": 360077202291,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077306992,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014505572,
+        "body": "<p>better yet, make this another item piglins will trade, they would give the player better items for rubies compared to gold</p>",
+        "author_id": 408200849071,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077306992-add-rubies-to-the-neather/comments/360014505572",
+        "created_at": "2021-02-26T00:44:16Z",
+        "updated_at": "2021-02-26T17:24:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077306992/comments/360014505572.json",
+        "post_id": 360077306992,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014534472,
+        "body": "<p>good idea though that might make gold less important maybe there could be another mob like a villager in the nether or better yet villagers that build villages in the nether with new crops and instead of emeralds traded rubies</p>",
+        "author_id": 411716917832,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077306992-add-rubies-to-the-neather/comments/360014534472",
+        "created_at": "2021-02-26T22:04:00Z",
+        "updated_at": "2021-02-27T04:41:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077306992/comments/360014534472.json",
+        "post_id": 360077306992,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 15774321881101,
+        "body": "<p>Maybe add ruby block beacons, which adds new effects like fire resistance</p>",
+        "author_id": 15103965586573,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077306992-add-rubies-to-the-neather/comments/15774321881101",
+        "created_at": "2023-05-15T00:38:57Z",
+        "updated_at": "2023-05-18T00:30:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077306992/comments/15774321881101.json",
+        "post_id": 360077306992,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077300272,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014509752,
+        "body": "<p>Nah just doesn’t seem like Minecraft, that’s like adding pizza or burgers&nbsp;</p>",
+        "author_id": 409684102512,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077300272-Coloured-strings-sweaters-pants-caps/comments/360014509752",
+        "created_at": "2021-02-26T14:35:03Z",
+        "updated_at": "2021-02-26T14:35:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077300272/comments/360014509752.json",
+        "post_id": 360077300272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077180591,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014491292,
+        "body": "<p>This sounds a lot like the teleporter from Call of Duty Nazi Zombies that take you straight to pack-a-punch</p>",
+        "author_id": 408200849071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077180591-Teleportal/comments/360014491292",
+        "created_at": "2021-02-24T22:54:39Z",
+        "updated_at": "2021-02-25T00:41:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077180591/comments/360014491292.json",
+        "post_id": 360077180591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014444511,
+        "body": "<p>thx for voting</p>",
+        "author_id": 411791491691,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077180591-Teleportal/comments/360014444511",
+        "created_at": "2021-02-26T12:55:52Z",
+        "updated_at": "2021-09-12T00:07:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077180591/comments/360014444511.json",
+        "post_id": 360077180591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4409001212813,
+        "body": "<p>Thats a fun idea.</p>\n\n<p>I think it should require material found only in the target biome.</p>\n\n<p>This would force the player to find the biome first, then they could return to that biome easier.</p>\n\n<p>However, the player doesnt get to choose which instance of that biome or exactly where the portal takes them. That would keep it from being OP.</p>",
+        "author_id": 419387573612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077180591-Teleportal/comments/4409001212813",
+        "created_at": "2021-09-11T14:06:34Z",
+        "updated_at": "2021-09-12T07:11:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077180591/comments/4409001212813.json",
+        "post_id": 360077180591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077174971,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014479252,
+        "body": "<p>I think that the How it's obtained does matter because Onyx is a crystal and it could be obtained by mining in the caves, so it's actually a new ore, it's not that simple</p>",
+        "author_id": 408475637432,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077174971-A-True-Black-Block-Onyx/comments/360014479252",
+        "created_at": "2021-02-24T09:15:56Z",
+        "updated_at": "2021-02-25T01:31:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077174971/comments/360014479252.json",
+        "post_id": 360077174971,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014492732,
+        "body": "<p>Onyx could be a new ore for the deep dark, like copper is a new ore for the surface. It would mostly be a decorative block, but it could power beacons &amp; could be crafted into an item that reverts insomnia, an armor piece that negates insomnia entirely, or a building block that stops phantoms from spawning within a specific radius.</p>",
+        "author_id": 399265256131,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077174971-A-True-Black-Block-Onyx/comments/360014492732",
+        "created_at": "2021-02-25T01:36:05Z",
+        "updated_at": "2021-02-25T01:36:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077174971/comments/360014492732.json",
+        "post_id": 360077174971,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

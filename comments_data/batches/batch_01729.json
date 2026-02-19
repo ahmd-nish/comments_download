@@ -1,0 +1,727 @@
+[
+  {
+    "post_id": 360077556392,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014786171,
+        "body": "<p>why do you keep calling the block he, and why is this only for java?&nbsp; havent you java people tortured bedrock players enough already?</p>",
+        "author_id": 399769032231,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077556392-Miner-Java/comments/360014786171",
+        "created_at": "2021-04-09T04:39:01Z",
+        "updated_at": "2021-04-09T04:39:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077556392/comments/360014786171.json",
+        "post_id": 360077556392,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077551112,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014683711,
+        "body": "<p>Good, man, it's a genious idea (no correspondent a real life but good (: )</p>",
+        "author_id": 409903611672,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077551112-Sculk-Sensor-and-it-s-interaction-with-wool/comments/360014683711",
+        "created_at": "2021-03-25T21:45:58Z",
+        "updated_at": "2021-03-25T22:39:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077551112/comments/360014683711.json",
+        "post_id": 360077551112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077446371,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014786151,
+        "body": "<p>Maybe these would also power the minecart twice as fast.&nbsp;&nbsp;</p>",
+        "author_id": 399769032231,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077446371-Propulsion-rails/comments/360014786151",
+        "created_at": "2021-04-09T04:36:50Z",
+        "updated_at": "2021-04-09T04:36:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077446371/comments/360014786151.json",
+        "post_id": 360077446371,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077334992,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014551852,
+        "body": "<p>What do you mean by \"affected by Redstone Signals\"? Sculk Sensors detect vibrations and then <em>produce&nbsp;</em>a Redstone Signal, not detect. Do you mean to make a type that only detects doors/trapdoors/fence gates? Would it be a creative or a Survival thing? This just over-complicates things and makes it all confusing and inconsistent. A&nbsp;way to temporarily disable Sculk Sensors would fulfill what you're asking for. A lot of people have this idea because of how hard it is to work around in Redstone contraptions. I'm not a Redstone expert, so I don't know if that would totally work, but it seems pretty balanced and effective to me if you also use wool occlusion along with the temporary disable.</p>",
+        "author_id": 396386292072,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077334992-Redstone-affected-sculk-sensors/comments/360014551852",
+        "created_at": "2021-03-01T17:25:14Z",
+        "updated_at": "2021-03-23T19:24:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077334992/comments/360014551852.json",
+        "post_id": 360077334992,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014559372,
+        "body": "<p>I imagine it would detect redstone signal and after detection it would pass on signal to next blocks and produce a wave signal which could be detected by next block placed in some distance. It wouldn't be able to detects doors or gates becouse they don't produce redstone signal, but after being powerd it could open or close them.In my opinion it would be great addition to all modes but it shouldn't be easy to acquire in survival. I know I could use wool with sculk sensors to disable unwanted noises but it is making things bigger. Hope that it is a bit clearer.</p>",
+        "author_id": 412106037411,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077334992-Redstone-affected-sculk-sensors/comments/360014559372",
+        "created_at": "2021-03-02T14:31:31Z",
+        "updated_at": "2021-03-02T14:31:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077334992/comments/360014559372.json",
+        "post_id": 360077334992,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077333452,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014492131,
+        "body": "<p>it should only be able to go up to 5 signals or so, also it should be quiet expensive since the alternative is a lot of repeaters which get kinda expensive, really god idea.</p>",
+        "author_id": 410530492351,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077333452-Redstone-emitter-multiplied/comments/360014492131",
+        "created_at": "2021-03-01T10:21:23Z",
+        "updated_at": "2021-03-01T11:10:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077333452/comments/360014492131.json",
+        "post_id": 360077333452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077265712,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014623212,
+        "body": "<p>If the new redstone tab was in bedrock, It would make a lot more sense as I don’t want to go through all of the non redstone items! Lucky that you actually have Java, which is less accessible than bedrock, and even has biome locate commands and 1 tick mono stables!</p>",
+        "author_id": 412057847072,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077265712-New-snapshot-redstone-menu/comments/360014623212",
+        "created_at": "2021-03-09T19:39:07Z",
+        "updated_at": "2021-03-10T03:57:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077265712/comments/360014623212.json",
+        "post_id": 360077265712,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077075651,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014431992,
+        "body": "<p>i think this should be added, colored redstone but by adding dye to normal redstone to make colored redstone dust. this will allow you to have the ability to placed colored redstone next to normal redstone (or red redstone). If you place a three long line of blue redstone next to a three long line of red redstone, the two colors won't connect but the blue redstone would connect to the blue redstone and the same with the red. just an iteration</p>",
+        "author_id": 404929590572,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077075651-Redstone-wires-colored/comments/360014431992",
+        "created_at": "2021-02-19T16:28:43Z",
+        "updated_at": "2021-02-19T19:50:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077075651/comments/360014431992.json",
+        "post_id": 360077075651,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077072832,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014623232,
+        "body": "<p>Can’t you just use 2 pistons to push it?&nbsp;</p>",
+        "author_id": 412057847072,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077072832-Pistons-should-be-able-to-push-double-chests-bedrock/comments/360014623232",
+        "created_at": "2021-03-09T19:40:51Z",
+        "updated_at": "2021-03-10T03:57:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077072832/comments/360014623232.json",
+        "post_id": 360077072832,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077022492,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014213991,
+        "body": "<p>I've never seen a German minecraft player other than me but let me translate: This item should fit between 2 blocks and stop Redstone so that the Redstone signal stops there and there is another Redstone strength right next to it that does not affect others.\n</p>",
+        "author_id": 398821503071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077022492-Redstone-Blocker/comments/360014213991",
+        "created_at": "2021-02-04T16:43:20Z",
+        "updated_at": "2021-02-04T16:43:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077022492/comments/360014213991.json",
+        "post_id": 360077022492,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014280612,
+        "body": "<p>isn't this called a block?</p>",
+        "author_id": 398830310812,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077022492-Redstone-Blocker/comments/360014280612",
+        "created_at": "2021-02-05T01:51:23Z",
+        "updated_at": "2021-02-05T01:51:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077022492/comments/360014280612.json",
+        "post_id": 360077022492,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075980171,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014051691,
+        "body": "<p>Two of my posts work perfectly for this topic but i agree there needs to be more redstone for mining.</p>\n<p>&nbsp;</p>",
+        "author_id": 404929590572,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075980171-Advance-Redstone-used-for-Mining/comments/360014051691",
+        "created_at": "2021-01-19T18:49:08Z",
+        "updated_at": "2024-04-27T09:10:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075980171/comments/360014051691.json",
+        "post_id": 360075980171,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076105772,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013904431,
+        "body": "<p>How would this partially address requests for a higher push limit? Wouldn't the piston still be only able to push the same amount, it would just get rid of this block when more blocks are added?</p>",
+        "author_id": 406280981491,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076105772-Unique-block-moving-on-being-broken-by-piston/comments/360013904431",
+        "created_at": "2021-01-02T16:53:24Z",
+        "updated_at": "2021-01-03T22:27:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076105772/comments/360013904431.json",
+        "post_id": 360076105772,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013904471,
+        "body": "<p>Would this block always be broken when it comes in contact with a solid block, or would it push the solid blocks until the push limit is reached?</p>",
+        "author_id": 406280981491,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076105772-Unique-block-moving-on-being-broken-by-piston/comments/360013904471",
+        "created_at": "2021-01-02T16:56:31Z",
+        "updated_at": "2021-01-03T22:27:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076105772/comments/360013904471.json",
+        "post_id": 360076105772,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013904511,
+        "body": "<p>This could be a spring block that compresses, essentially acting as if it were not there, thus allowing pistons to push the blocks and then have the blocks expand again afterwards</p>",
+        "author_id": 406280981491,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076105772-Unique-block-moving-on-being-broken-by-piston/comments/360013904511",
+        "created_at": "2021-01-02T17:01:57Z",
+        "updated_at": "2021-01-03T22:27:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076105772/comments/360013904511.json",
+        "post_id": 360076105772,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075800091,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014051711,
+        "body": "<p>The \"engine\" was a glitch so they removed it.</p>\n<p>&nbsp;</p>\n<p>I think not sure</p>",
+        "author_id": 404929590572,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075800091-redstone-suggestion/comments/360014051711",
+        "created_at": "2021-01-19T18:53:28Z",
+        "updated_at": "2021-01-19T19:26:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075800091/comments/360014051711.json",
+        "post_id": 360075800091,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075723491,
+    "expected_comment_count": 4,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013821951,
+        "body": "<p>It can travel through any trasperennt block like glass</p>",
+        "author_id": 405752985612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075723491-Redstone/comments/360013821951",
+        "created_at": "2020-12-20T22:20:22Z",
+        "updated_at": "2020-12-23T17:54:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075723491/comments/360013821951.json",
+        "post_id": 360075723491,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013891132,
+        "body": "<p>If you power a repeater or a comparator into a block, the signal will already go through</p>",
+        "author_id": 408125430032,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075723491-Redstone/comments/360013891132",
+        "created_at": "2020-12-20T22:53:41Z",
+        "updated_at": "2020-12-23T18:58:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075723491/comments/360013891132.json",
+        "post_id": 360075723491,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 18897578925197,
+        "body": "<p>Already exists</p>",
+        "author_id": 18894696931981,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075723491-Redstone/comments/18897578925197",
+        "created_at": "2023-08-26T12:28:43Z",
+        "updated_at": "2023-08-26T12:28:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075723491/comments/18897578925197.json",
+        "post_id": 360075723491,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075699371,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36214007884813,
+        "body": "<p>This is intresting but it would damage alot of redstone circuits.</p>\n<p>If this happens it should occur only when there is nothing connected to the redstone torch. it would be intresting for some redstone builds, but it would replace dispensers with flint and steel, but could set a fire that does not need a visible dispenser to whatever block(s) the torch is activating.</p>\n<p>Maybe the top and front blocks are the only ones primed for ignition rather than the bottom, backside, and sides. This would offer more predictability which is necessary for complex circuits. If this doesnt happen than maybe redstone tinted fire that doesnt burn things could be implimented for this.</p>",
+        "author_id": 29574754912141,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075699371-Redstone-torches-cause-fire/comments/36214007884813",
+        "created_at": "2025-04-29T16:07:23Z",
+        "updated_at": "2025-04-29T19:31:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075699371/comments/36214007884813.json",
+        "post_id": 360075699371,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075293392,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013715371,
+        "body": "<p>I agree. Skulk seems like the kind of stuff that wants to spread, doesn't it? I don't think it should be crafted, because it's a living thing, but it should definitely be farmable.</p>",
+        "author_id": 394935776992,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075293392-Skulk-recipe-or-farms/comments/360013715371",
+        "created_at": "2020-12-09T01:52:18Z",
+        "updated_at": "2020-12-22T00:33:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075293392/comments/360013715371.json",
+        "post_id": 360075293392,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013720411,
+        "body": "<p>Maybe it will grow out of skulk growths. I don't like the crafting idea though. keep in mind that the skulk sensor is a living creature and you shouldn't be able to craft that.</p>",
+        "author_id": 399471507391,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075293392-Skulk-recipe-or-farms/comments/360013720411",
+        "created_at": "2020-12-09T15:24:51Z",
+        "updated_at": "2020-12-09T15:27:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075293392/comments/360013720411.json",
+        "post_id": 360075293392,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075233592,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013703571,
+        "body": "<p>I would call them Redstone Dampeners/Resistors</p>",
+        "author_id": 406280981491,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075233592-Redstone-Diluters/comments/360013703571",
+        "created_at": "2020-12-08T04:07:28Z",
+        "updated_at": "2020-12-09T15:28:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075233592/comments/360013703571.json",
+        "post_id": 360075233592,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073783832,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013751492,
+        "body": "<p>The problem with your suggestion is that wool already blocks sound from entering a sculk sensor.</p>",
+        "author_id": 406273121171,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073783832-sugestion-to-the-skulk-sensor/comments/360013751492",
+        "created_at": "2020-12-05T15:08:03Z",
+        "updated_at": "2020-12-07T19:59:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073783832/comments/360013751492.json",
+        "post_id": 360073783832,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073663971,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013180232,
+        "body": "<p>Or use the new copper to create wire to do that</p>",
+        "author_id": 394117313011,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073663971-Red-stone-verticaler/comments/360013180232",
+        "created_at": "2020-10-15T18:54:37Z",
+        "updated_at": "2021-02-02T15:14:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073663971/comments/360013180232.json",
+        "post_id": 360073663971,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073532211,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013039371,
+        "body": "<p>If the generator gets charged by powered Redstone lines, then what does it have to do with the lightning rod? If you have to make it conditional with the lightning rod, there would need to be another variable to the already lag-inducing Redstone dust/lines, which would be impractical. Also, the name \"generator\" would be a misnomer. It doesn't generate power as much as accumulate and transmit it... so it would be like about every electronic component but a generator.</p>",
+        "author_id": 372068813172,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073532211-Generator/comments/360013039371",
+        "created_at": "2020-10-09T01:41:23Z",
+        "updated_at": "2020-10-09T05:35:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073532211/comments/360013039371.json",
+        "post_id": 360073532211,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073484511,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013027551,
+        "body": "<p>I logged in here to make the exact same suggestion, but I'm happy someone else beat me to it!&nbsp;</p>\n<p>Yeah like it makes no sense to me that the alien plant looking thing emits redstone. Hooking an observer up to it to detect block update makes sense, but sculk sensor redstone component should be a different block crafted from the sculk.</p>",
+        "author_id": 396200603832,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073484511-Craftable-skulk-blocks/comments/360013027551",
+        "created_at": "2020-10-08T02:00:30Z",
+        "updated_at": "2020-10-08T03:08:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073484511/comments/360013027551.json",
+        "post_id": 360073484511,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071497131,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011375871,
+        "body": "<p>I have read this multiple times and still have no clue what you are proposing, please clarify</p>\n<p>&nbsp;</p>",
+        "author_id": 400619664892,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071497131-Emc-tables/comments/360011375871",
+        "created_at": "2020-07-15T09:32:20Z",
+        "updated_at": "2020-08-12T22:37:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071497131/comments/360011375871.json",
+        "post_id": 360071497131,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012116831,
+        "body": "<p>it's a common mod but I don't know if it really works for vanilla but definitely fun in modded. vanilla just isn't complicated enough to necessitate the ability to convert</p>",
+        "author_id": 400949937091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071497131-Emc-tables/comments/360012116831",
+        "created_at": "2020-07-22T01:59:37Z",
+        "updated_at": "2020-07-26T12:30:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071497131/comments/360012116831.json",
+        "post_id": 360071497131,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071500452,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011342992,
+        "body": "<p class=\"western\">I’m making this comment to present another idea that you can vote for separately: the chorus teleporter block. This block would behave exactly like a chorus fruit when you step on it while active. So you teleport randomly, except if there is a chorus return point block near! It’s rather useless without so I won’t create a new post for it, it belongs to this one. With both blocks this \"emitter\" and the \"receiver\" of the main post, it would be possible to create <strong>a teleportation system in survival </strong><strong>mode</strong><strong> without command blocks</strong> (and without constantly eating chorus fruits).</p>",
+        "author_id": 388217595652,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071500452-Chorus-checkpoint-block-survival-commandless-teleportation-system/comments/360011342992",
+        "created_at": "2020-07-12T12:31:38Z",
+        "updated_at": "2020-09-05T22:09:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071500452/comments/360011342992.json",
+        "post_id": 360071500452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071248091,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011273331,
+        "body": "<p>Great idea Steven</p>\n<p>&nbsp;</p>",
+        "author_id": 400127371092,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071248091-Heart-of-red-stone/comments/360011273331",
+        "created_at": "2020-07-07T08:44:44Z",
+        "updated_at": "2020-07-07T08:44:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071248091/comments/360011273331.json",
+        "post_id": 360071248091,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011283711,
+        "body": "<p>wait so we get a heart of red sandstone? (please note redstone doesn't have a space.)</p>",
+        "author_id": 396354388231,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071248091-Heart-of-red-stone/comments/360011283711",
+        "created_at": "2020-07-07T21:34:58Z",
+        "updated_at": "2020-07-07T21:34:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071248091/comments/360011283711.json",
+        "post_id": 360071248091,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011324772,
+        "body": "<p>I don’t understand... could you please clarify your suggestion? Why would a repeater be needed in the first place? You don’t need one for a normal Redstone power source...</p>",
+        "author_id": 397038232431,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071248091-Heart-of-red-stone/comments/360011324772",
+        "created_at": "2020-07-10T13:40:25Z",
+        "updated_at": "2020-08-11T18:23:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071248091/comments/360011324772.json",
+        "post_id": 360071248091,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360069781812,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011124732,
+        "body": "<p>I believe you want quasi connectivity, as the observer exists in bedrock already and can detect block updates.</p>",
+        "author_id": 386196793312,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360069781812-BUD/comments/360011124732",
+        "created_at": "2020-06-25T00:20:02Z",
+        "updated_at": "2020-06-25T00:20:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360069781812/comments/360011124732.json",
+        "post_id": 360069781812,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360068916192,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011028631,
+        "body": "<p>idk if you understood what i mean cuz im not from a english speaking country, but if you didnt or you just have questions write it here and ill try to give a good answer</p>",
+        "author_id": 393711449572,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360068916192-pusher-doors/comments/360011028631",
+        "created_at": "2020-06-18T20:06:21Z",
+        "updated_at": "2020-06-18T20:49:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360068916192/comments/360011028631.json",
+        "post_id": 360068916192,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

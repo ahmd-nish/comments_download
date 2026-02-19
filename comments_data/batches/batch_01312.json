@@ -1,0 +1,952 @@
+[
+  {
+    "post_id": 35053144157197,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35053158034957,
+        "body": "<div>import turtle</div>\n<p>&nbsp;</p>\n<div>screen = turtle.Screen()</div>\n<div>screen.bgcolor(\"black\")</div>\n<p>&nbsp;</p>\n<div>t = turtle.Turtle()</div>\n<div>t.shape(\"turtle\")</div>\n<div>t.color(\"yellow\")</div>\n<div>&nbsp;</div>\n<div># A Simple Python Program</div>\n<p>&nbsp;</p>\n<div>for _ in range(4) :</div>\n<div>&nbsp; &nbsp; t.forward(1000)</div>\n<div>&nbsp; &nbsp; t.right(90)</div>\n<p>&nbsp;</p>",
+        "author_id": 35053121137805,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35053144157197-I-Done-the-3d-Shareware-order-txt-i-had-to-cut-a-lot-of-stuff-out/comments/35053158034957",
+        "created_at": "2025-03-16T09:39:24Z",
+        "updated_at": "2025-03-16T23:33:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35053144157197/comments/35053158034957.json",
+        "post_id": 35053144157197,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 34049954152589,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 34304400513421,
+        "body": "<p>personally, this is something that I think makes sense since I don't like how the particles straight up disappear, I think for like maybe a setting in the video settings to enable/disable it.</p>",
+        "author_id": 34304307964557,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/34049954152589-fading-leaves/comments/34304400513421",
+        "created_at": "2025-02-15T04:34:23Z",
+        "updated_at": "2025-02-16T21:31:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/34049954152589/comments/34304400513421.json",
+        "post_id": 34049954152589,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 33901371877901,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 33901337676685,
+        "body": "<p>and it works with 9 8 7 6 5 4 3 1 too</p>",
+        "author_id": 33901272544141,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33901371877901--minecraft-should-do-a-thing-where-you-press-Q-plus-random-number/comments/33901337676685",
+        "created_at": "2025-01-30T05:45:45Z",
+        "updated_at": "2025-01-30T05:45:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33901371877901/comments/33901337676685.json",
+        "post_id": 33901371877901,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 31115793482893,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 33324110758925,
+        "body": "<p>With a game like minecraft, no features can satisfy every player. So many things in the Combat snapshots I absolutely wish was in the game (like stackable potions). Nothing can be perfect. But I believe progress in this situation is better then none at all.&nbsp;</p>",
+        "author_id": 30757124695437,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/31115793482893-Mojang-please-do-NOT-continue-the-combat-snapshots/comments/33324110758925",
+        "created_at": "2025-01-08T21:23:18Z",
+        "updated_at": "2025-01-08T21:26:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/31115793482893/comments/33324110758925.json",
+        "post_id": 31115793482893,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 29379401642765,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 30184595936653,
+        "body": "<p>Disagree. The redstone updates needs refining, and just saying \"don't listen to them\" when it affects the Redstone community the most isn't helpful.</p>",
+        "author_id": 30184491576077,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/29379401642765-Don-t-listen-to-the-redstoners/comments/30184595936653",
+        "created_at": "2024-09-12T03:17:05Z",
+        "updated_at": "2024-09-12T14:12:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/29379401642765/comments/30184595936653.json",
+        "post_id": 29379401642765,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 26822555524621,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 26822561033229,
+        "body": "<p>OK sure</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+        "author_id": 25666677128461,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26822555524621-What-Idea-I-have/comments/26822561033229",
+        "created_at": "2024-05-18T00:05:11Z",
+        "updated_at": "2024-05-18T00:05:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26822555524621/comments/26822561033229.json",
+        "post_id": 26822555524621,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25636190135437,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 34622257374733,
+        "body": "<p>There is an option to revert it, programmer art.</p>",
+        "author_id": 32772015081485,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25636190135437-Revert-Menu-Background-Change/comments/34622257374733",
+        "created_at": "2025-02-28T04:01:16Z",
+        "updated_at": "2025-02-28T04:01:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25636190135437/comments/34622257374733.json",
+        "post_id": 25636190135437,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25072479200397,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25075681456525,
+        "body": "<p>That’s a spam post!</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25072479200397-murti/comments/25075681456525",
+        "created_at": "2024-03-17T07:19:19Z",
+        "updated_at": "2024-03-17T07:19:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25072479200397/comments/25075681456525.json",
+        "post_id": 25072479200397,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25055883334669,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 26855189949325,
+        "body": "<p>That’s a spam post! Minecraft is on Xbox.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25055883334669-Minecraft/comments/26855189949325",
+        "created_at": "2024-05-20T01:39:25Z",
+        "updated_at": "2024-05-20T01:39:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25055883334669/comments/26855189949325.json",
+        "post_id": 25055883334669,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 18186163528589,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 18188906573709,
+        "body": "<p>getting a perfect trident on an enchantment table at lvl 30 is 0.7% for riptide and 0.5% for loyalty btw&nbsp;</p>",
+        "author_id": 18185903858701,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/18186163528589-Tridents-in-the-new-snapshot/comments/18188906573709",
+        "created_at": "2023-08-03T12:24:54Z",
+        "updated_at": "2023-08-03T12:24:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/18186163528589/comments/18188906573709.json",
+        "post_id": 18186163528589,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 13697573002253,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 13703237268877,
+        "body": "<p>what's eren</p>",
+        "author_id": 13703088871693,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13697573002253-Eren/comments/13703237268877",
+        "created_at": "2023-03-03T22:46:00Z",
+        "updated_at": "2023-03-03T22:46:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13697573002253/comments/13703237268877.json",
+        "post_id": 13697573002253,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7568075775757,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7723814369677,
+        "body": "<p><strong>Translation</strong></p>\n<p><strong>Better horse armor</strong></p>\n<p>If diamond armor can upgrade to netherite, why not for horse armor? I think its a really good idea.&nbsp;</p>",
+        "author_id": 409233446211,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7568075775757-%E6%9B%B4%E6%A3%92%E7%9A%84%E9%A9%AC%E9%93%A0/comments/7723814369677",
+        "created_at": "2022-07-16T09:33:24Z",
+        "updated_at": "2022-07-16T11:48:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7568075775757/comments/7723814369677.json",
+        "post_id": 7568075775757,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7360232699789,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7362801155085,
+        "body": "<p>It’s Friday, my dude.</p>",
+        "author_id": 423562415371,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7360232699789-its-Wednesday-my-dudes-Snapshot-Day/comments/7362801155085",
+        "created_at": "2022-07-02T02:28:24Z",
+        "updated_at": "2022-07-02T02:28:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7360232699789/comments/7362801155085.json",
+        "post_id": 7360232699789,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7430667187853,
+        "body": "<p>you posted this on a saturday</p>",
+        "author_id": 7430181491597,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7360232699789-its-Wednesday-my-dudes-Snapshot-Day/comments/7430667187853",
+        "created_at": "2022-07-05T17:17:48Z",
+        "updated_at": "2022-07-16T08:23:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7360232699789/comments/7430667187853.json",
+        "post_id": 7360232699789,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4442827216013,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4445900297357,
+        "body": "<p>I have to disagree with one point. I don not understand why we can't have OP armor pieces. And i don't think it is OP to have sneaking fast be compatible with all enchantments on any armor piece is OP frankly. I say putt it on the leggings. They need some love.&nbsp;</p>",
+        "author_id": 417026595731,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4442827216013-Only-being-able-to-apply-swift-sneak-to-leather-boots/comments/4445900297357",
+        "created_at": "2022-02-18T20:26:56Z",
+        "updated_at": "2022-02-21T00:25:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4442827216013/comments/4445900297357.json",
+        "post_id": 4442827216013,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4464352291725,
+        "body": "<p>OP armor is in a sense, game breaking, because the Survival mode should still be a challenge; being completely perfect doesn't give much challenge</p>",
+        "author_id": 419591804091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4442827216013-Only-being-able-to-apply-swift-sneak-to-leather-boots/comments/4464352291725",
+        "created_at": "2022-02-21T21:32:50Z",
+        "updated_at": "2022-03-04T22:45:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4442827216013/comments/4464352291725.json",
+        "post_id": 4442827216013,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4405083689613,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4405101096205,
+        "body": "<p>This idea is cool on paper, but it's kind of already in the game with Redstone, Pistons, Observers, etc. I don't wish to bring negativity but in a way this is kind of already done..?</p>",
+        "author_id": 418206194972,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4405083689613-Power-and-automation/comments/4405101096205",
+        "created_at": "2021-07-15T21:00:54Z",
+        "updated_at": "2021-07-15T21:30:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4405083689613/comments/4405101096205.json",
+        "post_id": 4405083689613,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075846572,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013899712,
+        "body": "<p>Cats don't need to eat?</p>",
+        "author_id": 366765816612,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075846572-cats-get-hungry-too-early/comments/360013899712",
+        "created_at": "2020-12-21T20:22:08Z",
+        "updated_at": "2020-12-22T02:11:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075846572/comments/360013899712.json",
+        "post_id": 360075846572,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013899732,
+        "body": "<p>I think you're mistaking that with the taming mechanic.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075846572-cats-get-hungry-too-early/comments/360013899732",
+        "created_at": "2020-12-21T20:22:34Z",
+        "updated_at": "2020-12-22T02:11:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075846572/comments/360013899732.json",
+        "post_id": 360075846572,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013902392,
+        "body": "<p>Dude, animals don't need to eat in Minecraft&nbsp;</p>",
+        "author_id": 408125430032,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075846572-cats-get-hungry-too-early/comments/360013902392",
+        "created_at": "2020-12-22T02:11:41Z",
+        "updated_at": "2020-12-27T01:11:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075846572/comments/360013902392.json",
+        "post_id": 360075846572,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 36696207992205,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36777908402317,
+        "body": "<p>Good news: as of 25w21a, the limit is now 2147483647 (though it's capped to ~32768 by packet limitations) and you can configure multi-line inputs.</p>",
+        "author_id": 7381282953869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36696207992205-Add-multi-line-inputs-to-dialogs-or-increase-the-length-limit/comments/36777908402317",
+        "created_at": "2025-05-21T01:37:14Z",
+        "updated_at": "2025-05-21T18:59:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36696207992205/comments/36777908402317.json",
+        "post_id": 36696207992205,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 36948638634509,
+        "body": "<p>but, if a player write on multiple lines, in the submit, there is automatly some \"\\n\" or... ??</p>",
+        "author_id": 1905446675847,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36696207992205-Add-multi-line-inputs-to-dialogs-or-increase-the-length-limit/comments/36948638634509",
+        "created_at": "2025-05-27T19:24:49Z",
+        "updated_at": "2025-05-27T19:35:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36696207992205/comments/36948638634509.json",
+        "post_id": 36696207992205,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 36694174818061,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36948838901517,
+        "body": "<p>Yes ! I have the same problem, I had the idea with a \"submit\" command that's works like a function but with non-op permission, but you idea is better for dialogs <em>(but if we want to submit inputs without dialog (to use \"submit\" as a custom command for anything, my idea is better, and the submit command can be used in dalogs in command templates)</em></p>",
+        "author_id": 1905446675847,
+        "vote_sum": 6,
+        "vote_count": 6,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36694174818061-Run-dialog-actions-with-datapack-permission-level-not-player-level/comments/36948838901517",
+        "created_at": "2025-05-27T19:30:24Z",
+        "updated_at": "2025-05-28T18:55:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36694174818061/comments/36948838901517.json",
+        "post_id": 36694174818061,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 36950616304909,
+        "body": "<p>An alternate idea would be to store the data to storage, but really it's absurd to me that running anything from a dialog isn't run at a high permission level by default. A dialog can only be created by the server, a datapack, or an opped player. I can only assume this is to prevent players from abusing the input structure to run server level commands, but if the dialog can be exploited, that's the fault of whoever created the dialog. Similar systems with macros could already exist before dialogs with the exact same potential for exploits. Scary pop-ups and limiting features doesn't protect server owners, it impedes the datapack creator's ability to effectively use new features and requires their datapacks to rely on third party server side mods to function. The addition of dialogs was a huge win for datpack creators, but this unnecessary limitation quite literally makes it impossible to use dialogs for any vanilla survival use case. I really hope they do something, anything to allow inputs to be used in dialogs that will be seen by non-opped players.</p>",
+        "author_id": 9316205786765,
+        "vote_sum": 9,
+        "vote_count": 9,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36694174818061-Run-dialog-actions-with-datapack-permission-level-not-player-level/comments/36950616304909",
+        "created_at": "2025-05-27T20:19:36Z",
+        "updated_at": "2025-05-27T20:57:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36694174818061/comments/36950616304909.json",
+        "post_id": 36694174818061,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 36968086091789,
+        "body": "<p>An alternative, simpler solution would be to raise the default permission level of commands run by the \"run_command\" action from 0 to 2, no matter the user's current permission level.<br>I think the confirmation dialog at these permission levels as well as the permission level set to 0 are pretty nonsensical since level 2 is required to show a dialog anyways, therefore attempting privilege escalation via dialogs would be useless. Also consider making making all of the above world/server options for those who want to change this behaviour on their own accord.</p>",
+        "author_id": 23555239086477,
+        "vote_sum": 5,
+        "vote_count": 5,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36694174818061-Run-dialog-actions-with-datapack-permission-level-not-player-level/comments/36968086091789",
+        "created_at": "2025-05-28T14:29:37Z",
+        "updated_at": "2025-05-28T19:08:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36694174818061/comments/36968086091789.json",
+        "post_id": 36694174818061,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37473515590925,
+        "body": "<p>This limitation essentially makes dialogs useless for me. I suggest removing this limitation or at the very least, make an option somewhere in the dialog code to allow the run_command to bypass permissions. I spent hours making this really cool custom input system for my friends to use on our server, only to be told they can't use it without permissions.</p>",
+        "author_id": 12528562774925,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36694174818061-Run-dialog-actions-with-datapack-permission-level-not-player-level/comments/37473515590925",
+        "created_at": "2025-06-18T22:09:06Z",
+        "updated_at": "2025-06-18T22:15:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36694174818061/comments/37473515590925.json",
+        "post_id": 36694174818061,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38535365609229,
+        "body": "<p>I think letting `/execute store result` store compunds (and strings, arrays, etc), with /dialog returning one with all keys would be even better, but yes, this would be great</p>",
+        "author_id": 38533902362125,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36694174818061-Run-dialog-actions-with-datapack-permission-level-not-player-level/comments/38535365609229",
+        "created_at": "2025-08-03T16:34:19Z",
+        "updated_at": "2025-08-03T18:15:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36694174818061/comments/38535365609229.json",
+        "post_id": 36694174818061,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4404954594317,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4404979003405,
+        "body": "<p>The height of the hills should be affected by biomes. For example, plains should usually be a bit flatter than other biomes.</p>",
+        "author_id": 412314468832,
+        "vote_sum": 6,
+        "vote_count": 6,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404954594317-First-1-18-snapshot-Hills-everywhere-no-flatness/comments/4404979003405",
+        "created_at": "2021-07-14T00:38:00Z",
+        "updated_at": "2022-07-08T20:33:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404954594317/comments/4404979003405.json",
+        "post_id": 4404954594317,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4405012856589,
+        "body": "<p>less water in caves and less lush caves more ordinary caves ad the bioms shuld be more flat like plains should be flatter and muntains more higher</p>",
+        "author_id": 418664371871,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404954594317-First-1-18-snapshot-Hills-everywhere-no-flatness/comments/4405012856589",
+        "created_at": "2021-07-14T17:57:45Z",
+        "updated_at": "2021-07-19T17:47:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404954594317/comments/4405012856589.json",
+        "post_id": 4404954594317,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4405100406285,
+        "body": "<p>Noticed this was a bit of a problem too.</p>",
+        "author_id": 418431164952,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404954594317-First-1-18-snapshot-Hills-everywhere-no-flatness/comments/4405100406285",
+        "created_at": "2021-07-15T20:47:39Z",
+        "updated_at": "2021-07-22T16:50:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404954594317/comments/4405100406285.json",
+        "post_id": 4404954594317,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4405145508621,
+        "body": "<p>Underground lava lakes and lava should be more common because that will make the number 1 rule of Minecraft more followed.</p>",
+        "author_id": 418450669132,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404954594317-First-1-18-snapshot-Hills-everywhere-no-flatness/comments/4405145508621",
+        "created_at": "2021-07-16T07:32:18Z",
+        "updated_at": "2021-07-16T12:47:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404954594317/comments/4405145508621.json",
+        "post_id": 4404954594317,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4405203164301,
+        "body": "<p>Well I play in Survival and found a 10 Block Lapis vein on&nbsp; height 62 which is to overpowered. And I also found a bug cause I am hearing random footsteps even if I stand still. I checked multiple times even with spectatormode, but there was no Mob near me.</p>",
+        "author_id": 418727093271,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404954594317-First-1-18-snapshot-Hills-everywhere-no-flatness/comments/4405203164301",
+        "created_at": "2021-07-17T07:20:04Z",
+        "updated_at": "2021-07-19T17:47:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404954594317/comments/4405203164301.json",
+        "post_id": 4404954594317,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077180631,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4414274719885,
+        "body": "<p>ooo good idea!</p>",
+        "author_id": 1902146125307,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077180631-Another-use-of-Amethyst/comments/4414274719885",
+        "created_at": "2021-11-21T19:52:25Z",
+        "updated_at": "2022-09-13T00:51:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077180631/comments/4414274719885.json",
+        "post_id": 360077180631,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074796452,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013606992,
+        "body": "<p>I think this should only be on hard difficulty.&nbsp;</p>",
+        "author_id": 405055555411,
+        "vote_sum": 4,
+        "vote_count": 4,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074796452-Warden-death-idea/comments/360013606992",
+        "created_at": "2020-11-23T18:28:03Z",
+        "updated_at": "2021-12-21T20:25:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074796452/comments/360013606992.json",
+        "post_id": 360074796452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013658632,
+        "body": "<p>Why would anyone kill the warden? It doesn't have a item drop or achievement. I think that before they add something like this they should add an advancement like. \"The Impossible\" or something to make you feel at least a little bit of achievement for your feat of bravery.</p>",
+        "author_id": 396231878211,
+        "vote_sum": 6,
+        "vote_count": 6,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074796452-Warden-death-idea/comments/360013658632",
+        "created_at": "2020-11-29T18:34:40Z",
+        "updated_at": "2021-12-21T20:25:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074796452/comments/360013658632.json",
+        "post_id": 360074796452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074383051,
+    "expected_comment_count": 6,
+    "actual_comment_count": 6,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013406752,
+        "body": "<p>The only changes I would want to bundles is having non-stackables use 16 points worth of the bundle's space.</p>\n<ul>\n<li>Bundles' secondary use is gift bags. These change would allow you gift your friend a full set of armour/tools in a bundle&nbsp;</li>\n<li>Carrying equipment is easier because you've free up slots for goodies found during your treasure</li>\n<li>You can theme bundles for an adventure. For example, an archery bundle that contains 1 bow, 1 crossbow and 32 arrows</li>\n</ul>",
+        "author_id": 367624539812,
+        "vote_sum": 4,
+        "vote_count": 4,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074383051-Cave-update-feedback-Put-atleast-4-or-2-non-stackable-items-in-bundles/comments/360013406752",
+        "created_at": "2020-11-05T15:39:16Z",
+        "updated_at": "2021-02-02T21:00:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074383051/comments/360013406752.json",
+        "post_id": 360074383051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013333871,
+        "body": "<p>I like this idea and there are things like the telescope that should be stackable in a bundle but for things such as armor, shouldn't be allowed so it won't be overpowered.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074383051-Cave-update-feedback-Put-atleast-4-or-2-non-stackable-items-in-bundles/comments/360013333871",
+        "created_at": "2020-11-05T16:31:11Z",
+        "updated_at": "2020-12-16T01:47:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074383051/comments/360013333871.json",
+        "post_id": 360074383051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013408472,
+        "body": "<p>I think a maximum of 1 non-stackable item should be allowed in a bundle due to the fact that totems of undying and enchanted armour/tools are unstackable for a reason. Unstackables should be worth 32 items though so there would still be space for other items (this feature would be useless otherwise).</p>",
+        "author_id": 405920270172,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074383051-Cave-update-feedback-Put-atleast-4-or-2-non-stackable-items-in-bundles/comments/360013408472",
+        "created_at": "2020-11-05T17:52:02Z",
+        "updated_at": "2020-12-16T01:47:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074383051/comments/360013408472.json",
+        "post_id": 360074383051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013407271,
+        "body": "<p>Would really just like to see this feature include 64 stackable pearls, that might be considered OP though? I wish you could put more than 1 potion in a bundle though, maybe between 4 and 16 in a bundle? Although I think the Combat Snapshot 8 included stackable potions(up to 16)?</p>",
+        "author_id": 406275058351,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074383051-Cave-update-feedback-Put-atleast-4-or-2-non-stackable-items-in-bundles/comments/360013407271",
+        "created_at": "2020-11-12T03:25:16Z",
+        "updated_at": "2020-12-16T01:47:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074383051/comments/360013407271.json",
+        "post_id": 360074383051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013739112,
+        "body": "<p>i always thought armor and tools were only unstackable because of their damage value.<br>i for one would love to be able to put a spare set of armor or tools into a bundle.</p>",
+        "author_id": 407337626552,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074383051-Cave-update-feedback-Put-atleast-4-or-2-non-stackable-items-in-bundles/comments/360013739112",
+        "created_at": "2020-12-04T08:37:19Z",
+        "updated_at": "2020-12-07T19:50:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074383051/comments/360013739112.json",
+        "post_id": 360074383051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013756072,
+        "body": "<p>Especially since we may need to carry around two sets of armor (one for hot environments and one for cold), a Bundle would make that much less of an issue if you can carry a full set of armor in a bundle. &nbsp;I like the idea of non-stackable being able to be bundled but taking up 16 slots so you could have up to 4 items which is perfect for a set of armor. &nbsp;Similarly tools should be able to be bundled.</p>",
+        "author_id": 400719146631,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074383051-Cave-update-feedback-Put-atleast-4-or-2-non-stackable-items-in-bundles/comments/360013756072",
+        "created_at": "2020-12-06T05:54:36Z",
+        "updated_at": "2020-12-16T01:47:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074383051/comments/360013756072.json",
+        "post_id": 360074383051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076906051,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014219491,
+        "body": "<p>this feature is a must</p>\n<p>&nbsp;</p>",
+        "author_id": 375763625431,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076906051-Spore-Blossoms-placable-upright/comments/360014219491",
+        "created_at": "2021-02-05T01:56:19Z",
+        "updated_at": "2023-03-11T00:46:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076906051/comments/360014219491.json",
+        "post_id": 360076906051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 5735785317261,
+        "body": "<p>it would also be so useful if you could turn them on and off maybe by powering them with redstone.</p>",
+        "author_id": 393403001312,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076906051-Spore-Blossoms-placable-upright/comments/5735785317261",
+        "created_at": "2022-04-23T19:15:11Z",
+        "updated_at": "2023-03-11T00:46:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076906051/comments/5735785317261.json",
+        "post_id": 360076906051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074378091,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013415471,
+        "body": "<p>This would totally add more ambience for amethyst!&nbsp;</p>",
+        "author_id": 366765816612,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074378091-Amethyst-blocks-or-crystals-should-be-animated-and-or-have-particles/comments/360013415471",
+        "created_at": "2020-11-12T18:19:29Z",
+        "updated_at": "2021-03-12T20:07:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074378091/comments/360013415471.json",
+        "post_id": 360074378091,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014180972,
+        "body": "<p>This is a wonderful idea. It doesn't need to be complex, maybe like a sparkle effect, but it would have so much of an affect.</p>",
+        "author_id": 407415481431,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074378091-Amethyst-blocks-or-crystals-should-be-animated-and-or-have-particles/comments/360014180972",
+        "created_at": "2021-01-26T00:00:00Z",
+        "updated_at": "2021-03-12T20:07:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074378091/comments/360014180972.json",
+        "post_id": 360074378091,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4403859969933,
+        "body": "<p>They could also expand this sparkling idea with water, maybe depending on the light level shining on it, but only a subtle sparkle overall so it's not too striking (hey the options are also there if you don't like it you could turn it off or even tweak its intensity like in shaders). I don't know if this is already a thing for ores, I haven't paid much attention to that aspect. I've always secretly hoped for a rare special forest biome they could have the water have this \"magical\" effect too, a sort of fantasy theme to it. Anyways that's my rant over, thanks!</p>",
+        "author_id": 417948877272,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074378091-Amethyst-blocks-or-crystals-should-be-animated-and-or-have-particles/comments/4403859969933",
+        "created_at": "2021-06-27T01:03:01Z",
+        "updated_at": "2021-06-27T10:43:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074378091/comments/4403859969933.json",
+        "post_id": 360074378091,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4406515443469,
+        "body": "<p>Think you</p>",
+        "author_id": 418942728192,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074378091-Amethyst-blocks-or-crystals-should-be-animated-and-or-have-particles/comments/4406515443469",
+        "created_at": "2021-08-05T15:36:29Z",
+        "updated_at": "2021-08-05T15:36:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074378091/comments/4406515443469.json",
+        "post_id": 360074378091,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4406515469197,
+        "body": "<p>Think you</p>",
+        "author_id": 418942728192,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074378091-Amethyst-blocks-or-crystals-should-be-animated-and-or-have-particles/comments/4406515469197",
+        "created_at": "2021-08-05T15:37:35Z",
+        "updated_at": "2021-08-05T15:37:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074378091/comments/4406515469197.json",
+        "post_id": 360074378091,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074342031,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 23786966207501,
+        "body": "<p>There should also be Jukeboxes in Minecarts.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074342031-Note-Blocks-in-Minecarts-A-new-way-to-make-music/comments/23786966207501",
+        "created_at": "2024-02-02T22:08:02Z",
+        "updated_at": "2024-02-02T22:08:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074342031/comments/23786966207501.json",
+        "post_id": 360074342031,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 24579010181517,
+        "body": "<p>Should also work when on a powered rail, and sustain the note depending on how long the cart stays on the rail, or however long the rail is powered.</p>",
+        "author_id": 17066190726669,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074342031-Note-Blocks-in-Minecarts-A-new-way-to-make-music/comments/24579010181517",
+        "created_at": "2024-02-29T20:23:00Z",
+        "updated_at": "2024-02-29T20:23:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074342031/comments/24579010181517.json",
+        "post_id": 360074342031,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

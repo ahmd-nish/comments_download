@@ -1,0 +1,1012 @@
+[
+  {
+    "post_id": 4418275520525,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 18853966881933,
+        "body": "<p>To get a birthday gift you need to show your passport. And get a cool cape like the migration cape because I know every one wants it.</p>",
+        "author_id": 18853869976333,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4418275520525-Have-a-birthday-Minecraft-will-ask-when-your-birthday-is/comments/18853966881933",
+        "created_at": "2023-08-24T22:53:33Z",
+        "updated_at": "2023-12-13T19:33:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4418275520525/comments/18853966881933.json",
+        "post_id": 4418275520525,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 26828268512781,
+        "body": "<p>Maybe the birthday gift could be free Minecoins?</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4418275520525-Have-a-birthday-Minecraft-will-ask-when-your-birthday-is/comments/26828268512781",
+        "created_at": "2024-05-18T11:26:10Z",
+        "updated_at": "2024-05-18T15:25:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4418275520525/comments/26828268512781.json",
+        "post_id": 4418275520525,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4412962777613,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4412988533005,
+        "body": "<p>also macOS</p>",
+        "author_id": 421642701371,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4412962777613-minecraft-game-pass-for-linux/comments/4412988533005",
+        "created_at": "2021-11-07T19:07:35Z",
+        "updated_at": "2021-11-07T19:07:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4412962777613/comments/4412988533005.json",
+        "post_id": 4412962777613,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4413092067341,
+        "body": "<p>Dude Xbox Game Pass for PC is exclusive to Windows (10/11), it's literally made by Microsoft what do you expect? Besides Bedrock for PC is exclusive to Windows (10/11).</p>",
+        "author_id": 405761290671,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4412962777613-minecraft-game-pass-for-linux/comments/4413092067341",
+        "created_at": "2021-11-09T03:26:20Z",
+        "updated_at": "2021-11-09T07:26:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4412962777613/comments/4413092067341.json",
+        "post_id": 4412962777613,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4414958606605,
+        "body": "<p>In the name of game pass there is PC not linux/macos, By \"PC\" then mean windows (10/11)</p>\n<p>So this won't be done.</p>",
+        "author_id": 402760011452,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4412962777613-minecraft-game-pass-for-linux/comments/4414958606605",
+        "created_at": "2021-11-28T10:15:02Z",
+        "updated_at": "2021-11-28T10:15:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4412962777613/comments/4414958606605.json",
+        "post_id": 4412962777613,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077483652,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014962212,
+        "body": "<p>Thank you for saying that...</p>\n<p>I mean, I get the idea of allowing email logins, which was supposed to let people change usernames, but then there's this Microsoft account thing which is, for all that I can figure out, exactly the same.</p>\n<p>We already have UUIDs to identify players. We don't need the new \"solution\"; if it's badly implemented or hard to use... that's not actually the system's fault.</p>\n<p>There's a lot of personal information needed to get a Microsoft account, which I'm not happy about. At the first chance I'm planning on deleting mine (I mean, it has my real-life name, not just a username!) once I don't need it. Having to keep it around just to play Minecraft will be really disappointing for me.</p>\n<p>On that note, if you found out how to launch the <em>new</em> launcher with Java -jar I'd LOVE to know. I'm <strong>okay</strong> with random Java blobs, but not platform-specific EXEs. I thought that was the <em>point</em> of using Java. (and it's still called the <strong>Java</strong> edition)</p>\n<p>(Yes, don't spoil the argument with the libraries that are platform-specific that are used by the game like LWJGL. I'm aware of them, but those are external and can be managed)</p>",
+        "author_id": 415603199791,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077483652-A-case-study-in-bad-design/comments/360014962212",
+        "created_at": "2021-04-24T02:04:47Z",
+        "updated_at": "2023-08-17T09:59:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077483652/comments/360014962212.json",
+        "post_id": 360077483652,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360015466312,
+        "body": "<p>i agree but i also disagree. I agree with having lots of personal information on that account and after all, its just a game mostly children play (no offense) and there isnt any actual reason for migrating. I kinda disagree because with MS accounts we would be able to have friends tabs in the launcher and we would have, the most important feature of all, C A P E S!!!</p>",
+        "author_id": 386847087111,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077483652-A-case-study-in-bad-design/comments/360015466312",
+        "created_at": "2021-05-12T13:20:45Z",
+        "updated_at": "2021-05-12T13:35:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077483652/comments/360015466312.json",
+        "post_id": 360077483652,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4413714454029,
+        "body": "<p>Testing launcher on an human and acting on findings would likely make it better.</p>",
+        "author_id": 421778342792,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077483652-A-case-study-in-bad-design/comments/4413714454029",
+        "created_at": "2021-11-16T19:12:33Z",
+        "updated_at": "2021-11-16T22:53:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077483652/comments/4413714454029.json",
+        "post_id": 360077483652,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 14005466259085,
+        "body": "<p>100% the most annoying freaking process in the world. I just decided not to play. Maybe I’ll figure it out in a few months. </p>",
+        "author_id": 14005472036365,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077483652-A-case-study-in-bad-design/comments/14005466259085",
+        "created_at": "2023-03-15T00:45:40Z",
+        "updated_at": "2023-03-16T01:19:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077483652/comments/14005466259085.json",
+        "post_id": 360077483652,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 16824256270221,
+        "body": "<p>I will acknowledge this is a first world problem. And I will say that I could not agree more with the original poster. <em>Microsoft</em>. Seriously. I just spent over three hours trying to figure out *which configuration* of account sign-ins, email verifications, PINs, passwords, and purchase approvals through Microsoft, Gmail, MSN, Minecraft, Mojang, and <em>I can't now remember what other accounts </em>would make it possible just for <em>my 13 year old to play Minecraft</em>. Loathe is the correct word. You have known now for some time (two years, at least) how bad your process is, and yet you continue to just sit back and expect parents to submit themselves to your ridiculous version of Minecraft sign-up/migration Wipeout. How many techs, coders, managers, \"customer experience specialists\", and others are you paying to just watch this unfold, over and over, without doing a thing to fix it? I'm going to go throw up now.</p>",
+        "author_id": 16823805656845,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077483652-A-case-study-in-bad-design/comments/16824256270221",
+        "created_at": "2023-06-16T20:03:25Z",
+        "updated_at": "2023-08-17T09:59:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077483652/comments/16824256270221.json",
+        "post_id": 360077483652,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076429152,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014146451,
+        "body": "<p>That seems pretty good. But Idk</p>",
+        "author_id": 407112513292,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076429152-Upload-all-local-saves-in-OneDrive-That-way-user-can-t-loose-old-saves/comments/360014146451",
+        "created_at": "2021-01-28T20:12:50Z",
+        "updated_at": "2021-01-28T20:12:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076429152/comments/360014146451.json",
+        "post_id": 360076429152,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4405430573069,
+        "body": "<p>it would be really good since many players i know do this manually already so some automatic option will be welcomed</p>\n<p>&nbsp;</p>",
+        "author_id": 418792787591,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076429152-Upload-all-local-saves-in-OneDrive-That-way-user-can-t-loose-old-saves/comments/4405430573069",
+        "created_at": "2021-07-20T23:04:39Z",
+        "updated_at": "2021-07-21T00:06:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076429152/comments/4405430573069.json",
+        "post_id": 360076429152,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 28341995475469,
+        "body": "<p>Android users need this quite badly.</p>",
+        "author_id": 27176951781133,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076429152-Upload-all-local-saves-in-OneDrive-That-way-user-can-t-loose-old-saves/comments/28341995475469",
+        "created_at": "2024-07-11T21:02:01Z",
+        "updated_at": "2024-07-11T21:02:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076429152/comments/28341995475469.json",
+        "post_id": 360076429152,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074404411,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013741332,
+        "body": "<p>Is this Bedrock Edition or Java Edition?</p>",
+        "author_id": 401419594891,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074404411-Launcher-to-switch-between-different-versions/comments/360013741332",
+        "created_at": "2020-12-04T13:38:40Z",
+        "updated_at": "2020-12-15T00:06:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074404411/comments/360013741332.json",
+        "post_id": 360074404411,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 6091261896845,
+        "body": "<p>We should be able to switch to different versions because some people have to be different versions to be on multiplayer server and I do to I have to be 1.18 - 1.17.1 so I can do pokemon on minecraft please and thank you. - rowdyboys14</p>",
+        "author_id": 6091204833165,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074404411-Launcher-to-switch-between-different-versions/comments/6091261896845",
+        "created_at": "2022-05-08T23:58:40Z",
+        "updated_at": "2022-05-08T23:58:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074404411/comments/6091261896845.json",
+        "post_id": 360074404411,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 11026785020941,
+        "body": "<p>This is an issue everytime minecraft updates. We should be able to switch versions just like java edition. I get complaints about updates everytime they come out and it becomes a massive headache for running servers when we have to rely on 3rd party software which doesn't update the second a new protocol update is released, unless we rely on java edition with geyser, which if i'm correct Mojang frowns upon in the first place.</p>",
+        "author_id": 414192700732,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074404411-Launcher-to-switch-between-different-versions/comments/11026785020941",
+        "created_at": "2022-11-30T14:51:27Z",
+        "updated_at": "2022-12-16T09:36:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074404411/comments/11026785020941.json",
+        "post_id": 360074404411,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048125231,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007405411,
+        "body": "<p>Absolutely amazing idea! I'd love to see this in the future in the launcher... Maybe add some settings for every single instance (icon, name, description, version, possibly website or url to check for updates)\n</p>",
+        "author_id": 386623094872,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048125231-Allow-for-multiple-instances-of-Minecraft/comments/360007405411",
+        "created_at": "2019-09-03T12:20:31Z",
+        "updated_at": "2019-09-04T02:25:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048125231/comments/360007405411.json",
+        "post_id": 360048125231,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360007405192,
+        "body": "<p>Also that could bring comunity modpacks to the launcher so players can share their packs and download it easier by just clicking download comunity instance</p>",
+        "author_id": 386623094872,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048125231-Allow-for-multiple-instances-of-Minecraft/comments/360007405192",
+        "created_at": "2019-09-03T12:22:22Z",
+        "updated_at": "2019-09-03T12:22:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048125231/comments/360007405192.json",
+        "post_id": 360048125231,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360047745111,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008760291,
+        "body": "<p>This looks 100 times better!</p>",
+        "author_id": 387346819311,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047745111-Use-Transparent-Title-Bar-on-macOS/comments/360008760291",
+        "created_at": "2019-12-20T19:10:57Z",
+        "updated_at": "2021-11-30T17:04:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047745111/comments/360008760291.json",
+        "post_id": 360047745111,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4415685699213,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4416379361421,
+        "body": "<p>I agree. The old launcher allowed for quicker account swapping. Now if I want to log in with one of my alts and my main account it takes WAY longer. Before updating the launcher I did not have this issue.</p>",
+        "author_id": 1904046270907,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4415685699213-Easy-Account-Swapping/comments/4416379361421",
+        "created_at": "2021-12-12T19:12:37Z",
+        "updated_at": "2022-03-06T04:45:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4415685699213/comments/4416379361421.json",
+        "post_id": 4415685699213,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4570082085901,
+        "body": "<p>The lack of easy account swapping is why I haven't switched over to the new launcher. It is identical in nearly every other way, but account switching is so slow that I never want to use the new launcher.</p>",
+        "author_id": 396230561051,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4415685699213-Easy-Account-Swapping/comments/4570082085901",
+        "created_at": "2022-03-03T02:17:58Z",
+        "updated_at": "2022-03-06T04:45:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4415685699213/comments/4570082085901.json",
+        "post_id": 4415685699213,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4621382426509,
+        "body": "<p>I agree, after swapping my account to a microsoft account I completely lost access to two accounts. I would try to log in through microsoft where it would fail and then I wouldn't be able to swap to the other accounts through the launcher either. I expect some type of customer support but have received none.</p>",
+        "author_id": 4621381539213,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4415685699213-Easy-Account-Swapping/comments/4621382426509",
+        "created_at": "2022-03-06T04:44:49Z",
+        "updated_at": "2022-03-11T00:41:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4415685699213/comments/4621382426509.json",
+        "post_id": 4415685699213,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 18634731823885,
+        "body": "<p>We have 3 accounts here. It should become easy enough for my kids to switch to 'their' account so they aren't forced to just use my account and then proceed to yeet my netherite tools.</p>",
+        "author_id": 416225225231,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4415685699213-Easy-Account-Swapping/comments/18634731823885",
+        "created_at": "2023-08-17T19:13:48Z",
+        "updated_at": "2023-09-28T21:47:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4415685699213/comments/18634731823885.json",
+        "post_id": 4415685699213,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4413969840269,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4414950628493,
+        "body": "<p>If they do this they will have to recode the entire launcher as the bedrock launch tab only has an button that opens the bedrock edition, So i don't think they will do it but great idea!</p>",
+        "author_id": 402760011452,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4413969840269-Allow-us-to-change-bedrock-versions-in-the-new-MS-store-launcher/comments/4414950628493",
+        "created_at": "2021-11-28T10:10:38Z",
+        "updated_at": "2021-12-01T23:07:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4413969840269/comments/4414950628493.json",
+        "post_id": 4413969840269,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077473831,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014809752,
+        "body": "<p>It would be a nice easy way to get them, you can just get them from internet archive or the Minecraft Wiki. They are not the dark web.&nbsp;</p>",
+        "author_id": 412871483171,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077473831-Add-missing-Java-Edition-versions-back-into-the-launcher-i-e-Indev/comments/360014809752",
+        "created_at": "2021-04-03T13:56:29Z",
+        "updated_at": "2024-04-08T13:17:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077473831/comments/360014809752.json",
+        "post_id": 360077473831,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014894451,
+        "body": "<p>I mean, some Alpha or Beta releases are supported still. I think this would be a nice advanced option to have.</p>",
+        "author_id": 415603199791,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077473831-Add-missing-Java-Edition-versions-back-into-the-launcher-i-e-Indev/comments/360014894451",
+        "created_at": "2021-04-24T02:11:28Z",
+        "updated_at": "2024-04-08T13:17:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077473831/comments/360014894451.json",
+        "post_id": 360077473831,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4410994871053,
+        "body": "<p>I just want indev for the deep floating island world type</p>",
+        "author_id": 398628125032,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077473831-Add-missing-Java-Edition-versions-back-into-the-launcher-i-e-Indev/comments/4410994871053",
+        "created_at": "2021-10-10T01:36:53Z",
+        "updated_at": "2024-04-08T13:17:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077473831/comments/4410994871053.json",
+        "post_id": 360077473831,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 10184085181581,
+        "body": "<p>do this mojang i wanna see rana</p>\n<p>&nbsp;</p>",
+        "author_id": 10118601016333,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077473831-Add-missing-Java-Edition-versions-back-into-the-launcher-i-e-Indev/comments/10184085181581",
+        "created_at": "2022-10-27T06:54:06Z",
+        "updated_at": "2024-04-08T13:17:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077473831/comments/10184085181581.json",
+        "post_id": 360077473831,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360068136491,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013450812,
+        "body": "<p>how about togglable music like one is dungeons and one is minecraft and one is music off&nbsp;&nbsp;</p>",
+        "author_id": 406117187212,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360068136491-Music-in-the-launcher/comments/360013450812",
+        "created_at": "2020-11-10T00:04:28Z",
+        "updated_at": "2022-03-22T16:05:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360068136491/comments/360013450812.json",
+        "post_id": 360068136491,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360047945952,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006249672,
+        "body": "<p>You can access this from the Resource Pack Menu from within the game.</p>\n<p>However what would be nice, is indeed a flag that can be set from the launcher to automatically enable the resource pack upon startup? however not sure if at all possible or too useful, as setting the pack once will keep it on till you disable it anyways.</p>",
+        "author_id": 384059410271,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047945952-Option-to-Use-Programmer-Art/comments/360006249672",
+        "created_at": "2019-06-28T12:18:59Z",
+        "updated_at": "2020-03-25T18:45:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047945952/comments/360006249672.json",
+        "post_id": 360047945952,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006736172,
+        "body": "<p>OP is still talking about the launcher itself (icons of installations), so it is not about the game resource packs.</p>\n<p>However, I disagree with the idea mainly because the launcher has never supported any resource packs (so why make an exception for \"programmer's art\") and because users can now use any image as the icon.</p>\n<p>Basically, if you want to use the texture of an old block, easiest way to do this:</p>\n<ol>\n<li>Go to MC wiki article <a href=\"https://minecraft.gamepedia.com/Texture_Update\" target=\"_blank\" rel=\"nofollow noreferrer\">Texture Update</a>\n</li>\n<li>Find a block you like, click on the <em>Old texture</em> image</li>\n<li>Download the PNG image</li>\n<li>Open the launcher, find the installation you want to change</li>\n<li>Click on the icon and ➕</li>\n<li>Navigate to the image</li>\n<li>Save!</li>\n</ol>\n<div id=\"click-field\" style=\"height: 213px;  padding: 0px;   background-color: #000000; width: 2px;\">&nbsp;</div>",
+        "author_id": 366194956732,
+        "vote_sum": 4,
+        "vote_count": 4,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047945952-Option-to-Use-Programmer-Art/comments/360006736172",
+        "created_at": "2019-07-26T11:14:20Z",
+        "updated_at": "2021-05-10T19:02:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047945952/comments/360006736172.json",
+        "post_id": 360047945952,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013558212,
+        "body": "<p>P</p>",
+        "author_id": 406604526272,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047945952-Option-to-Use-Programmer-Art/comments/360013558212",
+        "created_at": "2020-11-18T21:35:01Z",
+        "updated_at": "2020-11-18T21:35:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047945952/comments/360013558212.json",
+        "post_id": 360047945952,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360047683051,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009006992,
+        "body": "<p>I want it too</p>\n<p>But for like nintendo to Xbox</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+        "author_id": 392583694032,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047683051-Able-to-switch-between-forum-activated-accounts-when-you-launch-minecraft/comments/360009006992",
+        "created_at": "2020-01-17T22:03:23Z",
+        "updated_at": "2020-01-17T22:03:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047683051/comments/360009006992.json",
+        "post_id": 360047683051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25602743602317,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 26026898688269,
+        "body": "<p>bro telltale games contributed to minecraft story mode telltale games is SHUT down</p>\n<p>&nbsp;</p>",
+        "author_id": 26026858111117,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25602743602317-Minecraft-story-mode/comments/26026898688269",
+        "created_at": "2024-04-19T06:37:05Z",
+        "updated_at": "2024-04-19T06:37:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25602743602317/comments/26026898688269.json",
+        "post_id": 25602743602317,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 26376711454733,
+        "body": "<p>They restarted</p>",
+        "author_id": 26376632010381,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25602743602317-Minecraft-story-mode/comments/26376711454733",
+        "created_at": "2024-05-02T00:59:39Z",
+        "updated_at": "2024-05-02T00:59:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25602743602317/comments/26376711454733.json",
+        "post_id": 25602743602317,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 16799398650381,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 17433008915085,
+        "body": "<p>Mojang can you also add it to android</p>",
+        "author_id": 12836034939789,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/16799398650381-Minecraft-Luancher-on-iOS-Devices/comments/17433008915085",
+        "created_at": "2023-07-08T07:23:06Z",
+        "updated_at": "2023-09-21T21:31:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/16799398650381/comments/17433008915085.json",
+        "post_id": 16799398650381,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 18644014489485,
+        "body": "<p>So first off I have to say that a minecraft launcher on a phone seems pretty dumb because there is no point because bedrock edition really doesn't need a launcher because there isn't really any settings the only settings are Full release or Beta and thats it which they could just make a separate app which they probably have done or made it so you can just opt into the beta through the appstore</p>",
+        "author_id": 17599371975693,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/16799398650381-Minecraft-Luancher-on-iOS-Devices/comments/18644014489485",
+        "created_at": "2023-08-18T00:27:15Z",
+        "updated_at": "2023-09-27T21:38:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/16799398650381/comments/18644014489485.json",
+        "post_id": 16799398650381,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 16641282794381,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 16870943763469,
+        "body": "<p>100% agreed. They don't really put much thought into it whatsoever and it seems they don't really care either way.</p>",
+        "author_id": 16570705176205,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/16641282794381-The-Minecraft-Logo/comments/16870943763469",
+        "created_at": "2023-06-19T10:35:21Z",
+        "updated_at": "2023-07-07T17:00:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/16641282794381/comments/16870943763469.json",
+        "post_id": 16641282794381,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 19692445199373,
+        "body": "<p>THEY SHOULD CHANGE IT BACK</p>",
+        "author_id": 19692423638413,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/16641282794381-The-Minecraft-Logo/comments/19692445199373",
+        "created_at": "2023-09-21T06:16:57Z",
+        "updated_at": "2023-09-21T06:16:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/16641282794381/comments/19692445199373.json",
+        "post_id": 16641282794381,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4426154751629,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4446594715277,
+        "body": "<p>Obviously, Minecraft Preview is planned (but really should be added already) but I'm curious what you mean by \"all other Minecraft modes\". Are you referring to how the Launcher won't show versions of Dungeons purchased from Steam or the MS Store (yet Bedrock will show if it's been installed in the MS Store)?</p>",
+        "author_id": 384039880532,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4426154751629-Add-Minecraft-Preview-and-others-to-launcher/comments/4446594715277",
+        "created_at": "2022-02-18T23:01:04Z",
+        "updated_at": "2022-02-19T12:43:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4426154751629/comments/4446594715277.json",
+        "post_id": 4426154751629,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4407193210253,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4408138231053,
+        "body": "<p><em><strong>I totally agree！！！</strong></em></p>",
+        "author_id": 419814572351,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4407193210253-Put-optfine-and-forge-in-minecraft-launcher/comments/4408138231053",
+        "created_at": "2021-08-29T09:41:37Z",
+        "updated_at": "2022-03-24T15:25:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4407193210253/comments/4408138231053.json",
+        "post_id": 4407193210253,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4410522016781,
+        "body": "<p>i like this idea because install forge can take 5 minutes only for download it and the mods can take 15 minutes so i like the idea&nbsp;</p>",
+        "author_id": 415698382232,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4407193210253-Put-optfine-and-forge-in-minecraft-launcher/comments/4410522016781",
+        "created_at": "2021-10-02T20:32:31Z",
+        "updated_at": "2022-03-24T15:25:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4407193210253/comments/4410522016781.json",
+        "post_id": 4407193210253,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4410850235917,
+        "body": "<p>but these are third-party modifications..</p>",
+        "author_id": 420851673631,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4407193210253-Put-optfine-and-forge-in-minecraft-launcher/comments/4410850235917",
+        "created_at": "2021-10-07T21:21:53Z",
+        "updated_at": "2023-04-09T19:08:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4407193210253/comments/4410850235917.json",
+        "post_id": 4407193210253,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360055911452,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 6397126271245,
+        "body": "<p>really need it!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</p>",
+        "author_id": 394623327431,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055911452-Add-proxy-support-for-downloads/comments/6397126271245",
+        "created_at": "2022-05-22T02:49:27Z",
+        "updated_at": "2022-05-22T09:32:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055911452/comments/6397126271245.json",
+        "post_id": 360055911452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360055250152,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010035092,
+        "body": "<p>If you were to do that, Minecraft would break entirely for versions that don't have it (such as every version of the game).</p>",
+        "author_id": 365050342632,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055250152-Change-Login-from-Launcher-to-Game/comments/360010035092",
+        "created_at": "2020-04-09T01:36:05Z",
+        "updated_at": "2020-04-09T18:13:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055250152/comments/360010035092.json",
+        "post_id": 360055250152,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 16750540801677,
+        "body": "<p>I have same issue. I hope a session will be automatically refreshed.</p>",
+        "author_id": 16749988145933,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055250152-Change-Login-from-Launcher-to-Game/comments/16750540801677",
+        "created_at": "2023-06-14T16:44:24Z",
+        "updated_at": "2023-06-14T20:30:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055250152/comments/16750540801677.json",
+        "post_id": 360055250152,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360049940112,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007591912,
+        "body": "<p>I like this idea! At first, I was thinking, \"Oh, no! Not our precious Java!\" But the way you presented it is quite reasonable. (Though resource packs should be included, as they involve some of the same technical know-how.) Perhaps Data and Structure Packs could be part of it as well? A skin tab showing the top skins of the past month would also be neat, though I'd more appreciate a skin editing tool that's actually up-to-date with all of the skin features. (The Skinplex is stuck in 1.7, while Minershoes and the official skin editor app don't have 1.9's layer opacity option.)</p>\n\n<p>I support this idea, though I would like to see the above features included.</p>",
+        "author_id": 369768507031,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360049940112-A-PC-Marketplace/comments/360007591912",
+        "created_at": "2019-09-14T20:54:24Z",
+        "updated_at": "2020-10-04T15:51:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360049940112/comments/360007591912.json",
+        "post_id": 360049940112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008977451,
+        "body": "<p>ITS FREE ON JAVA EDITION </p>",
+        "author_id": 372806864871,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360049940112-A-PC-Marketplace/comments/360008977451",
+        "created_at": "2020-01-15T16:44:43Z",
+        "updated_at": "2020-12-02T22:37:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360049940112/comments/360008977451.json",
+        "post_id": 360049940112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 28968233288077,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 29051402215949,
+        "body": "<p>I completely agree. I bought a copilot+ laptop expecting to be able to play java. Ive spent the past 5 hours looking for reasons as to why my launcher wouldn’t download. This is extremely aggravating as I have just wasted $1000 on this laptop now.</p>",
+        "author_id": 29051347242765,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/28968233288077-Support-for-ARM-CPU-on-Launcher/comments/29051402215949",
+        "created_at": "2024-08-06T23:16:36Z",
+        "updated_at": "2024-08-07T13:57:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/28968233288077/comments/29051402215949.json",
+        "post_id": 28968233288077,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 31521856925325,
+        "body": "<p>And to macOS also.</p>",
+        "author_id": 414745339271,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/28968233288077-Support-for-ARM-CPU-on-Launcher/comments/31521856925325",
+        "created_at": "2024-10-31T21:23:38Z",
+        "updated_at": "2024-10-31T21:23:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/28968233288077/comments/31521856925325.json",
+        "post_id": 28968233288077,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25492482424461,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 26035944988685,
+        "body": "<p>Now this is what the launcher should truly look like. Here's a vote from me!</p>",
+        "author_id": 26030426218253,
+        "vote_sum": 4,
+        "vote_count": 4,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25492482424461-Redesign-for-the-Minecraft-Launcher-to-match-up-more-with-the-game/comments/26035944988685",
+        "created_at": "2024-04-19T15:12:29Z",
+        "updated_at": "2024-04-21T02:56:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25492482424461/comments/26035944988685.json",
+        "post_id": 25492482424461,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 27648394006029,
+        "body": "<p>This looks really nice, you did good designing the pages and I think the new icons look better and more simple as an icon</p>",
+        "author_id": 27648218001293,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25492482424461-Redesign-for-the-Minecraft-Launcher-to-match-up-more-with-the-game/comments/27648394006029",
+        "created_at": "2024-06-17T19:15:37Z",
+        "updated_at": "2024-06-18T23:48:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25492482424461/comments/27648394006029.json",
+        "post_id": 25492482424461,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 19368638237965,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25491500133517,
+        "body": "<p>There is an unofficial Bedrock Launcher, but it is only for Windows.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/19368638237965-Make-Bedrock-launcher/comments/25491500133517",
+        "created_at": "2024-03-31T22:14:50Z",
+        "updated_at": "2024-03-31T22:14:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/19368638237965/comments/25491500133517.json",
+        "post_id": 19368638237965,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 16703975895565,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 16963060891405,
+        "body": "<p>I agree that old icon was iconic. But disagree that new new one is ok. The new one is hideous and ugly. Mojang, change it back to the old one.</p>",
+        "author_id": 1901503219707,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/16703975895565-Bring-back-old-icon/comments/16963060891405",
+        "created_at": "2023-06-21T23:36:41Z",
+        "updated_at": "2023-09-21T06:16:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/16703975895565/comments/16963060891405.json",
+        "post_id": 16703975895565,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

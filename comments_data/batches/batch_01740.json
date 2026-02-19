@@ -1,0 +1,1087 @@
+[
+  {
+    "post_id": 4455238317453,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 6766427734157,
+        "body": "<p>i doubt redstone will ever be completely reworked. although i think they should keep adding features</p>",
+        "author_id": 390450252532,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4455238317453-Never-touch-redstone-ever-again/comments/6766427734157",
+        "created_at": "2022-06-08T18:56:36Z",
+        "updated_at": "2022-06-09T21:47:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4455238317453/comments/6766427734157.json",
+        "post_id": 4455238317453,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077718152,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015406932,
+        "body": "<p>This is doable in a number of ways already</p>\n<p>1: if your observer isnt detecting any change in your beehive, that is a bug, as it is intended to detect this</p>\n<p>2: observers can detect entities going past them if you place string in front of the observing face</p>\n<p>3: you can use any spontaneous events generator with an and gate connected to a daylight sensor.</p>\n<p>&nbsp;</p>\n<p>thank you</p>",
+        "author_id": 386825668572,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077718152-Bee-Observer/comments/360015406932",
+        "created_at": "2021-05-04T18:53:22Z",
+        "updated_at": "2021-05-05T03:21:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077718152/comments/360015406932.json",
+        "post_id": 360077718152,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075585491,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014832311,
+        "body": "<p>Did caps lock get stuck? </p>",
+        "author_id": 413320123612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075585491-ELECTRICAL-CONNECTIONS-WITH-COPPER/comments/360014832311",
+        "created_at": "2021-04-15T17:40:52Z",
+        "updated_at": "2021-04-15T17:40:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075585491/comments/360014832311.json",
+        "post_id": 360075585491,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074684291,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013498071,
+        "body": "<p>Hello, this appears to be a non-English post.</p>\n<p>The translation is as follows:</p>\n<p>&nbsp;</p>\n<p>Title: “ Redstone “</p>\n<p>Text: ”Do a random delay for Redstone. “</p>\n<p>-Translated by Admin</p>",
+        "author_id": 393372783291,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074684291-%E3%83%AC%E3%83%83%E3%83%89%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3/comments/360013498071",
+        "created_at": "2020-11-19T19:32:13Z",
+        "updated_at": "2020-11-19T19:32:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074684291/comments/360013498071.json",
+        "post_id": 360074684291,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360044824291,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009365012,
+        "body": "<p>Why?how will it work?</p>",
+        "author_id": 380031342031,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360044824291-Enchantment-tables-on-pistons/comments/360009365012",
+        "created_at": "2020-02-18T00:16:31Z",
+        "updated_at": "2020-04-28T22:26:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360044824291/comments/360009365012.json",
+        "post_id": 360044824291,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043268451,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006969451,
+        "body": "<p>This isn't necessary, as you can angle the top hopper to the side to achieve the effect you want. This is because unlocked hoppers will try to \"feed\" into the inventory they are pointing to and will try to take from the inventory that is above them.</p>\n<p><img src=\"https://feedback.minecraft.net/hc/user_images/yVeuLGqzfYfvyiUaIpCukA.png\"></p>",
+        "author_id": 385691627012,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043268451-Lock-Hopper-Top-Input-Against-Any-Hoppers-Above/comments/360006969451",
+        "created_at": "2019-08-11T07:29:06Z",
+        "updated_at": "2019-08-13T03:35:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043268451/comments/360006969451.json",
+        "post_id": 360043268451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010402731,
+        "body": "<p>This already works in java edition, don't know in bedrock</p>",
+        "author_id": 397447284932,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043268451-Lock-Hopper-Top-Input-Against-Any-Hoppers-Above/comments/360010402731",
+        "created_at": "2020-05-04T12:50:26Z",
+        "updated_at": "2020-05-04T16:57:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043268451/comments/360010402731.json",
+        "post_id": 360043268451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360028814591,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004031732,
+        "body": "<p>repeater can offer you longer signal</p>",
+        "author_id": 376022030051,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360028814591-Observer-output-is-too-short/comments/360004031732",
+        "created_at": "2019-01-24T07:22:56Z",
+        "updated_at": "2019-01-24T07:22:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360028814591/comments/360004031732.json",
+        "post_id": 360028814591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360004263872,
+        "body": "<p>Use a repeater. Extending the pulse length of the observer would ruin everything. The observer is one of the most useful blocks out there and I would be pretty upset if everything I built in the last 6 months was ruined because people forgot to use a repeater.</p>",
+        "author_id": 376306871832,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360028814591-Observer-output-is-too-short/comments/360004263872",
+        "created_at": "2019-01-31T06:17:07Z",
+        "updated_at": "2022-10-18T19:51:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360028814591/comments/360004263872.json",
+        "post_id": 360028814591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073780112,
+    "expected_comment_count": 8,
+    "actual_comment_count": 8,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013096611,
+        "body": "<p>I think this is a cool idea, and I can't even think of all the traps I could make with this. &nbsp;I also don't really understand why it would be useful for expanding redstone signals when you could just use a repeater.</p>",
+        "author_id": 404771548791,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073780112-Tesla-coil/comments/360013096611",
+        "created_at": "2020-10-14T18:27:38Z",
+        "updated_at": "2020-11-01T14:55:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073780112/comments/360013096611.json",
+        "post_id": 360073780112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013176072,
+        "body": "<p>LukeLTG2007 \n<br />I forgot that the repeater existed </p>",
+        "author_id": 398821503071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073780112-Tesla-coil/comments/360013176072",
+        "created_at": "2020-10-15T12:57:28Z",
+        "updated_at": "2020-10-15T12:57:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073780112/comments/360013176072.json",
+        "post_id": 360073780112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013109891,
+        "body": "<p>Maybe instead have it so that when its powered it can power any redstone within a certain radius, or randomly flicks it on and off. Or perhaps some short circuiting effect</p>",
+        "author_id": 394117313011,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073780112-Tesla-coil/comments/360013109891",
+        "created_at": "2020-10-15T18:32:03Z",
+        "updated_at": "2022-01-09T01:01:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073780112/comments/360013109891.json",
+        "post_id": 360073780112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013109991,
+        "body": "<p>Actually I think I got another idea when powered by regular redstone it will create a small shoking radius that will attract to mobs and other redstone items. However if its connected by a copper wire to a lightning rod it will actually have the ability to beam the lightning in another direction. This could possibly be steered by insulators or by other nearby lightning rods it would be attracted to. Basically the lightning rod would receive lightning while the tesla coils will output it. If there aren't any lightning rods nearby then it may instead head to the nearest mob so long as its touching the ground. And if both multiple lightning rods or mobs are nearby it may split into smaller weaker versions of lightning to each of them. If it's in the water then I stead will get an area effect around it where it does damage withing a certain radius, when lightning powered the radius and damage increases for that short second.</p>",
+        "author_id": 394117313011,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073780112-Tesla-coil/comments/360013109991",
+        "created_at": "2020-10-15T18:43:32Z",
+        "updated_at": "2020-10-15T18:44:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073780112/comments/360013109991.json",
+        "post_id": 360073780112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013184152,
+        "body": "<p>Joseph Rahner also if their are no mobs around it will transfer the electricity to metallic blocks like the iron bar and if a player or a mob touches that electrified object they will get shocked. Also if redstone touches the electrified object it will be powered.  The iron bar will be able to produce signals from multiple directions but will get weaker every redstone is added.</p>",
+        "author_id": 398821503071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073780112-Tesla-coil/comments/360013184152",
+        "created_at": "2020-10-16T04:03:48Z",
+        "updated_at": "2020-10-16T04:03:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073780112/comments/360013184152.json",
+        "post_id": 360073780112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013184172,
+        "body": "<p>I have no idea why I said iron Bar instead of object at the end part their but you get what I mean</p>",
+        "author_id": 398821503071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073780112-Tesla-coil/comments/360013184172",
+        "created_at": "2020-10-16T04:05:06Z",
+        "updated_at": "2020-10-16T04:05:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073780112/comments/360013184172.json",
+        "post_id": 360073780112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013185492,
+        "body": "<p>Another thing if the copper rod is next to the tesla coil and the rod is hit by lightning it will cause the tesla coils electricity to get stronger and shock at a greater range and another idea if a player touches a tesla coil with a metallic armor on that armor will be electrified so the player is forced to take it off but if the armor touches redstone it will give off a redstone signal. Btw the electrification caused by the tesla coil lasts for 30 seconds</p>",
+        "author_id": 398821503071,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073780112-Tesla-coil/comments/360013185492",
+        "created_at": "2020-10-16T11:01:45Z",
+        "updated_at": "2021-06-13T02:49:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073780112/comments/360013185492.json",
+        "post_id": 360073780112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013185592,
+        "body": "<p>I just realised the player can put tesla coil next to each other and basically create you walk near my house you will die but this can be fixed by if 2 tesla coils are next to each other both of those tesla Coils will focus their electricity to each other and if the player walks in it it will do 1.5 damage every second but if one of the tesla coils are broken the tesla coil that was not broken will shoot out electricity at a far range and based on how close the player is the more damage they take and mobs too ofcourse but I'm just gonna say player but also if the player puts a metallic object between the Tesla coils that metallic object will do 1.5 damage if touched and will make redstone signals last for a longer time. Also the tesla coils will only focus their electricity at each other if they are 4 blocks apart any further from that they will not focus their electricity.</p>",
+        "author_id": 398821503071,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073780112-Tesla-coil/comments/360013185592",
+        "created_at": "2020-10-16T11:16:56Z",
+        "updated_at": "2021-06-13T02:49:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073780112/comments/360013185592.json",
+        "post_id": 360073780112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360054537271,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008206772,
+        "body": "<p>This is a good idea, but it is impractical as it would result in a ton of lag.</p>",
+        "author_id": 388957939772,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054537271-Observers-should-see-through-transparent-blocks/comments/360008206772",
+        "created_at": "2019-10-27T17:19:20Z",
+        "updated_at": "2019-10-28T19:20:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054537271/comments/360008206772.json",
+        "post_id": 360054537271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008238812,
+        "body": "<p>Why would it cause more lag than the current solution: placing 8 observers next to each other?</p>",
+        "author_id": 388943397131,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054537271-Observers-should-see-through-transparent-blocks/comments/360008238812",
+        "created_at": "2019-10-30T07:07:33Z",
+        "updated_at": "2020-06-24T14:24:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054537271/comments/360008238812.json",
+        "post_id": 360054537271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010402391,
+        "body": "<p>This idea would destroy many existing usages of observer. Often, observers are used to monitor transparent blocks, like melon/pumpkin stems.</p>",
+        "author_id": 397017049051,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054537271-Observers-should-see-through-transparent-blocks/comments/360010402391",
+        "created_at": "2020-05-04T12:28:08Z",
+        "updated_at": "2020-05-04T12:28:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054537271/comments/360010402391.json",
+        "post_id": 360054537271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010601371,
+        "body": "<p>This would be an additional mode of the observer, the current behavior would remain. You would be able to switch between distant and local detection.</p>",
+        "author_id": 388943397131,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054537271-Observers-should-see-through-transparent-blocks/comments/360010601371",
+        "created_at": "2020-05-19T14:43:29Z",
+        "updated_at": "2020-06-24T14:24:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054537271/comments/360010601371.json",
+        "post_id": 360054537271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360051676551,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 10650206039053,
+        "body": "<p>This can essentially be done with detector rail, redstone, sticky piston &amp; slime block.</p>",
+        "author_id": 419480996391,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360051676551-Jump-Rails/comments/10650206039053",
+        "created_at": "2022-11-15T18:17:28Z",
+        "updated_at": "2022-11-17T07:44:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360051676551/comments/10650206039053.json",
+        "post_id": 360051676551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048037071,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008766071,
+        "body": "<p>I feel like the engineer villager should have been introduced in the village and pillage update and was disapointed to see it was not. The wandering trader is cool, but i never buy anything from them, i usually just kill them and the Llammas for the leads and the chance of extra leather. Maybe add a chance for them to sell some redstone components, other than slimeballs. If a new villager is added he should not be in every village. Villages he is in would have things like redstone defenses and automatic lights, etc and be rarer than the abandoned villages. I like the idea of a new table as well and even a guidebook to go with it, that is only accessible through the tables UI. This table could also open up later features that are more complicated and require the table to be powered to use. I hope more people share their ideas on this. Good thinking.</p>",
+        "author_id": 368107130332,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048037071-The-Engineering-Table-A-Simple-Way-to-Introduce-New-Players-To-Redstone/comments/360008766071",
+        "created_at": "2019-12-21T23:42:25Z",
+        "updated_at": "2020-06-30T20:53:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048037071/comments/360008766071.json",
+        "post_id": 360048037071,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360038398592,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013852811,
+        "body": "<p>Perhaps there will be a switch on the sticky spinner that will determine how much it will spin and perhaps there will be another switch that will determine whether the attached block would spin clockwise or counterclockwise.</p>",
+        "author_id": 406273121171,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360038398592-Redstone-sticky-spinner/comments/360013852811",
+        "created_at": "2020-12-24T19:23:04Z",
+        "updated_at": "2020-12-28T17:19:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360038398592/comments/360013852811.json",
+        "post_id": 360038398592,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360022197732,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012462672,
+        "body": "<p>Ok</p>\n<p>&nbsp;</p>",
+        "author_id": 401746262951,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360022197732--Xbox-One-Parity-Redstone-Repeaters/comments/360012462672",
+        "created_at": "2020-08-12T19:44:45Z",
+        "updated_at": "2020-08-12T19:44:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360022197732/comments/360012462672.json",
+        "post_id": 360022197732,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360019058691,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360001998032,
+        "body": "<p>This could be useful.&nbsp; It could be crafted with a hopper and two pistons.&nbsp; Also, one that pulls blocks apart would be useful.&nbsp; It could be crafted with a hopper and two sticky pistons.</p>",
+        "author_id": 367005687131,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360019058691-Redstone-block-to-condense-Items-into-thier-storage-blocks/comments/360001998032",
+        "created_at": "2018-08-13T16:21:41Z",
+        "updated_at": "2018-08-13T16:36:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360019058691/comments/360001998032.json",
+        "post_id": 360019058691,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002059432,
+        "body": "<p>These would be amazing for farms.&nbsp; I know I would use them to condense items into a more compact form, and it would be prefect for an automatic melon farm whose product is intended for villager trading.</p>",
+        "author_id": 365008403592,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360019058691-Redstone-block-to-condense-Items-into-thier-storage-blocks/comments/360002059432",
+        "created_at": "2018-08-20T19:49:52Z",
+        "updated_at": "2018-08-20T21:28:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360019058691/comments/360002059432.json",
+        "post_id": 360019058691,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002073791,
+        "body": "<p>I like bilbo’s input, sticky pistons to pull the block apart and regular to put them together</p>",
+        "author_id": 368223927032,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360019058691-Redstone-block-to-condense-Items-into-thier-storage-blocks/comments/360002073791",
+        "created_at": "2018-08-22T17:41:15Z",
+        "updated_at": "2018-08-22T17:47:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360019058691/comments/360002073791.json",
+        "post_id": 360019058691,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009354331,
+        "body": "<p>I actually came here to suggest this, so hopefully this isn't too much of a necro post.&nbsp; :)<br><br>I would actually suggest that there not be a \"setup\" - pre filtering items before they arrive at the condenser should be required, and if someone throws a random potato into your item stream at the wrong place it should plop into the condenser and sit there preventing blocks from being compressed until you manually get it out.&nbsp; This makes it a bit more difficult/interesting to use, and also would make programming it a lot easier.&nbsp; No need to create a custom block state to be stored, etc.</p>",
+        "author_id": 394171414211,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360019058691-Redstone-block-to-condense-Items-into-thier-storage-blocks/comments/360009354331",
+        "created_at": "2020-02-17T18:54:21Z",
+        "updated_at": "2020-02-17T19:09:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360019058691/comments/360009354331.json",
+        "post_id": 360019058691,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360012229952,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360002611832,
+        "body": "<p>Since redstone seems to be an unstable, and very energised substance, what, with it disintegrating into dust after leaving it's ore, i think it would pretty much make the player surge with energy and then implode. So much for that idea.</p>",
+        "author_id": 365548149791,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360012229952-edible-redstone/comments/360002611832",
+        "created_at": "2018-10-11T21:19:35Z",
+        "updated_at": "2022-05-09T20:37:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360012229952/comments/360002611832.json",
+        "post_id": 360012229952,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013380771,
+        "body": "<p>This is hilarious</p>\n<p>&nbsp;</p>",
+        "author_id": 406124697292,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360012229952-edible-redstone/comments/360013380771",
+        "created_at": "2020-11-10T04:53:25Z",
+        "updated_at": "2020-11-10T04:53:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360012229952/comments/360013380771.json",
+        "post_id": 360012229952,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4403457591309,
+        "body": "<p>This is just gonna get so many votes they're just forced to add it to minecraft.</p>",
+        "author_id": 405800819772,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360012229952-edible-redstone/comments/4403457591309",
+        "created_at": "2021-06-21T04:40:13Z",
+        "updated_at": "2021-06-21T04:40:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360012229952/comments/4403457591309.json",
+        "post_id": 360012229952,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4592847329549,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4863392740109,
+        "body": "<p>YES NOW</p>",
+        "author_id": 4863210172045,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4592847329549-Bring-back-furnace-minecarts/comments/4863392740109",
+        "created_at": "2022-03-17T02:36:43Z",
+        "updated_at": "2022-09-05T17:14:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4592847329549/comments/4863392740109.json",
+        "post_id": 4592847329549,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 5336833480845,
+        "body": "<p>This would be helpful if you could them to other minecarts and you could transport items so much easier</p>",
+        "author_id": 5336842533901,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4592847329549-Bring-back-furnace-minecarts/comments/5336833480845",
+        "created_at": "2022-04-06T08:21:54Z",
+        "updated_at": "2022-09-05T17:14:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4592847329549/comments/5336833480845.json",
+        "post_id": 4592847329549,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077229992,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014477852,
+        "body": "<p>There would need to be some way to determine the item that will be crafted (and maybe when to stop)</p>",
+        "author_id": 399265256131,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077229992-Item-automatically-crafted-when-hopper-leads-to-crafting-table/comments/360014477852",
+        "created_at": "2021-02-24T03:19:30Z",
+        "updated_at": "2022-06-22T17:56:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077229992/comments/360014477852.json",
+        "post_id": 360077229992,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4408372836877,
+        "body": "<p>Seems too easy to me. I think there should be some challenge in crafting. Some sort of redstone requirement would add more creativity.</p>",
+        "author_id": 1901312484187,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077229992-Item-automatically-crafted-when-hopper-leads-to-crafting-table/comments/4408372836877",
+        "created_at": "2021-09-02T00:18:22Z",
+        "updated_at": "2022-06-22T17:56:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077229992/comments/4408372836877.json",
+        "post_id": 360077229992,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4467870447757,
+        "body": "<p>Hi Mojang. </p>\n<p>Ich habe für die neue Minecraft Version einen Vorschlag für einen Block. Mein Wunsch für neue Farms zu Bauen wäre ein Craftingblock. Ziel von diesem ist es bei z.b. Redstone Bepowerung ein Vorher eingestelltes Craftingrezept automatisch auszuführen. Die Items werden mit einem Hopper in den Block geführt,und sobald die benötigten Items da sind wird etwas gecraften. Dazu könnte man zum einstellen evt. das gewünschte Rezept dort einfügen. Also einmal alle Items in der benötigten Formation einfügen. Ich denke über diesen Block würden sich sehr viele Spieler freuen. Außerdem würde er die Farming-Scene extrem pushen.</p>\n<p>Lg Ben</p>",
+        "author_id": 424032106332,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077229992-Item-automatically-crafted-when-hopper-leads-to-crafting-table/comments/4467870447757",
+        "created_at": "2022-02-22T12:41:42Z",
+        "updated_at": "2022-03-05T11:07:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077229992/comments/4467870447757.json",
+        "post_id": 360077229992,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7081055958541,
+        "body": "<p>too op</p>",
+        "author_id": 6981758221709,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077229992-Item-automatically-crafted-when-hopper-leads-to-crafting-table/comments/7081055958541",
+        "created_at": "2022-06-21T08:19:21Z",
+        "updated_at": "2022-06-21T08:19:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077229992/comments/7081055958541.json",
+        "post_id": 360077229992,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076026131,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013912051,
+        "body": "<p>They should also damage entities. And these could be used to make the piston doors they make in Java edition on bedrock</p>",
+        "author_id": 408125430032,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076026131-Pointed-Dripstone-Pistons/comments/360013912051",
+        "created_at": "2021-01-04T04:11:48Z",
+        "updated_at": "2021-01-05T07:31:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076026131/comments/360013912051.json",
+        "post_id": 360076026131,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013915771,
+        "body": "<p>My first thought when seeing this was \"OOOH STABBY PISTONS!\" But I guess we could do those with just sticky pistons pushing dripstone. Your idea with the redstone thing is better.</p>",
+        "author_id": 394935776992,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076026131-Pointed-Dripstone-Pistons/comments/360013915771",
+        "created_at": "2021-01-04T15:24:48Z",
+        "updated_at": "2021-01-19T18:44:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076026131/comments/360013915771.json",
+        "post_id": 360076026131,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014051631,
+        "body": "<p><x-zendesk-user data-user-name=\"Andrew Wright\">394935776992</x-zendesk-user>&nbsp;that's what i thought too</p>",
+        "author_id": 404929590572,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076026131-Pointed-Dripstone-Pistons/comments/360014051631",
+        "created_at": "2021-01-19T18:45:47Z",
+        "updated_at": "2021-01-19T18:45:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076026131/comments/360014051631.json",
+        "post_id": 360076026131,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074376711,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013366631,
+        "body": "<p>In Bedrock Edition, redstone is really messed up and quirky, but they do have this idea going for them.&nbsp; In the Bedrock version, redstone components can be waterlogged.&nbsp; I don't think we have to worry about wax.</p>",
+        "author_id": 385270477052,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074376711-Waxed-Redstone-For-Underwater-Contraptions/comments/360013366631",
+        "created_at": "2020-11-09T03:34:13Z",
+        "updated_at": "2020-11-09T05:37:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074376711/comments/360013366631.json",
+        "post_id": 360074376711,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074142792,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013258572,
+        "body": "<p>You can already detect if a minecart is empty. It's slower. So make a ramp that the minecart doesn't reach when it's empty, but does when someone is inside. It's like 1 powered rail at the bottom and like 4 or 5 blocks up. Used it a ton myself. Could move the powered rail a tile back if it's not perfect</p>\n<p>&nbsp;</p>",
+        "author_id": 379976207112,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074142792-Minecart-Player-Comparator-Detection/comments/360013258572",
+        "created_at": "2020-10-22T20:04:27Z",
+        "updated_at": "2020-12-16T02:12:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074142792/comments/360013258572.json",
+        "post_id": 360074142792,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013261572,
+        "body": "<p>Actually, that's a good idea. Definitely voting for this.</p>",
+        "author_id": 405243221132,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074142792-Minecart-Player-Comparator-Detection/comments/360013261572",
+        "created_at": "2020-10-23T00:36:55Z",
+        "updated_at": "2022-05-19T18:43:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074142792/comments/360013261572.json",
+        "post_id": 360074142792,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014041792,
+        "body": "<p>It could give off different redstone signals depending on what is in the minecart</p>",
+        "author_id": 406280981491,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074142792-Minecart-Player-Comparator-Detection/comments/360014041792",
+        "created_at": "2021-01-11T01:56:12Z",
+        "updated_at": "2022-05-19T18:43:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074142792/comments/360014041792.json",
+        "post_id": 360074142792,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 32931016978829,
+        "body": "<p>I thought it was working...</p>",
+        "author_id": 28600150790029,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074142792-Minecart-Player-Comparator-Detection/comments/32931016978829",
+        "created_at": "2024-12-22T14:08:22Z",
+        "updated_at": "2024-12-22T14:08:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074142792/comments/32931016978829.json",
+        "post_id": 360074142792,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073743092,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4424428918285,
+        "body": "<p>Good but I can see the problem of this breaking people's builds that rely on maximum britness regardless of power level, maybe a new block with this function?</p>",
+        "author_id": 375734861891,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073743092-Redstone-Lamp-Brightness/comments/4424428918285",
+        "created_at": "2022-02-06T11:25:04Z",
+        "updated_at": "2022-02-06T13:22:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073743092/comments/4424428918285.json",
+        "post_id": 360073743092,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 13644898403085,
+        "body": "<p>A solution to it breaking people's builds is by making it a different item instead of changing the existing redstone lamp.</p>",
+        "author_id": 13410590512653,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073743092-Redstone-Lamp-Brightness/comments/13644898403085",
+        "created_at": "2023-03-02T18:27:29Z",
+        "updated_at": "2023-03-02T18:27:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073743092/comments/13644898403085.json",
+        "post_id": 360073743092,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360070741851,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011208652,
+        "body": "<p>Adding to this idea, I would think introducing the new Netherite ingot into the mix. The recipe would use Netherite ingots instead of iron ingots, and, just like in the post, one Ender Chest.<br>I don't really like the idea of getting two Ender Hoppers from crafting one. Since this would be a slightly overpowered and end-game block, I say there should be only one Ender Hopper per recipe.<br>And adding to the recipe, to make it more end-game, you could also need an Ender Eye in the top slot of the crafting table.</p>",
+        "author_id": 400025387671,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070741851-Ender-hopper/comments/360011208652",
+        "created_at": "2020-07-01T15:39:51Z",
+        "updated_at": "2020-07-02T10:18:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070741851/comments/360011208652.json",
+        "post_id": 360070741851,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011287072,
+        "body": "<p>Unusual Gaming I agree with the Eye and the fact that it gives 1, but I think Netherite might be a bit too costly. I mean, a stack of Ancient Debris only gives 16 netherite ingots. Just making 2 would only leave you with 6. Which at the best can only upgrade your armor, sword and pick. (thats what i would upgrade first tbh)</p>",
+        "author_id": 396354388231,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070741851-Ender-hopper/comments/360011287072",
+        "created_at": "2020-07-07T21:40:56Z",
+        "updated_at": "2020-07-30T14:14:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070741851/comments/360011287072.json",
+        "post_id": 360070741851,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011324512,
+        "body": "<p>I like this idea. However, there would have to be some more limitations - you could send and item to the nether, transport it into another one right next to it and then send it back to the overworld in a totally different location... To solve this issue, I think that you should have to place the dragon egg on top of the sending Ender Hopper in order for it to work. This would mean that only one connection can be used (unless you dupe the dragon egg.... but lets just imagine they fix every duping glitch). The system would be useful for sending items back home when your inventory is full - you could just place the hopper and dragon egg, and then throw items into it.</p>\n<p>&nbsp;</p>\n<p>Alternatively, to provide more than one set of hoppers being used, you could replace the dragon egg with a live shulker. It would be very difficult to get one to sit on top, but would make sense as shulkers are an end mob.</p>\n<p>&nbsp;</p>\n<p>I also think that the hole in the top of the hopper should look like the end portal inside :)</p>",
+        "author_id": 397038232431,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070741851-Ender-hopper/comments/360011324512",
+        "created_at": "2020-07-10T13:27:48Z",
+        "updated_at": "2020-07-14T07:30:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070741851/comments/360011324512.json",
+        "post_id": 360070741851,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011366932,
+        "body": "<p><a href=\"/hc/en-us/profiles/396354388231-KittyKat207434\" data-bi-name=\"kittykat207434\" data-bi-id=\"n18a3\" rel=\"nofollow noreferrer\">KittyKat207434</a>&nbsp;You are right, 5 Netherite ingots&nbsp;<em>is&nbsp;</em>in fact a bit expensive. I'm thinking about putting the Smithing table to use... maybe we can put a hopper and an eye of ender? Or a Netherite ingot? I don't know. I'm waiting for your feedback.</p>",
+        "author_id": 400025387671,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070741851-Ender-hopper/comments/360011366932",
+        "created_at": "2020-07-14T07:29:50Z",
+        "updated_at": "2020-07-30T14:14:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070741851/comments/360011366932.json",
+        "post_id": 360070741851,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360058668431,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009980551,
+        "body": "<p>THIS WOULD BE SO HELPFUL! I was trying to make a sugar cane farm where the system would react to one sugar cane growing and destroy that one. The redstone kept connecting horizontally and triggering all of the pistons. It was frustrating.</p>",
+        "author_id": 384754216952,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360058668431-Insulated-Redstone/comments/360009980551",
+        "created_at": "2020-04-05T23:14:27Z",
+        "updated_at": "2020-12-10T00:26:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360058668431/comments/360009980551.json",
+        "post_id": 360058668431,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013726951,
+        "body": "<p>Love this idea. I'd really like to see this with a \"repeater\" style function built in variant so it not only allows you to direct the signal but extend the range and allow delays at the same time.&nbsp;This would also solve space problems where you need to get a signal to a system without overcrowding other things or leaving gaping holes that expose the workings of your contraptions.&nbsp;Man, I like this idea so much it's a shame I can't vote twice! Awesome!&nbsp;</p>",
+        "author_id": 390677658411,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360058668431-Insulated-Redstone/comments/360013726951",
+        "created_at": "2020-12-10T00:25:32Z",
+        "updated_at": "2022-04-15T20:05:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360058668431/comments/360013726951.json",
+        "post_id": 360058668431,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360054730452,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008189592,
+        "body": "<p>Cool idea, but be sure to vote for yourself as well. </p>",
+        "author_id": 365326150692,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054730452-Weighted-Detector-Rails/comments/360008189592",
+        "created_at": "2019-10-25T12:08:02Z",
+        "updated_at": "2020-06-28T22:45:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054730452/comments/360008189592.json",
+        "post_id": 360054730452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009679812,
+        "body": "<p>Well, I was going to post the exact same idea, but \"shorter\" : The rail only send a redstone signale if there's an entity in the minecart.</p>",
+        "author_id": 395177860012,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054730452-Weighted-Detector-Rails/comments/360009679812",
+        "created_at": "2020-03-13T20:24:36Z",
+        "updated_at": "2020-03-13T21:37:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054730452/comments/360009679812.json",
+        "post_id": 360054730452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009678251,
+        "body": "<p>Just use a comparator and a chest minecart to do the same thing.</p>",
+        "author_id": 384444301072,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054730452-Weighted-Detector-Rails/comments/360009678251",
+        "created_at": "2020-03-13T23:24:34Z",
+        "updated_at": "2020-03-16T15:09:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054730452/comments/360009678251.json",
+        "post_id": 360054730452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 22705358114189,
+        "body": "<p>This would be super helpful! If it would be possible to also detect if mobs are on the track, with or without a minecart, could be extremely handy to have! It could serve super well for tight builds specialized new farming techniques.</p>",
+        "author_id": 22705267611533,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054730452-Weighted-Detector-Rails/comments/22705358114189",
+        "created_at": "2023-12-27T11:07:37Z",
+        "updated_at": "2023-12-27T23:57:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054730452/comments/22705358114189.json",
+        "post_id": 360054730452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360047934931,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006571272,
+        "body": "<p>also on the side.&nbsp;</p>",
+        "author_id": 382285663012,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047934931-Pressure-Plates-for-the-under-side-of-blocks/comments/360006571272",
+        "created_at": "2019-07-21T07:52:38Z",
+        "updated_at": "2020-12-04T06:05:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047934931/comments/360006571272.json",
+        "post_id": 360047934931,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

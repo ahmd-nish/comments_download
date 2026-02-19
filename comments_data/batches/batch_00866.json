@@ -1,0 +1,937 @@
+[
+  {
+    "post_id": 360070242212,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012223372,
+        "body": "<p>You can try to use armor stands to check every block what you want, but that is gonna be too lagy, check the /fill command, it's soo lagy...</p>",
+        "author_id": 375848865892,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070242212-Add-an-b-selector/comments/360012223372",
+        "created_at": "2020-07-23T01:55:20Z",
+        "updated_at": "2020-07-23T15:12:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070242212/comments/360012223372.json",
+        "post_id": 360070242212,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013363891,
+        "body": "<p>Target selectors are used to select entities, not blocks. This would go against what target selectors are for.</p>",
+        "author_id": 396590871911,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070242212-Add-an-b-selector/comments/360013363891",
+        "created_at": "2020-11-08T19:29:57Z",
+        "updated_at": "2021-09-21T21:03:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070242212/comments/360013363891.json",
+        "post_id": 360070242212,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38678398796173,
+        "body": "<p>agree e need this!!!</p>",
+        "author_id": 38678043952141,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070242212-Add-an-b-selector/comments/38678398796173",
+        "created_at": "2025-08-08T17:19:16Z",
+        "updated_at": "2025-08-08T17:19:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070242212/comments/38678398796173.json",
+        "post_id": 360070242212,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360069894292,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011340191,
+        "body": "<p>The game wouldn't add something so specific and unnecessary, but you can always make the pet invulnerable with other commands or maybe give it infinite resistance. idk</p>",
+        "author_id": 379368519112,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360069894292-Add-a-DisablePetDying-gamerule/comments/360011340191",
+        "created_at": "2020-07-12T20:50:08Z",
+        "updated_at": "2020-07-13T17:00:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360069894292/comments/360011340191.json",
+        "post_id": 360069894292,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012084251,
+        "body": "<p>it might be more reasonable for a gamerule that prevents players from attacking their own/other players’ pets—especially if sweeping edge makes its way into bedrock. </p>",
+        "author_id": 396685807071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360069894292-Add-a-DisablePetDying-gamerule/comments/360012084251",
+        "created_at": "2020-07-19T07:13:18Z",
+        "updated_at": "2020-07-19T07:13:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360069894292/comments/360012084251.json",
+        "post_id": 360069894292,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360067081691,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010796631,
+        "body": "<p>But then how would the player know this?</p>\n<p>&nbsp;</p>",
+        "author_id": 387762685231,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067081691-Target-Selectors-Should-Have-Default-Limit-1-When-Needed/comments/360010796631",
+        "created_at": "2020-05-29T22:49:33Z",
+        "updated_at": "2020-05-29T22:55:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067081691/comments/360010796631.json",
+        "post_id": 360067081691,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012410931,
+        "body": "<p>i really hope more people vote for this. i'm so tired of having to write \"limit=1\" every single time i modify entity data</p>",
+        "author_id": 401480294371,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067081691-Target-Selectors-Should-Have-Default-Limit-1-When-Needed/comments/360012410931",
+        "created_at": "2020-08-16T02:48:21Z",
+        "updated_at": "2020-08-17T15:29:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067081691/comments/360012410931.json",
+        "post_id": 360067081691,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 8791673239821,
+        "body": "<p>I believe this is a bad idea.</p>\n<p>The main strength of Minecraft is that what you see is what you get. The reason so many people have taught themselves coding with this game is because it makes sense. We cannot introduce confusion in an effort to save some time.</p>\n<p>Suggestion: Start practicing tab complete. I typically write 1-2 letters of every single command/selector/property/etc and tab complete. You will learn which situations have competing options, and when you need to tab twice, etc. Programming is about learning how to work with the language.</p>",
+        "author_id": 399720112252,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067081691-Target-Selectors-Should-Have-Default-Limit-1-When-Needed/comments/8791673239821",
+        "created_at": "2022-08-30T12:35:16Z",
+        "updated_at": "2022-08-30T15:26:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067081691/comments/8791673239821.json",
+        "post_id": 360067081691,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360065952371,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010797392,
+        "body": "<p>Could you go into more detail which options you are talking about?</p>",
+        "author_id": 387762685231,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360065952371-Custom-options-in-DataPack/comments/360010797392",
+        "created_at": "2020-05-29T22:54:45Z",
+        "updated_at": "2020-05-29T22:54:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360065952371/comments/360010797392.json",
+        "post_id": 360065952371,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360064249731,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 29360446907917,
+        "body": "<p>Yes Minecraft bedrock minecarts really needs to go faster. We need this new command /gamerule minecartMaxSpeed emplacement into bedrock..</p>",
+        "author_id": 367018219912,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360064249731-Minecart-speed-command/comments/29360446907917",
+        "created_at": "2024-08-17T20:02:41Z",
+        "updated_at": "2024-08-17T21:06:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360064249731/comments/29360446907917.json",
+        "post_id": 360064249731,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360064119491,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010642812,
+        "body": "<p>Probably should be some type of option. Could it not be better implemented to have a similar thing to /data merge but for a fill area of blocks?</p>",
+        "author_id": 384765614332,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360064119491-NBT-conserved-when-using-fill/comments/360010642812",
+        "created_at": "2020-05-22T01:57:06Z",
+        "updated_at": "2020-05-26T18:14:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360064119491/comments/360010642812.json",
+        "post_id": 360064119491,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010666572,
+        "body": "<p>Why does your title say NBT if the post is about blockstates?</p>",
+        "author_id": 384380991192,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360064119491-NBT-conserved-when-using-fill/comments/360010666572",
+        "created_at": "2020-05-24T16:39:11Z",
+        "updated_at": "2023-08-21T13:34:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360064119491/comments/360010666572.json",
+        "post_id": 360064119491,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360061746312,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012839092,
+        "body": "<p>This would be very useful. A simple modifier that lets us adjust the speed of the animation.</p>",
+        "author_id": 385539301151,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360061746312-Bow-Drawback/comments/360012839092",
+        "created_at": "2020-09-12T19:40:41Z",
+        "updated_at": "2021-02-09T09:27:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360061746312/comments/360012839092.json",
+        "post_id": 360061746312,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360058811551,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010035192,
+        "body": "<p>I have no idea why this isn’t getting votes, it’s like the exact same reason we have a max command chain length</p>",
+        "author_id": 389586189472,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360058811551--gamerule-StructureSizeLimit/comments/360010035192",
+        "created_at": "2020-04-09T01:50:36Z",
+        "updated_at": "2020-04-09T18:13:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360058811551/comments/360010035192.json",
+        "post_id": 360058811551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010447371,
+        "body": "<p>If you told about structures that like from structure block (.nbt or same): it is the file that have no any reference to your world, it's just a file that stores information about blocks' positions and their state. You cannot control it</p>",
+        "author_id": 396970994091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360058811551--gamerule-StructureSizeLimit/comments/360010447371",
+        "created_at": "2020-05-07T13:52:18Z",
+        "updated_at": "2020-05-08T19:28:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360058811551/comments/360010447371.json",
+        "post_id": 360058811551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360057960252,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009523192,
+        "body": "<p>Seems like a great idea to me.</p>",
+        "author_id": 394577504552,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360057960252-Block-protection-outside-spawn-protection/comments/360009523192",
+        "created_at": "2020-03-01T08:29:04Z",
+        "updated_at": "2020-03-01T08:29:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360057960252/comments/360009523192.json",
+        "post_id": 360057960252,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360054738451,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010964812,
+        "body": "<p>You can only be in one team at once</p>",
+        "author_id": 369037481651,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054738451-Team-command-expansion/comments/360010964812",
+        "created_at": "2020-06-13T17:05:17Z",
+        "updated_at": "2020-06-13T17:05:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054738451/comments/360010964812.json",
+        "post_id": 360054738451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360050531392,
+    "expected_comment_count": 6,
+    "actual_comment_count": 6,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007437912,
+        "body": "<p>This already exists if you do /effect @p resistance 999 225. 999 is the seconds and 225 is the level. If you do this, you will basically get invincibility for around sixteen minutes</p>",
+        "author_id": 367431411652,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050531392--Invinvible-Command/comments/360007437912",
+        "created_at": "2019-09-04T21:15:00Z",
+        "updated_at": "2021-12-30T20:05:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050531392/comments/360007437912.json",
+        "post_id": 360050531392,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008983531,
+        "body": "<p>/effect @s resistance 100000 255 would make you basically invincible forever. 255 is the maximum level of resistance</p>\n<p>&nbsp;</p>",
+        "author_id": 386395193391,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050531392--Invinvible-Command/comments/360008983531",
+        "created_at": "2020-01-16T00:38:11Z",
+        "updated_at": "2021-12-30T20:05:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050531392/comments/360008983531.json",
+        "post_id": 360050531392,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009054291,
+        "body": "<p>Or just go in creative!</p>",
+        "author_id": 387762685231,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050531392--Invinvible-Command/comments/360009054291",
+        "created_at": "2020-01-23T02:21:57Z",
+        "updated_at": "2021-12-30T20:06:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050531392/comments/360009054291.json",
+        "post_id": 360050531392,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010441112,
+        "body": "<p>/effect give @p resistance 1000000 255 true</p>\n<p>that will make you invincible and it won't even display the particles of an effect.</p>",
+        "author_id": 382910346032,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050531392--Invinvible-Command/comments/360010441112",
+        "created_at": "2020-05-06T23:00:11Z",
+        "updated_at": "2021-12-30T20:06:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050531392/comments/360010441112.json",
+        "post_id": 360050531392,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4408035811469,
+        "body": "<p>Ok the title says invinvible and it's invincible??? Yeet</p>",
+        "author_id": 419560828792,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050531392--Invinvible-Command/comments/4408035811469",
+        "created_at": "2021-08-27T22:41:44Z",
+        "updated_at": "2021-08-27T23:27:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050531392/comments/4408035811469.json",
+        "post_id": 360050531392,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 10956931297677,
+        "body": "<p>It doesn't work</p>",
+        "author_id": 10956957958925,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050531392--Invinvible-Command/comments/10956931297677",
+        "created_at": "2022-11-28T11:42:28Z",
+        "updated_at": "2022-11-28T11:42:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050531392/comments/10956931297677.json",
+        "post_id": 360050531392,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048569451,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007036651,
+        "body": "<p>I will be posting a lot of suggestions to help Minecraft be a better game. &lt;3</p>",
+        "author_id": 385904410911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048569451-A-trade-Command/comments/360007036651",
+        "created_at": "2019-08-15T00:43:34Z",
+        "updated_at": "2019-08-15T13:22:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048569451/comments/360007036651.json",
+        "post_id": 360048569451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360007047151,
+        "body": "<p>But they need to be within 10 blocks of the player</p>",
+        "author_id": 385616344652,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048569451-A-trade-Command/comments/360007047151",
+        "created_at": "2019-08-15T02:17:21Z",
+        "updated_at": "2019-08-15T02:17:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048569451/comments/360007047151.json",
+        "post_id": 360048569451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360007074212,
+        "body": "<p>That makes sense. That happened to me once. It was sad...</p>",
+        "author_id": 385691200971,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048569451-A-trade-Command/comments/360007074212",
+        "created_at": "2019-08-16T15:17:26Z",
+        "updated_at": "2019-08-16T15:35:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048569451/comments/360007074212.json",
+        "post_id": 360048569451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048427772,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006947852,
+        "body": "<p>You can. /scoreboard players operation [player] [obj] [&gt;/=] [player] [obj]</p>",
+        "author_id": 385014929111,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048427772-Please-add-scoreboard-player-value-compare-bedrock/comments/360006947852",
+        "created_at": "2019-08-09T05:48:47Z",
+        "updated_at": "2019-08-09T05:48:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048427772/comments/360006947852.json",
+        "post_id": 360048427772,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048337392,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009616531,
+        "body": "<p>Totally need this! It allows for previously impossible contraptions while radically simplifying existing ones. Just because this doesn't have a lot of votes doesn't mean we don't need it; it's just that no one realizes how much we do.</p>",
+        "author_id": 393845843091,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048337392-Command-Block-failed-condition/comments/360009616531",
+        "created_at": "2020-03-09T16:54:20Z",
+        "updated_at": "2020-08-27T20:46:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048337392/comments/360009616531.json",
+        "post_id": 360048337392,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360047792211,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006441391,
+        "body": "<p>It's quite annoying for me. I have to be aware of the quality of my Minecraft map, being conscious that people are going to see it. And growing trees is no exception. Most of the trees I grow are oak trees, and I often want then to be small oak trees, but they turn out to be big or balloon oak trees. For me, a /gamerule affecting the type of tree grown from a sapling won't work. Instead, add a block state so that we know what type of tree a sapling will grow into, which will be visible when the F3 menu is opened and you are looking at a sapling. The block state should be randomized out of the options computed to be available in the area you're planting the sapling.</p>",
+        "author_id": 382161521831,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047792211-Gamerule-to-Disable-Large-Trees/comments/360006441391",
+        "created_at": "2019-07-11T21:13:04Z",
+        "updated_at": "2019-07-11T21:13:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047792211/comments/360006441391.json",
+        "post_id": 360047792211,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006713011,
+        "body": "<p>what the game does with already generated big trees?</p>",
+        "author_id": 385074260532,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047792211-Gamerule-to-Disable-Large-Trees/comments/360006713011",
+        "created_at": "2019-07-25T07:40:13Z",
+        "updated_at": "2019-07-25T07:40:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047792211/comments/360006713011.json",
+        "post_id": 360047792211,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360047999852,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006380272,
+        "body": "<p>Redstone repeaters don't save their tick number in NBT data, they save it in their block state. And ctrl + middle clicking should not copy block state, in my opinion, because that would mean that the repeater item would place repeaters in the same orientation, all the time (because repeaters also save their orientation in their block state).</p>\n<p>A quick solution to your repeater problem could be the BlockStateTag tag. The command below (works in 1.14+ only) would give you a repeater that is already on 4 ticks when you place it.</p>\n<p>/give @s repeater{BlockStateTag:{delay:4}}</p>\n<p>(I haven't actually tested this command yet so if it doesn't work, maybe the one below will)</p>\n<p><span style=\"display: inline !important;  background-color: #ffffff; color: #000000; cursor: text; font-family: Arial,sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none;  white-space: normal; word-spacing: 0px;\">/give @s repeater{BlockStateTag:{delay:\"4\"}}</span></p>",
+        "author_id": 384380991192,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047999852-Ctrl-Mouse-Scoll-Click-gives-NBT-tag-to-redstone-repeaters-ect/comments/360006380272",
+        "created_at": "2019-07-08T21:18:55Z",
+        "updated_at": "2021-09-15T02:09:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047999852/comments/360006380272.json",
+        "post_id": 360047999852,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360044277232,
+    "expected_comment_count": 7,
+    "actual_comment_count": 7,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005926191,
+        "body": "<p>What about banners?</p>",
+        "author_id": 382692594791,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360044277232-Gamerule-for-BlockEntityTag-in-Survival/comments/360005926191",
+        "created_at": "2019-06-03T21:54:26Z",
+        "updated_at": "2019-06-03T21:54:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360044277232/comments/360005926191.json",
+        "post_id": 360044277232,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005955331,
+        "body": "<p>Disagree. You might as well make a allowEveryoneToBeOperator gamerule, since that's exactly what this would do. If your small server isn't worried about these consequences, just give everyone low operator perms and it will work fine right now.</p>",
+        "author_id": 364935466911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360044277232-Gamerule-for-BlockEntityTag-in-Survival/comments/360005955331",
+        "created_at": "2019-06-05T20:07:12Z",
+        "updated_at": "2019-06-05T20:07:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360044277232/comments/360005955331.json",
+        "post_id": 360044277232,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006108592,
+        "body": "<p>I don't get what the security issue is?</p>\n<p>If you're not op, then how do you get your hands on any spawner unless the server intentionally adds a method to give you one? In which case it's up to the server to manage that.</p>\n<p>And how on earth do you get hold of one that spawns command minecarts unless you're op? And even if you did get one, how do you enter a command into it if you're not op? If this is possible, then it's bug and should be fixed.</p>\n<p>I think custom spawners by default should be placeble by anyone, especially in single player survival - in which case you'd have to have cheats on or have some sort of spawner datapack.</p>\n<p>Then for those that need it add \"gamerule doSpawnerPlace\"</p>",
+        "author_id": 383079050732,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360044277232-Gamerule-for-BlockEntityTag-in-Survival/comments/360006108592",
+        "created_at": "2019-06-17T22:48:52Z",
+        "updated_at": "2019-06-18T02:31:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360044277232/comments/360006108592.json",
+        "post_id": 360044277232,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006121491,
+        "body": "<p>In creative mode, the client has full control over the inventory and can generate arbitrary items out of thin air. The vanilla way to do this is using saved toolbars, but it's not the only way.\n<br />If creative players were allowed to use whatever items they pleased, it's easy to see how they could run arbitrary commands. In fact, every block that is restricted is restricted precisely because it can be used to run arbitrary commands.\n<br />So these blocks should be treated as equivalent to command access, and are thus restricted to operators.</p>",
+        "author_id": 364935466911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360044277232-Gamerule-for-BlockEntityTag-in-Survival/comments/360006121491",
+        "created_at": "2019-06-18T19:32:55Z",
+        "updated_at": "2019-06-18T19:32:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360044277232/comments/360006121491.json",
+        "post_id": 360044277232,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006140932,
+        "body": "<p>Ok but that seems like an issue with saved toolbars. I mean:</p>\n<ol>\n<li>Why do items not accessible from the creative menu load from a saved toolbar if you're not an operator?</li>\n<li>And shouldn't there be a black list for servers that allow them to configure that even more?</li>\n</ol>\n<p>These seem like important security and config requirement for servers, no mater what happens with spawners.</p>\n<p>What does \"but it's not the only way\" refer to though?</p>",
+        "author_id": 383079050732,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360044277232-Gamerule-for-BlockEntityTag-in-Survival/comments/360006140932",
+        "created_at": "2019-06-19T23:05:27Z",
+        "updated_at": "2019-06-19T23:11:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360044277232/comments/360006140932.json",
+        "post_id": 360044277232,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006444852,
+        "body": "<p>I don't have any experience to justify this 100% but based on my testing I believe that if a player is in creative mode, op or not op, the blockentitytag from the spawner is used, so whether or not you're opped has nothing to do with this, we just want the ability to place them in survival, in which you case you should have no means of obtaining stupidly overpowered spawners in the first place.</p>",
+        "author_id": 382496888272,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360044277232-Gamerule-for-BlockEntityTag-in-Survival/comments/360006444852",
+        "created_at": "2019-07-12T01:51:26Z",
+        "updated_at": "2019-07-12T15:21:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360044277232/comments/360006444852.json",
+        "post_id": 360044277232,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009696411,
+        "body": "<p>This absolutely needs to be an option. Please add this!</p>",
+        "author_id": 395281583292,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360044277232-Gamerule-for-BlockEntityTag-in-Survival/comments/360009696411",
+        "created_at": "2020-03-16T17:06:54Z",
+        "updated_at": "2020-03-16T17:06:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360044277232/comments/360009696411.json",
+        "post_id": 360044277232,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043490692,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005419432,
+        "body": "<p>Run these commands once:</p>\n<p>scoreboard objectives add ticksPlayed dummy</p>\n<p>&nbsp;</p>\n<p>Run these commands each tick:</p>\n<p>scoreboard players add @a ticksPlayed data 1</p>\n<p>execute as @a if score @s data matches 72000... run kick @s</p>\n<p>&nbsp;</p>\n<p>72000 is the number of ticks in an hour, so this command should kick people off after an hour of play. Adjust the number to change the time limit.</p>\n<p>Each time you want to reset play time, run this command:</p>\n<p>scoreboard players reset * timePlayed</p>\n<p>&nbsp;</p>\n<p>There, I did it without a command for it.</p>",
+        "author_id": 380741653551,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043490692--timelimit-Command/comments/360005419432",
+        "created_at": "2019-04-28T04:11:38Z",
+        "updated_at": "2020-11-20T05:43:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043490692/comments/360005419432.json",
+        "post_id": 360043490692,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043241711,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005342312,
+        "body": "<p>@e[type=item,c=1] there u go ma friend</p>",
+        "author_id": 376657084391,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043241711-New-i-command/comments/360005342312",
+        "created_at": "2019-04-22T21:47:28Z",
+        "updated_at": "2019-04-22T21:47:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043241711/comments/360005342312.json",
+        "post_id": 360043241711,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005391932,
+        "body": "<p>@e[type=item,c=1] and i think you might also need sort=nearest as well</p>",
+        "author_id": 366365799631,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043241711-New-i-command/comments/360005391932",
+        "created_at": "2019-04-25T20:22:26Z",
+        "updated_at": "2019-04-25T20:22:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043241711/comments/360005391932.json",
+        "post_id": 360043241711,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043232332,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 11309417467405,
+        "body": "<p>an example I'm thinking of is /summon tnt {fuse:0,radius:1000000}.</p>\n<p>Not sure if it is the same thing but this is my interpretation and suggestion.</p>",
+        "author_id": 11086371507085,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043232332-Improved-and-Complex-Commands/comments/11309417467405",
+        "created_at": "2022-12-09T04:43:40Z",
+        "updated_at": "2022-12-09T04:43:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043232332/comments/11309417467405.json",
+        "post_id": 360043232332,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042886071,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005067432,
+        "body": "<p>Would help with all vanilla servers that run on no plugins on top of mini-games and adventure maps. Would like to see something along these lines added in the near future!</p>",
+        "author_id": 379205897752,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042886071-Area-Entity-Specific-Gamerule-Command/comments/360005067432",
+        "created_at": "2019-03-30T20:07:17Z",
+        "updated_at": "2019-03-30T20:07:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042886071/comments/360005067432.json",
+        "post_id": 360042886071,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010856832,
+        "body": "<p>I was hoping for even a variation where we could do something in a command block like this: /gamerule @e[distance=..250, type=doMobSpawning false]\n<br />Even something along those lines would be helpful I believe. </p>",
+        "author_id": 394198785971,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042886071-Area-Entity-Specific-Gamerule-Command/comments/360010856832",
+        "created_at": "2020-06-04T05:32:59Z",
+        "updated_at": "2020-06-04T14:52:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042886071/comments/360010856832.json",
+        "post_id": 360042886071,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360041920912,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009979011,
+        "body": "<p>Yeah, it just seems so silly not to have them. They should add to the game not take away from it.</p>",
+        "author_id": 396220905411,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041920912-Host-privileges-in-Bedrock/comments/360009979011",
+        "created_at": "2020-04-05T19:43:25Z",
+        "updated_at": "2020-04-05T19:43:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041920912/comments/360009979011.json",
+        "post_id": 360041920912,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360040493271,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004894091,
+        "body": "<p>Not me.&nbsp; How big would the Nether portal be?&nbsp; What would the house be like?&nbsp; One person's idea of a house wouldn't be the same as another's.</p>",
+        "author_id": 370958599952,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040493271--Create/comments/360004894091",
+        "created_at": "2019-03-19T02:03:20Z",
+        "updated_at": "2024-05-01T02:31:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040493271/comments/360004894091.json",
+        "post_id": 360040493271,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360032451251,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013378291,
+        "body": "<p>I agree with this for the most part, but there are a few modifications that I would make, mostly to face the fact that commands can only return <em>one</em> number:</p>\n<ul>\n<li>\n<code>center</code> would have to be two different options: <code>center_x</code> and <code>center_z</code> because they are two different properties.</li>\n<li>\n<code>damage</code> would need to be two different options: <code>damage_buffer</code> and <code>damage_amount</code> because they are two different properties.</li>\n<li>\n<code>warning</code> would have to be two different options: <code>warning_distance</code> and <code>warning_time</code> because they are two different properties.</li>\n<li>For setting the main <code>size</code> and <code>time</code>, it won't be that easy because commands only return one number. I propose a setup similar to the way <code>/title</code> works:\n<ol>\n<li>\n<pre>/execute store result worldborder time</pre>\nThis will set a time for the worldborder to move, but not take any immediate action.</li>\n<li>\n<pre>/execute store result worldborder size</pre>\nThis will start the worldborder moving to the target size, for the duration specified in the previous command for time. If a call setting the time was never made, the worldborder moves instantly.</li>\n<li>Once the worldborder finished moving, the set time is reset to 0.</li>\n</ol>\n</li>\n</ul>",
+        "author_id": 396590871911,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360032451251--execute-store-worldborder/comments/360013378291",
+        "created_at": "2020-11-09T22:56:50Z",
+        "updated_at": "2020-12-02T04:19:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360032451251/comments/360013378291.json",
+        "post_id": 360032451251,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360032401272,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360003264252,
+        "body": "<p>What if you want to get back to your spawn point?</p>",
+        "author_id": 370958599952,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360032401272--kill/comments/360003264252",
+        "created_at": "2018-12-06T03:08:43Z",
+        "updated_at": "2018-12-06T16:14:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360032401272/comments/360003264252.json",
+        "post_id": 360032401272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360003286371,
+        "body": "<p>Creative mode is supposed to die to that. Creative mode players take void damage (hence why you die in the void as well) so this is an intended feature. If you wish to kill all entities except players, use the selector arguments:</p>\n<p><strong>@e[type=!player]</strong></p>",
+        "author_id": 366131494412,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360032401272--kill/comments/360003286371",
+        "created_at": "2018-12-07T01:39:08Z",
+        "updated_at": "2021-03-16T16:34:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360032401272/comments/360003286371.json",
+        "post_id": 360032401272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

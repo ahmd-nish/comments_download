@@ -1,0 +1,847 @@
+[
+  {
+    "post_id": 360078000331,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015463471,
+        "body": "<p>Y e s</p>",
+        "author_id": 412314468832,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078000331-axolotls-in-dungeons/comments/360015463471",
+        "created_at": "2021-05-21T16:22:00Z",
+        "updated_at": "2021-05-21T16:22:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078000331/comments/360015463471.json",
+        "post_id": 360078000331,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360015534532,
+        "body": "<p>I know right!?!?!</p>",
+        "author_id": 416761776231,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078000331-axolotls-in-dungeons/comments/360015534532",
+        "created_at": "2021-05-21T17:08:05Z",
+        "updated_at": "2021-05-21T17:08:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078000331/comments/360015534532.json",
+        "post_id": 360078000331,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360015472811,
+        "body": "<p>Definitely Fits The Theme. Go For It Mojang!</p>",
+        "author_id": 406321661532,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078000331-axolotls-in-dungeons/comments/360015472811",
+        "created_at": "2021-05-23T07:17:15Z",
+        "updated_at": "2021-05-23T12:57:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078000331/comments/360015472811.json",
+        "post_id": 360078000331,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4406956061453,
+        "body": "<p>Its a good idea and they should add custom skins</p>",
+        "author_id": 419122532312,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078000331-axolotls-in-dungeons/comments/4406956061453",
+        "created_at": "2021-08-12T15:08:48Z",
+        "updated_at": "2021-08-13T08:26:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078000331/comments/4406956061453.json",
+        "post_id": 360078000331,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077867191,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015344931,
+        "body": "<p>Blind gamer here as well. Yep that'll be super cool. I've sent many suggestion to Dungeons devs on Twitter as well, and I'm really hoping they are eventually implemented. I think that's what's a little frustrating, that the game is almost accessible, but not quite. With sighted help, you can do anything in the game, but by yourself, you will unfortunately be lost.&nbsp;<br><br>Navigation, locating items, and inaccessible puzzles are the biggest issues, but there are also a few other bugs. There's lag when navigating around using narration, and narration tends to lose focus at times and read the wrong item descriptions. the order in which narration reads things could be improved as well. item description before button prompts will be a lot more useful, as we'll be able to skip to the next item as soon as we listen to the description, rather than waiting for the entire button prompt to play, before the relevant info is read out.<br><br>There's also an issue with some screens, where narration can't be interrupted. Shop screens in particular can take a super long time to navigate, since you not only have initial lag, but you must also wait until the entire description of the highlighted item is read out, before tts reads the next one.</p>",
+        "author_id": 415875257232,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077867191-Accessibility-features-for-blind-gamers/comments/360015344931",
+        "created_at": "2021-05-06T06:10:09Z",
+        "updated_at": "2023-02-20T03:25:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077867191/comments/360015344931.json",
+        "post_id": 360077867191,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360015344971,
+        "body": "<p>Sorry about double post, I reached the character limit! haha. continued below.<br><br>There's also a screen that shows possible mission drops, right before you begin a mission. These items do not read using tts when scrolling through them. There are sounds associated with every Mob drop, but it can be difficult to memorize audio cues for every single item in Dungeons, as there are hundreds of items.<br><br></p>\n<p>One more thing: it isn't currently possible to tell via speech how many enchantment slots an item contains, or which of the 3 slots you are on. that'd be awesome, as I sometimes find myself upgrading an item, only to trash it later after I discover it only contains two item slots.</p>\n<p><br>Hope this feedback helps make the game a little more accessible. thanks for reading!</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+        "author_id": 415875257232,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077867191-Accessibility-features-for-blind-gamers/comments/360015344971",
+        "created_at": "2021-05-06T06:12:44Z",
+        "updated_at": "2023-02-20T03:25:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077867191/comments/360015344971.json",
+        "post_id": 360077867191,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360015430272,
+        "body": "<p>Hi <x-zendesk-user data-user-name=\"killerbeast56\">415875257232</x-zendesk-user></p>\n<p>Thanks a ton for your great feedback. This is very much appreciated.</p>",
+        "author_id": 415848905632,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077867191-Accessibility-features-for-blind-gamers/comments/360015430272",
+        "created_at": "2021-05-07T06:24:42Z",
+        "updated_at": "2023-02-20T03:25:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077867191/comments/360015430272.json",
+        "post_id": 360077867191,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4407321505293,
+        "body": "<p>Very well said. I would also say having sound cues would help a ton</p>",
+        "author_id": 419260051592,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077867191-Accessibility-features-for-blind-gamers/comments/4407321505293",
+        "created_at": "2021-08-18T04:26:59Z",
+        "updated_at": "2023-02-20T03:25:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077867191/comments/4407321505293.json",
+        "post_id": 360077867191,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077949872,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015392712,
+        "body": "<p>I really like this! Nice QoL!</p>",
+        "author_id": 415821109671,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077949872-Minecraft-Dungeons-Character-Loadouts/comments/360015392712",
+        "created_at": "2021-05-03T11:46:26Z",
+        "updated_at": "2021-05-03T13:49:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077949872/comments/360015392712.json",
+        "post_id": 360077949872,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077193771,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 24222311989645,
+        "body": "<p>I know this woud be SO USEFULL.</p>\n\n<p>I had the same idea but then I saw youre post and this it exactly what I wanted too. So I gave this a \"vote\" and decided to give it a comment.</p>",
+        "author_id": 16960128156813,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077193771-Character-Names/comments/24222311989645",
+        "created_at": "2024-02-18T11:01:17Z",
+        "updated_at": "2024-02-20T09:35:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077193771/comments/24222311989645.json",
+        "post_id": 360077193771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077143752,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014360152,
+        "body": "<p>Agreed. If a boss such as the redstone monstrosity has 4 times more health than a redstone golem, you'd expect it to be 4 times more interesting. Boss fights really need to be less boring and tedious.</p>",
+        "author_id": 383961756051,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077143752-Minecraft-dungeons-boss-fights-need-an-improvement/comments/360014360152",
+        "created_at": "2021-02-12T19:30:39Z",
+        "updated_at": "2021-06-26T20:21:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077143752/comments/360014360152.json",
+        "post_id": 360077143752,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075991451,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014051171,
+        "body": "<p>Yeah!</p>",
+        "author_id": 409661388612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075991451-Minecraft-Dungeons-new-Enchant-feature/comments/360014051171",
+        "created_at": "2021-01-19T18:27:10Z",
+        "updated_at": "2021-01-19T18:27:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075991451/comments/360014051171.json",
+        "post_id": 360075991451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073321292,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014251672,
+        "body": "<p>You can</p>",
+        "author_id": 410548622511,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073321292-Re-gifting-items/comments/360014251672",
+        "created_at": "2021-02-02T15:20:54Z",
+        "updated_at": "2021-02-02T15:20:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073321292/comments/360014251672.json",
+        "post_id": 360073321292,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014192471,
+        "body": "<p>Actually you aren't able to re-gift items. Tested it with a friend.</p>",
+        "author_id": 383961756051,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073321292-Re-gifting-items/comments/360014192471",
+        "created_at": "2021-02-02T20:13:29Z",
+        "updated_at": "2022-03-21T18:27:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073321292/comments/360014192471.json",
+        "post_id": 360073321292,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4961800248461,
+        "body": "<p>I agree that not beibng able to gift items back is dumb. There is not advantage to being able to gift items back because the item power would scale with your power level. I hope Mojang changes this.</p>",
+        "author_id": 4961713916045,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073321292-Re-gifting-items/comments/4961800248461",
+        "created_at": "2022-03-21T17:18:22Z",
+        "updated_at": "2022-03-21T21:01:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073321292/comments/4961800248461.json",
+        "post_id": 360073321292,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 35512733226893,
+        "body": "<p>I agree</p>",
+        "author_id": 35512646739213,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073321292-Re-gifting-items/comments/35512733226893",
+        "created_at": "2025-04-02T09:24:04Z",
+        "updated_at": "2025-04-02T20:54:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073321292/comments/35512733226893.json",
+        "post_id": 360073321292,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40520593409805,
+        "body": "<p>me hate this feature because I gave someone my shadow Walker armor and could not get that back and it was at level 23.</p>",
+        "author_id": 31405048474765,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073321292-Re-gifting-items/comments/40520593409805",
+        "created_at": "2025-10-22T00:29:31Z",
+        "updated_at": "2025-10-22T00:29:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073321292/comments/40520593409805.json",
+        "post_id": 360073321292,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073155672,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012813312,
+        "body": "<p>maybe even the more you do the better loot you get at the end.</p>",
+        "author_id": 398392652652,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073155672-Rouge-like-Mode/comments/360012813312",
+        "created_at": "2020-09-09T21:18:21Z",
+        "updated_at": "2020-09-09T21:18:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073155672/comments/360012813312.json",
+        "post_id": 360073155672,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071892432,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012336271,
+        "body": "<p>I had an idea that makes diamond dust more than just a way to level up your tools. It should have a 50% chance of levelling up the gear, 25% chance of rerolling the enchantments and 25% of changing the tool into a unique tool. If it is already a unique tool, than it the chance of rerolling enchantments is increased to 50%.</p>",
+        "author_id": 393603513332,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071892432-Add-the-Mason-to-evolve-tools/comments/360012336271",
+        "created_at": "2020-08-10T11:36:07Z",
+        "updated_at": "2020-12-12T15:31:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071892432/comments/360012336271.json",
+        "post_id": 360071892432,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012355231,
+        "body": "<p><a href=\"https://www.minecraft.net/en-us/article/new-dungeons-dlc-and-more-september-8\" rel=\"nofollow noreferrer\">https://www.minecraft.net/en-us/article/new-dungeons-dlc-and-more-september-8</a></p>\n<p>We’re also rolling out a&nbsp;<strong>free game update</strong>&nbsp;on September 8 that will include some fresh features: new merchants and Daily Trials. Save captured Merchants you encounter as you play the game and they’ll be so grateful that they’ll set up shop in your camp! The Blacksmith will upgrade items for you, and the Gift Wrapper will allow you to trade items with other players in multiplayer. The Merchants can also be levelled up for additional stock. The Daily Trials will provide fun new challenges every day! Daily Trials make wild changes to the game mechanics which provide difficult, experimental, or fun challenges for you to overcome.</p>\n<p>Thanks for your feedback!</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071892432-Add-the-Mason-to-evolve-tools/comments/360012355231",
+        "created_at": "2020-08-11T16:49:34Z",
+        "updated_at": "2020-08-11T16:49:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071892432/comments/360012355231.json",
+        "post_id": 360071892432,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360070863091,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011221751,
+        "body": "<p>A creeper is a plant and plants have no rights. </p>",
+        "author_id": 394157612871,
+        "vote_sum": 4,
+        "vote_count": 4,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070863091-Giving-the-creeper-a-backstory-like-the-illagers-have/comments/360011221751",
+        "created_at": "2020-07-02T14:45:35Z",
+        "updated_at": "2020-11-26T19:04:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070863091/comments/360011221751.json",
+        "post_id": 360070863091,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360069077131,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4405593354637,
+        "body": "<p>Awesome Idea!~</p>\n<p>made a post about the same thing.</p>",
+        "author_id": 418163687791,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360069077131-Unique-mystery-armor-diamond-armor/comments/4405593354637",
+        "created_at": "2021-07-23T04:34:05Z",
+        "updated_at": "2021-11-26T01:19:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360069077131/comments/4405593354637.json",
+        "post_id": 360069077131,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360068111351,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010939951,
+        "body": "<p>Yeah the soul build in general feels like it's gated by itself, there are many alternatives in the game that dont have a soul cost such as the Totem you mentioned and of course radiance being as overpowered as it is. Even if you are thinking about the damage soul artifacts provide fireworks generally out perform that too&nbsp;</p>",
+        "author_id": 399011466832,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360068111351-Better-Soul-Healer/comments/360010939951",
+        "created_at": "2020-06-11T01:37:39Z",
+        "updated_at": "2020-06-11T19:24:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360068111351/comments/360010939951.json",
+        "post_id": 360068111351,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010940751,
+        "body": "<p>No.</p>",
+        "author_id": 399018125612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360068111351-Better-Soul-Healer/comments/360010940751",
+        "created_at": "2020-06-11T04:01:50Z",
+        "updated_at": "2020-06-11T04:01:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360068111351/comments/360010940751.json",
+        "post_id": 360068111351,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010940112,
+        "body": "<p>I don't think soul healers are comparable to totems of regeneration. For regeneration totems, you have to stay within the radius and wait for a moment to heal. For soul healers, they can be used instantly at any time as long as you have souls (which aren't rare in the slightest in my experience). They're so different that there's no need to \"buff\" one to \"match\" the other.</p>",
+        "author_id": 383961756051,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360068111351-Better-Soul-Healer/comments/360010940112",
+        "created_at": "2020-06-11T04:58:19Z",
+        "updated_at": "2020-06-11T19:11:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360068111351/comments/360010940112.json",
+        "post_id": 360068111351,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 17629737691789,
+        "body": "<p>I dont have any problem with the first one but I do agree that its stupid that you have to heal your pet and not you. Including bees. Also the Totem or regeneration sucks in comparison. It's better for after combat not in the middle of combat.</p>",
+        "author_id": 17629666666253,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360068111351-Better-Soul-Healer/comments/17629737691789",
+        "created_at": "2023-07-15T01:58:57Z",
+        "updated_at": "2023-09-21T20:59:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360068111351/comments/17629737691789.json",
+        "post_id": 360068111351,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360068089671,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 13718169640077,
+        "body": "<p>This would go nicely with the raid level I suggested!😀</p>",
+        "author_id": 13717163509517,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360068089671-Rebuilding-Squid-Coast/comments/13718169640077",
+        "created_at": "2023-03-04T15:26:42Z",
+        "updated_at": "2023-06-22T14:17:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360068089671/comments/13718169640077.json",
+        "post_id": 360068089671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360067946351,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011074791,
+        "body": "<p>Even just one ring slot would be nice, even just to add an enchantment to your sword, bow, or armour.&nbsp;</p>",
+        "author_id": 399323355491,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067946351-Add-ring-and-amulets/comments/360011074791",
+        "created_at": "2020-06-21T10:43:13Z",
+        "updated_at": "2021-11-23T04:32:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067946351/comments/360011074791.json",
+        "post_id": 360067946351,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360067575611,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010943771,
+        "body": "<p>I  think so much.</p>",
+        "author_id": 399107194351,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067575611-Shared-inventory-menus-for-splitscreen/comments/360010943771",
+        "created_at": "2020-06-11T14:03:24Z",
+        "updated_at": "2020-06-11T14:03:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067575611/comments/360010943771.json",
+        "post_id": 360067575611,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011544532,
+        "body": "<p>Agreed. (Same for blacksmith, btw.)</p>\n<p>I play with my sons (one who has autism, so teaching him to wait a sec is going to take awhile) and we often end up attacked while one of my sons is in his inventory, plus the issues you mentioned about pacing (we sit in the menu at least as much as we play the game...).</p>\n<p>The inventory and blacksmith screens should be per player screens, and not forced for the other players so we can defend other players while they tweak their item mix.</p>",
+        "author_id": 400815170351,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067575611-Shared-inventory-menus-for-splitscreen/comments/360011544532",
+        "created_at": "2020-07-18T15:35:37Z",
+        "updated_at": "2020-12-10T18:58:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067575611/comments/360011544532.json",
+        "post_id": 360067575611,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360067266031,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010706711,
+        "body": "<p>k now I want a refund if they change this</p>\n<p>&nbsp;</p>",
+        "author_id": 398419549672,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067266031-Minecraft-Dungeons-The-price-of-the-Hero-Edition-seems-wrong/comments/360010706711",
+        "created_at": "2020-05-27T18:24:15Z",
+        "updated_at": "2020-05-27T21:21:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067266031/comments/360010706711.json",
+        "post_id": 360067266031,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010718291,
+        "body": "<p>They are planning on adding dlc down the line, so with the hero edition you would get 2 dlc packs in the future, each dlc will cost more than 5€ or dollars so having the hero edition would be justified, just wait for some updates.</p>",
+        "author_id": 398426785612,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067266031-Minecraft-Dungeons-The-price-of-the-Hero-Edition-seems-wrong/comments/360010718291",
+        "created_at": "2020-05-27T22:15:58Z",
+        "updated_at": "2020-05-28T19:34:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067266031/comments/360010718291.json",
+        "post_id": 360067266031,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 31314178438285,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35667534183821,
+        "body": "<p>I like this idea a lot makes it so the useless weapons i pick up aren't just for spare emeralds!</p>",
+        "author_id": 35568876536845,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/31314178438285-New-Merchant-Enderman-Trader/comments/35667534183821",
+        "created_at": "2025-04-08T01:08:55Z",
+        "updated_at": "2025-04-08T01:08:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/31314178438285/comments/35667534183821.json",
+        "post_id": 31314178438285,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37087995933965,
+        "body": "<p>I think that it should give you the same level items as you offer to trade because otherwise people would just play easy levels and get the loot, then trade that in for way better loot.</p>",
+        "author_id": 36940807601933,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/31314178438285-New-Merchant-Enderman-Trader/comments/37087995933965",
+        "created_at": "2025-06-02T21:45:05Z",
+        "updated_at": "2025-06-02T22:37:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/31314178438285/comments/37087995933965.json",
+        "post_id": 31314178438285,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 27273148689549,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 27465722216333,
+        "body": "<p>I wish they finally fixed enemy damage, because I've never played an ARPG where you die so fast, even with all healing gear... </p>",
+        "author_id": 387979301012,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/27273148689549-Update-Minecraft-Dungeons-again/comments/27465722216333",
+        "created_at": "2024-06-10T23:31:42Z",
+        "updated_at": "2024-06-10T23:31:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/27273148689549/comments/27465722216333.json",
+        "post_id": 27273148689549,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 11641253276941,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 17914727188621,
+        "body": "<p>I would agree, however, it would be better if it was more of a daily trial drop from pumpkin pastures. Adding it to the tower would mean technically less rewards in the case of armor, tools, and ranged weapons.</p>",
+        "author_id": 17914541367565,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11641253276941-Corrupted-Pumpkin-Tower-Reward/comments/17914727188621",
+        "created_at": "2023-07-25T12:55:34Z",
+        "updated_at": "2023-09-22T20:06:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11641253276941/comments/17914727188621.json",
+        "post_id": 11641253276941,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 8199819102733,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8396185571469,
+        "body": "<p>There is a “Uniquesmith” in the Tower</p>",
+        "author_id": 420562648152,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8199819102733-Items-can-be-made-Unique/comments/8396185571469",
+        "created_at": "2022-08-13T13:42:45Z",
+        "updated_at": "2022-08-13T21:05:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8199819102733/comments/8396185571469.json",
+        "post_id": 8199819102733,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5676785804685,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5677848830861,
+        "body": "<p>Yeah, the satchel of elements was one of the best artifacts and now it just feels weak.</p>",
+        "author_id": 5677848277261,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5676785804685-Satchel-of-Elements/comments/5677848830861",
+        "created_at": "2022-04-21T04:49:04Z",
+        "updated_at": "2022-04-21T21:55:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5676785804685/comments/5677848830861.json",
+        "post_id": 5676785804685,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4554235808781,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5667762082829,
+        "body": "<p>Cool. This will be extremely useful for those who are looking for a specific item within Ancient Hunts, it should also display the items needed for the runes.</p>",
+        "author_id": 5665093949965,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4554235808781-Tome-of-the-Ancients/comments/5667762082829",
+        "created_at": "2022-04-20T18:44:34Z",
+        "updated_at": "2022-04-22T08:05:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4554235808781/comments/5667762082829.json",
+        "post_id": 4554235808781,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4423396971789,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4426753980941,
+        "body": "<p>That's great idea. My friends just install Minecraft Dungeons on PC and that would help a lot.</p>",
+        "author_id": 1905305234307,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4423396971789-Login-with-more-than-one-account-on-Minecraft-Dungeons-local-co-op-on-W10/comments/4426753980941",
+        "created_at": "2022-02-14T17:11:18Z",
+        "updated_at": "2022-02-17T11:44:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4423396971789/comments/4426753980941.json",
+        "post_id": 4423396971789,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4418167120013,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4418144511373,
+        "body": "<p>It might also have deep dark cities in one of the levels.</p>",
+        "author_id": 422475067831,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4418167120013-sculk-caves-dlc/comments/4418144511373",
+        "created_at": "2021-12-30T13:25:22Z",
+        "updated_at": "2022-06-05T11:28:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4418167120013/comments/4418144511373.json",
+        "post_id": 4418167120013,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 17942733448461,
+        "body": "<p>If I bought the boundle pack on netindo would i got i</p>",
+        "author_id": 9725922801421,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4418167120013-sculk-caves-dlc/comments/17942733448461",
+        "created_at": "2023-07-26T05:29:15Z",
+        "updated_at": "2023-07-26T05:29:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4418167120013/comments/17942733448461.json",
+        "post_id": 4418167120013,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4417302060173,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4426762685069,
+        "body": "<p>That's very nice idea!</p>",
+        "author_id": 1905305234307,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4417302060173-Open-world-mode-for-Minecraft-Dungeons/comments/4426762685069",
+        "created_at": "2022-02-14T17:13:54Z",
+        "updated_at": "2022-07-20T06:53:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4417302060173/comments/4426762685069.json",
+        "post_id": 4417302060173,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

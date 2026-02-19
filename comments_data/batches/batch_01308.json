@@ -1,0 +1,727 @@
+[
+  {
+    "post_id": 10096269119245,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 13527890998029,
+        "body": "<p>in skin customization i put this post up but i cant get to these settings</p>\n<p>&nbsp;</p>",
+        "author_id": 10096151079053,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10096269119245-piglin-ears-and-snout-on-players/comments/13527890998029",
+        "created_at": "2023-02-28T20:55:33Z",
+        "updated_at": "2023-05-10T22:08:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10096269119245/comments/13527890998029.json",
+        "post_id": 10096269119245,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7440946577037,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7443717389837,
+        "body": "<p>soon not so much</p>",
+        "author_id": 6491239974541,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7440946577037-Minecraft-its-best/comments/7443717389837",
+        "created_at": "2022-07-06T01:29:55Z",
+        "updated_at": "2022-07-07T22:59:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7440946577037/comments/7443717389837.json",
+        "post_id": 7440946577037,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5787032926989,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5824021447693,
+        "body": "<p>Why mountains? Also, I'm ok at maths and I know 50 plus 5 DOES not equal 100.</p>\n<p>Ancient cities are good how they are.</p>",
+        "author_id": 409908611251,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5787032926989-Make-Ancient-City-Rarer/comments/5824021447693",
+        "created_at": "2022-04-27T08:04:08Z",
+        "updated_at": "2022-04-27T08:04:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5787032926989/comments/5824021447693.json",
+        "post_id": 5787032926989,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 5873497741581,
+        "body": "<p>Have you tried to find one without the locate command? They are imo very difficult to find. I tryed it full geared and haven't found one.  Even on spectator they are difficult to find. That they are very often in mountains makes sense as the deep dark generates on terrain with low erosion, that is, terrain that has high cliffs and low valleys which makes perfectly sense</p>",
+        "author_id": 404604645372,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5787032926989-Make-Ancient-City-Rarer/comments/5873497741581",
+        "created_at": "2022-04-28T21:28:49Z",
+        "updated_at": "2022-04-28T21:45:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5787032926989/comments/5873497741581.json",
+        "post_id": 5787032926989,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5616035257741,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5619088842509,
+        "body": "<p>Mojang wants the Warden to be a natural disaster to be fled from, rather than a boss mob.</p>",
+        "author_id": 423562415371,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5616035257741-Impossible-Task/comments/5619088842509",
+        "created_at": "2022-04-18T19:05:24Z",
+        "updated_at": "2022-04-20T00:53:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5616035257741/comments/5619088842509.json",
+        "post_id": 5616035257741,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 5622316230029,
+        "body": "<p>Devs have said the warden will never have an achievement or item when defeated as that contradicts its game design</p>",
+        "author_id": 5373165269517,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5616035257741-Impossible-Task/comments/5622316230029",
+        "created_at": "2022-04-18T20:49:34Z",
+        "updated_at": "2022-04-19T09:23:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5616035257741/comments/5622316230029.json",
+        "post_id": 5616035257741,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5532021324685,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5544668213005,
+        "body": "<p>I think it would be Uno Reversed&nbsp; and the sonic boom would Destroy Terrain that can be broken without taking a million years (reinforced deepslate)</p>",
+        "author_id": 5476264390285,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5532021324685-warden/comments/5544668213005",
+        "created_at": "2022-04-14T17:33:35Z",
+        "updated_at": "2022-04-14T21:23:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5532021324685/comments/5544668213005.json",
+        "post_id": 5532021324685,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5440754806925,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5718349943565,
+        "body": "<p>Maybe only 0.5 damage(or a different low amount) and he becomes immune to it after a certain point so that you can't just get him stuck in lava. So you can hear the warden is taking damage but isn't being slowed down and is still coming for you.</p>",
+        "author_id": 5717688277773,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5440754806925-Warden-Lava-immunity/comments/5718349943565",
+        "created_at": "2022-04-22T21:18:16Z",
+        "updated_at": "2022-04-24T15:32:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5440754806925/comments/5718349943565.json",
+        "post_id": 5440754806925,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5403513287693,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5718724535181,
+        "body": "<p>I don't know. Seems a little OP. Maybe it could be unreliable, like it has a decent chance to just teleport you to a semi random location instead and/or teleport you to a large or small radius around your spawn. To use it you would have to stand still while teleporting and it could take 30 seconds with obvious particle animation and sound to alert people and mobs around you where you are and that you are teleporting. It could use up the item or use a large part of its durability that can't be repaired, also maybe to craft/use it the map used would have to be of your spawn area, so if your spawn has changed you would have to craft/combine it with a map of your new spawn.</p>\n<p>But I don't know may be still to OP, if anything this could be a good idea for a item in a vanilla + or more likely a vanilla adjacent mod.</p>",
+        "author_id": 5717688277773,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5403513287693-Echo-Rift-Teleports-Player-to-Spawnpoint/comments/5718724535181",
+        "created_at": "2022-04-22T21:38:02Z",
+        "updated_at": "2022-04-24T15:33:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5403513287693/comments/5718724535181.json",
+        "post_id": 5403513287693,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5312311416973,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8673548338317,
+        "body": "<p>i like this idea, but maybe he shouldn't have all detection methods, maybe he can only hear and not smell unless you're really close.</p>",
+        "author_id": 8672180431629,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5312311416973-Warden-Patrols/comments/8673548338317",
+        "created_at": "2022-08-25T02:05:43Z",
+        "updated_at": "2022-08-25T16:01:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5312311416973/comments/8673548338317.json",
+        "post_id": 5312311416973,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5059822375181,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 34069595572109,
+        "body": "<p>The nether is supposed to be hot, though. Even warped forests have lava pools. I guess it's an interesting idea, but not sure...</p>",
+        "author_id": 32772015081485,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5059822375181-Make-cold-frogs-spawn-in-warped-forest-instead-of-warm-frogs/comments/34069595572109",
+        "created_at": "2025-02-05T19:29:12Z",
+        "updated_at": "2025-02-05T19:53:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5059822375181/comments/34069595572109.json",
+        "post_id": 5059822375181,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4939722853261,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4947613682957,
+        "body": "<p>Putting a goat horn into a dispenser maybe?</p>",
+        "author_id": 418873283952,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4939722853261-Using-goat-horn-as-a-craftable/comments/4947613682957",
+        "created_at": "2022-03-21T04:41:02Z",
+        "updated_at": "2022-03-21T04:41:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4939722853261/comments/4947613682957.json",
+        "post_id": 4939722853261,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4588916455693,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4766684887821,
+        "body": "<p>I feel like uncertainty is more exciting and terrifying than knowing and identifying.</p>",
+        "author_id": 411955481092,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4588916455693-Shrieker-showing-closeness-of-warden-using-respawn-anchor-charging-display/comments/4766684887821",
+        "created_at": "2022-03-13T00:31:04Z",
+        "updated_at": "2022-03-13T00:31:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4588916455693/comments/4766684887821.json",
+        "post_id": 4588916455693,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4565078594829,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4844555900173,
+        "body": "<p>The warden is NOT ment to be killable</p>",
+        "author_id": 424235659451,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4565078594829-Warden-lot-his-heart-that-give-a-OP-effect/comments/4844555900173",
+        "created_at": "2022-03-16T14:00:02Z",
+        "updated_at": "2022-03-16T14:00:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4565078594829/comments/4844555900173.json",
+        "post_id": 4565078594829,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4483345000461,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4705922699917,
+        "body": "<p>Caves can sometimes be cold, so the snowballs don't always melt...</p>",
+        "author_id": 424235659451,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4483345000461-Sculk-Globs/comments/4705922699917",
+        "created_at": "2022-03-10T16:00:13Z",
+        "updated_at": "2022-03-10T16:00:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4483345000461/comments/4705922699917.json",
+        "post_id": 4483345000461,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4455977963533,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4462806934157,
+        "body": "<p>I think a similar concept would be very interesting where the amethyst itself could be used to distract or confuse the warden. As opposed to the structure repelling it, perhaps a new consumable item crafted from amethysts and clay for example could be introduced. This item would be thrown like a snowball, and create prolonged vibrations that distract the warden. My only worry is that an item like this would make the warden too easy.</p>",
+        "author_id": 424245073011,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4455977963533-Have-Amethyst-Geodes-Repel-The-Warden/comments/4462806934157",
+        "created_at": "2022-02-21T18:53:09Z",
+        "updated_at": "2022-02-21T18:53:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4455977963533/comments/4462806934157.json",
+        "post_id": 4455977963533,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4464281651597,
+        "body": "<p>I have a couple ideas:\n<br />1) maybe a new arrow type with amethyst  that makes more sound\n<br />2) if the Warden hears a loud sound near him, it would be stunned for a few seconds, and in that moment, he wouldn't be able to track anything, and if that noise is really loud (such as an explosion/bang), it would stun him even longer; maybe amethyst blocks and clusters can amplify this sounds, making the louder and stronger, but the Warden should be really close to the noises, or else it won't work</p>",
+        "author_id": 419591804091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4455977963533-Have-Amethyst-Geodes-Repel-The-Warden/comments/4464281651597",
+        "created_at": "2022-02-21T21:25:18Z",
+        "updated_at": "2022-03-04T22:43:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4455977963533/comments/4464281651597.json",
+        "post_id": 4455977963533,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4451418371725,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4458887445389,
+        "body": "<p>I thaught it lived inside <strong>skulk</strong></p>",
+        "author_id": 424235659451,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4451418371725-Make-Warden-Immune-to-Suffocation/comments/4458887445389",
+        "created_at": "2022-02-21T12:32:51Z",
+        "updated_at": "2022-02-21T12:32:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4451418371725/comments/4458887445389.json",
+        "post_id": 4451418371725,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4445775622797,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4464334193165,
+        "body": "<p>I think WANT it to be unobtainable </p>",
+        "author_id": 419591804091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4445775622797-Mining-Reinforced-Deepslate-to-require-a-Netherite-Pickaxe/comments/4464334193165",
+        "created_at": "2022-02-21T21:30:18Z",
+        "updated_at": "2022-03-04T22:43:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4445775622797/comments/4464334193165.json",
+        "post_id": 4445775622797,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4442498037901,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4442534604045,
+        "body": "<p>An alternative to the movement behavior of bats, they could instead stay largely inactive and perched above sculk areas until the player makes a noise that would even alert the bats as a warning before the warden comes. they could gravitate to a specific area of blocks to flee to, and multiple bats can share the same area to mimic flocking behavior.</p>\n<p>the player still being able to locate the bats by sound despite not immediately calling a warden could be explained by things in certain frequencies just cant be heard by sensors and the warden. they would otherwise live simi-peacfully, or lore wise even dependent on each other, unless a player interferes with the bats in a way that alerts the warden to attack with 0 prejudice, to even the bats.&nbsp;</p>\n<p>killing the minimum number of bats yourself to make them flee and perch again before they give away your location by sound could be another layer of interactivity.&nbsp;</p>",
+        "author_id": 1905565915747,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4442498037901-Bat-spawn-and-utility-in-1-19/comments/4442534604045",
+        "created_at": "2022-02-18T05:58:45Z",
+        "updated_at": "2022-02-18T13:51:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4442498037901/comments/4442534604045.json",
+        "post_id": 4442498037901,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4423032274957,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4423936795917,
+        "body": "<p>That's a little too OP in the wrong direction.</p>",
+        "author_id": 423562415371,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4423032274957-hypnotized-iron-golem/comments/4423936795917",
+        "created_at": "2022-02-02T18:03:14Z",
+        "updated_at": "2022-02-02T21:51:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4423032274957/comments/4423936795917.json",
+        "post_id": 4423032274957,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4410503725709,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4410540233357,
+        "body": "<p>Agreed. Taiga is my favorite biome and the amount of berry bushes is absurd. Not sure if this was an intentional change but there are way too many now.&nbsp;</p>",
+        "author_id": 376998406052,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4410503725709-The-generation-of-sweet-berry-bushes-got-really-buggy-in-21w39a/comments/4410540233357",
+        "created_at": "2021-10-03T00:49:46Z",
+        "updated_at": "2021-10-03T11:05:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4410503725709/comments/4410540233357.json",
+        "post_id": 4410503725709,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4410577649805,
+        "body": "<p>Yes i'm playing it right now, berry bushes definitely need a fix</p>",
+        "author_id": 414935557091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4410503725709-The-generation-of-sweet-berry-bushes-got-really-buggy-in-21w39a/comments/4410577649805",
+        "created_at": "2021-10-04T03:11:06Z",
+        "updated_at": "2021-10-04T03:56:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4410503725709/comments/4410577649805.json",
+        "post_id": 4410503725709,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4414681952781,
+        "body": "<p>use a bug report. its the Report Bugs button in minecraft pause menu</p>",
+        "author_id": 384115840171,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4410503725709-The-generation-of-sweet-berry-bushes-got-really-buggy-in-21w39a/comments/4414681952781",
+        "created_at": "2021-11-25T16:18:58Z",
+        "updated_at": "2021-11-25T16:46:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4410503725709/comments/4414681952781.json",
+        "post_id": 4410503725709,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4407772481677,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4407896431117,
+        "body": "<p>Overall, the terrain is pretty much perfect; cave generation is awesome, biomes are nicely balanced, but structures are a little prone to bugs. I've run into a stronghold that spawned on top of a mine shaft and a dripstone cave, and the jumbled up mess made it a pain to navigate, and while it is cool that some structures can render on top of each other, I think the stronghold should be made an exception, as it is the entrance to and set up for the End.</p>\n<p>Mob spawning is bugged as well, but more on the side of not enough spawns instead of something like the new light rules suddenly going out the window. Mobs have refused to spawn on blocks I actually placed down, like for a mob farm, and meanwhile the spawner blocks are constantly cranking out enemies regardless of light level. I had to place torches on every block near the spawner just to interrupt the spawn pattern.</p>\n<p>And in regards to the original post on this thread, yes, rivers tend to more often than not just be flooded caves open to the air, which makes them a breeding ground for drowned. Hardly a great situation for a player just starting their survival world.</p>",
+        "author_id": 419265727652,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4407772481677-1-18-Experimental-Snapshot-4/comments/4407896431117",
+        "created_at": "2021-08-26T05:16:40Z",
+        "updated_at": "2021-08-26T11:19:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4407772481677/comments/4407896431117.json",
+        "post_id": 4407772481677,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4408578683149,
+        "body": "<p>Minecraft 1.18 is cool but not to simple updates like 1.18 is the game getting less simple&nbsp;</p>",
+        "author_id": 419986403571,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4407772481677-1-18-Experimental-Snapshot-4/comments/4408578683149",
+        "created_at": "2021-09-05T02:56:25Z",
+        "updated_at": "2021-09-05T10:44:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4407772481677/comments/4408578683149.json",
+        "post_id": 4407772481677,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4407160667405,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4407217550477,
+        "body": "<p>I spawned in a world with a stronghold with 0 eyes in the portal, that wasnt what was out of the ordinary, when i went to the end, there were no end crystals, is that a bug or a new thing?</p>",
+        "author_id": 419228137792,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4407160667405-1-18-experimental-snapshot-3/comments/4407217550477",
+        "created_at": "2021-08-16T20:36:33Z",
+        "updated_at": "2021-08-16T21:34:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4407160667405/comments/4407217550477.json",
+        "post_id": 4407160667405,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4408633748621,
+        "body": "<p>Minecraft Snapshot 21w37a&nbsp;</p>\n<p>Ah make this new snapshot make no Minecraft 1.18 experimental snapshot 7 make Minecraft snapshot 21w37a on September 15 2021 this Snapshot adds the deep dark biome which generates with no mob until snapshot 21w42a on October 16 2021 were it adds new sculk blocks and the warden that has 84hp or 42 hearts or more</p>",
+        "author_id": 415945444632,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4407160667405-1-18-experimental-snapshot-3/comments/4408633748621",
+        "created_at": "2021-09-05T23:58:36Z",
+        "updated_at": "2021-09-05T23:58:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4407160667405/comments/4408633748621.json",
+        "post_id": 4407160667405,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4407016038541,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4407016069517,
+        "body": "<p>Seria uma boa ideia</p>",
+        "author_id": 419156835292,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4407016038541-Ratos/comments/4407016069517",
+        "created_at": "2021-08-13T18:41:03Z",
+        "updated_at": "2021-08-13T18:41:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4407016038541/comments/4407016069517.json",
+        "post_id": 4407016038541,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4406895259917,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4407003221005,
+        "body": "<p><em><strong>WR</strong></em></p>",
+        "author_id": 419154276492,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4406895259917-More-Badlands-generation/comments/4407003221005",
+        "created_at": "2021-08-13T16:15:57Z",
+        "updated_at": "2021-08-13T16:15:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4406895259917/comments/4407003221005.json",
+        "post_id": 4406895259917,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4407011288333,
+        "body": "<p><em>Z</em></p>",
+        "author_id": 419154276492,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4406895259917-More-Badlands-generation/comments/4407011288333",
+        "created_at": "2021-08-13T16:16:11Z",
+        "updated_at": "2021-08-13T16:16:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4406895259917/comments/4407011288333.json",
+        "post_id": 4406895259917,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4406814720909,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4410958771853,
+        "body": "<p>i like this idea</p>",
+        "author_id": 1900667441947,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4406814720909-The-1-19-jungle-of-bears/comments/4410958771853",
+        "created_at": "2021-10-09T12:50:21Z",
+        "updated_at": "2022-01-11T20:26:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4406814720909/comments/4410958771853.json",
+        "post_id": 4406814720909,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4414682498829,
+        "body": "<p>so like adding all the mobs to be ever considered for minecraft?&nbsp;</p>",
+        "author_id": 1902581630007,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4406814720909-The-1-19-jungle-of-bears/comments/4414682498829",
+        "created_at": "2021-11-25T17:19:05Z",
+        "updated_at": "2022-01-11T20:26:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4406814720909/comments/4414682498829.json",
+        "post_id": 4406814720909,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4420170566157,
+        "body": "<p>Frogs Were Already Introduced. Ostriches, Meerkats and Vultures Are Being Added. Moobloom, Iceologer, Glare and Copper Golem Will Be Added Sometime Soon. Mob A (Monster of the Ocean Depths), Mob C (Great Hunger) and Mob D (Hovering Inferno) Won't Be Added Anytime Soon Because THEY LOST THE VOTE FOREVER.</p>\n<p>&nbsp;</p>\n<p>Edit: Added Minecon Earth Mobs That Won't Be Added Anytime Soon.</p>",
+        "author_id": 1903792672447,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4406814720909-The-1-19-jungle-of-bears/comments/4420170566157",
+        "created_at": "2022-01-11T20:26:05Z",
+        "updated_at": "2022-01-20T18:34:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4406814720909/comments/4420170566157.json",
+        "post_id": 4406814720909,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4405074991245,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4408934842765,
+        "body": "<p>Hi</p>\n<p>How</p>\n<p>Are</p>\n<p>U</p>\n<p>&nbsp;</p>",
+        "author_id": 419934915292,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4405074991245-Omargameing/comments/4408934842765",
+        "created_at": "2021-09-10T17:46:17Z",
+        "updated_at": "2021-09-10T17:46:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4405074991245/comments/4408934842765.json",
+        "post_id": 4405074991245,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,907 @@
+[
+  {
+    "post_id": 360056286591,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010673092,
+        "body": "<p>What about PlayStation and Switch users. This would not work for them</p>",
+        "author_id": 396183066272,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360056286591-Xbox-Realm-club-chat-should-show-in-game-chat/comments/360010673092",
+        "created_at": "2020-05-25T12:42:21Z",
+        "updated_at": "2020-05-25T12:42:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360056286591/comments/360010673092.json",
+        "post_id": 360056286591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010813831,
+        "body": "<p>The point is, every realm is connected to a club, and clubs have chat, so the ingame chat would show there. Also, on Nintendo Switch (probably on playstation too idk) you have to sign in to Microsoft.</p>",
+        "author_id": 384694119751,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360056286591-Xbox-Realm-club-chat-should-show-in-game-chat/comments/360010813831",
+        "created_at": "2020-06-01T09:21:09Z",
+        "updated_at": "2020-06-01T16:21:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360056286591/comments/360010813831.json",
+        "post_id": 360056286591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360029508092,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4467400058125,
+        "body": "<p>I don't understand how WebSockets would be better for this. <strong>WebSockets use TCP Sockets</strong> and are <strong>more expensive</strong> in terms of <strong>performance</strong></p>",
+        "author_id": 424030169132,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360029508092-Use-websockets-instead-of-Raw-TCP-Raknet/comments/4467400058125",
+        "created_at": "2022-02-22T11:12:57Z",
+        "updated_at": "2022-02-22T11:12:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360029508092/comments/4467400058125.json",
+        "post_id": 360029508092,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4467402109325,
+        "body": "<p>If they changed it just like that, there would be an incompatibility, players of this version would not be able to enter with others in an older one</p>",
+        "author_id": 424030169132,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360029508092-Use-websockets-instead-of-Raw-TCP-Raknet/comments/4467402109325",
+        "created_at": "2022-02-22T11:14:49Z",
+        "updated_at": "2022-03-05T10:20:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360029508092/comments/4467402109325.json",
+        "post_id": 360029508092,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 27749085759373,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 27774428544653,
+        "body": "<p>i concur. zeqa is indeed op.</p>",
+        "author_id": 27554997252621,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/27749085759373-Can-you-put-Zeqa-on-the-featured-servers-for-Bedrock-edition-please/comments/27774428544653",
+        "created_at": "2024-06-21T18:18:31Z",
+        "updated_at": "2024-06-21T18:18:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/27749085759373/comments/27774428544653.json",
+        "post_id": 27749085759373,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 28041124885261,
+        "body": "<p>Erm</p>",
+        "author_id": 28041138138765,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/27749085759373-Can-you-put-Zeqa-on-the-featured-servers-for-Bedrock-edition-please/comments/28041124885261",
+        "created_at": "2024-07-01T16:31:32Z",
+        "updated_at": "2024-07-01T16:31:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/27749085759373/comments/28041124885261.json",
+        "post_id": 27749085759373,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 35225462465805,
+        "body": "<p>Zeqa had an update and its almost as good as the hive!!</p>",
+        "author_id": 35225425546253,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/27749085759373-Can-you-put-Zeqa-on-the-featured-servers-for-Bedrock-edition-please/comments/35225462465805",
+        "created_at": "2025-03-22T00:33:19Z",
+        "updated_at": "2025-03-22T16:47:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/27749085759373/comments/35225462465805.json",
+        "post_id": 27749085759373,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 27237194903949,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 33801725424397,
+        "body": "<p>Bingo was the BEST mini game!!!!! BRING IT BACK PLEASE!!!</p>",
+        "author_id": 424012704811,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/27237194903949-Bingo-minigame/comments/33801725424397",
+        "created_at": "2025-01-27T03:47:34Z",
+        "updated_at": "2025-01-27T03:47:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/27237194903949/comments/33801725424397.json",
+        "post_id": 27237194903949,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 26989944373005,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 33895205307661,
+        "body": "<p>Right. Why isn't Mojang, or Microsoft implementing this?</p>",
+        "author_id": 29647776715533,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26989944373005-Allow-members-of-Realms-to-download-the-world/comments/33895205307661",
+        "created_at": "2025-01-29T22:37:57Z",
+        "updated_at": "2025-01-30T00:18:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26989944373005/comments/33895205307661.json",
+        "post_id": 26989944373005,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 23424087650445,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 23424234416653,
+        "body": "<p>Removing Minecraft from xbox is a bad idea as many people i know got into minecraft by first playing it through gamepass</p>",
+        "author_id": 22971745384205,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/23424087650445-Making-Minecraft-Safe-by-adding-Hardware-Ban/comments/23424234416653",
+        "created_at": "2024-01-22T17:31:51Z",
+        "updated_at": "2024-02-01T22:07:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/23424087650445/comments/23424234416653.json",
+        "post_id": 23424087650445,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 24476518340877,
+        "body": "<p>One could end up tampering with their hardware to eventually circumvent the ban, such as changing or adding components. If possible, you could IP ban them as a workaround on Java.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/23424087650445-Making-Minecraft-Safe-by-adding-Hardware-Ban/comments/24476518340877",
+        "created_at": "2024-02-26T22:35:13Z",
+        "updated_at": "2024-03-01T18:26:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/23424087650445/comments/24476518340877.json",
+        "post_id": 23424087650445,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7307694675213,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8142127628045,
+        "body": "<p><a href=\"/hc/en-us/community/posts/8142089309325-funzione-aggiungi-server-\" rel=\"nofollow noreferrer\">funzione \"aggiungi server\" – Minecraft Feedback</a></p>\n<p>vogliamo questa funzione!!!!!!</p>\n<p>&nbsp;</p>",
+        "author_id": 423552717451,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7307694675213-Add-the-abilities-to-have-add-more-servers-to-PlayStation-and-Xbox/comments/8142127628045",
+        "created_at": "2022-08-03T09:06:46Z",
+        "updated_at": "2022-08-03T15:47:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7307694675213/comments/8142127628045.json",
+        "post_id": 7307694675213,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4410832428685,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40971860453133,
+        "body": "<p>i heavily agree,&nbsp;many server owners don’t realize their server is discoverable and vulnerable. Groups like The Fifth Column and MLPI actively use scan‑bots to find servers using default MOTDs like “A Minecraft Server” and without a whitelist.</p>\n<p data-start=\"729\" data-end=\"1218\">Additionally, given the recent introduction of the new server management protocol / API in snapshot 25w35a&nbsp;this is an ideal time to reconsider defaults. With more server‑exposed metadata and management endpoints, leaving the whitelist off by default further increases risk. Enabling it by default would align with the new protocol features and reduce the surface for abuse.</p>",
+        "author_id": 418552149992,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4410832428685-Server-API-change-to-combat-private-world-griefing/comments/40971860453133",
+        "created_at": "2025-11-07T23:22:49Z",
+        "updated_at": "2025-11-07T23:37:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4410832428685/comments/40971860453133.json",
+        "post_id": 4410832428685,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4410562981901,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4495864697997,
+        "body": "<p>A good solution to this is hold right click over a button or trapdoor and unplug you mouse so it keeps going it prevents you from being kicked.</p>",
+        "author_id": 1905714237967,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4410562981901-Idle-Auto-Kick-on-java-realms/comments/4495864697997",
+        "created_at": "2022-02-24T22:55:29Z",
+        "updated_at": "2022-03-08T17:20:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4410562981901/comments/4495864697997.json",
+        "post_id": 4410562981901,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077488972,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4406938598925,
+        "body": "<p>Won't let me play none of servers </p>",
+        "author_id": 419334567231,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077488972-It-wont-let-me-play-most-servers/comments/4406938598925",
+        "created_at": "2021-08-12T03:44:03Z",
+        "updated_at": "2021-08-12T03:44:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077488972/comments/4406938598925.json",
+        "post_id": 360077488972,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4408254255373,
+        "body": "<p>On my severs it want let me play</p>\n<p>&nbsp;</p>",
+        "author_id": 419639205632,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077488972-It-wont-let-me-play-most-servers/comments/4408254255373",
+        "created_at": "2021-08-31T15:01:26Z",
+        "updated_at": "2021-08-31T15:01:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077488972/comments/4408254255373.json",
+        "post_id": 360077488972,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077362732,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014526691,
+        "body": "<p><strong>это сильно поможет игре!</strong></p>\n<p>&nbsp;</p>",
+        "author_id": 412123033432,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077362732-Age-Restriction-setting-for-Minecraft-Server-s-server-properties-file/comments/360014526691",
+        "created_at": "2021-03-04T20:38:34Z",
+        "updated_at": "2021-03-04T20:38:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077362732/comments/360014526691.json",
+        "post_id": 360077362732,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014583572,
+        "body": "<p>Many people have lied about their age when buying the game, back when they were underage.</p>",
+        "author_id": 412307560731,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077362732-Age-Restriction-setting-for-Minecraft-Server-s-server-properties-file/comments/360014583572",
+        "created_at": "2021-03-04T22:20:12Z",
+        "updated_at": "2021-03-04T22:20:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077362732/comments/360014583572.json",
+        "post_id": 360077362732,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 17061347654669,
+        "body": "<p>I would love this, especially after they banned guns. That means if you have a modded server, that has a gun mod, you just can't run that mod. So fun! I love not being able to play the game how I want because little timmy could stumble upon my server that isn't advertised on any website.</p>",
+        "author_id": 375161761171,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077362732-Age-Restriction-setting-for-Minecraft-Server-s-server-properties-file/comments/17061347654669",
+        "created_at": "2023-06-25T17:06:02Z",
+        "updated_at": "2023-09-21T12:27:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077362732/comments/17061347654669.json",
+        "post_id": 360077362732,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075798551,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013908171,
+        "body": "<p>Realms are relatively inexpensive compared to servers. I've looked into them a lot, hence why they have such small render distance and minimal options. I for one, would prefer it if they offered a more premium option of realm plans, with better render distance, rather than have us, have to buy 3rd party servers.</p>",
+        "author_id": 397479362611,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075798551-Minecraft-Realm-Improvements/comments/360013908171",
+        "created_at": "2021-01-03T10:13:10Z",
+        "updated_at": "2021-01-03T22:41:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075798551/comments/360013908171.json",
+        "post_id": 360075798551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075744931,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013901912,
+        "body": "<p>I believe there's plenty of configurations that make this possible</p>",
+        "author_id": 403779318931,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075744931-In-game-chat-appear-in-Dedicated-Server-Software-Console-for-Bedrock/comments/360013901912",
+        "created_at": "2020-12-22T00:45:54Z",
+        "updated_at": "2020-12-22T00:45:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075744931/comments/360013901912.json",
+        "post_id": 360075744931,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013855491,
+        "body": "<p>Seabatt77, I don't think you know what i'm talking about. There is not a way to see chat in-game from the server console.</p>",
+        "author_id": 384358186931,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075744931-In-game-chat-appear-in-Dedicated-Server-Software-Console-for-Bedrock/comments/360013855491",
+        "created_at": "2020-12-25T18:08:41Z",
+        "updated_at": "2023-12-14T01:57:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075744931/comments/360013855491.json",
+        "post_id": 360075744931,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073622532,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014923191,
+        "body": "<p>Mahindra file</p>",
+        "author_id": 415456315092,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073622532-Bedrock-Server-Download-Page-Clear-Version-and-Simple-File-Names/comments/360014923191",
+        "created_at": "2021-04-27T03:37:44Z",
+        "updated_at": "2021-04-27T03:37:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073622532/comments/360014923191.json",
+        "post_id": 360073622532,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37350384843021,
+        "body": "<p>this is more important than ever now, as the download link isn't directly in the markup anymore with the redesign</p>",
+        "author_id": 4579251281293,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073622532-Bedrock-Server-Download-Page-Clear-Version-and-Simple-File-Names/comments/37350384843021",
+        "created_at": "2025-06-13T14:08:53Z",
+        "updated_at": "2025-06-13T16:56:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073622532/comments/37350384843021.json",
+        "post_id": 360073622532,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37723062312461,
+        "body": "<p>PLEASE just make the directory where all the server zip files are located browseable!</p>\n<p>The download links for all the linux server versions point to this directory:</p>\n<p><a href=\"https://www.minecraft.net/bedrockdedicatedserver/bin-linux/\" rel=\"nofollow noreferrer\">https://www.minecraft.net/bedrockdedicatedserver/bin-linux/</a></p>\n<p>But we're not allowed to SEE the contents of that directory, which is INCREDIBLY unhelpful.</p>\n<p>Right now if you KNOW somehow that the latest file is called \"bedrock-server-1.21.84.1.zip\" you can just download it directly from this URL:</p>\n<p><a href=\"https://www.minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.84.1.zip\" rel=\"nofollow noreferrer\">https://www.minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.84.1.zip</a></p>\n<p>But there is no good way to write a script to automatically SEE what the latest version is, and download it. &nbsp;Instead we're forced to MANUALLY check the download page over and over again. &nbsp;Please just let us SEE the filename of the latest version there and then automatically download it!</p>",
+        "author_id": 37723021493773,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073622532-Bedrock-Server-Download-Page-Clear-Version-and-Simple-File-Names/comments/37723062312461",
+        "created_at": "2025-06-30T17:07:19Z",
+        "updated_at": "2025-06-30T17:35:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073622532/comments/37723062312461.json",
+        "post_id": 360073622532,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360068157572,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011221412,
+        "body": "<p>No becasue only massive server would be there anyways, things like nethergames would be there 24/7</p>",
+        "author_id": 400064814211,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360068157572-Adding-a-trending-servers-box/comments/360011221412",
+        "created_at": "2020-07-02T10:03:02Z",
+        "updated_at": "2020-07-02T10:03:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360068157572/comments/360011221412.json",
+        "post_id": 360068157572,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011253071,
+        "body": "<p>It wouldn't just be based on the biggest server, that would just be dumb, what I am saying is that it would show the 'fastest-growing servers on the platform'. Fastest growing does not mean most popular.</p>",
+        "author_id": 399000296331,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360068157572-Adding-a-trending-servers-box/comments/360011253071",
+        "created_at": "2020-07-05T19:40:51Z",
+        "updated_at": "2020-07-09T19:14:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360068157572/comments/360011253071.json",
+        "post_id": 360068157572,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012765071,
+        "body": "<p>Ylide gaimer</p>",
+        "author_id": 403338428891,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360068157572-Adding-a-trending-servers-box/comments/360012765071",
+        "created_at": "2020-09-13T19:12:43Z",
+        "updated_at": "2020-09-13T19:12:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360068157572/comments/360012765071.json",
+        "post_id": 360068157572,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012765091,
+        "body": "<p>progaimer12</p>",
+        "author_id": 403338428891,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360068157572-Adding-a-trending-servers-box/comments/360012765091",
+        "created_at": "2020-09-13T19:13:06Z",
+        "updated_at": "2020-09-13T19:13:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360068157572/comments/360012765091.json",
+        "post_id": 360068157572,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360061133772,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011215751,
+        "body": "<p>Just host a server?</p>",
+        "author_id": 400015522632,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360061133772-Servers-as-releam-plus-but-without-marketplace-worlds/comments/360011215751",
+        "created_at": "2020-07-02T05:42:08Z",
+        "updated_at": "2020-07-22T09:52:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360061133772/comments/360011215751.json",
+        "post_id": 360061133772,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012212332,
+        "body": "<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">Yes host a server</span></span></p>",
+        "author_id": 395598229732,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360061133772-Servers-as-releam-plus-but-without-marketplace-worlds/comments/360012212332",
+        "created_at": "2020-07-22T09:52:42Z",
+        "updated_at": "2020-07-22T14:14:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360061133772/comments/360012212332.json",
+        "post_id": 360061133772,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360055837071,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009459911,
+        "body": "<p>I like this. It's similar to Terraria's character system.</p>",
+        "author_id": 390728826911,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055837071-Keep-inventory-when-switching-a-realm-world-option/comments/360009459911",
+        "created_at": "2020-02-25T02:06:26Z",
+        "updated_at": "2024-03-17T17:52:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055837071/comments/360009459911.json",
+        "post_id": 360055837071,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4415344625165,
+        "body": "<p>Yes, this exactly. Visiting friends worlds or transferring to a new one seems meaningless because you lose everything when you return. Makes me lose interest when big updates come or my save is too bloated and I have to restart. </p>\n\n<p>It would be great if inventory is saved to your character instead of the world. </p>",
+        "author_id": 422105143171,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055837071-Keep-inventory-when-switching-a-realm-world-option/comments/4415344625165",
+        "created_at": "2021-12-02T05:45:58Z",
+        "updated_at": "2024-03-17T17:52:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055837071/comments/4415344625165.json",
+        "post_id": 360055837071,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360055299711,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008734591,
+        "body": "<p>Server 1\n</p>",
+        "author_id": 391295144591,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055299711-Multiplayer-Server-Origization/comments/360008734591",
+        "created_at": "2019-12-18T01:09:06Z",
+        "updated_at": "2019-12-18T01:09:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055299711/comments/360008734591.json",
+        "post_id": 360055299711,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010385672,
+        "body": "<p>It's a good idea, server list is getting big quickly and there is no way to organize it other than moving servers up and down.</p>\n<p>\"Move to the top\" and \"Move to the bottom\" options would be a good addition too.</p>",
+        "author_id": 387581942771,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055299711-Multiplayer-Server-Origization/comments/360010385672",
+        "created_at": "2020-05-02T13:51:06Z",
+        "updated_at": "2020-05-02T13:51:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055299711/comments/360010385672.json",
+        "post_id": 360055299711,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360054476651,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012942591,
+        "body": "<p>HI\n</p>",
+        "author_id": 404184725891,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054476651-Stand-Alone-Windows10-client/comments/360012942591",
+        "created_at": "2020-10-01T12:43:15Z",
+        "updated_at": "2020-10-01T12:43:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054476651/comments/360012942591.json",
+        "post_id": 360054476651,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360054291111,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008859232,
+        "body": "<p>You could just break the portals, there's only like 3</p>",
+        "author_id": 392047303292,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054291111-Add-an-option-to-disable-end-via-server-config-file/comments/360008859232",
+        "created_at": "2020-01-06T00:13:25Z",
+        "updated_at": "2020-01-06T00:13:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054291111/comments/360008859232.json",
+        "post_id": 360054291111,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010357151,
+        "body": "<p>Nope, since 1.9, there are now 128 strongholds, so 128 portals</p>",
+        "author_id": 384256599292,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054291111-Add-an-option-to-disable-end-via-server-config-file/comments/360010357151",
+        "created_at": "2020-04-30T12:36:48Z",
+        "updated_at": "2020-04-30T12:36:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054291111/comments/360010357151.json",
+        "post_id": 360054291111,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360053725551,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011256552,
+        "body": "<p>This is pointless because no servers except featured servers would use it. Creating all the product descriptions and pictures would not be worth it for server owners just to be able to pay in-game, they simply don't have the resources.</p>",
+        "author_id": 399000296331,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360053725551-Allow-all-bedrock-servers-to-have-an-in-game-store/comments/360011256552",
+        "created_at": "2020-07-05T19:34:36Z",
+        "updated_at": "2020-07-06T20:09:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360053725551/comments/360011256552.json",
+        "post_id": 360053725551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042943752,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4817060118029,
+        "body": "<p>さ</p>",
+        "author_id": 4816608237709,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042943752-Realms-Alternatives/comments/4817060118029",
+        "created_at": "2022-03-15T13:20:24Z",
+        "updated_at": "2022-03-15T13:20:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042943752/comments/4817060118029.json",
+        "post_id": 360042943752,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 36923769821069,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 37771707712781,
+        "body": "<p>LAN isn't locked behind gamepass. The only connection between Xbox Game Pass and Minecraft is that game pass gives you access to the game.</p>",
+        "author_id": 7114803169421,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36923769821069-LAN-and-Gamepass/comments/37771707712781",
+        "created_at": "2025-07-02T11:58:34Z",
+        "updated_at": "2025-07-02T11:58:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36923769821069/comments/37771707712781.json",
+        "post_id": 36923769821069,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 39746330344973,
+        "body": "<p>We are experiencing this same issue with both of my sons consoles attempting to play over LAN as soon as we try and join the LAN world we hit a Microsoft paywall and after reading discussion on Reddit this doesn't appear to be an isolated case.</p>",
+        "author_id": 39746255862413,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36923769821069-LAN-and-Gamepass/comments/39746330344973",
+        "created_at": "2025-09-21T23:44:36Z",
+        "updated_at": "2025-09-22T00:44:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36923769821069/comments/39746330344973.json",
+        "post_id": 36923769821069,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 33792639386765,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 34562496796941,
+        "body": "<pre id=\"tw-target-text\" class=\"tw-data-text tw-text-large tw-ta\" dir=\"ltr\" style=\"text-align: left;\" data-placeholder=\"Перевод\" data-ved=\"2ahUKEwi5jqbOiuGLAxWlHzQIHTSdGjEQ3ewLegQIBxAU\" aria-label=\"Переведенный текст: Same idea. I would like to have my own home microserver on Synology in the form of a package or docker container.\"><span class=\"Y2IQFc\" lang=\"en\">Same idea. I would like to have my own home microserver on Synology in the form of a package or docker container.</span></pre>",
+        "author_id": 34562422270861,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33792639386765-bedrock-dedicated-server-on-ARM64/comments/34562496796941",
+        "created_at": "2025-02-26T10:03:39Z",
+        "updated_at": "2025-02-26T10:03:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33792639386765/comments/34562496796941.json",
+        "post_id": 33792639386765,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38876430417677,
+        "body": "<p>+1 to this request.</p>\n<p>In the interim, it is possible to use the box64 emulator, which allows running on arm64. <a href=\"https://github.com/itzg/docker-minecraft-bedrock-server\" rel=\"nofollow noreferrer\">https://github.com/itzg/docker-minecraft-bedrock-server</a> has a working arm64 build which runs nicely on Raspberry Pi4.</p>",
+        "author_id": 38876335326989,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33792639386765-bedrock-dedicated-server-on-ARM64/comments/38876430417677",
+        "created_at": "2025-08-17T14:04:44Z",
+        "updated_at": "2025-08-18T00:56:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33792639386765/comments/38876430417677.json",
+        "post_id": 33792639386765,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 9681583810189,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 9681639669645,
+        "body": "<p>The empty parentheses contained a fill in for version but it was removed because i styled it like an HTML tag</p>",
+        "author_id": 369537799291,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/9681583810189-Version-backwards-compatibility-Serverside-version/comments/9681639669645",
+        "created_at": "2022-10-06T01:46:20Z",
+        "updated_at": "2022-10-06T09:44:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/9681583810189/comments/9681639669645.json",
+        "post_id": 9681583810189,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 9996653323533,
+        "body": "<p>Plls join 😭😭</p>",
+        "author_id": 9996650151437,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/9681583810189-Version-backwards-compatibility-Serverside-version/comments/9996653323533",
+        "created_at": "2022-10-19T14:23:38Z",
+        "updated_at": "2022-10-22T01:24:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/9681583810189/comments/9996653323533.json",
+        "post_id": 9681583810189,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 10231346148493,
+        "body": "<p>i wish more people saw this cuz my friend is still away and minecraft autoupdated to 1.19.40</p>",
+        "author_id": 369537799291,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/9681583810189-Version-backwards-compatibility-Serverside-version/comments/10231346148493",
+        "created_at": "2022-10-28T20:37:35Z",
+        "updated_at": "2022-11-04T16:41:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/9681583810189/comments/10231346148493.json",
+        "post_id": 9681583810189,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

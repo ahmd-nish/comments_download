@@ -1,0 +1,666 @@
+[
+  {
+    "post_id": 6854014703629,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7029734558605,
+        "body": "<p>Makes alot of sense</p>\n<p>Voted</p>",
+        "author_id": 6915393116813,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6854014703629--Bedrock-Parity-Igniting-Campfires-TNT-etc-with-Fire-Aspect/comments/7029734558605",
+        "created_at": "2022-06-18T17:28:39Z",
+        "updated_at": "2022-06-20T19:59:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6854014703629/comments/7029734558605.json",
+        "post_id": 6854014703629,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5809955209997,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8946201591949,
+        "body": "<p>What does it do?</p>",
+        "author_id": 8944989431053,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5809955209997--Java-Paritiy-Use-VSYNC-option-for-Bedrock-Edition/comments/8946201591949",
+        "created_at": "2022-09-05T23:24:38Z",
+        "updated_at": "2022-09-05T23:24:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5809955209997/comments/8946201591949.json",
+        "post_id": 5809955209997,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 35487193395853,
+        "body": "<p>In response to the comment above this one, VSync syncs the framerate to the refresh rate of the monitor. This may sound nice in theory, but the effect it has on 90% of devices is to lower fps and drastically increase input latency. It should just be turned off by default, which it is not.</p>\n<p>Since it's impossible that the feature (vsync) would be removed, one can only hope that a setting to toggle it off would be added to the settings screen. This would be a positive addition for everyone, especially for people playing on console or mobile, because it is unreasonable to expect them to be able to edit the settings file manually. Even for pc, it is a feature that is too easy to implement not to do so, so it makes no sense the toggle hasn't been added to the bedrock video settings screen yet.&nbsp;</p>",
+        "author_id": 35478203169421,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5809955209997--Java-Paritiy-Use-VSYNC-option-for-Bedrock-Edition/comments/35487193395853",
+        "created_at": "2025-04-01T15:03:57Z",
+        "updated_at": "2025-04-02T17:27:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5809955209997/comments/35487193395853.json",
+        "post_id": 5809955209997,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4778290771085,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5698801566861,
+        "body": "<p>what are locked maps?????</p>",
+        "author_id": 5698650399117,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4778290771085--Bedrock-Parity-Separate-icon-for-locked-maps/comments/5698801566861",
+        "created_at": "2022-04-22T01:49:55Z",
+        "updated_at": "2024-03-29T11:17:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4778290771085/comments/5698801566861.json",
+        "post_id": 4778290771085,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4626540394637,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4644540864141,
+        "body": "<p>I thought it was already possible&nbsp;</p>\n<p>&nbsp;</p>",
+        "author_id": 408162592792,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4626540394637-Bedrock-Parity/comments/4644540864141",
+        "created_at": "2022-03-08T02:06:16Z",
+        "updated_at": "2022-03-23T15:32:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4626540394637/comments/4644540864141.json",
+        "post_id": 4626540394637,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 5698815227277,
+        "body": "<p>agreed, i really wanna make that torch design (with the anvil) but i cant and it makes me so frustrated when i see it in so many designs with invisible item frames TwT</p>",
+        "author_id": 5698650399117,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4626540394637-Bedrock-Parity/comments/5698815227277",
+        "created_at": "2022-04-22T01:53:37Z",
+        "updated_at": "2022-04-22T11:21:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4626540394637/comments/5698815227277.json",
+        "post_id": 4626540394637,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4419510515085,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4423543520141,
+        "body": "<p>True •{]/•{[[&nbsp;</p>\n<p>&nbsp;</p>\n<p>}.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>UwU</p>\n<p>&nbsp;</p>",
+        "author_id": 423057528491,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4419510515085--Bedrock-Adding-Ability-Mayfly-to-Base-Minecraft/comments/4423543520141",
+        "created_at": "2022-01-30T14:43:21Z",
+        "updated_at": "2022-01-30T14:43:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4419510515085/comments/4423543520141.json",
+        "post_id": 4419510515085,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4413651335309,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4414204824077,
+        "body": "<p>In bedrock splash water only puts out campfires, not players or anything like that.</p>",
+        "author_id": 399566525251,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4413651335309-Java-Edition-Splash-Water-Bottles-extinguish-flaming-entities/comments/4414204824077",
+        "created_at": "2021-11-20T19:00:54Z",
+        "updated_at": "2021-12-15T00:11:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4413651335309/comments/4414204824077.json",
+        "post_id": 4413651335309,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4412392350861,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4416853878669,
+        "body": "<p>I want this because when I wont pass the game it's so dificult&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<strong>Please</strong></p>",
+        "author_id": 422714813751,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4412392350861-Structure-spawn-parity-like-java-in-bedrock/comments/4416853878669",
+        "created_at": "2021-12-16T21:48:53Z",
+        "updated_at": "2021-12-16T21:48:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4412392350861/comments/4416853878669.json",
+        "post_id": 4412392350861,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4411228164493,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4423745698061,
+        "body": "<p>They can already can't they, </p>",
+        "author_id": 420148367272,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4411228164493-Dyed-shulkers-on-java/comments/4423745698061",
+        "created_at": "2022-02-01T12:03:52Z",
+        "updated_at": "2022-02-01T12:03:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4411228164493/comments/4423745698061.json",
+        "post_id": 4411228164493,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078187312,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360016492512,
+        "body": "<p>Java has datapacks and texture packs that are quite similar</p>",
+        "author_id": 412496615532,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078187312-Add-addons-a-mod-api-to-minecraft-java/comments/360016492512",
+        "created_at": "2021-06-10T14:15:38Z",
+        "updated_at": "2021-06-10T14:15:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078187312/comments/360016492512.json",
+        "post_id": 360078187312,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078017231,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4403763452429,
+        "body": "<p>Given that a PC is more personal than a console, combined with the fact that a PC *usually* uses a smaller screen, I would say that this difference is pretty expected. Most games that are capable of split screen on consoles are not on PC.&nbsp;</p>",
+        "author_id": 418151645331,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078017231-Isn-t-it-strange-that-there-is-no-Split-Screen-for-Windows-10/comments/4403763452429",
+        "created_at": "2021-06-25T16:52:43Z",
+        "updated_at": "2021-06-25T17:57:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078017231/comments/4403763452429.json",
+        "post_id": 360078017231,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 35794217317133,
+        "body": "<p>It did have it in a development version they are hiding from us years ago.</p>",
+        "author_id": 35674295272973,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078017231-Isn-t-it-strange-that-there-is-no-Split-Screen-for-Windows-10/comments/35794217317133",
+        "created_at": "2025-04-12T04:14:59Z",
+        "updated_at": "2025-04-12T04:14:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078017231/comments/35794217317133.json",
+        "post_id": 360078017231,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077559211,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4409665950349,
+        "body": "<p>it doesn't do that in java?!?!?!?!</p>",
+        "author_id": 415315719451,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077559211-held-items-show-enchantments/comments/4409665950349",
+        "created_at": "2021-09-20T19:40:45Z",
+        "updated_at": "2021-09-20T19:40:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077559211/comments/4409665950349.json",
+        "post_id": 360077559211,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077483451,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4408144635917,
+        "body": "<p>Doesn't bedrock edition have beta versions?&nbsp;</p>",
+        "author_id": 368634285891,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077483451-Snapshots-for-every-version/comments/4408144635917",
+        "created_at": "2021-08-29T17:57:47Z",
+        "updated_at": "2021-08-29T22:44:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077483451/comments/4408144635917.json",
+        "post_id": 360077483451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076955551,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014249111,
+        "body": "<p>i play on bedrock usually and when i was playing on my friends smp (on java) i almost feel because i was about to try place a block mid-air.</p>",
+        "author_id": 404929590572,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076955551--Bedrock-Parity-Building-ahead-in-the-air/comments/360014249111",
+        "created_at": "2021-02-08T19:07:25Z",
+        "updated_at": "2021-04-17T21:38:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076955551/comments/360014249111.json",
+        "post_id": 360076955551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360046945531,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006481051,
+        "body": "<p>What is dynamic collision?</p>",
+        "author_id": 384722776391,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360046945531-Add-dynamic-collision-as-seen-on-Java-edition/comments/360006481051",
+        "created_at": "2019-07-15T09:49:36Z",
+        "updated_at": "2020-04-25T07:24:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360046945531/comments/360006481051.json",
+        "post_id": 360046945531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 41615428977677,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41625666582029,
+        "body": "<p>The issue with your idea is that bedrock minor updates are not the same as the hotfixes. I created a numbering system to fix that:</p>\n<p><a href=\"https://feedback.minecraft.net/hc/en-us/community/posts/41602585121805-Minecraft-Update-Number\" target=\"_blank\" rel=\"nofollow noreferrer\">https://feedback.minecraft.net/hc/en-us/community/posts/41602585121805-Minecraft-Update-Number</a>&nbsp;</p>\n<p>This keeps the drop number, minor update number and hotfix number separate while keeping it the same with javas number system</p>",
+        "author_id": 28189802198669,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41615428977677-Parity-between-new-version-numbering-for-Java-and-Bedrock/comments/41625666582029",
+        "created_at": "2025-12-03T16:13:14Z",
+        "updated_at": "2025-12-03T16:15:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41615428977677/comments/41625666582029.json",
+        "post_id": 41615428977677,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41627718866829,
+        "body": "<p>Oh i didn't actually know that, i don't play bedrock so it's update cycle is kinda foreign to me, your numbering system works as a great alternative to the current one!</p>",
+        "author_id": 41615312147853,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41615428977677-Parity-between-new-version-numbering-for-Java-and-Bedrock/comments/41627718866829",
+        "created_at": "2025-12-03T17:09:47Z",
+        "updated_at": "2025-12-03T17:09:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41615428977677/comments/41627718866829.json",
+        "post_id": 41615428977677,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 39414505205133,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40442300551181,
+        "body": "<p>We can always start small, such as a unified level.dat (level.dat with the same nbt tags as Java, as well as some Bedrock tags), and the Anvil file format to be used in Bedrock Edition saves first (With conversion from any versions in the past). Parity fixes can also bring both editions (Java and Bedrock) closer than ever.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39414505205133-Unite-all-Minecraft-players/comments/40442300551181",
+        "created_at": "2025-10-18T18:21:01Z",
+        "updated_at": "2025-10-18T18:43:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39414505205133/comments/40442300551181.json",
+        "post_id": 39414505205133,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 39212997816077,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 39215735924493,
+        "body": "<p>I think the main problem of implementing this is because of phone users. How would the user block shields, if not crouching? How would you get something on your offhand if not through the inventory UI? There'd be too many buttons in the UI that it'd be confusing as heck.</p>\n<p>Now, for console Bedrock players, I can see. There's currently this mod on Java Edition called Legacy4J that, well, makes Java play more like the \"Bedrock\" of old (even though technically that version isn't Bedrock, but... whatever). Alongside this, it also comes with remappable controller imputs, like B to crouch, A to jump, etc. One of these imputs is \"Swap with Offhand,\" which is not mapped to anything by default, but I have it set to the left D-Pad imput (y'know, the same imput for emotes -_-), but you could swap it to, idk, pushing the left joystick down?</p>\n<p>1.9 Combat is very much possible on KB&amp;M as well as controller. However, phone users who like to use the on-screen controls would very much struggle. If this were to be implemented, I'd just disable the function to have 1.9 combat on mobile, unless you're using a controller and/or keyboard or mouse.</p>\n<p>Those are just my thoughts on it. :)</p>",
+        "author_id": 29671047900813,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39212997816077--Java-Parity-Optional-Implementation-of-Java-Combat-in-Bedrock-Minecraft/comments/39215735924493",
+        "created_at": "2025-08-31T00:14:04Z",
+        "updated_at": "2025-08-31T18:22:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39212997816077/comments/39215735924493.json",
+        "post_id": 39212997816077,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38712975121037,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38714650285069,
+        "body": "<p>News flash they did</p>\n<p>&nbsp;</p>",
+        "author_id": 37737748105485,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38712975121037-Java-should-get-128x128-skins-too/comments/38714650285069",
+        "created_at": "2025-08-11T03:16:32Z",
+        "updated_at": "2025-08-11T03:16:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38712975121037/comments/38714650285069.json",
+        "post_id": 38712975121037,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38649483355789,
+    "expected_comment_count": 2,
+    "actual_comment_count": 0,
+    "status": "404_not_found",
+    "comments": []
+  },
+  {
+    "post_id": 38054370862093,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38700254615949,
+        "body": "<p>real!</p>",
+        "author_id": 33237815965965,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38054370862093-Bedrock-difficulty-balance/comments/38700254615949",
+        "created_at": "2025-08-09T20:33:32Z",
+        "updated_at": "2025-08-09T20:33:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38054370862093/comments/38700254615949.json",
+        "post_id": 38054370862093,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37726733293453,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38011699605261,
+        "body": "<p>This was added now!</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37726733293453-Lava-Chicken-CD-for-Bedrock-too/comments/38011699605261",
+        "created_at": "2025-07-12T12:54:16Z",
+        "updated_at": "2025-07-12T12:54:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37726733293453/comments/38011699605261.json",
+        "post_id": 37726733293453,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38521471854349,
+        "body": "<p>it has already been added</p>",
+        "author_id": 38512623427853,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37726733293453-Lava-Chicken-CD-for-Bedrock-too/comments/38521471854349",
+        "created_at": "2025-08-02T14:44:22Z",
+        "updated_at": "2025-08-02T14:44:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37726733293453/comments/38521471854349.json",
+        "post_id": 37726733293453,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37403834193037,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41188303172749,
+        "body": "<p>I died during this and haven't been able to find my stuff. Is there a way to find it. I have gone to the exact cords and sitting is there. Please help.</p>",
+        "author_id": 41188312535565,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37403834193037-Slow-and-inconsistent-chunk-loading-especially-when-using-Elytra/comments/41188303172749",
+        "created_at": "2025-11-17T02:28:50Z",
+        "updated_at": "2025-11-17T02:28:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37403834193037/comments/41188303172749.json",
+        "post_id": 37403834193037,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 29416247001997,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 29449695145357,
+        "body": "<p>Yes It Would Be Cool If Minecart Are Faster On Bedrock Edition And If We Have Better Redstone Like From Java!</p>",
+        "author_id": 29449016268813,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/29416247001997-Java-parity-to-Bedrock/comments/29449695145357",
+        "created_at": "2024-08-21T08:01:53Z",
+        "updated_at": "2024-08-21T14:06:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/29416247001997/comments/29449695145357.json",
+        "post_id": 29416247001997,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 26854295163789,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 27516929415053,
+        "body": "<p>I honestly agree joining both communities.. Minecraft will finally be popular again.. </p>",
+        "author_id": 27516866255117,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26854295163789-Minecraft-java-and-bedrock-by-geyser-mc/comments/27516929415053",
+        "created_at": "2024-06-12T16:14:15Z",
+        "updated_at": "2024-06-12T16:22:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26854295163789/comments/27516929415053.json",
+        "post_id": 26854295163789,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 27517086229133,
+        "body": "<p>We need this. But they never listen.. This is actually good.. </p>",
+        "author_id": 27516866255117,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26854295163789-Minecraft-java-and-bedrock-by-geyser-mc/comments/27517086229133",
+        "created_at": "2024-06-12T16:17:51Z",
+        "updated_at": "2024-06-12T16:17:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26854295163789/comments/27517086229133.json",
+        "post_id": 26854295163789,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25689872721421,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25711799734925,
+        "body": "<p>We used to have old worlds.</p>",
+        "author_id": 24780090693389,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25689872721421--Bedrock-Parity-Old-World-type-in-Java/comments/25711799734925",
+        "created_at": "2024-04-08T13:50:06Z",
+        "updated_at": "2024-04-10T10:45:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25689872721421/comments/25711799734925.json",
+        "post_id": 25689872721421,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 25774028055949,
+        "body": "<p>In this world type, the minimum height for building is 0 blocks, and the height limit for building is 256 blocks.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25689872721421--Bedrock-Parity-Old-World-type-in-Java/comments/25774028055949",
+        "created_at": "2024-04-10T10:46:50Z",
+        "updated_at": "2024-04-10T13:07:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25689872721421/comments/25774028055949.json",
+        "post_id": 25689872721421,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

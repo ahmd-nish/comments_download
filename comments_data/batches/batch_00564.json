@@ -1,0 +1,892 @@
+[
+  {
+    "post_id": 360074251011,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013259211,
+        "body": "<p>They definitely need to make this happen</p>\n<p>&nbsp;</p>",
+        "author_id": 405591891271,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074251011-Crystalline-armor-tools/comments/360013259211",
+        "created_at": "2020-10-29T19:26:09Z",
+        "updated_at": "2020-11-19T19:28:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074251011/comments/360013259211.json",
+        "post_id": 360074251011,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074278812,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013304512,
+        "body": "<p>Everyone knows about the wither!</p>",
+        "author_id": 405435990812,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074278812-Wither-Pottery-Shard-in-Archaeology/comments/360013304512",
+        "created_at": "2020-10-27T14:53:25Z",
+        "updated_at": "2020-10-27T14:53:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074278812/comments/360013304512.json",
+        "post_id": 360074278812,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013306672,
+        "body": "<p>I assume there will be a wither shard.</p>",
+        "author_id": 405325154931,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074278812-Wither-Pottery-Shard-in-Archaeology/comments/360013306672",
+        "created_at": "2020-10-27T17:48:04Z",
+        "updated_at": "2020-10-27T21:08:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074278812/comments/360013306672.json",
+        "post_id": 360074278812,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013234651,
+        "body": "<p>there's a painting in-game with the very thing you're describing, but almost nobody ever uses paintings to decorate so new players never see it lol</p>",
+        "author_id": 396200603832,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074278812-Wither-Pottery-Shard-in-Archaeology/comments/360013234651",
+        "created_at": "2020-10-27T19:03:34Z",
+        "updated_at": "2021-07-24T21:37:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074278812/comments/360013234651.json",
+        "post_id": 360074278812,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074175591,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013227291,
+        "body": "<p>Sounds cool and aesthetic but a little too strong to me. Maybe it could be quite weak (dim and not very protective)?</p>",
+        "author_id": 405429596811,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074175591-Shroomlight-Helmet/comments/360013227291",
+        "created_at": "2020-10-27T02:16:23Z",
+        "updated_at": "2020-10-27T03:32:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074175591/comments/360013227291.json",
+        "post_id": 360074175591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013311412,
+        "body": "<p>I don't think there is dynamic lighting in Vanilla minecraft (unless RTX or optifine)</p>",
+        "author_id": 379100376951,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074175591-Shroomlight-Helmet/comments/360013311412",
+        "created_at": "2020-10-28T04:00:43Z",
+        "updated_at": "2020-10-28T05:45:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074175591/comments/360013311412.json",
+        "post_id": 360074175591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074162731,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013227491,
+        "body": "<p>There's kind of a way to do this already. On Java Edition, just hit F3; Bedrock Edition allows you to turn on \"show coordinates\" to show your y-level, and Legacy Console (if you still play that) shows your coords when you pull up a map.</p>",
+        "author_id": 394286328392,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074162731-The-Depth-Meter/comments/360013227491",
+        "created_at": "2020-10-27T02:46:06Z",
+        "updated_at": "2020-10-29T15:53:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074162731/comments/360013227491.json",
+        "post_id": 360074162731,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013328452,
+        "body": "<p>@WeightedDig6048 You have a point. I didn't know how to turn on coordinates on Java, but now I do, Thanks, lol.</p>",
+        "author_id": 379017662451,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074162731-The-Depth-Meter/comments/360013328452",
+        "created_at": "2020-10-29T15:54:39Z",
+        "updated_at": "2020-10-29T16:33:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074162731/comments/360013328452.json",
+        "post_id": 360074162731,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014404311,
+        "body": "<p>To anyone saying that F3 could just be used instead, really the same could be said about a bunch of other items in the game that has been added. Maps, compass, lodestones, whatever. It's clear Mojang doesn't care about the debug menu when designing items. This is a perfectly valid suggestion.</p>",
+        "author_id": 411551058852,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074162731-The-Depth-Meter/comments/360014404311",
+        "created_at": "2021-02-23T10:22:15Z",
+        "updated_at": "2021-02-23T10:22:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074162731/comments/360014404311.json",
+        "post_id": 360074162731,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074226072,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013296012,
+        "body": "<p>Alternatively, it would be cool if there was a way to paste screenshots onto paintings. &nbsp;</p>",
+        "author_id": 405325154931,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074226072-Camera-for-Photography/comments/360013296012",
+        "created_at": "2020-10-26T17:49:46Z",
+        "updated_at": "2020-10-26T23:34:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074226072/comments/360013296012.json",
+        "post_id": 360074226072,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 25891204400397,
+        "body": "<p>Pictures could also be used as art, like paintings. I love the idea.</p>",
+        "author_id": 25891098594189,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074226072-Camera-for-Photography/comments/25891204400397",
+        "created_at": "2024-04-14T23:51:41Z",
+        "updated_at": "2024-04-15T00:00:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074226072/comments/25891204400397.json",
+        "post_id": 360074226072,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074119211,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013254151,
+        "body": "<p>that's just a modified redstone block</p>",
+        "author_id": 404929590572,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074119211-Energy-Block/comments/360013254151",
+        "created_at": "2020-10-29T13:31:16Z",
+        "updated_at": "2020-10-29T13:31:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074119211/comments/360013254151.json",
+        "post_id": 360074119211,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074189432,
+    "expected_comment_count": 4,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013209871,
+        "body": "<p>great idea</p>\n<p>&nbsp;</p>",
+        "author_id": 404664369752,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074189432-New-Pots-also-large-containers-for-liquids/comments/360013209871",
+        "created_at": "2020-10-24T17:04:59Z",
+        "updated_at": "2020-10-24T17:04:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074189432/comments/360013209871.json",
+        "post_id": 360074189432,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013283652,
+        "body": "<p>I like the idea of pots holding potions and other liquids, kind of like a larger bucket or portable cauldron.  </p>",
+        "author_id": 405325154931,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074189432-New-Pots-also-large-containers-for-liquids/comments/360013283652",
+        "created_at": "2020-10-25T05:43:39Z",
+        "updated_at": "2020-10-25T05:43:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074189432/comments/360013283652.json",
+        "post_id": 360074189432,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 13235495563021,
+        "body": "<p>This is definitely an great idea for the 1.20 <em>Decorated Pot</em>!</p>",
+        "author_id": 422080892632,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074189432-New-Pots-also-large-containers-for-liquids/comments/13235495563021",
+        "created_at": "2023-02-18T22:43:04Z",
+        "updated_at": "2023-02-18T22:43:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074189432/comments/13235495563021.json",
+        "post_id": 360074189432,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074057411,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014348991,
+        "body": "<p>It would be awesome if copper could be used to craft programmable robot from minecraft education edition.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+        "author_id": 410993504152,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074057411-Additional-Copper-uses/comments/360014348991",
+        "created_at": "2021-02-18T02:37:21Z",
+        "updated_at": "2022-10-04T20:23:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074057411/comments/360014348991.json",
+        "post_id": 360074057411,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074126632,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013210351,
+        "body": "<p>how would you craft it?</p>",
+        "author_id": 405277948772,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074126632-A-canoe-or-some-kind-of-long-boat/comments/360013210351",
+        "created_at": "2020-10-24T19:10:15Z",
+        "updated_at": "2020-10-24T19:10:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074126632/comments/360013210351.json",
+        "post_id": 360074126632,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013283232,
+        "body": "<p>4 ppl or more to fit in max</p>",
+        "author_id": 405318941812,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074126632-A-canoe-or-some-kind-of-long-boat/comments/360013283232",
+        "created_at": "2020-10-25T02:35:27Z",
+        "updated_at": "2020-10-25T02:35:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074126632/comments/360013283232.json",
+        "post_id": 360074126632,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40210663982989,
+        "body": "<p>This is a great idea, the canoe or long boat could hold three of four people or a double chest and two people. I think the best way to craft this in bedrock and java would be three of any kind of striped log in a diagonal form the crafting bench. If you were to add a chest I should be in the middle of the boat with the first player that enters the boat in the back and the second in the front. On a side note the paddles should look at least a little different from the regular boat, maybe a more thin paddle and longer shaft. I hope this helped your decision on this topic and I hope to see it in the near future.&nbsp;</p>",
+        "author_id": 40210011337357,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074126632-A-canoe-or-some-kind-of-long-boat/comments/40210663982989",
+        "created_at": "2025-10-09T14:19:43Z",
+        "updated_at": "2025-10-09T14:19:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074126632/comments/40210663982989.json",
+        "post_id": 360074126632,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073779472,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 22937343059853,
+        "body": "<p>I think they should also have engines, because redstone is pretty complex. You know what I mean?</p>",
+        "author_id": 19789308418829,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073779472-Working-boats/comments/22937343059853",
+        "created_at": "2024-01-05T01:05:54Z",
+        "updated_at": "2024-04-05T13:46:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073779472/comments/22937343059853.json",
+        "post_id": 360073779472,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073759872,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013475852,
+        "body": "<p>Still want this :)</p>",
+        "author_id": 386296271712,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073759872-Bookshelf-slab/comments/360013475852",
+        "created_at": "2020-11-11T23:08:03Z",
+        "updated_at": "2020-11-11T23:08:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073759872/comments/360013475852.json",
+        "post_id": 360073759872,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073612531,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 24258638755597,
+        "body": "<p>Burning copper would imply oxidizing it further. I think the word you're looking for is 'melt' or re-smelt which would heat the metal to the point where oxygen gas is expelled from the lattice. I would love to see flint and steel used to further oxidize blocks since burning it would cause a chemical reaction (combustion) to bind the metal to oxygen. To stop combustion and corrosion from occurring, wax is already used in the game. This is already a great mechanic because a wax coating doesn't allow for oxygen to react (either corrosion or combustion) with the metal. The upside to adding a burning mechanic is not having to wait as long for blocks to corrode and it gives another use to flint and steel or other fire starters. Plus it balances the game by allowing for corrosion to be halted, reversed, and (now) furthered. Corrosion also occurs faster in aqueous environments (unless treated like in the case of wax) so it'd also be cool to see that reflected in the game, but that's not a detail I'm concerned with. (Gameplay wise: untreated copper blocks should be activated with flint and steel to cause a fire and further 1 oxidation level. Treated blocks cannot be activated by flint and steel, but the axe can remove the wax and oxidation can start. Another idea: setting the metal on fire could increase the chance for oxidation and lower the necessary time for oxidation to whatever seems fair.)</p>",
+        "author_id": 24257251292941,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073612531-burn-copper-to-reverse-corrosion/comments/24258638755597",
+        "created_at": "2024-02-19T18:53:33Z",
+        "updated_at": "2024-02-20T09:56:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073612531/comments/24258638755597.json",
+        "post_id": 360073612531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073700072,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013118532,
+        "body": "<p>Crystals would be used for sharpness and cooper would be used for unbreaking, crystals would only work on swords but cooper would work on both.</p>",
+        "author_id": 404565999212,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073700072-Give-Copper-and-Crystals-armor-buffs/comments/360013118532",
+        "created_at": "2020-10-09T16:06:04Z",
+        "updated_at": "2020-10-09T16:42:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073700072/comments/360013118532.json",
+        "post_id": 360073700072,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073648592,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013021951,
+        "body": "<p>How do you post?</p>\n<p>&nbsp;</p>",
+        "author_id": 404473570172,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073648592-Skulk-Ore/comments/360013021951",
+        "created_at": "2020-10-07T17:58:17Z",
+        "updated_at": "2020-10-07T17:58:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073648592/comments/360013021951.json",
+        "post_id": 360073648592,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7290357011085,
+        "body": "<p>THANKS FOR STEALING MY IDEA</p>",
+        "author_id": 423454574012,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073648592-Skulk-Ore/comments/7290357011085",
+        "created_at": "2022-06-29T15:28:49Z",
+        "updated_at": "2022-06-29T15:28:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073648592/comments/7290357011085.json",
+        "post_id": 360073648592,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073513491,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013008291,
+        "body": "<p>This could be changed depending on what difficulty mode the world is on, so for instance, a player in hard mode could have the different mechanic while a player playing in easy who doesn't necessarily want to be active while brushing.</p>",
+        "author_id": 397680516572,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073513491-Archeology-Brushing-Mechanics-Change/comments/360013008291",
+        "created_at": "2020-10-06T18:29:47Z",
+        "updated_at": "2021-05-13T10:12:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073513491/comments/360013008291.json",
+        "post_id": 360073513491,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013127232,
+        "body": "<p>Normally standing still would be easy, but if one is not careful while brushing in ether a multiplayer evierment or a world not on peaceful, it would leave you a bit of a sitting duck if you would end up getting attack, both destroying the artifact and you taking damage/unpreferable position</p>",
+        "author_id": 404613292652,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073513491-Archeology-Brushing-Mechanics-Change/comments/360013127232",
+        "created_at": "2020-10-10T13:38:38Z",
+        "updated_at": "2021-05-13T10:12:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073513491/comments/360013127232.json",
+        "post_id": 360073513491,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073574692,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013086652,
+        "body": "<p>No. It would make the Boss too easy. He can only hear. That means he would not be able to find you so you could easily kill the boss.</p>",
+        "author_id": 396126866131,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073574692-The-Silent-Sprint-enchantment/comments/360013086652",
+        "created_at": "2020-10-06T23:34:56Z",
+        "updated_at": "2020-10-06T23:34:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073574692/comments/360013086652.json",
+        "post_id": 360073574692,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013095272,
+        "body": "<p>you'd have to constantly sprint though, plus the fact that the Warden will become enraged upon dealing damage to it. this enchant would make those who aren't ready to face it able to escape more easily, without attracting the attention of the warden. he can track you down, even while being blind, when he's angry.<br><br>in other words, this enchant's for stealth, not exploitation.</p>",
+        "author_id": 404331534571,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073574692-The-Silent-Sprint-enchantment/comments/360013095272",
+        "created_at": "2020-10-07T17:05:08Z",
+        "updated_at": "2020-10-07T17:25:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073574692/comments/360013095272.json",
+        "post_id": 360073574692,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073471971,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013033271,
+        "body": "<p>Great idea! This could finally give the fletching table use, it could have the same AI as the smithing table, the diamond armour being replaced by the arrows and the netherite by the amethyst.</p>",
+        "author_id": 398751811871,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073471971-Amethyst-Arrows/comments/360013033271",
+        "created_at": "2020-10-08T15:02:51Z",
+        "updated_at": "2021-04-28T15:42:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073471971/comments/360013033271.json",
+        "post_id": 360073471971,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360016283871,
+        "body": "<p>It will be great to make feom amethyst arrow some with special effect like bouncing arrow or even arrow that strikes lightning when it hurt a ennemi </p>",
+        "author_id": 417268788612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073471971-Amethyst-Arrows/comments/360016283871",
+        "created_at": "2021-06-09T20:30:09Z",
+        "updated_at": "2021-06-09T20:31:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073471971/comments/360016283871.json",
+        "post_id": 360073471971,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073555112,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013830632,
+        "body": "<p>If the meteorite has the ability to crash, it will randomly fall from the sky.<br>If there are players or mobs at that time, they will be damaged.<br>And the size is random, especially in the case of large meteorites, instant death is confirmed.<br>When it crashes, it causes a larger explosion than a charged creeper.<br>The idea is really interesting.</p>",
+        "author_id": 404370850492,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073555112-Crashed-Meteorites/comments/360013830632",
+        "created_at": "2020-12-14T07:53:36Z",
+        "updated_at": "2020-12-23T18:01:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073555112/comments/360013830632.json",
+        "post_id": 360073555112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4408442878093,
+        "body": "<p>It doesn't make sense that we need to use a material from the Nether to break something in the Overworld.</p>",
+        "author_id": 419591804091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073555112-Crashed-Meteorites/comments/4408442878093",
+        "created_at": "2021-09-02T19:55:58Z",
+        "updated_at": "2021-09-02T19:58:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073555112/comments/4408442878093.json",
+        "post_id": 360073555112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073553292,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012971531,
+        "body": "<p>Push stalactites with a piston to drop them on an enemy.</p>",
+        "author_id": 378269412951,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073553292-Redstone-Stalagmite-Spike-Traps/comments/360012971531",
+        "created_at": "2020-10-04T05:57:12Z",
+        "updated_at": "2020-10-05T00:15:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073553292/comments/360012971531.json",
+        "post_id": 360073553292,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073332152,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012841911,
+        "body": "<p>I think it should be the opposite, strip/path while standing and not do it while crouching. Many times while building you are on a roof or hanging on something, and likely to be crouching.</p>",
+        "author_id": 402139512451,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073332152-Axes-and-shovels-can-only-strip-and-path-blocks-while-crouching/comments/360012841911",
+        "created_at": "2020-09-22T01:00:25Z",
+        "updated_at": "2020-09-22T01:00:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073332152/comments/360012841911.json",
+        "post_id": 360073332152,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073260492,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012804551,
+        "body": "<p>Nothing in Minecraft is meant to be permanent...So that’s a bit OP.</p>",
+        "author_id": 401277801352,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073260492-eye-of-the-tiger/comments/360012804551",
+        "created_at": "2020-09-17T13:12:11Z",
+        "updated_at": "2020-09-17T13:12:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073260492/comments/360012804551.json",
+        "post_id": 360073260492,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014805512,
+        "body": "<p>im cool with it cause it op :3 lol</p>",
+        "author_id": 414039808131,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073260492-eye-of-the-tiger/comments/360014805512",
+        "created_at": "2021-04-02T17:29:19Z",
+        "updated_at": "2021-04-02T17:42:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073260492/comments/360014805512.json",
+        "post_id": 360073260492,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073224892,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012756551,
+        "body": "<p>Amazing</p>",
+        "author_id": 403312900492,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073224892-Bubble-columns/comments/360012756551",
+        "created_at": "2020-09-12T06:31:33Z",
+        "updated_at": "2020-09-12T06:31:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073224892/comments/360012756551.json",
+        "post_id": 360073224892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012756611,
+        "body": "<p>Am</p>",
+        "author_id": 403312900492,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073224892-Bubble-columns/comments/360012756611",
+        "created_at": "2020-09-12T06:54:47Z",
+        "updated_at": "2020-09-12T06:54:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073224892/comments/360012756611.json",
+        "post_id": 360073224892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073116771,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012823252,
+        "body": "<p>the enchantment could be called&nbsp;'<em><strong>Scythe</strong></em><em>'</em></p>",
+        "author_id": 394804247212,
+        "vote_sum": 4,
+        "vote_count": 4,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073116771-New-enchantment-for-hoes/comments/360012823252",
+        "created_at": "2020-09-10T20:42:31Z",
+        "updated_at": "2020-09-21T08:59:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073116771/comments/360012823252.json",
+        "post_id": 360073116771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013007652,
+        "body": "<p>(blade) enchantment name</p>",
+        "author_id": 401627390832,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073116771-New-enchantment-for-hoes/comments/360013007652",
+        "created_at": "2020-09-30T01:55:58Z",
+        "updated_at": "2020-09-30T01:55:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073116771/comments/360013007652.json",
+        "post_id": 360073116771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41075439937165,
+        "body": "<p>this is a great idea, but I think it's somewhat similar to the sweeping attack of the sword</p>",
+        "author_id": 380567928831,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073116771-New-enchantment-for-hoes/comments/41075439937165",
+        "created_at": "2025-11-12T14:17:55Z",
+        "updated_at": "2025-11-12T14:17:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073116771/comments/41075439937165.json",
+        "post_id": 360073116771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073167572,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012813332,
+        "body": "<p>I like this, this would give each seed it’d own unique story</p>",
+        "author_id": 399755525592,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073167572-Written-logs-for-shipwreck/comments/360012813332",
+        "created_at": "2020-09-09T21:18:28Z",
+        "updated_at": "2020-09-13T03:51:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073167572/comments/360012813332.json",
+        "post_id": 360073167572,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012949631,
+        "body": "<p>Maybe at the end, it could have the final words of the captain before the ship went down. i think this is a really cool idea.</p>",
+        "author_id": 404201931111,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073167572-Written-logs-for-shipwreck/comments/360012949631",
+        "created_at": "2020-10-01T21:28:57Z",
+        "updated_at": "2020-10-01T22:12:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073167572/comments/360012949631.json",
+        "post_id": 360073167572,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073090871,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012731191,
+        "body": "<p>What are spectral arrows? Is that a java feature we don’t have on bedrock</p>",
+        "author_id": 399755525592,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073090871-Spectral-Arrows-should-pass-through-blocks/comments/360012731191",
+        "created_at": "2020-09-09T21:23:39Z",
+        "updated_at": "2020-09-09T21:23:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073090871/comments/360012731191.json",
+        "post_id": 360073090871,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012813912,
+        "body": "<p>Do you mean Spectrum Arrow Java Edition?<br><br>I agree with the concept of liking you. The only small question is whether the item is too easy to obtain after such enhancement, and whether it needs to add other items, such as Ender Pearl.</p>",
+        "author_id": 398599712371,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073090871-Spectral-Arrows-should-pass-through-blocks/comments/360012813912",
+        "created_at": "2020-09-09T22:16:14Z",
+        "updated_at": "2020-09-09T22:40:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073090871/comments/360012813912.json",
+        "post_id": 360073090871,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

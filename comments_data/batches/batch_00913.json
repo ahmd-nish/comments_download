@@ -1,0 +1,937 @@
+[
+  {
+    "post_id": 4408518757517,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4408671202061,
+        "body": "<p>noice</p>",
+        "author_id": 420026485331,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4408518757517--kill-cause/comments/4408671202061",
+        "created_at": "2021-09-06T23:06:45Z",
+        "updated_at": "2021-09-06T23:06:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4408518757517/comments/4408671202061.json",
+        "post_id": 4408518757517,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4407770614413,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4408399880845,
+        "body": "<p>yes this is a great idea!</p>\n<p>i have had much trouble trying to find a geode quickly in creative</p>",
+        "author_id": 419907129011,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4407770614413-Amythest-geode-command-in-locate/comments/4408399880845",
+        "created_at": "2021-09-02T02:31:16Z",
+        "updated_at": "2021-09-02T12:31:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4407770614413/comments/4408399880845.json",
+        "post_id": 4407770614413,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4411838000269,
+        "body": "<p>Frankly, the geode is not a structure, but a terrain feature, they're not classified the same, and adding it to /locate would make what it targets and what not unclearly defined.</p>\n\n<p>A locatefeature command to do this could work though.</p>",
+        "author_id": 365162152092,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4407770614413-Amythest-geode-command-in-locate/comments/4411838000269",
+        "created_at": "2021-10-22T06:19:58Z",
+        "updated_at": "2021-10-22T12:20:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4407770614413/comments/4411838000269.json",
+        "post_id": 4407770614413,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4406934119053,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 6972856997005,
+        "body": "<p>All command</p>\n<p>&nbsp;</p>",
+        "author_id": 6522672579597,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4406934119053--chat-command/comments/6972856997005",
+        "created_at": "2022-06-16T12:12:36Z",
+        "updated_at": "2023-08-14T09:29:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4406934119053/comments/6972856997005.json",
+        "post_id": 4406934119053,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 24755340874381,
+        "body": "<p>Adding a new selector based on chat is nonsensical. It'd add unreasonable amounts of data to the player if the game were tracking everything they've said server-side, not to mention the potential for abuse. (player-based book bans, anyone?)\n<br />Instead, the best solution would be to use an execute result to store specific keywords to custom data, or better yet, just tag players with a custom tag when they say the right thing in chat. </p>",
+        "author_id": 385321274731,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4406934119053--chat-command/comments/24755340874381",
+        "created_at": "2024-03-06T18:51:53Z",
+        "updated_at": "2024-03-06T19:17:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4406934119053/comments/24755340874381.json",
+        "post_id": 4406934119053,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4405831897613,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4405911720333,
+        "body": "<p>I agree, i tried to download the mod on my iPad and it said “failed not a zip code”&nbsp;</p>\n<p>I Support This Idea</p>\n<p>&nbsp;</p>",
+        "author_id": 418229453592,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4405831897613-World-edit-for-Bedrock-and-Java/comments/4405911720333",
+        "created_at": "2021-07-27T21:48:28Z",
+        "updated_at": "2021-07-27T22:34:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4405831897613/comments/4405911720333.json",
+        "post_id": 4405831897613,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4405956272013,
+        "body": "<p>World edit is not part of Minecraft, it’s a mod. Minecraft wouldn’t be able to do anything. Ask the world edit developers instead.</p>",
+        "author_id": 377018827731,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4405831897613-World-edit-for-Bedrock-and-Java/comments/4405956272013",
+        "created_at": "2021-07-28T17:37:43Z",
+        "updated_at": "2021-07-28T17:45:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4405831897613/comments/4405956272013.json",
+        "post_id": 4405831897613,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4411595121421,
+        "body": "<p>world edit because do you know how frustrating it can get doing a /fill command</p>",
+        "author_id": 421154386071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4405831897613-World-edit-for-Bedrock-and-Java/comments/4411595121421",
+        "created_at": "2021-10-18T22:34:36Z",
+        "updated_at": "2021-10-19T01:24:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4405831897613/comments/4411595121421.json",
+        "post_id": 4405831897613,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077599371,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014909511,
+        "body": "<p>To add to this, this would likely improve performance for target selection since, rather than check what might be a large list of entities, the server would only have to check what is likely a much smaller list of marker entities, like when you use @a or @p. </p>",
+        "author_id": 388544416932,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077599371--m-entity-selector-for-21w15a-marker-entities/comments/360014909511",
+        "created_at": "2021-04-26T14:04:22Z",
+        "updated_at": "2023-04-26T15:52:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077599371/comments/360014909511.json",
+        "post_id": 360077599371,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077270251,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4407825823629,
+        "body": "<p>As an addon creator I need this to be a thing.</p>",
+        "author_id": 1901048429427,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077270251--Inventory-command/comments/4407825823629",
+        "created_at": "2021-08-25T08:41:36Z",
+        "updated_at": "2022-08-05T15:47:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077270251/comments/4407825823629.json",
+        "post_id": 360077270251,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076879071,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014263991,
+        "body": "<p>ya acevements are already off when you have cheats</p>",
+        "author_id": 410949729331,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076879071-Best-enchant-command/comments/360014263991",
+        "created_at": "2021-02-09T21:32:34Z",
+        "updated_at": "2021-02-09T21:32:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076879071/comments/360014263991.json",
+        "post_id": 360076879071,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076957892,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014228512,
+        "body": "<p><strong>Great Idea!</strong></p>",
+        "author_id": 408292221331,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076957892--Disguise-command/comments/360014228512",
+        "created_at": "2021-01-30T14:08:56Z",
+        "updated_at": "2021-01-30T14:08:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076957892/comments/360014228512.json",
+        "post_id": 360076957892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014901511,
+        "body": "<p>i have been dreaming fotr the disguise command to be in bedrock edition</p>",
+        "author_id": 414467866072,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076957892--Disguise-command/comments/360014901511",
+        "created_at": "2021-04-25T09:38:24Z",
+        "updated_at": "2021-04-25T13:15:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076957892/comments/360014901511.json",
+        "post_id": 360076957892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 19412907031565,
+        "body": "<p>i would really love this command in game for prank your friends</p>\n<p>&nbsp;</p>",
+        "author_id": 19412884216973,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076957892--Disguise-command/comments/19412907031565",
+        "created_at": "2023-09-12T13:08:56Z",
+        "updated_at": "2023-09-20T08:52:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076957892/comments/19412907031565.json",
+        "post_id": 360076957892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075997112,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013974512,
+        "body": "<p>I actually like it, but it would probably have to be done in the <strong>JSON</strong> format. Then you could put that file in a folder called <strong>commands</strong> (in your data pack).&nbsp;</p>",
+        "author_id": 408762293252,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075997112-make-custom-commands-with-simple-mc-commands/comments/360013974512",
+        "created_at": "2021-01-02T21:41:27Z",
+        "updated_at": "2021-01-10T19:15:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075997112/comments/360013974512.json",
+        "post_id": 360075997112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014146291,
+        "body": "<p>this is already possible with addons</p>",
+        "author_id": 394641998012,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075997112-make-custom-commands-with-simple-mc-commands/comments/360014146291",
+        "created_at": "2021-01-28T20:05:50Z",
+        "updated_at": "2021-01-28T20:05:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075997112/comments/360014146291.json",
+        "post_id": 360075997112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4408700499341,
+        "body": "<p>I Soposed To Post This Same Thing Rip :)</p>",
+        "author_id": 1901456513107,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075997112-make-custom-commands-with-simple-mc-commands/comments/4408700499341",
+        "created_at": "2021-09-07T07:16:21Z",
+        "updated_at": "2021-09-07T07:16:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075997112/comments/4408700499341.json",
+        "post_id": 360075997112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075041952,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013594331,
+        "body": "<p>I would have it affect how high the snow can pile up. For example, the default would be 1 for 1 layer, but, if you said 8 it would allow snow to pile up 8 layers, or one block tall</p>",
+        "author_id": 406280981491,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075041952-Gamerule-command-which-adjusts-the-height-at-which-snow-falls/comments/360013594331",
+        "created_at": "2020-12-01T02:46:50Z",
+        "updated_at": "2023-08-10T07:28:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075041952/comments/360013594331.json",
+        "post_id": 360075041952,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073429432,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4409655350797,
+        "body": "<p>I was looking for a way to do this with a pack, but this also seems like a very useful command for realm creators!</p>",
+        "author_id": 420191727652,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073429432--custompopup-command-Bedrock/comments/4409655350797",
+        "created_at": "2021-09-20T18:28:10Z",
+        "updated_at": "2021-09-20T19:51:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073429432/comments/4409655350797.json",
+        "post_id": 360073429432,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360070240572,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011169372,
+        "body": "<p>Do /setmaxplayers then how many players you want (maximum of 30 I think)</p>",
+        "author_id": 399826526532,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070240572-More-players-on-ps4-and-Xbox/comments/360011169372",
+        "created_at": "2020-06-29T02:57:00Z",
+        "updated_at": "2020-07-04T03:24:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070240572/comments/360011169372.json",
+        "post_id": 360070240572,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011174631,
+        "body": "<p>Все мебили\n<br /> </p>",
+        "author_id": 399855422472,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070240572-More-players-on-ps4-and-Xbox/comments/360011174631",
+        "created_at": "2020-06-29T16:58:13Z",
+        "updated_at": "2020-07-04T03:24:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070240572/comments/360011174631.json",
+        "post_id": 360070240572,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360070035471,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013059872,
+        "body": "<p>Working together to fill in the same advancement tree sounds really fun<br>Perhaps sharing advancements in the same team could also be an option?</p>",
+        "author_id": 404357788591,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070035471-Shared-Advancements-Game-Rule/comments/360013059872",
+        "created_at": "2020-10-05T12:14:15Z",
+        "updated_at": "2023-12-03T18:57:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070035471/comments/360013059872.json",
+        "post_id": 360070035471,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360065950651,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4408312323341,
+        "body": "<p>We need a Gamerule to prevent all piglins and hoglins from zombifying overall, and not just specific individual entities one by one. Optionally, there could be different gamerules for piglins and for hoglins. It feels like it should be just how it is by stansard and someone forgot to actually add it to the game.</p>",
+        "author_id": 419674931032,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360065950651-Gamerule-for-zombifying-piglins-and-hoglins/comments/4408312323341",
+        "created_at": "2021-09-01T06:27:08Z",
+        "updated_at": "2021-09-01T18:35:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360065950651/comments/4408312323341.json",
+        "post_id": 360065950651,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360063122511,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010537372,
+        "body": "<p>I support you. When I fill in an area with a colored block (such as concrete), I have to go ahead and guess what the Block ID is, and I have to modify the Block ID value on the command block until I get the results I want. It is annoying. Voted.</p>",
+        "author_id": 377100940511,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360063122511-Get-Rid-of-Block-IDs-on-bedrock-edition-Java-Parity/comments/360010537372",
+        "created_at": "2020-05-14T00:55:19Z",
+        "updated_at": "2020-05-27T12:24:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360063122511/comments/360010537372.json",
+        "post_id": 360063122511,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010565571,
+        "body": "<p>I definitely agree. A couple days ago, U made a map where there was a lot of command blocks doing stuff with block IDs! It’s so annoying!!</p>",
+        "author_id": 396457183531,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360063122511-Get-Rid-of-Block-IDs-on-bedrock-edition-Java-Parity/comments/360010565571",
+        "created_at": "2020-05-16T02:56:12Z",
+        "updated_at": "2020-05-22T02:08:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360063122511/comments/360010565571.json",
+        "post_id": 360063122511,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7836854890893,
+        "body": "<p>I like your idea, but what would happen to all the other old command block creations?</p>",
+        "author_id": 4934170880781,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360063122511-Get-Rid-of-Block-IDs-on-bedrock-edition-Java-Parity/comments/7836854890893",
+        "created_at": "2022-07-21T09:01:06Z",
+        "updated_at": "2022-07-21T11:30:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360063122511/comments/7836854890893.json",
+        "post_id": 360063122511,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360061555951,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010887412,
+        "body": "<p>No, because it is a good way to get rid of griefers.</p>\n<p>&nbsp;</p>",
+        "author_id": 396996315712,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360061555951-Banning/comments/360010887412",
+        "created_at": "2020-06-06T21:40:29Z",
+        "updated_at": "2020-06-06T21:40:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360061555951/comments/360010887412.json",
+        "post_id": 360061555951,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011076892,
+        "body": "<p>Unthinkable you make no sense</p>",
+        "author_id": 386231068572,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360061555951-Banning/comments/360011076892",
+        "created_at": "2020-06-21T07:24:19Z",
+        "updated_at": "2022-07-01T15:03:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360061555951/comments/360011076892.json",
+        "post_id": 360061555951,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360061519652,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010545411,
+        "body": "<p>The upcoming /attribute command allows you to change the generic.movement_speed of an entity, which does what you're talking about.</p>\n<p>Google Translate:</p>\n<p>El próximo comando /atributo le permite cambiar la velocidad genérica de movimiento de una entidad, que hace lo que está hablando.</p>",
+        "author_id": 397896674792,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360061519652-Comando-velocity/comments/360010545411",
+        "created_at": "2020-05-14T16:00:02Z",
+        "updated_at": "2020-11-24T17:35:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360061519652/comments/360010545411.json",
+        "post_id": 360061519652,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014099491,
+        "body": "<p>Edgar</p>",
+        "author_id": 410032359451,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360061519652-Comando-velocity/comments/360014099491",
+        "created_at": "2021-01-24T18:24:09Z",
+        "updated_at": "2021-01-24T18:24:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360061519652/comments/360014099491.json",
+        "post_id": 360061519652,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360061268591,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010470872,
+        "body": "<p>When we are at it, why not just make any commands available in command blocks?\n<br />Commands like: ban, banlist, ban-ip, debug, deop, op, pardon, pardon-ip, (maybe publish), save-all, save-off, save-on, stop and whitelist</p>\n\n<p>Being able to use commands like these to use in commands and datapacks is essential for running a bigger server in vanilla minecraft!</p>",
+        "author_id": 387762685231,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360061268591-Kick-command-blocks/comments/360010470872",
+        "created_at": "2020-05-09T01:16:22Z",
+        "updated_at": "2021-03-06T05:31:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360061268591/comments/360010470872.json",
+        "post_id": 360061268591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011134931,
+        "body": "<p>I do not think that this would be needed as command blocks and other blocks like it are not able to be used in survival anyway and hack clients cant create items from nothing. I agree that server commands should be abler to&nbsp; be added to command blocks as it would make it easier to start a server.</p>",
+        "author_id": 378573359172,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360061268591-Kick-command-blocks/comments/360011134931",
+        "created_at": "2020-06-25T23:13:35Z",
+        "updated_at": "2021-03-06T05:31:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360061268591/comments/360011134931.json",
+        "post_id": 360061268591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013184352,
+        "body": "<p>make a tag, here is what I as an admin on a server we do /tag &lt;player: target&gt; add ban<br>Then we have a command block that has /kick @a[tag=ban] &lt;message: message&gt;<br><br></p>",
+        "author_id": 386476504472,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360061268591-Kick-command-blocks/comments/360013184352",
+        "created_at": "2020-10-16T05:42:07Z",
+        "updated_at": "2021-03-06T05:32:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360061268591/comments/360013184352.json",
+        "post_id": 360061268591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360055197711,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008782952,
+        "body": "<p>Please allow for entry of hex colors.</p>",
+        "author_id": 381638983111,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055197711-Update-what-colors-can-be-used-in-JSON-text/comments/360008782952",
+        "created_at": "2019-12-25T02:07:02Z",
+        "updated_at": "2020-01-17T21:46:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055197711/comments/360008782952.json",
+        "post_id": 360055197711,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010441032,
+        "body": "<p>Add a way to do hexadecimal colors or rgb colors in commands like /tellraw, which should actually now be possible considering that § isn't used as a formatting symbol anymore</p>\n<p>Edit: this was actually added in 1.16 wow</p>",
+        "author_id": 382910346032,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055197711-Update-what-colors-can-be-used-in-JSON-text/comments/360010441032",
+        "created_at": "2020-05-06T22:51:02Z",
+        "updated_at": "2020-09-03T18:04:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055197711/comments/360010441032.json",
+        "post_id": 360055197711,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360050458631,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007591212,
+        "body": "<p><a href=\"https://github.com/MinecraftPhi/MinecraftPhi-modules/wiki/Player-Inventory-Manipulation\" rel=\"nofollow noreferrer\">https://github.com/MinecraftPhi/MinecraftPhi-modules/wiki/Player-Inventory-Manipulation</a></p>",
+        "author_id": 364935466911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050458631-Re-add-execute-store-functionality-for-player-owned-items/comments/360007591212",
+        "created_at": "2019-09-14T18:51:28Z",
+        "updated_at": "2019-09-16T14:50:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050458631/comments/360007591212.json",
+        "post_id": 360050458631,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008489971,
+        "body": "<p>Oh god yes. I was making so many things that would change to way a player could interact with the world with on the fly attribute editing through command. Then I found out it was a bug???. Thought this was the feature Dinnerbone was promising a few years ago.</p>",
+        "author_id": 375343711171,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050458631-Re-add-execute-store-functionality-for-player-owned-items/comments/360008489971",
+        "created_at": "2019-11-22T02:47:29Z",
+        "updated_at": "2019-12-08T20:35:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050458631/comments/360008489971.json",
+        "post_id": 360050458631,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008572352,
+        "body": "<p>Recently reported this, found out that it was \"Working as intended\". We finally got the ability to do so much more, and then they just take it away from us. I'm glad that someone made this post, and i hope this will receive much more attention than it has already gotten.</p>",
+        "author_id": 390516070772,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050458631-Re-add-execute-store-functionality-for-player-owned-items/comments/360008572352",
+        "created_at": "2019-12-02T16:29:41Z",
+        "updated_at": "2019-12-08T20:35:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050458631/comments/360008572352.json",
+        "post_id": 360050458631,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360049854811,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010213371,
+        "body": "<p>If you mean for this to be used in survival:<br>That's cheating lol. This stuff belongs in hacked clients, not in vanilla. The best way to implement something close to this would be to add an item, like a compass (which you would have to work to craft), that points to a specific ore.</p>\n<p>If you mean for this to be used in creative:<br>Why? What purpose would this possibly serve?</p>",
+        "author_id": 384380991192,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360049854811-A-mineral-locator-command/comments/360010213371",
+        "created_at": "2020-04-20T22:33:26Z",
+        "updated_at": "2020-04-20T23:50:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360049854811/comments/360010213371.json",
+        "post_id": 360049854811,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360049919972,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007799832,
+        "body": "<p>Just do /give @p minecraft:stone{Enchantments:[{id:\"minecraft:knockback\",lvl:1}]} 1</p>\n<p>and for the enchantment glowing effect use /give @p minecraft:stone{Enchantments:[{}]} 1</p>",
+        "author_id": 387762685231,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360049919972-Enchantments-should-work-on-anything/comments/360007799832",
+        "created_at": "2019-09-25T13:27:29Z",
+        "updated_at": "2019-09-25T13:27:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360049919972/comments/360007799832.json",
+        "post_id": 360049919972,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360007799852,
+        "body": "<p>Just do /give @p minecraft:stone{Enchantments:[{id:\"minecraft:knockback\",lvl:1}]} 1</p>\n<p>and for the enchantment glowing effect use /give @p minecraft:stone{Enchantments:[{}]} 1</p>",
+        "author_id": 387762685231,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360049919972-Enchantments-should-work-on-anything/comments/360007799852",
+        "created_at": "2019-09-25T13:28:33Z",
+        "updated_at": "2019-09-25T13:28:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360049919972/comments/360007799852.json",
+        "post_id": 360049919972,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009727111,
+        "body": "<p>In console you could do that in fact I was using it for custom items without textures or datapacks I'm annoyed about them removing it</p>",
+        "author_id": 391604137152,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360049919972-Enchantments-should-work-on-anything/comments/360009727111",
+        "created_at": "2020-03-18T17:44:39Z",
+        "updated_at": "2020-03-18T17:45:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360049919972/comments/360009727111.json",
+        "post_id": 360049919972,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40798910223501,
+        "body": "<p>Yeah but also put higher levels so you can have a fling-stick</p>",
+        "author_id": 39924244604685,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360049919972-Enchantments-should-work-on-anything/comments/40798910223501",
+        "created_at": "2025-11-01T19:49:51Z",
+        "updated_at": "2025-11-01T19:49:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360049919972/comments/40798910223501.json",
+        "post_id": 360049919972,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048168792,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006536391,
+        "body": "<p>Wouldn't the solution be to add teams and teams options to Bedrock edition? On java edition, these options already exist as long as all players these options are applied to are added to a team.</p>",
+        "author_id": 384765614332,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048168792-Change-display-name-properties/comments/360006536391",
+        "created_at": "2019-07-18T04:36:37Z",
+        "updated_at": "2019-07-18T16:19:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048168792/comments/360006536391.json",
+        "post_id": 360048168792,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360047516632,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006249872,
+        "body": "<p>Also when copying redstone contraptions, all the observers / bud updates fire, and all the pistons re-extend.</p>\n<p>This often breaks a redstone contraption after copying it.</p>",
+        "author_id": 378119577011,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047516632-Ability-to-disable-block-updates-within-structure-blocks/comments/360006249872",
+        "created_at": "2019-06-28T12:32:59Z",
+        "updated_at": "2020-01-12T07:43:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047516632/comments/360006249872.json",
+        "post_id": 360047516632,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008942051,
+        "body": "<p>Yep its really annoying for complex flying machines.&nbsp;</p>",
+        "author_id": 382713091612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047516632-Ability-to-disable-block-updates-within-structure-blocks/comments/360008942051",
+        "created_at": "2020-01-12T07:43:35Z",
+        "updated_at": "2020-01-13T23:25:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047516632/comments/360008942051.json",
+        "post_id": 360047516632,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014677412,
+        "body": "<p>we need this</p>",
+        "author_id": 412757682612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047516632-Ability-to-disable-block-updates-within-structure-blocks/comments/360014677412",
+        "created_at": "2021-03-16T20:39:40Z",
+        "updated_at": "2021-03-16T20:39:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047516632/comments/360014677412.json",
+        "post_id": 360047516632,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043628072,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012293211,
+        "body": "<p>THIS IS BRILLIANT!!!!!!!</p>",
+        "author_id": 401552049571,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043628072-Entity-pose-command/comments/360012293211",
+        "created_at": "2020-08-05T22:06:36Z",
+        "updated_at": "2020-08-05T22:06:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043628072/comments/360012293211.json",
+        "post_id": 360043628072,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 21822445995405,
+        "body": "<p>/playaniamtion already does this</p>",
+        "author_id": 400271757932,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043628072-Entity-pose-command/comments/21822445995405",
+        "created_at": "2023-11-30T18:15:37Z",
+        "updated_at": "2023-11-30T18:15:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043628072/comments/21822445995405.json",
+        "post_id": 360043628072,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

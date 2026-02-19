@@ -1,0 +1,997 @@
+[
+  {
+    "post_id": 4404494186893,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4404603104525,
+        "body": "<p>This would be an interesting concept!</p>",
+        "author_id": 418454615731,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404494186893-Low-Oxygen-at-Altitude/comments/4404603104525",
+        "created_at": "2021-07-08T15:52:59Z",
+        "updated_at": "2021-07-14T10:02:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404494186893/comments/4404603104525.json",
+        "post_id": 4404494186893,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4404613614477,
+        "body": "<p>Sneaking could be a way for a player to \"catch their breath\" at high altitudes, and reduce/reverse the oxygen loss!</p>",
+        "author_id": 418457147951,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404494186893-Low-Oxygen-at-Altitude/comments/4404613614477",
+        "created_at": "2021-07-08T19:14:00Z",
+        "updated_at": "2021-10-01T01:35:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404494186893/comments/4404613614477.json",
+        "post_id": 4404494186893,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4410308061197,
+        "body": "<p>I agree that this is a very cool idea.</p>\n<p>Another possible effect that can come from altitude, is that when the player is above that certain y-level, the same shivering and freezing effect that happens when they are in powdered snow, could also happen. To counteract this high altitude freezing the player could wear leather armor to stay warm, but the higher the player goes, the colder it will get. So, the higher the player goes up, the more leather armor will be required to wear to stay warm. Some sorts of heat sources like the campfire and soul campfire, can also help with the cold. There is a lot of other ideas and concepts that can come from this, so I hope more people comment and add to this!</p>",
+        "author_id": 420421019692,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404494186893-Low-Oxygen-at-Altitude/comments/4410308061197",
+        "created_at": "2021-09-30T00:11:45Z",
+        "updated_at": "2021-10-01T01:34:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404494186893/comments/4410308061197.json",
+        "post_id": 4404494186893,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4420069036557,
+        "body": "<p>I believe some effects of altitude sickness should start at around y=110-120, where slowness, weakness, and mining fatigue set in, which resolves after at least a week of staying there. And by y=150-160, you start to see the oxygen bar effect, and after getting used to high altitude, the limit will slowly get higher but not more than around y=220, above which is the death zone. In addition, the effects mentioned above will also get worse with low oxygen and ascending rapidly. Finally, at y=384, void-like damage starts, and the player will lose three hearts every half second, even with a Respiration helmet to prevent players from getting to extreme altitude to AFK long-distance trips.</p>",
+        "author_id": 417536639452,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404494186893-Low-Oxygen-at-Altitude/comments/4420069036557",
+        "created_at": "2022-01-11T08:49:07Z",
+        "updated_at": "2022-01-20T18:20:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404494186893/comments/4420069036557.json",
+        "post_id": 4404494186893,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4422125267725,
+        "body": "<p>I think having universal effects like this might be a bit strange. To gate an entire altitude behind it might be rough. Lava lakes or Oceans can be removed and the space where they were can be treated like everywhere else.</p>\n<p>Maybe at high altitudes, a block called Mist generates. A hardly noticeable air variant that can be removed by artificial light sources. Being in the mist could very slowly draw oxygen and produce the freezing effect. That way, one could potentially clear the mists and treat the upper altitudes exactly like any other location in minecraft.</p>",
+        "author_id": 396074975752,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404494186893-Low-Oxygen-at-Altitude/comments/4422125267725",
+        "created_at": "2022-01-20T18:34:11Z",
+        "updated_at": "2022-01-20T23:11:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404494186893/comments/4422125267725.json",
+        "post_id": 4404494186893,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4404234847245,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4404309122957,
+        "body": "<p>Definitely for at least the deep dark and lush caves. Lush caves should have an almost mystical, tranquil tone to put you at peace. Meanwhile the deep dark should be one of the scariest places to visit and the music should match.</p>",
+        "author_id": 418134406612,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404234847245-New-Cave-Music-in-Different-Cave-Biomes/comments/4404309122957",
+        "created_at": "2021-07-04T02:20:28Z",
+        "updated_at": "2021-07-04T02:20:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404234847245/comments/4404309122957.json",
+        "post_id": 4404234847245,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078550612,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360016866192,
+        "body": "<p>The Warden only responds to vibrations, the devs have made it clear sounds aren't necessarily vibrations, and they aren't going to let us cheese the Warden like that.</p>\n<p>You could theoretically do this with a piston and a redstone clock anyway.</p>",
+        "author_id": 386755456471,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078550612-Clocks-Emit-ticking-To-Distract-Wardens/comments/360016866192",
+        "created_at": "2021-06-12T10:56:17Z",
+        "updated_at": "2021-10-14T02:47:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078550612/comments/360016866192.json",
+        "post_id": 360078550612,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 6866543715597,
+        "body": "<p>Now that the Wild Update's out, you actually CAN use a clock to keep the warden PERMANENTLY distracted. It just has to be a&nbsp;<em>redstone</em> clock! (As in, built with redstone dust and repeaters.) Just hook up a trapdoor to the clock to create a noise machine, and the warden is then permanently focused on the trapdoor! You can run, jump, break blocks, and it just doesn't care at all.</p>\n<p>This is most likely going to be changed in a future update. Also, I haven't tested how this distraction interacts with activating nearby skulk sensors and/or shriekers. I also haven't tested what happens when you touch and/or attack the warden. I'm assuming it would break free of the distraction. Nor have I tested how this works with chests.</p>",
+        "author_id": 6781378243341,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078550612-Clocks-Emit-ticking-To-Distract-Wardens/comments/6866543715597",
+        "created_at": "2022-06-13T05:26:59Z",
+        "updated_at": "2022-06-15T21:10:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078550612/comments/6866543715597.json",
+        "post_id": 360078550612,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078073251,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015663192,
+        "body": "<p>Oiii</p>",
+        "author_id": 417093006031,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078073251-a-new-boss/comments/360015663192",
+        "created_at": "2021-05-29T02:26:01Z",
+        "updated_at": "2021-05-29T02:26:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078073251/comments/360015663192.json",
+        "post_id": 360078073251,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360015671692,
+        "body": "<p>No aporta mucho al lore del juego</p>",
+        "author_id": 416878567272,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078073251-a-new-boss/comments/360015671692",
+        "created_at": "2021-05-31T01:30:05Z",
+        "updated_at": "2021-05-31T01:30:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078073251/comments/360015671692.json",
+        "post_id": 360078073251,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360015833451,
+        "body": "<p>This almost sounds like a cross between a botw moblin and stone talus</p>",
+        "author_id": 399991532012,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078073251-a-new-boss/comments/360015833451",
+        "created_at": "2021-06-07T14:34:35Z",
+        "updated_at": "2021-06-07T14:34:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078073251/comments/360015833451.json",
+        "post_id": 360078073251,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077908171,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015391731,
+        "body": "<p>Maybe you could add a fermented spider eye to it to make it a potion of pulling, which would make all attacks pull the enemy toward them instead of knocking them back.&nbsp; This would be very useful as a splash potion.&nbsp;&nbsp;</p>",
+        "author_id": 399769032231,
+        "vote_sum": 5,
+        "vote_count": 5,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077908171-Potion-of-Ramming/comments/360015391731",
+        "created_at": "2021-05-12T02:49:36Z",
+        "updated_at": "2021-06-02T17:00:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077908171/comments/360015391731.json",
+        "post_id": 360077908171,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077886331,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015443692,
+        "body": "<p>You mean like how Husks turn into regular Zombies instead of Drowned?</p>",
+        "author_id": 412314468832,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077886331-wither-skeletons-turn-into-skeletons-in-powder-snow/comments/360015443692",
+        "created_at": "2021-05-09T19:38:24Z",
+        "updated_at": "2022-01-30T19:59:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077886331/comments/360015443692.json",
+        "post_id": 360077886331,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077747712,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014927012,
+        "body": "<p>I love that idea!! It would give us more of the lore Tom the story of why the villagers are different and how civilization was before our characters arrived</p>",
+        "author_id": 415187860992,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077747712-Ancient-temple/comments/360014927012",
+        "created_at": "2021-04-20T02:12:05Z",
+        "updated_at": "2021-04-20T04:11:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077747712/comments/360014927012.json",
+        "post_id": 360077747712,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014861811,
+        "body": "<p>I love that idea!</p>",
+        "author_id": 415193092912,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077747712-Ancient-temple/comments/360014861811",
+        "created_at": "2021-04-20T07:29:03Z",
+        "updated_at": "2021-04-20T07:31:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077747712/comments/360014861811.json",
+        "post_id": 360077747712,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014869431,
+        "body": "<p>hey that would be cool but what if it had notch apples&nbsp; and end city loot but more zombies&nbsp; spawn there because they are undead and they look like steve.</p>",
+        "author_id": 415486788391,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077747712-Ancient-temple/comments/360014869431",
+        "created_at": "2021-04-21T01:19:15Z",
+        "updated_at": "2021-04-21T04:47:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077747712/comments/360014869431.json",
+        "post_id": 360077747712,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077564071,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014858032,
+        "body": "<p>Nah man, I usually skip Leather Armor and go straight to iron! XD</p>\n<p>Cool idea though, it would be nice if Channeling wasn't worthless (since it literally ONLY works in thunderstorms, so in biomes like deserts it literally doesn't work at all).</p>",
+        "author_id": 412314468832,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077564071-Making-copper-more-useful/comments/360014858032",
+        "created_at": "2021-04-09T23:51:56Z",
+        "updated_at": "2022-06-01T03:04:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077564071/comments/360014858032.json",
+        "post_id": 360077564071,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 6598175192461,
+        "body": "<p>Most people skip straight to Iron, it's actually much, much easier and efficient to get a stone pickaxe and go mining for a few minutes to get enough iron for armor (since you'll be needing iron anyway to mine diamonds and progress the game) than to run around looking for a dozen cows so you can get the second worst armor in the game.<br><br>Adding a mechanic to add copper to leather armor would just put an armor set into the game that's unnecessarily time consuming to make for protection that isn't even that worth it, that itself is built from another armor set that is unnecessarily time consuming to make for protection that isn't even worth it (Leather armor itself without any copper added).&nbsp;<br><br>The real problem is that Copper is way too abundant, and it's arguable that it shouldn't have even been added in the first place (things like spyglasses and lightning rods can be done with Iron). The only benefit Copper has is that it is a really nice decoration and building block. With that being said, not every build needs shades of dark green or bright orange. I don't think there will be a major use for copper so the only thing I can suggest is to reduce its abundancy.</p>",
+        "author_id": 6597893522701,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077564071-Making-copper-more-useful/comments/6598175192461",
+        "created_at": "2022-06-01T03:04:46Z",
+        "updated_at": "2022-06-01T14:44:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077564071/comments/6598175192461.json",
+        "post_id": 360077564071,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7075853206413,
+        "body": "<p>I also believe copper is a missed opportunity. I would like to see copper bucket for farming. one that could hold water but would melt if you used it in lava. copper armor could have the basic stats like chain mail which is found only.&nbsp; copper shield with half the durability of the current shield.</p>",
+        "author_id": 398140912852,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077564071-Making-copper-more-useful/comments/7075853206413",
+        "created_at": "2022-06-21T00:35:37Z",
+        "updated_at": "2022-06-21T21:09:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077564071/comments/7075853206413.json",
+        "post_id": 360077564071,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077555491,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014846192,
+        "body": "<p>I like this idea a ton! :)</p>",
+        "author_id": 399058914632,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077555491-Replace-stone-with-copper-in-repeater-and-comparator-crafting-recipes/comments/360014846192",
+        "created_at": "2021-04-08T17:37:26Z",
+        "updated_at": "2021-06-28T10:09:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077555491/comments/360014846192.json",
+        "post_id": 360077555491,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38708935941773,
+        "body": "<p>This makes perfect sense, never got the idea of why Stone of all things is still being used for this recipe. Replacing it with Copper Ingots is the best alternative</p>",
+        "author_id": 412129176892,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077555491-Replace-stone-with-copper-in-repeater-and-comparator-crafting-recipes/comments/38708935941773",
+        "created_at": "2025-08-10T16:57:29Z",
+        "updated_at": "2025-08-10T16:57:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077555491/comments/38708935941773.json",
+        "post_id": 360077555491,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077660312,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014793171,
+        "body": "<p>Honestly, the problem with this isn't that it defeats the purpose of amethyst being rare. The problem is that Amethyst does basically nothing right now. Telescopes are useless except for roleplaying, Tinted Glass will only be used in very specific circumstances, and Amethyst Blocks are horrible for building and can just be mined from the geodes. If we fix this problem, and give amethyst a purpose that players will actually use, then yes, it will defeat the point of amethyst being rare.</p>\n<p>The mushroom island is highly sought out because you can ONLY get mooshroom mobs from that specific biome. The reason it wouldn't work for this is because everything you can find here (amethyst shards, blocks) can already be found in this biome. The crystal bats are a cool idea, but again, the reason the mooshroom mobs are highly-sought after is because they can create unlimited mushroom and suspicious stew. Crystal Bats just can't do that as nobody needs the shards to do anything.</p>\n<p>This biome will remain obsolete until the crystal bats have a unique drop and amethyst is revamped altogether.</p>",
+        "author_id": 398830310812,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077660312-The-Amethyst-Caves/comments/360014793171",
+        "created_at": "2021-04-10T01:18:51Z",
+        "updated_at": "2021-04-10T10:52:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077660312/comments/360014793171.json",
+        "post_id": 360077660312,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014863932,
+        "body": "<p>Good point there @DarkstalkerMoon\n<br />Amethyst is what we can say useless at this moment. I just recommended this idea because of this one interesting dream i had about a cave that looks like it was made from something dripstone like, with amethyst spikes with what i can call an outline out of calcite blocks. I after that dream i just Brain Blasted like Jimmy Neutron and posted this idea. But thank you for your feedback</p>",
+        "author_id": 401096131512,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077660312-The-Amethyst-Caves/comments/360014863932",
+        "created_at": "2021-04-11T12:14:50Z",
+        "updated_at": "2021-04-11T13:30:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077660312/comments/360014863932.json",
+        "post_id": 360077660312,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4411675155725,
+        "body": "<p>I'll agree with the idea of having a cave biome with lots of amethyst. You see the concept art with a cave just full of amethyst like a city, and i think it could be cool if done correctly, likely also with crazy rarity.</p>",
+        "author_id": 407219976972,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077660312-The-Amethyst-Caves/comments/4411675155725",
+        "created_at": "2021-10-20T05:11:51Z",
+        "updated_at": "2021-10-20T12:58:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077660312/comments/4411675155725.json",
+        "post_id": 360077660312,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077659932,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014843452,
+        "body": "<p>Bedrock, please add the glow effect&nbsp;</p>",
+        "author_id": 412057847072,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077659932-Eating-glow-berries-gives-you-glowing-effect-for-a-few-secconds/comments/360014843452",
+        "created_at": "2021-04-08T13:45:26Z",
+        "updated_at": "2021-04-08T21:19:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077659932/comments/360014843452.json",
+        "post_id": 360077659932,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014835931,
+        "body": "<p>It would also be logical because it is a berry that lights up like a torch but I don't understand why the achievement of \"How did we get here?\" you explain me?</p>",
+        "author_id": 415252541271,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077659932-Eating-glow-berries-gives-you-glowing-effect-for-a-few-secconds/comments/360014835931",
+        "created_at": "2021-04-16T02:06:12Z",
+        "updated_at": "2021-04-16T02:06:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077659932/comments/360014835931.json",
+        "post_id": 360077659932,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077428651,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014666591,
+        "body": "<p>I feel like it should just replace flint in the crafting table, and be stronger, fly further, and do more knockback</p>",
+        "author_id": 390084995931,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077428651-Amethyst-Arrows-How-They-Would-Work/comments/360014666591",
+        "created_at": "2021-03-23T21:20:12Z",
+        "updated_at": "2021-09-19T19:00:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077428651/comments/360014666591.json",
+        "post_id": 360077428651,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077409231,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 12675725965965,
+        "body": "<p>This should also apply to most container blocks like Chests, Shulker Boxes, and Dispensers. Not only would this further add to Adventure maps, minigames, and overall item security, but it could make structures added in the future far more complex. Instead of simply finding and looting a Chest, you have to find the Key first(perhaps even held by an enemy).</p>\n<p>Also, I just want to add that I love the idea of the \"Linking\" enchantment. This allows players and structures to decide whether the challenge is \"Craft/find any Key\" or \"Find the Linked Key.\" This is just another level of customization and gives the players and developers even more room to be creative with this feature.&nbsp;</p>",
+        "author_id": 12305173326221,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077409231-Copper-Locks-Keys-and-how-they-would-work/comments/12675725965965",
+        "created_at": "2023-01-30T18:09:24Z",
+        "updated_at": "2023-03-15T15:04:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077409231/comments/12675725965965.json",
+        "post_id": 360077409231,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077390091,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014697972,
+        "body": "<p>If you guys wanna add this, a mushroom cape to the account “WyLL_” would be pretty cool :)</p>",
+        "author_id": 393908871151,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077390091-Interconnected-Underground-Mycelium-Networm/comments/360014697972",
+        "created_at": "2021-03-19T10:45:57Z",
+        "updated_at": "2021-04-12T05:36:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077390091/comments/360014697972.json",
+        "post_id": 360077390091,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077488792,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014632111,
+        "body": "<p>They should only be hostile if you hit one</p>",
+        "author_id": 413027648991,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077488792-Snow-Leopard-in-1-17-mountains/comments/360014632111",
+        "created_at": "2021-03-18T16:31:37Z",
+        "updated_at": "2022-11-15T11:46:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077488792/comments/360014632111.json",
+        "post_id": 360077488792,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014632171,
+        "body": "<p><x-zendesk-user data-user-name=\"Overloadedchunk\">413027648991</x-zendesk-user>&nbsp;yes, too :)</p>",
+        "author_id": 413026531831,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077488792-Snow-Leopard-in-1-17-mountains/comments/360014632171",
+        "created_at": "2021-03-18T16:35:27Z",
+        "updated_at": "2022-10-23T18:03:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077488792/comments/360014632171.json",
+        "post_id": 360077488792,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 10090483626253,
+        "body": "<p>and they are endangered so they can send awareness about the animal</p>\n<p>&nbsp;</p>",
+        "author_id": 10090328116877,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077488792-Snow-Leopard-in-1-17-mountains/comments/10090483626253",
+        "created_at": "2022-10-23T18:02:55Z",
+        "updated_at": "2022-11-15T11:46:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077488792/comments/10090483626253.json",
+        "post_id": 360077488792,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077477812,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014686352,
+        "body": "<p>This makes a lot of sense</p>",
+        "author_id": 385270477052,
+        "vote_sum": 6,
+        "vote_count": 6,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077477812-Being-able-to-craft-rooted-dirt/comments/360014686352",
+        "created_at": "2021-03-17T21:09:18Z",
+        "updated_at": "2021-06-25T23:19:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077477812/comments/360014686352.json",
+        "post_id": 360077477812,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014629051,
+        "body": "<p>Or dirt and 4 stick?</p>",
+        "author_id": 385788421311,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077477812-Being-able-to-craft-rooted-dirt/comments/360014629051",
+        "created_at": "2021-03-18T08:30:01Z",
+        "updated_at": "2021-03-18T16:13:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077477812/comments/360014629051.json",
+        "post_id": 360077477812,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077355531,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014630951,
+        "body": "<p>I absolutely agree! With such large caves and a render distance of &lt;10 chunks, the glaring fog is very disturbing (depending on the time of day).<br>Example image with render distance of 8 chunks (21w11a):</p>\n<p><img src=\"https://feedback.minecraft.net/hc/user_images/8ueXb05g5rXrhyoDGyHk-Q.png\">The fog creates the illusion that in the back part of the cave would be illuminated places.</p>\n<p>Example image with render distance of 6 chunks (21w11a):</p>\n<p><img src=\"https://feedback.minecraft.net/hc/user_images/6AkSs86TRCGFtj94toTxqA.png\"></p>\n<p>The cave doesn't even look like a real cave anymore.</p>",
+        "author_id": 399792714851,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077355531-Atmospheric-cave-fog/comments/360014630951",
+        "created_at": "2021-03-18T14:27:08Z",
+        "updated_at": "2021-07-14T05:15:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077355531/comments/360014630951.json",
+        "post_id": 360077355531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077351351,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014608411,
+        "body": "<p>Interesting idea. I think it would be cool if you could use it while your shield is up.</p>",
+        "author_id": 396762098051,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077351351-Dagger/comments/360014608411",
+        "created_at": "2021-03-15T20:16:52Z",
+        "updated_at": "2021-03-18T19:37:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077351351/comments/360014608411.json",
+        "post_id": 360077351351,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077430012,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014643892,
+        "body": "<p class=\"tw-data-text tw-text-large XcVN5d tw-ta\" dir=\"ltr\" data-placeholder=\"Tradução\"><span lang=\"en\">A new recipe would be interesting: polished amethyst! It would be a very beautiful block of amethyst to use on floors, for example. The polished amethyst would be a block of ore like those of diamond, emerald or gold, but with a very different texture from the block of amethyst that we see.<br><br></span></p>\n<div id=\"tw-container\" class=\"YQaNob\" data-cp=\"1\" data-is-ver=\"false\" data-nnttsvi=\"1\" data-sm=\"1\" data-sugg-time=\"500\" data-sugg-url=\"https://clients1.google.com/complete/search\" data-uilc=\"pt-BR\">\n<div>\n<div>\n<div id=\"tw-ob\" class=\"tw-src-ltr\">\n<div class=\"oSioSc\">\n<div id=\"tw-target\" class=\"\">\n<div id=\"kAz1tf\" class=\"g9WsWb\">\n<div id=\"tw-target-text-container\" class=\"tw-ta-container hide-focus-ring tw-nfl\" tabindex=\"0\">\n<p id=\"tw-target-text\" class=\"tw-data-text tw-text-large XcVN5d tw-ta\" dir=\"ltr\" data-placeholder=\"Tradução\"><strong><span lang=\"en\">It would be made with nine fragments of amethyst (or in the stone cutter). Please Mojang, consider this.</span></strong></p>\n</div>\n<div class=\"iYB33c\">\n<div id=\"tw-tmenu\" class=\"tw-menu\">&nbsp;</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div id=\"tw-images\">&nbsp;</div>\n<div class=\"dURPtb\">&nbsp;</div>\n<div>\n<div>&nbsp;</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"KFFQ0c\">&nbsp;</div>\n<p id=\"tw-target-text\" class=\"tw-data-text tw-text-large XcVN5d tw-ta\" dir=\"ltr\" data-placeholder=\"Tradução\">&nbsp;</p>",
+        "author_id": 384014184391,
+        "vote_sum": 5,
+        "vote_count": 5,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077430012-Amethyst-Stonecutter-Recipes/comments/360014643892",
+        "created_at": "2021-03-11T20:48:21Z",
+        "updated_at": "2023-07-16T16:40:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077430012/comments/360014643892.json",
+        "post_id": 360077430012,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 29785483833613,
+        "body": "<p>I dont like much amethyst block for building things, some cut amethyst that would look similar to emerald blocks would be wonderful, or just purple gem cubes, any refined version of that block, I dont think bricks or such should be thing but maybe some other blocks.. maybe having ability to make some decorated chisel blocks or such, maybe pillars similarly as we have with quartz<br>also honey comb could be nice to be able to \"smoothen\" and make even other shapes of that, those both blocks I see not useable in any builds but with potential to be wonderful addition to block list</p>",
+        "author_id": 24637847411853,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077430012-Amethyst-Stonecutter-Recipes/comments/29785483833613",
+        "created_at": "2024-08-30T08:21:51Z",
+        "updated_at": "2024-08-30T14:07:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077430012/comments/29785483833613.json",
+        "post_id": 360077430012,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077424892,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014580631,
+        "body": "<p>This is a fantastic idea for allowing the unobtainable ores to be collected in survival, and it fits in perfectly with Minecraft's design philosophy of portraying things correctly. Well done!</p>",
+        "author_id": 396762098051,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077424892-Elevated-Deepslate-Regions-in-the-new-Mountains-due-to-Geological-Activity/comments/360014580631",
+        "created_at": "2021-03-11T15:36:54Z",
+        "updated_at": "2021-03-17T17:59:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077424892/comments/360014580631.json",
+        "post_id": 360077424892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014642692,
+        "body": "<p>This is such a good idea and maybe the deep slate could de a new type that it's like deep slate but it's more bright and called mount slate&nbsp;</p>",
+        "author_id": 412662071991,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077424892-Elevated-Deepslate-Regions-in-the-new-Mountains-due-to-Geological-Activity/comments/360014642692",
+        "created_at": "2021-03-11T19:22:30Z",
+        "updated_at": "2021-04-05T13:16:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077424892/comments/360014642692.json",
+        "post_id": 360077424892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077273951,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014604052,
+        "body": "<p>Agreed, this would make so much sense and add more depth to terrain generation.</p>",
+        "author_id": 383961756051,
+        "vote_sum": 5,
+        "vote_count": 5,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077273951-Mountain-biomes-of-3-5-should-spawn-next-to-each-other-to-create-a-range/comments/360014604052",
+        "created_at": "2021-03-07T21:06:49Z",
+        "updated_at": "2021-04-16T17:20:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077273951/comments/360014604052.json",
+        "post_id": 360077273951,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077248631,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014583132,
+        "body": "<p>this idea would also give amethyst more uses</p>",
+        "author_id": 411787569491,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077248631-Amethyst-could-be-used-to-disspel-curses/comments/360014583132",
+        "created_at": "2021-03-04T21:26:07Z",
+        "updated_at": "2021-06-28T10:00:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077248631/comments/360014583132.json",
+        "post_id": 360077248631,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014585312,
+        "body": "<p>With how common amethyst is, I think this suggestion is overpowered.</p>",
+        "author_id": 378842547612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077248631-Amethyst-could-be-used-to-disspel-curses/comments/360014585312",
+        "created_at": "2021-03-05T01:31:12Z",
+        "updated_at": "2021-03-05T10:56:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077248631/comments/360014585312.json",
+        "post_id": 360077248631,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077226611,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014546652,
+        "body": "<p>I believe the Desert Well is&nbsp;<em>well</em> beyond repair. It just exists to be... a thing that we look at. Seriously though, good idea; I also thought that an Azalea tree would look out of place :)</p>",
+        "author_id": 396386292072,
+        "vote_sum": 5,
+        "vote_count": 5,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077226611-Desert-well-indicator-for-lush-caves/comments/360014546652",
+        "created_at": "2021-03-01T05:14:55Z",
+        "updated_at": "2021-03-02T05:33:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077226611/comments/360014546652.json",
+        "post_id": 360077226611,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014493051,
+        "body": "<p>I think that it being a indicator for Aquifers would be better</p>",
+        "author_id": 393530930631,
+        "vote_sum": 5,
+        "vote_count": 5,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077226611-Desert-well-indicator-for-lush-caves/comments/360014493051",
+        "created_at": "2021-03-01T13:21:12Z",
+        "updated_at": "2021-11-20T04:31:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077226611/comments/360014493051.json",
+        "post_id": 360077226611,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4414142057357,
+        "body": "<p>dude i have found azula trees underwater their is no such thing as \"not fitting into\"</p>",
+        "author_id": 1902581630007,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077226611-Desert-well-indicator-for-lush-caves/comments/4414142057357",
+        "created_at": "2021-11-20T02:10:22Z",
+        "updated_at": "2021-11-20T02:10:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077226611/comments/4414142057357.json",
+        "post_id": 360077226611,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077312872,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014446191,
+        "body": "<p>They want to create a balance between Cabe Exploring and Stripmining, Diamonds were extremely abundant and reducing the vein sizes of it would greatly affect Stripmining as a a strategy so the reducal in air exposure helps to balance things out</p>",
+        "author_id": 393530930631,
+        "vote_sum": 7,
+        "vote_count": 7,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077312872-Do-not-keep-reduced-air-exposure-for-diamonds/comments/360014446191",
+        "created_at": "2021-02-26T14:10:36Z",
+        "updated_at": "2021-09-17T07:57:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077312872/comments/360014446191.json",
+        "post_id": 360077312872,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014534452,
+        "body": "<p>Diamonds being too easy to find devalues them. Ancient debris is NEVER exposed to air unless there's a bug</p>",
+        "author_id": 408200849071,
+        "vote_sum": 4,
+        "vote_count": 4,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077312872-Do-not-keep-reduced-air-exposure-for-diamonds/comments/360014534452",
+        "created_at": "2021-02-26T22:03:38Z",
+        "updated_at": "2021-09-17T07:57:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077312872/comments/360014534452.json",
+        "post_id": 360077312872,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014534692,
+        "body": "<p>Would you rather have them be very common?</p>",
+        "author_id": 409836337151,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077312872-Do-not-keep-reduced-air-exposure-for-diamonds/comments/360014534692",
+        "created_at": "2021-02-26T22:27:57Z",
+        "updated_at": "2021-02-27T04:49:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077312872/comments/360014534692.json",
+        "post_id": 360077312872,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4409392480269,
+        "body": "<p>I don't want diamonds \"more common\".&nbsp; I want the game to DISCOURAGE boring strip mining, not encourage it.</p>",
+        "author_id": 1901698692907,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077312872-Do-not-keep-reduced-air-exposure-for-diamonds/comments/4409392480269",
+        "created_at": "2021-09-16T14:04:39Z",
+        "updated_at": "2021-09-16T19:39:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077312872/comments/4409392480269.json",
+        "post_id": 360077312872,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4417530819341,
+        "body": "<p>Man, I remember during the snapshots (at least for bedrock) it was better to go caving than to go strip mining. Now it's back to strip mining being better. Strip mining was the whole reason I never went mining in the first place, and now it's back to being awful. It was the whole reason I always used Yung's Better Caves in my modpacks. There's no mod to fix this either, making it extra devastating.</p>",
+        "author_id": 1900636755987,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077312872-Do-not-keep-reduced-air-exposure-for-diamonds/comments/4417530819341",
+        "created_at": "2021-12-24T00:00:18Z",
+        "updated_at": "2021-12-24T11:30:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077312872/comments/4417530819341.json",
+        "post_id": 360077312872,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077287892,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014416811,
+        "body": "<p>I agree with this idea, it's a really good idea. You should be able to find extra diamonds in hot biomes, and the suggestions in the post above.&nbsp;</p>",
+        "author_id": 386847087111,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077287892-make-some-biomes-have-different-quantities-of-ores/comments/360014416811",
+        "created_at": "2021-02-24T13:03:52Z",
+        "updated_at": "2021-02-25T08:37:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077287892/comments/360014416811.json",
+        "post_id": 360077287892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014491092,
+        "body": "<p>No, because cave biomes are supposed to be completely independent from above-ground ones. Instead, ores like coal should be found more often based on their cave biome and not the biome above it</p>",
+        "author_id": 398830310812,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077287892-make-some-biomes-have-different-quantities-of-ores/comments/360014491092",
+        "created_at": "2021-02-24T22:41:29Z",
+        "updated_at": "2021-02-25T00:41:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077287892/comments/360014491092.json",
+        "post_id": 360077287892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

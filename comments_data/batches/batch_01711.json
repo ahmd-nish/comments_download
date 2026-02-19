@@ -1,0 +1,787 @@
+[
+  {
+    "post_id": 9107289362573,
+    "expected_comment_count": 1,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 9699540291085,
+        "body": "<p>pretty sure wsserver command was removed because websockets are outdated</p>",
+        "author_id": 369537799291,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/9107289362573-Allow-wsserver-and-connect-commands-on-realms/comments/9699540291085",
+        "created_at": "2022-10-06T18:44:32Z",
+        "updated_at": "2022-10-07T13:39:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/9107289362573/comments/9699540291085.json",
+        "post_id": 9107289362573,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 42534303286797,
+        "body": "<p>私も, Discord等との接続が可能になったりすることがRealmsで出来るのはとても良いことだと思います.\n<br />I Think so, if i can Discord Chat to Minecraft Realms chat connecting, then very Good Feature.</p>",
+        "author_id": 26194379372301,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/9107289362573-Allow-wsserver-and-connect-commands-on-realms/comments/42534303286797",
+        "created_at": "2026-01-09T02:26:16Z",
+        "updated_at": "2026-01-09T02:26:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/9107289362573/comments/42534303286797.json",
+        "post_id": 9107289362573,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 6466086325261,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 6509530194061,
+        "body": "<p>This 100% this. Releasing preview/beta versions to the official download source of the BDS software seems like a bad idea and is already causing me headaches 😒</p>",
+        "author_id": 395810856691,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6466086325261-Preview-versions-of-the-Dedicated-Server-should-be-on-a-separate-web-page/comments/6509530194061",
+        "created_at": "2022-05-27T09:43:51Z",
+        "updated_at": "2022-05-27T14:15:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6466086325261/comments/6509530194061.json",
+        "post_id": 6466086325261,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4407971696781,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4418178274957,
+        "body": "<p>No all of the editions and platforms </p>",
+        "author_id": 422812635532,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4407971696781-Join-server/comments/4418178274957",
+        "created_at": "2021-12-30T18:14:41Z",
+        "updated_at": "2021-12-30T20:47:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4407971696781/comments/4418178274957.json",
+        "post_id": 4407971696781,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7112652880141,
+        "body": "<p>40</p>",
+        "author_id": 7112661075597,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4407971696781-Join-server/comments/7112652880141",
+        "created_at": "2022-06-22T10:27:58Z",
+        "updated_at": "2022-06-22T10:28:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4407971696781/comments/7112652880141.json",
+        "post_id": 4407971696781,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7112650259597,
+        "body": "<p>1</p>",
+        "author_id": 7112661075597,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4407971696781-Join-server/comments/7112650259597",
+        "created_at": "2022-06-22T10:28:11Z",
+        "updated_at": "2022-06-22T10:28:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4407971696781/comments/7112650259597.json",
+        "post_id": 4407971696781,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7112653794573,
+        "body": "<p>2\n</p>",
+        "author_id": 7112661075597,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4407971696781-Join-server/comments/7112653794573",
+        "created_at": "2022-06-22T10:28:28Z",
+        "updated_at": "2022-06-22T10:28:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4407971696781/comments/7112653794573.json",
+        "post_id": 4407971696781,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078064072,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015851612,
+        "body": "<p>Install luckyperms plugin... You can setup security levels, it takes a while to get used to, but it does help!</p>",
+        "author_id": 394479232471,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078064072-Minecraft-Bedrock-Realm-Operator-Permissions/comments/360015851612",
+        "created_at": "2021-06-04T21:27:11Z",
+        "updated_at": "2021-06-04T21:28:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078064072/comments/360015851612.json",
+        "post_id": 360078064072,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077562951,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 6823931909645,
+        "body": "<p>I think you should be able to change the way you log in in the settings</p>",
+        "author_id": 6823812748813,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077562951-Easy-login-and-servers-for-beta/comments/6823931909645",
+        "created_at": "2022-06-10T18:59:19Z",
+        "updated_at": "2022-06-10T18:59:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077562951/comments/6823931909645.json",
+        "post_id": 360077562951,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077570792,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014741451,
+        "body": "<p>I kind of agree with this, most servers can host this on the same world and server, it is a bit annoying to buy to realms, and not being able to travel between them, as servers you can do (/transferserver: Hive) and it would work, it would be fun to add minigame sections and other things, where cheats would be allowed and a survival world where it wouldn't.</p>",
+        "author_id": 405188999852,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077570792-Realms-should-come-with-3-worlds-you-can-travel-between-instead-of-1-world/comments/360014741451",
+        "created_at": "2021-04-02T17:49:05Z",
+        "updated_at": "2021-04-02T18:49:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077570792/comments/360014741451.json",
+        "post_id": 360077570792,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077192171,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360016767491,
+        "body": "<p>Coordinates should not be considered a cheat as x is equal to latitude, y is equal to altitude, abd z is equal o longitude, these are directions used in real life so they need to be allowed in the Realms play.</p>",
+        "author_id": 390649913792,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077192171-Coordinates-on-realms/comments/360016767491",
+        "created_at": "2021-06-14T02:52:58Z",
+        "updated_at": "2021-06-14T03:43:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077192171/comments/360016767491.json",
+        "post_id": 360077192171,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075863211,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 31162547796365,
+        "body": "<p>I agree! Because it would be nicer to upload the resource packs directly to a folder on the Minecraft server instead of uploading them to an extra cloud storage provider like Onedrive, Google Drive and co.<br>Because each time a new resource pack file is uploaded to the cloud storage, the link to the file in the Server.properties file may need to be adjusted.<br>Or: since it is only possible to use 1 resource pack at a time via the server in this way, you have to combine all the resource packs you have into one and this is sometimes very time-consuming and time-consuming.</p>\n<p>I would also be in favor of all resource packs that the server should distribute to the client for e.g. DataPacks, should be stored in a folder on the server side and the server then transfers them to the game clients.</p>",
+        "author_id": 373445233352,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075863211-Recource-Pack-Folder-on-Servers/comments/31162547796365",
+        "created_at": "2024-10-18T10:17:07Z",
+        "updated_at": "2024-10-18T21:57:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075863211/comments/31162547796365.json",
+        "post_id": 360075863211,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075800651,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8127393603341,
+        "body": "<p>Cvs zai hardcore</p>\n<p>Mode</p>\n<p>&nbsp;</p>",
+        "author_id": 8127265424013,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075800651-Hardcore-in-realms/comments/8127393603341",
+        "created_at": "2022-08-02T18:47:23Z",
+        "updated_at": "2022-08-02T18:48:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075800651/comments/8127393603341.json",
+        "post_id": 360075800651,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074951912,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014215632,
+        "body": "<p>Joey</p>",
+        "author_id": 410319545571,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074951912-Games-to-add-to-servers/comments/360014215632",
+        "created_at": "2021-01-29T05:16:21Z",
+        "updated_at": "2021-01-29T05:16:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074951912/comments/360014215632.json",
+        "post_id": 360074951912,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014540732,
+        "body": "<p>Hola</p>\n<p>&nbsp;</p>",
+        "author_id": 411861430932,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074951912-Games-to-add-to-servers/comments/360014540732",
+        "created_at": "2021-02-28T02:38:11Z",
+        "updated_at": "2021-02-28T02:38:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074951912/comments/360014540732.json",
+        "post_id": 360074951912,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360061058671,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011404171,
+        "body": "<p>this would be great as i dont want to have to go onto my server every time i want to see who is online</p>",
+        "author_id": 399680968892,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360061058671-Add-Query-to-Bedrock-Ubuntu/comments/360011404171",
+        "created_at": "2020-07-17T10:01:30Z",
+        "updated_at": "2020-07-17T10:01:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360061058671/comments/360011404171.json",
+        "post_id": 360061058671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013661352,
+        "body": "<p>Yes, I need that too!</p>",
+        "author_id": 407176464271,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360061058671-Add-Query-to-Bedrock-Ubuntu/comments/360013661352",
+        "created_at": "2020-11-30T04:38:22Z",
+        "updated_at": "2020-11-30T05:06:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360061058671/comments/360013661352.json",
+        "post_id": 360061058671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360054955312,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010256571,
+        "body": "<p>Yeah, I have this type of script on my server on ubuntu. But the issue is that the server won't understand when it's time to crash. So the server just keeps running even with having 0 tick under like 10 minutes. :/</p>",
+        "author_id": 378962063271,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054955312-The-function-of-automatically-raising-the-server-after-a-failure/comments/360010256571",
+        "created_at": "2020-04-23T15:16:37Z",
+        "updated_at": "2020-04-23T16:50:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054955312/comments/360010256571.json",
+        "post_id": 360054955312,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011174671,
+        "body": "<p>Hello, i Have a big problem on Minecraft, as soon as I go to my server it loads everythings is normal until the chunks do not appear and I also have an error message, is this normal ? If yes, please correct it as.</p>\n<p>&nbsp;</p>",
+        "author_id": 399855393072,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054955312-The-function-of-automatically-raising-the-server-after-a-failure/comments/360011174671",
+        "created_at": "2020-06-29T17:00:07Z",
+        "updated_at": "2020-07-01T11:29:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054955312/comments/360011174671.json",
+        "post_id": 360054955312,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043494672,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005393192,
+        "body": "<p>Clarified subject to help search results.</p>\n<p>Thanks for your contribution.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043494672--Realms-Changing-World-Preferences/comments/360005393192",
+        "created_at": "2019-04-25T21:09:03Z",
+        "updated_at": "2019-04-25T21:09:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043494672/comments/360005393192.json",
+        "post_id": 360043494672,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360028795772,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006911971,
+        "body": "<p>What if they start building exactly where you are building. When you update it, will their structure be gone?</p>",
+        "author_id": 384696448712,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360028795772-Updating-world/comments/360006911971",
+        "created_at": "2019-08-06T21:07:31Z",
+        "updated_at": "2019-08-06T21:07:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360028795772/comments/360006911971.json",
+        "post_id": 360028795772,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 41064794765581,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41462598837517,
+        "body": "<p>i want realms free i lost my old realm with feelingsavvy</p>",
+        "author_id": 37830204422285,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41064794765581-Make-realms-free-please/comments/41462598837517",
+        "created_at": "2025-11-27T01:37:30Z",
+        "updated_at": "2025-11-27T01:37:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41064794765581/comments/41462598837517.json",
+        "post_id": 41064794765581,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41736043820173,
+        "body": "<p>YESSS!!! I have been dying to play with my friends!!!</p>",
+        "author_id": 41736025772557,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41064794765581-Make-realms-free-please/comments/41736043820173",
+        "created_at": "2025-12-07T23:40:08Z",
+        "updated_at": "2025-12-07T23:40:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41064794765581/comments/41736043820173.json",
+        "post_id": 41064794765581,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 36016463501709,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36016485932941,
+        "body": "<p>pls vote on this. We made a realm for my workplace, and it's kind of hard to play with everyone when there's only 10 spots</p>",
+        "author_id": 405059790631,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36016463501709-Bedrock-realms-size/comments/36016485932941",
+        "created_at": "2025-04-22T02:36:46Z",
+        "updated_at": "2025-04-23T00:40:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36016463501709/comments/36016485932941.json",
+        "post_id": 36016463501709,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37771677682061,
+        "body": "<p>I don't know where you found that information. Java realms only let 10 people + the owner join at once.</p>",
+        "author_id": 7114803169421,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36016463501709-Bedrock-realms-size/comments/37771677682061",
+        "created_at": "2025-07-02T11:59:43Z",
+        "updated_at": "2025-07-04T13:42:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36016463501709/comments/37771677682061.json",
+        "post_id": 36016463501709,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38633041915021,
+        "body": "<p>I agree I would want at least a 20+ realm hosted by Minecraft and not some other provider</p>",
+        "author_id": 38632742776717,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36016463501709-Bedrock-realms-size/comments/38633041915021",
+        "created_at": "2025-08-07T00:51:30Z",
+        "updated_at": "2025-08-07T19:53:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36016463501709/comments/38633041915021.json",
+        "post_id": 36016463501709,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 34508025284877,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35718733361421,
+        "body": "<p>I agree. Ive been trying to figure out if this would be coming</p>",
+        "author_id": 30942108341645,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/34508025284877-Be-able-to-see-Realms-Stories-outside-of-the-game-with-a-web-portal/comments/35718733361421",
+        "created_at": "2025-04-09T18:03:31Z",
+        "updated_at": "2025-04-09T19:11:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/34508025284877/comments/35718733361421.json",
+        "post_id": 34508025284877,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 22455279447437,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 23721602778637,
+        "body": "<p>Just use /setmaxplayers. Did you ever seen a tutorial</p>",
+        "author_id": 23721594148109,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/22455279447437-let-bedrock-players-join-more-than-5-servers/comments/23721602778637",
+        "created_at": "2024-02-01T10:38:33Z",
+        "updated_at": "2024-02-01T10:38:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/22455279447437/comments/23721602778637.json",
+        "post_id": 22455279447437,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 9007707504397,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 9699661470093,
+        "body": "<p>hear hear! it’s kinda ridiculous that mojang stopped trusting us players to moderate our chat like it was for the past idk 13 maybe years\n<br />i don’t even use chat that much anymore i just use xbox chat tbh</p>",
+        "author_id": 369537799291,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/9007707504397-Revert-Private-Server-Realm-Chat-Restrictions/comments/9699661470093",
+        "created_at": "2022-10-06T18:48:49Z",
+        "updated_at": "2022-10-07T13:45:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/9007707504397/comments/9699661470093.json",
+        "post_id": 9007707504397,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7563889845645,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35241653822605,
+        "body": "<p>this should be changed, it's abused too much.</p>",
+        "author_id": 35241646789773,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7563889845645-Ideas-to-change-improve-the-reporting-system/comments/35241653822605",
+        "created_at": "2025-03-23T04:17:09Z",
+        "updated_at": "2025-03-23T04:17:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7563889845645/comments/35241653822605.json",
+        "post_id": 7563889845645,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4407397786381,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5424178021517,
+        "body": "<ol>\n<li>wwwwwwwww wks</li>\n</ol>",
+        "author_id": 5424175729933,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4407397786381--Resume-download-for-Minecraft-Java-Edition-Realms/comments/5424178021517",
+        "created_at": "2022-04-09T13:53:09Z",
+        "updated_at": "2022-04-09T13:53:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4407397786381/comments/5424178021517.json",
+        "post_id": 4407397786381,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4405726879117,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 9547691778445,
+        "body": "<p>by saying platform restriction people can use hacks to spoof their platforms which it will be impossible to defeat this&nbsp;</p>",
+        "author_id": 9520438508685,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4405726879117-An-idea-to-prevent-hackers-on-Realms/comments/9547691778445",
+        "created_at": "2022-09-30T07:28:59Z",
+        "updated_at": "2022-09-30T07:29:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4405726879117/comments/9547691778445.json",
+        "post_id": 4405726879117,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078169872,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015656392,
+        "body": "<p>Really? It costs them money to get the models in the resource packs? But it's so easy to make them, just use Block Bench or something...</p>",
+        "author_id": 412314468832,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078169872-Resourcepack-protection/comments/360015656392",
+        "created_at": "2021-05-28T05:17:13Z",
+        "updated_at": "2021-05-28T12:07:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078169872/comments/360015656392.json",
+        "post_id": 360078169872,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 13456263664781,
+        "body": "<p>yes we should choose whether or not we want to share a resource pack, a lot of server closes because too much financial investment and personal investment to finally have our creations stolen, it's disgusting.</p>\n<p>minecraft evolves it is normal to add protections out of respect for the creators.</p>",
+        "author_id": 13456112942989,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078169872-Resourcepack-protection/comments/13456263664781",
+        "created_at": "2023-02-27T14:53:05Z",
+        "updated_at": "2023-05-09T22:38:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078169872/comments/13456263664781.json",
+        "post_id": 360078169872,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077703472,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015431732,
+        "body": "<p>Now yes, I can understand why you may be upset if someone hacks on you, but in some communities, hacking is part of the experience(anarchy servers) and in that case, banning them would HURT the community more than help them, so honestly, it should stay how it is now, dont use it on servers that dont allow it but if the server says its ok, then let em hack as much as they want(since its not against server rules) and on realms, maybe have univ ban be REPORT based, so that way, e.g, the realm host allows duping, well, if someone dupes, then, its allowed, dont ban em, if the person allows cheating, let em cheat, anarchy realms shouldnt be banned, since 1st off, realms are often used by a group of friends, who agree on a set of their own rules, banning cheating on realms(despite what the owner says) is kinda a jerk move</p>",
+        "author_id": 407015408492,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077703472-Blocking-Modified-Clients/comments/360015431732",
+        "created_at": "2021-05-07T13:13:27Z",
+        "updated_at": "2021-05-07T13:17:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077703472/comments/360015431732.json",
+        "post_id": 360077703472,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 18078276685837,
+        "body": "<p>What about accessibility? Blocking modifications could make the game less accessible.</p>",
+        "author_id": 381232524891,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077703472-Blocking-Modified-Clients/comments/18078276685837",
+        "created_at": "2023-07-31T12:06:59Z",
+        "updated_at": "2023-07-31T12:06:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077703472/comments/18078276685837.json",
+        "post_id": 360077703472,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077548032,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014738512,
+        "body": "<p>I think being unable to return to the overworld and stuck in survival is punishment enough, so they should simply be teleported to the nether and said conditions would be applied.</p>\n<p>The whole item loss &amp; dungeon thing seems difficult and unnecessary.</p>",
+        "author_id": 399265256131,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077548032-Give-admins-the-ability-to-Exile-troublesome-players-to-the-Nether/comments/360014738512",
+        "created_at": "2021-03-25T02:44:02Z",
+        "updated_at": "2021-03-25T05:19:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077548032/comments/360014738512.json",
+        "post_id": 360077548032,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014805912,
+        "body": "<p>this would be more of an \"SMP thing\", I think you can do it with commands but would inflict with nether hubs, you could do this. Get a repeating command block and place it in the nether, then power it with a lever and set it too needs Redstone, then type /tp (player_name) and put (player name) after it, and it should loom like this /tp RealUnstopp3ble RealUnstopp3ble &nbsp;, now when the player gets on you will just have to tp the to the command block and activate it, now they won't be able to leave, if you are afraid of other people breaking the lever, you can set it to always active.</p>",
+        "author_id": 405188999852,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077548032-Give-admins-the-ability-to-Exile-troublesome-players-to-the-Nether/comments/360014805912",
+        "created_at": "2021-04-02T17:57:52Z",
+        "updated_at": "2021-04-02T19:17:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077548032/comments/360014805912.json",
+        "post_id": 360077548032,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014741651,
+        "body": "<p>yes, Haruneko125, but you are forgetting one thing, they can use those items to kill other players in the realms, or be just as mischievous in the realm, it would defeat the whole purpose of exile.</p>",
+        "author_id": 405188999852,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077548032-Give-admins-the-ability-to-Exile-troublesome-players-to-the-Nether/comments/360014741651",
+        "created_at": "2021-04-02T18:00:41Z",
+        "updated_at": "2021-04-02T19:09:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077548032/comments/360014741651.json",
+        "post_id": 360077548032,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

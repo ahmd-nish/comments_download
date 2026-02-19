@@ -1,0 +1,907 @@
+[
+  {
+    "post_id": 12550900444429,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 12565156270477,
+        "body": "<p>And people armour.</p>",
+        "author_id": 416461943171,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12550900444429-Copper-horse-armor/comments/12565156270477",
+        "created_at": "2023-01-26T08:27:02Z",
+        "updated_at": "2023-01-26T08:27:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12550900444429/comments/12565156270477.json",
+        "post_id": 12550900444429,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 12539361281293,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 12544738284557,
+        "body": "<p>When redstone activated, it stays on activated mode and emit light, t<span class=\"HwtZe\" lang=\"en\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">his can be applied to redstone-inlayed armor, which means the redstone-inlayed armor can be activate (or powered so can say) by the activated (powered) redstone, then the powered redstone-inlayed armor can activate (power) the other redstones or redstone tools when player touch the redstone or the redstone tools, for example, player can sit in the minecart and activate the powered rail when minecart pass the powered rail, player can also run into a redstone machine with redstone-inlayed armor to test the redstone \"wires\" and find the problem. Just like redstone torch, when the powered redstone-inlayed armor get powered by redstone again, it will become uncharged, so player can freely switiched the armor into uncharged no light mode</span></span></span></p>\n<p>&nbsp;</p>",
+        "author_id": 1903118550967,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12539361281293-Special-uses-for-each-ore-material-when-being-inlayed-with-armor-trims/comments/12544738284557",
+        "created_at": "2023-01-25T15:35:22Z",
+        "updated_at": "2023-03-23T15:05:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12539361281293/comments/12544738284557.json",
+        "post_id": 12539361281293,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 12553147397517,
+        "body": "<p>There needs to be a lot more variation here. Iron and diamond&nbsp; being identical just won't work, the lapis lazuli and nether quartz are different, but could still have MORE uses like increasing the amount mending will fix your armor per xp orb. I also noticed there is no one for giving the armor more durability, which would be both cool and easy to program. Redstone and amethyst though, they just seem completely useless and need to be better</p>",
+        "author_id": 12552005081485,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12539361281293-Special-uses-for-each-ore-material-when-being-inlayed-with-armor-trims/comments/12553147397517",
+        "created_at": "2023-01-25T19:55:51Z",
+        "updated_at": "2023-03-24T19:58:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12539361281293/comments/12553147397517.json",
+        "post_id": 12539361281293,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 12578200235405,
+        "body": "<p>bruh I was seconds from posting something exactly like this, though I don't know about anything increasing damage reduction, or anything that is already resolved by an enchantment. was gonna say this:</p>\n<p>Iron - reduces damage dealt by head colisions, such as anvils and falling stalagtites, or idk reduces hunger usage? idk</p>\n<p>Gold - wont be attacked by piglins</p>\n<p>Copper - reduce lightning damage, as well as that of guardian lasers</p>\n<p>Diamond - idk, reduces void damage for all i know</p>\n<p>Netherite - knockback resistance and/or item doesn't burn in lava</p>\n<p>Lapis lazuli - increases experience picked up while wearing this</p>\n<p>Nether Quartz - reduces suffocation damage or freeze damage idk</p>\n<p>Emerald - gives you a better reputation around villages, and iron golems will give you flowers :)</p>\n<p>Amethyst - reduce the damage of poisons and harmful potion effects, or just glows purple(the glow ink kind of glow)</p>\n<p>Redstone - glows red (the glow squid kind of glow) while standing on powered redstone</p>",
+        "author_id": 4590042712077,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12539361281293-Special-uses-for-each-ore-material-when-being-inlayed-with-armor-trims/comments/12578200235405",
+        "created_at": "2023-01-26T17:42:49Z",
+        "updated_at": "2023-03-14T18:26:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12539361281293/comments/12578200235405.json",
+        "post_id": 12539361281293,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 12768152615949,
+        "body": "<p>They’ve already stated they will not be added uses to armour trims beyond cosmetic differences</p>",
+        "author_id": 401038146951,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12539361281293-Special-uses-for-each-ore-material-when-being-inlayed-with-armor-trims/comments/12768152615949",
+        "created_at": "2023-02-02T02:13:05Z",
+        "updated_at": "2023-02-02T02:13:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12539361281293/comments/12768152615949.json",
+        "post_id": 12539361281293,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 12439077587213,
+    "expected_comment_count": 6,
+    "actual_comment_count": 6,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 12447518100493,
+        "body": "<p>It's more proper to call them Native Americans.  I think this idea feels too real world and isn't Minecrafty enough.  </p>",
+        "author_id": 8944290630797,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12439077587213-Indians/comments/12447518100493",
+        "created_at": "2023-01-22T02:48:40Z",
+        "updated_at": "2023-06-25T17:29:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12439077587213/comments/12447518100493.json",
+        "post_id": 12439077587213,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 12460720320141,
+        "body": "<p>Natives would be nice to add to Minecraft, but not like this because that was just insulting and offensive, so to fix that the Natives will have different customs based around what they typically do (simplified in a Minecraft manner) in different styles and ways while also having a natural feel to them.</p>",
+        "author_id": 398956379872,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12439077587213-Indians/comments/12460720320141",
+        "created_at": "2023-01-22T21:35:02Z",
+        "updated_at": "2023-05-27T17:13:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12439077587213/comments/12460720320141.json",
+        "post_id": 12439077587213,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 13003059173133,
+        "body": "<p>I think its a good idea. It could be a mix between villagers and pillagers, so they have villages with tipis but they will attack you. Maybe you can get friends with them and then you can trade with them.</p>",
+        "author_id": 409905075652,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12439077587213-Indians/comments/13003059173133",
+        "created_at": "2023-02-10T11:43:27Z",
+        "updated_at": "2023-06-25T17:30:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12439077587213/comments/13003059173133.json",
+        "post_id": 12439077587213,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 14669537129485,
+        "body": "<p>To be frank, this is super racist. No thank you!</p>",
+        "author_id": 14232992873357,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12439077587213-Indians/comments/14669537129485",
+        "created_at": "2023-04-08T08:44:06Z",
+        "updated_at": "2023-05-19T09:35:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12439077587213/comments/14669537129485.json",
+        "post_id": 12439077587213,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 16193242891021,
+        "body": "<p>All of these terms are acceptable. Both Indians and Native Americans are fine. There is nothing racist about it. Including an Indian like creature could be super cool with its own unique customs, weapons, lifestyle, and art. They could use fish similar to bonemeal when gardening and they could have cool masks. They could be friendly or hostile.</p>",
+        "author_id": 11165279061645,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12439077587213-Indians/comments/16193242891021",
+        "created_at": "2023-05-27T17:12:30Z",
+        "updated_at": "2023-06-25T17:31:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12439077587213/comments/16193242891021.json",
+        "post_id": 12439077587213,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 27648318405773,
+        "body": "<p>Neat idea, but I think villagers and illagers already fill that niche. It would be cool to see some more American inspiration around Minecraft; a lot of stuff like teepees, feather decorations, and wattle/stick-based houses are missing. Plus, the tools and animals in the game are very old-world-centric</p>",
+        "author_id": 27642070929165,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12439077587213-Indians/comments/27648318405773",
+        "created_at": "2024-06-17T19:13:49Z",
+        "updated_at": "2024-06-18T18:20:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12439077587213/comments/27648318405773.json",
+        "post_id": 12439077587213,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 11868005612301,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 11867964839949,
+        "body": "<p>Amethest needs more uses</p>",
+        "author_id": 11844680493325,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11868005612301-Amethest-armor-and-tools/comments/11867964839949",
+        "created_at": "2022-12-31T09:23:46Z",
+        "updated_at": "2023-01-04T14:09:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11868005612301/comments/11867964839949.json",
+        "post_id": 11868005612301,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 11888294384141,
+        "body": "<p>amethest armor could be like gold armor - not very durable, but easy to enchant</p>",
+        "author_id": 11888163236365,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11868005612301-Amethest-armor-and-tools/comments/11888294384141",
+        "created_at": "2023-01-01T22:55:37Z",
+        "updated_at": "2023-01-01T22:55:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11868005612301/comments/11888294384141.json",
+        "post_id": 11868005612301,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 11911762691981,
+        "body": "<p>Too fragile and already has exclusive use. No point in another mere gear set.</p>",
+        "author_id": 419344921172,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11868005612301-Amethest-armor-and-tools/comments/11911762691981",
+        "created_at": "2023-01-03T00:51:53Z",
+        "updated_at": "2023-01-05T20:50:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11868005612301/comments/11911762691981.json",
+        "post_id": 11868005612301,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 11960363123213,
+        "body": "<p>Yeah, maybe there could be other, more exclusive uses, like making mirrors? or embeding in blocks for a decreative use.</p>",
+        "author_id": 11888163236365,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11868005612301-Amethest-armor-and-tools/comments/11960363123213",
+        "created_at": "2023-01-04T14:09:04Z",
+        "updated_at": "2023-01-04T14:09:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11868005612301/comments/11960363123213.json",
+        "post_id": 11868005612301,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38703400890381,
+        "body": "<p>We should have amethest armor that gives slight boosts and the weapons should be on par with diamonds or slightly lower</p>",
+        "author_id": 38703399730957,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11868005612301-Amethest-armor-and-tools/comments/38703400890381",
+        "created_at": "2025-08-10T02:48:05Z",
+        "updated_at": "2025-08-10T02:48:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11868005612301/comments/38703400890381.json",
+        "post_id": 11868005612301,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 11540150811917,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 12533497442957,
+        "body": "<p>it would make more sense if they were found in bastion chests because the piglins like gold</p>",
+        "author_id": 1904777907027,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11540150811917-Gold-Buckets-In-Desert-Temples/comments/12533497442957",
+        "created_at": "2023-01-25T02:24:56Z",
+        "updated_at": "2023-01-25T02:24:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11540150811917/comments/12533497442957.json",
+        "post_id": 11540150811917,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 11502623878157,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 11511682639885,
+        "body": "<p>Pouches. And on llamas too, chests should not work.</p>",
+        "author_id": 417900420052,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11502623878157-The-ability-to-put-the-chest-on-the-camel/comments/11511682639885",
+        "created_at": "2022-12-16T17:20:08Z",
+        "updated_at": "2022-12-16T17:20:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11502623878157/comments/11511682639885.json",
+        "post_id": 11502623878157,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 11535660355597,
+        "body": "<p>They rejected this because it would be unbalanced. Every mount has their own pros and cons.</p>",
+        "author_id": 419344921172,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11502623878157-The-ability-to-put-the-chest-on-the-camel/comments/11535660355597",
+        "created_at": "2022-12-17T15:57:45Z",
+        "updated_at": "2022-12-17T15:57:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11502623878157/comments/11535660355597.json",
+        "post_id": 11502623878157,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 11149726883853,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 11156081809549,
+        "body": "<p>Also, it is worth removing the \"mob traps\" function for boats.</p>",
+        "author_id": 416461943171,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11149726883853-Change-Raft-Crafting/comments/11156081809549",
+        "created_at": "2022-12-04T10:26:10Z",
+        "updated_at": "2022-12-11T12:43:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11149726883853/comments/11156081809549.json",
+        "post_id": 11149726883853,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 11304434683917,
+        "body": "<p>How do you expect to transport mobs when they’re as uncooperative as they are?</p>",
+        "author_id": 423562415371,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11149726883853-Change-Raft-Crafting/comments/11304434683917",
+        "created_at": "2022-12-08T23:17:33Z",
+        "updated_at": "2022-12-08T23:17:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11149726883853/comments/11304434683917.json",
+        "post_id": 11149726883853,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 11011129484557,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 11039211186061,
+        "body": "<p>I agree with \"some\", but very little (like the mob variants). Most of MCD content will only ever be exclusive to its own game.</p>",
+        "author_id": 419344921172,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11011129484557-Some-content-from-MC-Dungeons/comments/11039211186061",
+        "created_at": "2022-11-30T19:34:11Z",
+        "updated_at": "2022-12-16T09:45:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11011129484557/comments/11039211186061.json",
+        "post_id": 11011129484557,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10945279586957,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 12998926026637,
+        "body": "<p>HUH?</p>",
+        "author_id": 12997501218445,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10945279586957-Make-baby-zombie-pixel-consistent/comments/12998926026637",
+        "created_at": "2023-02-10T04:28:49Z",
+        "updated_at": "2023-02-10T04:28:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10945279586957/comments/12998926026637.json",
+        "post_id": 10945279586957,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10891209039501,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 11516929390221,
+        "body": "<p>The pumpkin head breaks apart once the iron golem is built.</p>",
+        "author_id": 383961756051,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10891209039501-Iron-Golems-dropping-carved-pumpkins-too/comments/11516929390221",
+        "created_at": "2022-12-16T20:04:11Z",
+        "updated_at": "2022-12-16T20:10:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10891209039501/comments/11516929390221.json",
+        "post_id": 10891209039501,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10873191167757,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 11517066333709,
+        "body": "<p>Piglin heads should be obtained both ways to stay renewable.</p>",
+        "author_id": 383961756051,
+        "vote_sum": 4,
+        "vote_count": 4,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10873191167757-Piglin-s-head-being-a-looting-in-nether-fortress/comments/11517066333709",
+        "created_at": "2022-12-16T20:07:15Z",
+        "updated_at": "2023-08-13T15:31:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10873191167757/comments/11517066333709.json",
+        "post_id": 10873191167757,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 12999126053005,
+        "body": "<p>Yes I agree with (both) of you.</p>",
+        "author_id": 12997501218445,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10873191167757-Piglin-s-head-being-a-looting-in-nether-fortress/comments/12999126053005",
+        "created_at": "2023-02-10T04:53:31Z",
+        "updated_at": "2023-08-13T15:31:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10873191167757/comments/12999126053005.json",
+        "post_id": 10873191167757,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10762619013133,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 10779537951501,
+        "body": "<p>I can't tell if this is good or bad. </p>",
+        "author_id": 10779133000589,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10762619013133-Deep-Dark-Nether/comments/10779537951501",
+        "created_at": "2022-11-21T05:15:33Z",
+        "updated_at": "2022-11-21T05:15:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10762619013133/comments/10779537951501.json",
+        "post_id": 10762619013133,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 10940647594125,
+        "body": "<p>The nether doesnt need sculk to be scary</p>",
+        "author_id": 1902554739587,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10762619013133-Deep-Dark-Nether/comments/10940647594125",
+        "created_at": "2022-11-27T11:28:12Z",
+        "updated_at": "2024-03-27T21:26:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10762619013133/comments/10940647594125.json",
+        "post_id": 10762619013133,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41909301837581,
+        "body": "<p>&nbsp;You should add a new boss to</p>",
+        "author_id": 41909023537933,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10762619013133-Deep-Dark-Nether/comments/41909301837581",
+        "created_at": "2025-12-13T15:32:22Z",
+        "updated_at": "2025-12-13T15:32:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10762619013133/comments/41909301837581.json",
+        "post_id": 10762619013133,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10680309601805,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 15555320824077,
+        "body": "<p>Op</p>",
+        "author_id": 15555323384205,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10680309601805-ArmorStands-with-Arms-1-20-Java-Edition/comments/15555320824077",
+        "created_at": "2023-05-07T05:07:38Z",
+        "updated_at": "2023-05-07T05:07:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10680309601805/comments/15555320824077.json",
+        "post_id": 10680309601805,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10671960636557,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 12558421647629,
+        "body": "<p>I love this! I miss the old hurt sound so much and I would love an Easter egg for us old players! Great idea :D</p>",
+        "author_id": 398644043651,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10671960636557-Make-the-noteblocks-with-a-Steve-head-on-top-play-the-old-hurt-sound/comments/12558421647629",
+        "created_at": "2023-01-25T23:08:25Z",
+        "updated_at": "2023-03-24T21:21:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10671960636557/comments/12558421647629.json",
+        "post_id": 10671960636557,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10633991082125,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 10635037764621,
+        "body": "<p>Villagers are pacifists though; that is what makes them different from other mobs. That is why iron golems exist.&nbsp;</p>",
+        "author_id": 419991586432,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10633991082125-Villagers-warriors-for-minecraft-1-20/comments/10635037764621",
+        "created_at": "2022-11-15T01:53:42Z",
+        "updated_at": "2023-03-07T19:51:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10633991082125/comments/10635037764621.json",
+        "post_id": 10633991082125,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 10659326639885,
+        "body": "<p>Defeats the whole purpose of iron golems. This is more of a mod idea (already exists as \"Guard Villagers\").</p>",
+        "author_id": 419344921172,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10633991082125-Villagers-warriors-for-minecraft-1-20/comments/10659326639885",
+        "created_at": "2022-11-16T01:02:02Z",
+        "updated_at": "2023-03-07T19:51:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10633991082125/comments/10659326639885.json",
+        "post_id": 10633991082125,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10589843871885,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 10589882205965,
+        "body": "<p>Also, the textures for the blocks would have to be changed as a 6side stripped bamboo block looks the same as a bamboo plank.</p>\n<p>&nbsp;</p>",
+        "author_id": 1903486539447,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10589843871885-6-sided-block-of-bamboo/comments/10589882205965",
+        "created_at": "2022-11-12T21:24:45Z",
+        "updated_at": "2023-03-07T21:46:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10589843871885/comments/10589882205965.json",
+        "post_id": 10589843871885,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10589124566157,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 13682984962445,
+        "body": "<p>The leaf textures use a tint depending on the biome. The way Mojang does it with the leaves uses 1 tint. Your idea uses 6 tints needed, which could result in the colors getting mixed. Cool idea though.</p>",
+        "author_id": 7930038540429,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10589124566157-Dying-Books-and-the-Chiseled-Bookshelf/comments/13682984962445",
+        "created_at": "2023-03-03T12:04:16Z",
+        "updated_at": "2023-05-11T00:51:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10589124566157/comments/13682984962445.json",
+        "post_id": 10589124566157,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10551960730893,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 10608439387661,
+        "body": "<p>I assume the reason is because the bamboo wood is created manually by the player. Crafting tables are made of wood as well, but they are manually created so they're not in the nature tab. Planks and such are made of wood but not natural, they are a product of human \"ingenuity\" for lack of a better word.</p>",
+        "author_id": 418873283952,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10551960730893-Bamboo-block-should-be-in-Natural-Blocks-like-rest-of-logs/comments/10608439387661",
+        "created_at": "2022-11-14T07:09:25Z",
+        "updated_at": "2022-11-14T07:09:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10551960730893/comments/10608439387661.json",
+        "post_id": 10551960730893,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10514565636365,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 10517312270861,
+        "body": "<p>spit and also kick, which should very powerful, and in all directions, not just from the rear.&nbsp;</p>",
+        "author_id": 423697666412,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10514565636365-Add-camel-predators/comments/10517312270861",
+        "created_at": "2022-11-09T20:55:48Z",
+        "updated_at": "2022-11-24T05:03:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10514565636365/comments/10517312270861.json",
+        "post_id": 10514565636365,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 10708585643149,
+        "body": "<p>Thanks for the votes!</p>",
+        "author_id": 10514308507021,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10514565636365-Add-camel-predators/comments/10708585643149",
+        "created_at": "2022-11-17T19:09:42Z",
+        "updated_at": "2022-11-17T19:09:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10514565636365/comments/10708585643149.json",
+        "post_id": 10514565636365,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10181008700045,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 10192777790605,
+        "body": "<p>Dash length should be based on terrain, not biome. For example, polished, and even more slippery surfaces are more difficult to push off, the same goes for sticky surfaces.</p>",
+        "author_id": 417900420052,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10181008700045-STATS-for-the-Camel-Feedback-Suggestion/comments/10192777790605",
+        "created_at": "2022-10-27T14:57:50Z",
+        "updated_at": "2022-11-14T18:39:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10181008700045/comments/10192777790605.json",
+        "post_id": 10181008700045,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10176463721485,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 14912478331021,
+        "body": "<p>I think this kind of feature would be great, currently enchantment table are almost never used because of villager trading but if we could use chisled bookshelfz to decide what snchanments to get from the table it would become useful again.</p>",
+        "author_id": 378792484232,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10176463721485-Chiseled-bookshelves-having-a-impact-on-enchantement-tables/comments/14912478331021",
+        "created_at": "2023-04-17T12:49:15Z",
+        "updated_at": "2023-05-22T18:01:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10176463721485/comments/14912478331021.json",
+        "post_id": 10176463721485,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38636499128461,
+        "body": "<p>This, where every three books added to a chiseled bookshelf gives it power equal to one normal bookshelf, in addition to some in-game hints for bookshelf power for enchantment tables. Nobody playing this game blind would figure out the bookshelf mechanics.</p>",
+        "author_id": 407238634391,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10176463721485-Chiseled-bookshelves-having-a-impact-on-enchantement-tables/comments/38636499128461",
+        "created_at": "2025-08-07T07:47:21Z",
+        "updated_at": "2025-08-07T20:35:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10176463721485/comments/38636499128461.json",
+        "post_id": 10176463721485,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10149524030733,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 10573457900429,
+        "body": "<p>Aprecio tu idea y espero sea realidad</p>",
+        "author_id": 10340051099277,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10149524030733-A-new-Sniffer-plant-The-bromeliads/comments/10573457900429",
+        "created_at": "2022-11-11T22:20:10Z",
+        "updated_at": "2023-02-23T11:49:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10149524030733/comments/10573457900429.json",
+        "post_id": 10149524030733,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 13294374456717,
+        "body": "<p>I'm so happy that the new torch flower looks like a bromeliad! It would be good if we could place it on trees as well as just on the ground.</p>",
+        "author_id": 423736336452,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10149524030733-A-new-Sniffer-plant-The-bromeliads/comments/13294374456717",
+        "created_at": "2023-02-21T18:44:15Z",
+        "updated_at": "2023-02-23T11:49:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10149524030733/comments/13294374456717.json",
+        "post_id": 10149524030733,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10097799976077,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 30344712031245,
+        "body": "<p>Please i want my friend back</p>",
+        "author_id": 21906067234701,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10097799976077-Locking-Chiseled-Bookshelfs/comments/30344712031245",
+        "created_at": "2024-09-18T00:25:32Z",
+        "updated_at": "2024-09-18T00:25:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10097799976077/comments/30344712031245.json",
+        "post_id": 10097799976077,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10094278778765,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 10573542913805,
+        "body": "<p>Seria un confunto de flores tipicas</p>",
+        "author_id": 10340051099277,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10094278778765-Minecraft-1-20-representation/comments/10573542913805",
+        "created_at": "2022-11-11T22:23:30Z",
+        "updated_at": "2022-12-10T11:30:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10094278778765/comments/10573542913805.json",
+        "post_id": 10094278778765,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10011497529485,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 10200123579661,
+        "body": "<p>I would love bundles to hold even just 3 stacks of the same item, 3 one slot items, or 1 stack of mix items;  just in general. having a compass, shears, and telescope in one slot that is relatively easy to access would help a lot in inventory, let alone doing builds with lots of blocks.\n<br />I could see it as a cool idea if a bundle used in hopper as a item filter though, not sure how the code should handle that but it would make the Redstone sorter approach more effective being able to sort similar items into 1 chest easily.</p>",
+        "author_id": 1900049074787,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10011497529485-Bundles-should-be-expanded-upon-to-aid-inventory-sorting/comments/10200123579661",
+        "created_at": "2022-10-27T18:09:56Z",
+        "updated_at": "2022-11-05T16:54:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10011497529485/comments/10200123579661.json",
+        "post_id": 10011497529485,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 10749768825869,
+        "body": "<p>To be honest, if you were to get a light version of a shulker box in the early game it could undermine resource management. Perhaps it would be better to leave the ability to hold multiple stacks in a single slot to the actual shulker box in the endgame, when players are probably going to be more in the \"sandbox\" stage of progression.</p>",
+        "author_id": 10749246754189,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10011497529485-Bundles-should-be-expanded-upon-to-aid-inventory-sorting/comments/10749768825869",
+        "created_at": "2022-11-19T06:36:24Z",
+        "updated_at": "2022-12-01T01:53:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10011497529485/comments/10749768825869.json",
+        "post_id": 10011497529485,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

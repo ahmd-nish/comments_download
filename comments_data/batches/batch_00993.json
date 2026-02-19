@@ -1,0 +1,967 @@
+[
+  {
+    "post_id": 360056448132,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4422494040205,
+        "body": "<p>Hars</p>",
+        "author_id": 1904920174207,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360056448132-Polar-bears-should-have-a-chance-of-having-twins/comments/4422494040205",
+        "created_at": "2022-01-22T08:09:17Z",
+        "updated_at": "2022-01-22T08:09:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360056448132/comments/4422494040205.json",
+        "post_id": 360056448132,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4422479474573,
+        "body": "<p>Harsh</p>",
+        "author_id": 1904920174207,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360056448132-Polar-bears-should-have-a-chance-of-having-twins/comments/4422479474573",
+        "created_at": "2022-01-22T08:09:25Z",
+        "updated_at": "2022-01-22T08:09:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360056448132/comments/4422479474573.json",
+        "post_id": 360056448132,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360056357972,
+    "expected_comment_count": 6,
+    "actual_comment_count": 6,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009015072,
+        "body": "<p>Could you go into more details on how armor weight makes hunger different?</p>",
+        "author_id": 379435782071,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360056357972-Hunger-should-be-different-per-armor-type-weight/comments/360009015072",
+        "created_at": "2020-01-19T01:16:15Z",
+        "updated_at": "2020-07-27T20:11:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360056357972/comments/360009015072.json",
+        "post_id": 360056357972,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009016892,
+        "body": "<p>This is really interesting idea, if you ask me I would make it something like this:</p>\n<p>-<em> as you can see on this link( <a href=\"https://minecraft.gamepedia.com/Hunger#Exhaustion_level_increase\" target=\"_blank\" rel=\"nofollow noreferrer\">https://minecraft.gamepedia.com/Hunger#Exhaustion_level_increase</a>&nbsp; ), for every action there is exhaustion level&nbsp;</em></p>\n<ul>\n<li>leather armor adds +0.002 exhaustion for swimming</li>\n<li>chainmail adds +0.003 for swimming</li>\n<li>gold +0.004</li>\n<li>iron +0.005</li>\n<li>diamond +0.006</li>\n</ul>\n<p>These numbers don't necessarily need to be like that, I put it like an expample, and for other activities it would be similar, food exhaustion increases a little activtity, and it increases more if the armor is heavier</p>",
+        "author_id": 384935317731,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360056357972-Hunger-should-be-different-per-armor-type-weight/comments/360009016892",
+        "created_at": "2020-01-19T12:42:01Z",
+        "updated_at": "2021-01-27T01:53:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360056357972/comments/360009016892.json",
+        "post_id": 360056357972,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009021632,
+        "body": "<p>To explain in more detail:</p>\n<p>It takes more energy form a player when he wears(/carries) heavy armor.</p>\n<p>So you need to eat more when you wear a set of iron armor then you would without wearing any armor.</p>\n<p>Specially when you walk or run.</p>\n<p>In my opinion even using a boat could effect hunger depending on the armor you wear.</p>\n<p>&nbsp;</p>\n<p>It also can effect the speed of running and the speed of the boat.</p>\n<p>&nbsp;</p>\n<p>so you are more protected with a good set of armor on the other hand you will need to eat some more food.</p>\n<p>&nbsp;</p>",
+        "author_id": 392691576791,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360056357972-Hunger-should-be-different-per-armor-type-weight/comments/360009021632",
+        "created_at": "2020-01-20T06:14:44Z",
+        "updated_at": "2021-01-27T01:53:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360056357972/comments/360009021632.json",
+        "post_id": 360056357972,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010693871,
+        "body": "<p>I think this is a good idea, I actually made another suggestion similar to this, but it got taken down for that reason.</p>\n<p>Anyway,&nbsp;I think your idea be good as it would balance out a disuse of leather armor, as many players simply skip it in favor of iron armor, which is obtained by many players very early game. It can even be argued that leather armor is currently more difficult to acquire than iron armor. The way it would balance this would be that it would slow down players from getting iron before they have a good food source set up, which is an important milestone in early gameplay. In other words, iron (and other) armor would be impractical until the player has enough food to sustain it.&nbsp;</p>\n<p>Also, perhaps there could be a list of armor by weight from lightest to heaviest. (Heavier=hunger lost faster). My list from my post went:</p>\n<ul>\n<li>Leather</li>\n<li>Turtle Shell</li>\n<li>Chain</li>\n<li>Diamond</li>\n<li>Iron</li>\n<li>Gold</li>\n<li>Netherite</li>\n</ul>\n<p>Sorry if my grammar isn't good atm, I am a little busy now. Let me know if you need clarification.</p>\n<p>Hope this helps!</p>",
+        "author_id": 398231722151,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360056357972-Hunger-should-be-different-per-armor-type-weight/comments/360010693871",
+        "created_at": "2020-05-27T00:45:22Z",
+        "updated_at": "2021-03-22T23:05:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360056357972/comments/360010693871.json",
+        "post_id": 360056357972,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012267372,
+        "body": "<p>9462055</p>",
+        "author_id": 401171524111,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360056357972-Hunger-should-be-different-per-armor-type-weight/comments/360012267372",
+        "created_at": "2020-07-27T20:11:27Z",
+        "updated_at": "2020-07-27T20:11:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360056357972/comments/360012267372.json",
+        "post_id": 360056357972,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012179671,
+        "body": "<p>846384</p>",
+        "author_id": 401171524111,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360056357972-Hunger-should-be-different-per-armor-type-weight/comments/360012179671",
+        "created_at": "2020-07-27T20:12:10Z",
+        "updated_at": "2020-07-27T20:12:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360056357972/comments/360012179671.json",
+        "post_id": 360056357972,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360056195992,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015372992,
+        "body": "<p>This game is good</p>",
+        "author_id": 415604324112,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360056195992-Simplifying-signing-in/comments/360015372992",
+        "created_at": "2021-04-30T13:31:16Z",
+        "updated_at": "2021-04-30T13:31:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360056195992/comments/360015372992.json",
+        "post_id": 360056195992,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360055416551,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008686752,
+        "body": "<p>Maybe do the same with other pets too, except they have their own special abilitys that you can unlock, like for tamed wolfs/dogs you have damage done and for cats you can have how far away mobs that are scared of cats stay. Also maybe you can get the ability for all of them to be able to respawn too. I think that you should be able to change their skin too.</p>",
+        "author_id": 378371675332,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055416551-Horse-leveling/comments/360008686752",
+        "created_at": "2019-12-13T03:14:45Z",
+        "updated_at": "2019-12-13T17:14:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055416551/comments/360008686752.json",
+        "post_id": 360055416551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360055460552,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008563052,
+        "body": "<p>Due to the character limit, I couldn't fit every detail in the post. If anybody has questions relating to <strong>Aggressive Mob behavior,&nbsp;</strong>or&nbsp;<strong>Loot gained from Sieges,</strong> please ask!</p>",
+        "author_id": 390500632271,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055460552-Defending-your-build-from-monster-attacks/comments/360008563052",
+        "created_at": "2019-12-01T04:16:35Z",
+        "updated_at": "2020-03-31T20:30:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055460552/comments/360008563052.json",
+        "post_id": 360055460552,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009897971,
+        "body": "<p>Great idea!</p>",
+        "author_id": 395327477011,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055460552-Defending-your-build-from-monster-attacks/comments/360009897971",
+        "created_at": "2020-03-31T14:06:20Z",
+        "updated_at": "2020-03-31T20:30:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055460552/comments/360009897971.json",
+        "post_id": 360055460552,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360055270911,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014677331,
+        "body": "<p>Surprisingly enough, all mobs (grounded at least) indeed have attack patterns; it all comes down to timing. If you wanna try it for yourself, just use your shield in from of a zombie and observe how long he takes between each hit. It's the same amount of time for each attack. This can be applied to most, if not, all mobs, both adult and baby, when appliable, in the game besides the creeper.</p>",
+        "author_id": 413171148632,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055270911-Mob-attack-patterns-to-improve-combat/comments/360014677331",
+        "created_at": "2021-03-25T06:28:01Z",
+        "updated_at": "2021-03-25T06:32:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055270911/comments/360014677331.json",
+        "post_id": 360055270911,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360055214751,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008547072,
+        "body": "<p>This is a bit weird....</p>\n<p>It has potential, though!</p>",
+        "author_id": 389799872712,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055214751-The-Book-of-Myths-Or-The-Book-of-Reality/comments/360008547072",
+        "created_at": "2019-11-29T00:08:18Z",
+        "updated_at": "2019-11-29T00:08:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055214751/comments/360008547072.json",
+        "post_id": 360055214751,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008634632,
+        "body": "<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">nop</span></span></p>",
+        "author_id": 390758089691,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055214751-The-Book-of-Myths-Or-The-Book-of-Reality/comments/360008634632",
+        "created_at": "2019-12-08T22:07:13Z",
+        "updated_at": "2019-12-08T22:07:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055214751/comments/360008634632.json",
+        "post_id": 360055214751,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360054897971,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008564711,
+        "body": "<p>You're doing it wrong. Gravel is easier to mine out (torches/slabs) and clears a large area underground. Strip mining into gravel lets you clear a large area fast, thus increasing your chances of finding valuable ores. You should likely be looking into adding more gravel underground. </p>",
+        "author_id": 390430586932,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054897971-Decrease-Gravel-Spawn/comments/360008564711",
+        "created_at": "2019-11-30T15:09:16Z",
+        "updated_at": "2019-12-02T18:10:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054897971/comments/360008564711.json",
+        "post_id": 360054897971,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010871131,
+        "body": "<p>2 double chests of it in my quarry. Just too much...</p>",
+        "author_id": 398833746711,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054897971-Decrease-Gravel-Spawn/comments/360010871131",
+        "created_at": "2020-06-05T02:44:52Z",
+        "updated_at": "2020-06-05T02:44:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054897971/comments/360010871131.json",
+        "post_id": 360054897971,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012570731,
+        "body": "<p>it is getting so ridiculous at this point. its literally why people quit the game. you cannot go mining without coming across HUGE amounts of gravel</p>",
+        "author_id": 402363522011,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054897971-Decrease-Gravel-Spawn/comments/360012570731",
+        "created_at": "2020-08-24T05:44:51Z",
+        "updated_at": "2020-08-24T17:25:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054897971/comments/360012570731.json",
+        "post_id": 360054897971,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014162651,
+        "body": "<p>I agree! The amount of gravel in Bedrock compared to the amount in Java is way overboard!<br>I never have any issues finding enough in my Java worlds to make all the cement powder I need.<br>Why can't the gravel spawn rate calculation be the same as Java?<br>In Bedrock version/s, (especially when mining under level 60), I cannot seem to go anywhere in a 50 block radius without hitting a bunch of the stuff! Honestly, I am beginning to really dislike Bedrock for this single reason. Way too much freaking gravel!!!<br><br>P.S. I know this is an older post but it's still an issue in the current version 1.16.201</p>",
+        "author_id": 395696236271,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054897971-Decrease-Gravel-Spawn/comments/360014162651",
+        "created_at": "2021-01-30T12:38:01Z",
+        "updated_at": "2021-01-30T14:56:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054897971/comments/360014162651.json",
+        "post_id": 360054897971,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360054547551,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008170411,
+        "body": "<p>I have an idea that can build onto this. Witches have a incredible amount of immunity to Instant Damage and Poison potions. What if the Witch drops an enchanted book with the Magic Resistance Enchantment on it. Or, what if the Witch dropped their hat which has the Magic Resistance Enchantment? There is a lot of potential in the method of obtaining this enchantment.</p>",
+        "author_id": 388927916312,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054547551-Magic-Resistance-Enchantment/comments/360008170411",
+        "created_at": "2019-10-24T02:01:06Z",
+        "updated_at": "2020-08-18T12:53:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054547551/comments/360008170411.json",
+        "post_id": 360054547551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008188891,
+        "body": "<p>Don't forget guardian beams.</p>",
+        "author_id": 387873747832,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054547551-Magic-Resistance-Enchantment/comments/360008188891",
+        "created_at": "2019-10-25T18:00:39Z",
+        "updated_at": "2020-08-18T12:53:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054547551/comments/360008188891.json",
+        "post_id": 360054547551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008197871,
+        "body": "<p>Should work only on iron armor and not work with other enchantments</p>",
+        "author_id": 386010345111,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054547551-Magic-Resistance-Enchantment/comments/360008197871",
+        "created_at": "2019-10-27T04:45:22Z",
+        "updated_at": "2020-08-18T12:53:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054547551/comments/360008197871.json",
+        "post_id": 360054547551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008203331,
+        "body": "<p>Why? That doesn't make much sense</p>",
+        "author_id": 385093073832,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054547551-Magic-Resistance-Enchantment/comments/360008203331",
+        "created_at": "2019-10-28T05:57:44Z",
+        "updated_at": "2019-10-28T05:57:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054547551/comments/360008203331.json",
+        "post_id": 360054547551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360053128751,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009589011,
+        "body": "<p>and if you give them anything that is not a bow thy still shoot at you</p>",
+        "author_id": 394749893471,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360053128751-Bedrock-skeleton/comments/360009589011",
+        "created_at": "2020-03-06T05:02:27Z",
+        "updated_at": "2020-03-06T05:02:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360053128751/comments/360009589011.json",
+        "post_id": 360053128751,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 8641430917773,
+        "body": "<p>I agree, I feel the way that skeletons behave and attack on Java is much more fun and balanced. However, I find Skeletons on bedrock really frustrating to deal with. A simple change is to create parity with both skeletons whereby the bedrock skeletons will behave much like how they do on Java, making them more interesting, fun and Much less frustrating to fight</p>",
+        "author_id": 396255390071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360053128751-Bedrock-skeleton/comments/8641430917773",
+        "created_at": "2022-08-23T23:22:53Z",
+        "updated_at": "2022-08-24T20:29:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360053128751/comments/8641430917773.json",
+        "post_id": 360053128751,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360050710072,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 24029734797581,
+        "body": "<p>This is a good idea </p>",
+        "author_id": 17853643328653,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050710072-Armour-Stands-that-attract-Mobs/comments/24029734797581",
+        "created_at": "2024-02-10T19:38:20Z",
+        "updated_at": "2024-02-10T19:38:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050710072/comments/24029734797581.json",
+        "post_id": 360050710072,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360050494732,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010559432,
+        "body": "<p>I think this would be really useful. Probably could put a cap on how far from the block the bubble column would go and then have the bubble column appear from the block side facing the player when placed (kind of how pistons behave when placed).</p>",
+        "author_id": 379059090472,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050494732-Horizontal-bubble-columns/comments/360010559432",
+        "created_at": "2020-05-15T15:51:06Z",
+        "updated_at": "2020-05-15T16:34:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050494732/comments/360010559432.json",
+        "post_id": 360050494732,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048866551,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014512071,
+        "body": "<p>cool idea!</p>",
+        "author_id": 412044359132,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048866551-New-Dashing-Mechanics/comments/360014512071",
+        "created_at": "2021-03-03T11:58:55Z",
+        "updated_at": "2021-03-03T12:36:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048866551/comments/360014512071.json",
+        "post_id": 360048866551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048179351,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5001544334093,
+        "body": "<p>I agree.<br>I sometimes feel a little bored of the somewhat repetitive gameplay loop where you complete the game to unlock grinding for items so you can build something cool, grind for hours, forget about your goal or lose massive progress in some way, new world or switch to server minigames.</p>\n<p>I do think Minecraft still needs this long term grind to some extent as it keeps many players interested in long term worlds. It also keeps technical players interest by getting them to create even better farms and machines.<br><br>I think this could be solved by a number of things like:</p>\n<p>Having a more in-depth late game options for getting supplies easier, or building more efficiently.</p>\n<p>A overall gameplay loop that lasts longer, or having the late game and mid game take longer to complete. (new bosses, dimensions, or other objectives.)</p>\n<p>A game mode that involves much less grind for items, while retaining the main aspect of survival and exploration. (Somewhere between creative and survival)</p>",
+        "author_id": 406882080391,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048179351-Survival-Mode-Needs-a-More-Extensive-Progression-System/comments/5001544334093",
+        "created_at": "2022-03-23T01:15:38Z",
+        "updated_at": "2022-03-23T18:33:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048179351/comments/5001544334093.json",
+        "post_id": 360048179351,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048312152,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5551078206093,
+        "body": "<p>When the shield is bashing mobs, it should be held sideways. Should also stun the shield, like an axe.</p>",
+        "author_id": 366085131292,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048312152-Shield-bash-enchantment/comments/5551078206093",
+        "created_at": "2022-04-14T21:47:43Z",
+        "updated_at": "2022-04-14T22:50:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048312152/comments/5551078206093.json",
+        "post_id": 360048312152,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048058751,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007415051,
+        "body": "<p>Maybe not the boss bit but i agree they should be updated </p>",
+        "author_id": 386580854631,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048058751-Updating-the-Witch-Hut/comments/360007415051",
+        "created_at": "2019-09-03T22:05:36Z",
+        "updated_at": "2020-06-10T04:10:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048058751/comments/360007415051.json",
+        "post_id": 360048058751,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043547112,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010941712,
+        "body": "<p>Or a common name for the overworld biome updates : \"Overworld Overhaul\"</p>",
+        "author_id": 394077312191,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043547112-Minecraft-Update-name-ideas/comments/360010941712",
+        "created_at": "2020-06-11T11:15:06Z",
+        "updated_at": "2020-12-20T17:54:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043547112/comments/360010941712.json",
+        "post_id": 360043547112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7579462825869,
+        "body": "<p>Minecraft: Ancient Update (Archeology Update)</p>",
+        "author_id": 4662169948429,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043547112-Minecraft-Update-name-ideas/comments/7579462825869",
+        "created_at": "2022-07-11T00:54:01Z",
+        "updated_at": "2023-01-01T04:18:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043547112/comments/7579462825869.json",
+        "post_id": 360043547112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 11879608538893,
+        "body": "<p>another name could be community update</p>",
+        "author_id": 11879605641485,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043547112-Minecraft-Update-name-ideas/comments/11879608538893",
+        "created_at": "2023-01-01T04:17:46Z",
+        "updated_at": "2023-02-14T19:29:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043547112/comments/11879608538893.json",
+        "post_id": 360043547112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043496652,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005419492,
+        "body": "<p>This is actually a good idea.&nbsp; And if your diamond sword has fire aspect maybe it'll float on the lava too?</p>",
+        "author_id": 364923478371,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043496652-Fire-protection-lava/comments/360005419492",
+        "created_at": "2019-04-28T04:25:59Z",
+        "updated_at": "2019-04-28T04:25:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043496652/comments/360005419492.json",
+        "post_id": 360043496652,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043068491,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005196232,
+        "body": "<p>Clarified subject to help search results.</p>\n<p>Thanks for your contribution.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043068491--Advancement-Please-no-more/comments/360005196232",
+        "created_at": "2019-04-09T22:34:57Z",
+        "updated_at": "2019-04-09T22:34:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043068491/comments/360005196232.json",
+        "post_id": 360043068491,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042976391,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005071512,
+        "body": "<p>Also, the amount of blocks dropped would equal the damage done to the axe. Similar to tree capitator mod but without the slower mining speed. Voting for this one for sure.</p>",
+        "author_id": 379298817931,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042976391-tree-mechanics/comments/360005071512",
+        "created_at": "2019-03-31T18:39:43Z",
+        "updated_at": "2020-05-30T02:23:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042976391/comments/360005071512.json",
+        "post_id": 360042976391,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006162952,
+        "body": "<p>I agree, this is something that was needed ever since trees were able to grow much larger than originally within the beta phase of the game. It seems that after that change, they never gave us an easy way to cut down a larger tree. Seeing floating debris is a pain and also leaves need to decay FAR faster than currently. Mods like tree capacitors have been a requirement for me ever since beta. It's a very unpolished mechanic, it's time for a change.</p>",
+        "author_id": 383557987571,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042976391-tree-mechanics/comments/360006162952",
+        "created_at": "2019-06-21T12:05:51Z",
+        "updated_at": "2022-09-02T16:57:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042976391/comments/360006162952.json",
+        "post_id": 360042976391,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006518932,
+        "body": "<p>I agree, however it should be a game rule change or an enchantment.&nbsp;</p>",
+        "author_id": 384718302212,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042976391-tree-mechanics/comments/360006518932",
+        "created_at": "2019-07-17T13:18:22Z",
+        "updated_at": "2019-07-17T13:18:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042976391/comments/360006518932.json",
+        "post_id": 360042976391,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 24558085056653,
+        "body": "<p>This would mean turning naturally-generating logs into gravity blocks. Updating them by cutting them down should make them fall, and any branch/log that falls on player would do damage. This lets player cut down logs as they fall instead of “instantaneously breaking upper logs like bamboo”. Logs caught in leaves would eventually fall as leaves disappear (when top central log falls). If people still want floating trees, they can cut them using silk touch axes. \n<br />Having trees be easier to cut down like this means trees can be taller to make traversing through forests feel better than just walking through a maze of leaves.\n<br />Logs placed by players would not act like gravity blocks, but if you want them to, waxing them would return them to natural.\n<br />*Gravity blocks refer to how sand &amp; anvils fall.</p>",
+        "author_id": 17066190726669,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042976391-tree-mechanics/comments/24558085056653",
+        "created_at": "2024-02-29T10:42:35Z",
+        "updated_at": "2024-03-01T18:30:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042976391/comments/24558085056653.json",
+        "post_id": 360042976391,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042877372,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004874112,
+        "body": "<p>Great idea, especially with Mojang possibly revisiting combat for a future update.</p>",
+        "author_id": 376634431651,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042877372-Different-Types-of-Damage-PvP/comments/360004874112",
+        "created_at": "2019-03-18T00:28:13Z",
+        "updated_at": "2019-03-20T15:29:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042877372/comments/360004874112.json",
+        "post_id": 360042877372,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008879152,
+        "body": "<p>Another way to do it would be to have, piercing, cutting, force, and internal damage, as well as having the different types of armour protect better against the different types of damage.</p>\n\n<p>Leather could protect a little bit against force based damage but barely anything against the other types. </p>\n\n<p>Chain could protect highly against cutting damage but barely anything against the other types.</p>\n\n<p>Iron could protect against piercing and cutting but not as much against force.</p>\n\n<p>Diamond would basically be a stronger version of iron. </p>\n\n<p>Internal damage would be any type of damage that bypassed the armour unless that armour had a enchantment to protect against that specific type of internal damage (magic, respiration, fire etc.)</p>",
+        "author_id": 375783095852,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042877372-Different-Types-of-Damage-PvP/comments/360008879152",
+        "created_at": "2020-01-07T19:57:11Z",
+        "updated_at": "2020-01-07T20:02:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042877372/comments/360008879152.json",
+        "post_id": 360042877372,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4409074577421,
+        "body": "<p>The category thing is already in the game:we have melee and projectile damage, which are covered by armor, and magic damage, which includes evokation fangs, potion effects, guardians lasers etc, which are NOT covered by the armor, but covered by the Protection enchantment. The rest of the idea is still good</p>",
+        "author_id": 419591804091,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042877372-Different-Types-of-Damage-PvP/comments/4409074577421",
+        "created_at": "2021-09-12T19:07:39Z",
+        "updated_at": "2021-09-12T19:56:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042877372/comments/4409074577421.json",
+        "post_id": 360042877372,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042664592,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004689791,
+        "body": "<p>You might want to change suck to luck!</p>",
+        "author_id": 377580476132,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042664592-Cursed-with-Awesome-Blessed-with-Suck/comments/360004689791",
+        "created_at": "2019-03-02T04:40:29Z",
+        "updated_at": "2020-08-15T19:21:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042664592/comments/360004689791.json",
+        "post_id": 360042664592,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360004718132,
+        "body": "<p>The theme was more along the lines of attractive curses and unattractive enchantments i.e. more reasons to switch weapons in different situations. </p>\n\n<p>For example Fire Aspect may not be useful if you really want raw meat. In that situation it is 'Blessed with Suck'. </p>\n\n<p>The Curse of Blinking is good in many situations but not if it causes you to run off a ledge into lava. So it is 'Cursed with Awesome'. </p>\n\n<p>Just a few ideas to make equipment more unique through the Curse system.</p>",
+        "author_id": 376821981371,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042664592-Cursed-with-Awesome-Blessed-with-Suck/comments/360004718132",
+        "created_at": "2019-03-05T02:40:27Z",
+        "updated_at": "2020-08-15T19:21:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042664592/comments/360004718132.json",
+        "post_id": 360042664592,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360004970592,
+        "body": "<p>The purpose of many tools can be changed drastically with the introduction of a few enchantments and curses.</p>\n<p>To improve Hoes I would make them take time to till soil. Better material hoes take less time. I would also add the following enchantments and curses:</p>\n<ul>\n<li>\n<strong>Efficiency I-V:</strong> Decrease time taken to till soil.</li>\n<li>\n<strong>Reaping I-III:</strong> Left clicking with Hoe harvests an area of farm crops in front of you. The arc length and depth increases with higher levels.</li>\n<li>\n<strong>Sowing:</strong> Upon harvesting a crop, an identical crop will be planted if a seed for that crop is in the player's inventory.</li>\n<li>\n<strong>Curse of Morphology:</strong> When tilling soil, adjacent dirt or grass blocks may turn into Mycelium or Podzol.</li>\n</ul>\n<p>I would like to add a few enchantments to make axes less of a tool and more a weapon:</p>\n<ul>\n<li>\n<strong>Fire Aspect: </strong>Sets mobs on fire and gives harvested logs a chance to drop charcoal instead. (Only available using enchanted book.)</li>\n<li>\n<strong>Stunning I-III:</strong> Chance to disable shields and slow the target for a second. Higher levels increase chance and duration. (This replaces Efficiency as the way to improve the shield disabling mechanic).</li>\n<li>\n<strong>Looting I-III:</strong>&nbsp;Increases mob loot. (Only available using enchanted book.)</li>\n<li>\n<strong>Knockback I-II:&nbsp;</strong>Increases knockback. (Only available from enchanted book.)</li>\n<li>\n<strong>Curse of Sundering:</strong>&nbsp;+3 attack damage. Logs may turn into 6 - 10 sticks when harvested, boosted by Fortune.</li>\n</ul>",
+        "author_id": 376821981371,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042664592-Cursed-with-Awesome-Blessed-with-Suck/comments/360004970592",
+        "created_at": "2019-03-25T04:49:53Z",
+        "updated_at": "2020-08-15T19:22:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042664592/comments/360004970592.json",
+        "post_id": 360042664592,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042631372,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004754991,
+        "body": "<p>Before I read this, I actually thought you <em>did</em> spawn in the morning.&nbsp; Choosing when you spawn would make an excellent world generation option.&nbsp; Voted.</p>",
+        "author_id": 370958599952,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042631372-Spawn-in-the-morning/comments/360004754991",
+        "created_at": "2019-03-07T02:33:13Z",
+        "updated_at": "2024-03-30T20:24:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042631372/comments/360004754991.json",
+        "post_id": 360042631372,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4417670984845,
+        "body": "<p>Morton mod\n<br />Wharton Wharton axolotl Warrenton Fox warranted player Warrenton villager Wharton zombie Wharton sheep Wharton boss Wharton pet</p>",
+        "author_id": 1904322363067,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042631372-Spawn-in-the-morning/comments/4417670984845",
+        "created_at": "2021-12-25T08:27:24Z",
+        "updated_at": "2021-12-25T08:27:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042631372/comments/4417670984845.json",
+        "post_id": 360042631372,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360041790892,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010059831,
+        "body": "<p>I think they should have a search bar on xbox to find servers like factions&nbsp;</p>\n<p>&nbsp;</p>",
+        "author_id": 396417536972,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041790892-Factions-Server-For-Bedrock/comments/360010059831",
+        "created_at": "2020-04-10T17:06:15Z",
+        "updated_at": "2020-08-09T06:44:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041790892/comments/360010059831.json",
+        "post_id": 360041790892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013374312,
+        "body": "<p>There is already one in mineplex but no people play it</p>\n<p>&nbsp;</p>",
+        "author_id": 405804322572,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041790892-Factions-Server-For-Bedrock/comments/360013374312",
+        "created_at": "2020-11-03T14:52:38Z",
+        "updated_at": "2020-11-03T14:52:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041790892/comments/360013374312.json",
+        "post_id": 360041790892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360041517251,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004441032,
+        "body": "<p>search: banner patterns</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt;\">Hi!</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt;\">We can tell you put in a lot of thought for this idea, and appreciate your feedback!</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt;\">It appears there is already an existing thread on this topic (or something very similar). Feel free to join that discussion in progress.</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt;\">Cutting down on duplicate threads or threads with very similar ideas will allow relevant threads and ideas to stay together so they can receive the attention they deserve from our developers.</p>\n<p style=\"font-family: Calibri; font-size: 11.0pt;\">We want to help everyone have their ideas succeed. Thanks for your contribution.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041517251-letters-patern-on-banners/comments/360004441032",
+        "created_at": "2019-02-13T15:23:45Z",
+        "updated_at": "2019-02-13T15:23:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041517251/comments/360004441032.json",
+        "post_id": 360041517251,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

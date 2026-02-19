@@ -1,0 +1,697 @@
+[
+  {
+    "post_id": 10321946566797,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 11444902829453,
+        "body": "<p>Add allow-debug (F3) boolean to server.properties. Default is true, no change in game behavior.</p>\n<p><br>If false, connected clients are unable to use F3 or any F3 hotkeys for the maximum 'vanilla' experience.</p>",
+        "author_id": 11444556757261,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10321946566797-Add-Debug-Toggle-to-Servers/comments/11444902829453",
+        "created_at": "2022-12-14T14:12:38Z",
+        "updated_at": "2022-12-14T15:45:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10321946566797/comments/11444902829453.json",
+        "post_id": 10321946566797,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 11448360376333,
+        "body": "<p>Minecraft is an incredibly technical game, and some of these features available client side are interesting and useful in most cases. However, in the multiplayer experience these features can be abused by bad actors to gain an advantage over other players, seeing it toggleable would be great!</p>",
+        "author_id": 11448140180877,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10321946566797-Add-Debug-Toggle-to-Servers/comments/11448360376333",
+        "created_at": "2022-12-14T15:50:12Z",
+        "updated_at": "2022-12-14T15:50:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10321946566797/comments/11448360376333.json",
+        "post_id": 10321946566797,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 8012516801677,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 9681732410509,
+        "body": "<p>Kinda specific but I’ll vote for it!</p>\n\n<p>Also, pretty sure bedrock only has chat moderators, not reporting, so you can possibly make a server there. The only problem is censors on bedrock can censor harmless words and also some random stuff…</p>",
+        "author_id": 369537799291,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8012516801677-Exclude-therapy-servers-in-youth-prison-psychiatry-from-the-report-system/comments/9681732410509",
+        "created_at": "2022-10-06T01:57:40Z",
+        "updated_at": "2022-10-06T09:28:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8012516801677/comments/9681732410509.json",
+        "post_id": 8012516801677,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7262450413069,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 9699866450573,
+        "body": "<p>i say 2 players</p>",
+        "author_id": 369537799291,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7262450413069-Basic-Tier-of-Realms/comments/9699866450573",
+        "created_at": "2022-10-06T18:56:06Z",
+        "updated_at": "2022-10-06T18:56:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7262450413069/comments/9699866450573.json",
+        "post_id": 7262450413069,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5907180470797,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7097352121997,
+        "body": "<p>No. They already did this with bedrock and it made them bold enough to moderate 3rd party server chats without consent of server staff. We don't need them moderating what servers people get to go to. The current method is fine.</p>",
+        "author_id": 365242477172,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5907180470797-built-in-server-list-java/comments/7097352121997",
+        "created_at": "2022-06-21T18:49:50Z",
+        "updated_at": "2022-06-21T18:49:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5907180470797/comments/7097352121997.json",
+        "post_id": 5907180470797,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4409833993997,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 9681805007117,
+        "body": "<p>I don’t agree with the thumbnail idea mentioned, maybe just where you logged out like on worlds</p>",
+        "author_id": 369537799291,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4409833993997-Realm-Have-Image-like-Worlds/comments/9681805007117",
+        "created_at": "2022-10-06T02:01:49Z",
+        "updated_at": "2022-10-06T10:26:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4409833993997/comments/9681805007117.json",
+        "post_id": 4409833993997,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078509891,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4403476590861,
+        "body": "<p>This is a good idea, but I think I would say \"adding a web interface\" to the server software. Ideally it would be bound to 443 (https). They would likely write it in Java since I assume they'd want to stick to Java for this edition. This would allow server admins to run the server without remote desktop etc. I believe there are 3rd party plugins for this, but nothing in vanilla MC.</p>",
+        "author_id": 417741703912,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078509891-Adding-a-webserver-to-the-server-software/comments/4403476590861",
+        "created_at": "2021-06-21T14:37:17Z",
+        "updated_at": "2021-06-22T00:20:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078509891/comments/4403476590861.json",
+        "post_id": 360078509891,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4404703437965,
+        "body": "<p>i mean you can use software such as Multicraft or Pterodactyl for this.</p>",
+        "author_id": 399168108151,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078509891-Adding-a-webserver-to-the-server-software/comments/4404703437965",
+        "created_at": "2021-07-10T00:07:57Z",
+        "updated_at": "2021-07-10T00:07:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078509891/comments/4404703437965.json",
+        "post_id": 360078509891,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078112991,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015851572,
+        "body": "<p>This is already a plugin... Search for geyserMC and floodgate... Yes it would be nice if Mojang did this professionally thou</p>",
+        "author_id": 394479232471,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078112991-Java-servers/comments/360015851572",
+        "created_at": "2021-06-04T21:24:50Z",
+        "updated_at": "2021-06-04T21:29:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078112991/comments/360015851572.json",
+        "post_id": 360078112991,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077377471,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 27244312563341,
+        "body": "<p>It exists now</p>",
+        "author_id": 18114654476173,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077377471-Transfer-between-servers-command/comments/27244312563341",
+        "created_at": "2024-06-03T12:32:16Z",
+        "updated_at": "2024-06-03T12:32:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077377471/comments/27244312563341.json",
+        "post_id": 360077377471,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077263492,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 20380125326733,
+        "body": "<p>cara mengembalikan data Minecraft </p>",
+        "author_id": 20380077636877,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077263492-Minecraft-Bedrock-Realms-World-Data-Download-for-Operators/comments/20380125326733",
+        "created_at": "2023-10-14T04:23:29Z",
+        "updated_at": "2023-10-14T04:23:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077263492/comments/20380125326733.json",
+        "post_id": 360077263492,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076868691,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014185251,
+        "body": "<p>That is if it is okay with the creators</p>\n<p>&nbsp;</p>",
+        "author_id": 393559825171,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076868691-Nature-s-Heart/comments/360014185251",
+        "created_at": "2021-02-02T03:31:32Z",
+        "updated_at": "2021-02-02T03:31:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076868691/comments/360014185251.json",
+        "post_id": 360076868691,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076427652,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014185271,
+        "body": "<p>There is already an option for this, the bedrock server.&nbsp; <a href=\"https://www.minecraft.net/en-us/download/server/bedrock/\" rel=\"nofollow noreferrer\">https://www.minecraft.net/en-us/download/server/bedrock/</a></p>",
+        "author_id": 410520002291,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076427652-Beta-dedicated-server-for-Minecraft-Windows-10-edition/comments/360014185271",
+        "created_at": "2021-02-02T03:37:27Z",
+        "updated_at": "2021-02-05T22:42:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076427652/comments/360014185271.json",
+        "post_id": 360076427652,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076056791,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014039052,
+        "body": "<p>You don't understand how that works, so don't ask about it.</p>",
+        "author_id": 409228286491,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076056791-Plugins-for-Server/comments/360014039052",
+        "created_at": "2021-01-10T15:38:17Z",
+        "updated_at": "2021-01-10T15:38:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076056791/comments/360014039052.json",
+        "post_id": 360076056791,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074943531,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013688291,
+        "body": "<p>Yes, please! It was such a small feature that I loved!</p>",
+        "author_id": 406794141992,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074943531-Realms-activity/comments/360013688291",
+        "created_at": "2020-12-06T19:03:45Z",
+        "updated_at": "2020-12-07T19:48:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074943531/comments/360013688291.json",
+        "post_id": 360074943531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4414163776013,
+        "body": "<p>320playBaba</p>",
+        "author_id": 422056268711,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074943531-Realms-activity/comments/4414163776013",
+        "created_at": "2021-11-20T11:48:41Z",
+        "updated_at": "2021-11-20T11:48:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074943531/comments/4414163776013.json",
+        "post_id": 360074943531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074957772,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013579871,
+        "body": "<p>Definitely not.</p>",
+        "author_id": 407107103732,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074957772-Universal-bans-should-be-more-consistent/comments/360013579871",
+        "created_at": "2020-11-29T14:22:32Z",
+        "updated_at": "2022-01-03T08:51:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074957772/comments/360013579871.json",
+        "post_id": 360074957772,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4834001706381,
+        "body": "<p>I strongly disagree. What is the benefit of this? Preventing people from playing the game they paid for? I have always disliked the way that call of duty manages bans due to this and I hope that it never comes to this game. You said, \"For those that have bought subscriptions directly from MOJANG (where login is required to cancel subscription), cancellation of subscription should only be possible by writing a signed snail-mail letter to a specific address, where you request the subscription to be cancelled.\" so what about the users that do not understand that they have to cancel their subscription after their account is terminated? What if they don't have the ability to send mail to the address? It honestly sounds that you want people to have as hard of a time as they can, which will drive many away from this game.</p>",
+        "author_id": 4833962029965,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074957772-Universal-bans-should-be-more-consistent/comments/4834001706381",
+        "created_at": "2022-03-15T23:56:58Z",
+        "updated_at": "2022-03-15T23:59:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074957772/comments/4834001706381.json",
+        "post_id": 360074957772,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 20866282591245,
+        "body": "<p>No. If I buy MC for 30 USD, and I get banned on Multiplayer, Single player and everything else on Java and Bedrock, I expect to at least be able to play Single Player. Banning them from playing in a world with literally nobody else, is just outrageous and would make people want to play Roblox (Which has 10x worse moderation) then Minecraft.</p>",
+        "author_id": 20815255689613,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074957772-Universal-bans-should-be-more-consistent/comments/20866282591245",
+        "created_at": "2023-10-30T23:24:07Z",
+        "updated_at": "2023-11-01T15:40:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074957772/comments/20866282591245.json",
+        "post_id": 360074957772,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074646031,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013545672,
+        "body": "<p>This would be for some of the top creators of Minecraft </p>",
+        "author_id": 402412765192,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074646031-Playing-minecraft/comments/360013545672",
+        "created_at": "2020-11-18T02:11:31Z",
+        "updated_at": "2020-11-18T02:11:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074646031/comments/360013545672.json",
+        "post_id": 360074646031,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071241131,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014318452,
+        "body": "<p>That is a really good idea</p>",
+        "author_id": 403639338992,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071241131-A-graphic-UI-for-the-bedrock-dedicated-server-for-Windows/comments/360014318452",
+        "created_at": "2021-02-09T14:41:27Z",
+        "updated_at": "2021-02-09T14:57:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071241131/comments/360014318452.json",
+        "post_id": 360071241131,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014477791,
+        "body": "<p>This is still not available for Java from Mojang.<br>There are several options on the internet, for free, through. I'm sure with the way M$ treats Bedrock, they'll try to charge for the server GUI if they ever make one.&nbsp; I'm honestly surprised they're not trying to charge for the command line server files.</p>",
+        "author_id": 397235002432,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071241131-A-graphic-UI-for-the-bedrock-dedicated-server-for-Windows/comments/360014477791",
+        "created_at": "2021-02-26T20:47:11Z",
+        "updated_at": "2021-02-27T03:52:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071241131/comments/360014477791.json",
+        "post_id": 360071241131,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360054573211,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008192652,
+        "body": "<p>Clarified subject to help search results.</p>\n<p>Thanks for your contribution.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054573211-Peaceful-Realms/comments/360008192652",
+        "created_at": "2019-10-25T16:49:01Z",
+        "updated_at": "2019-10-25T16:49:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054573211/comments/360008192652.json",
+        "post_id": 360054573211,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043356291,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005485031,
+        "body": "<p>Moved to proper category.</p>\n<p>Thanks for your contribution.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043356291-Integrated-mapper-to-website/comments/360005485031",
+        "created_at": "2019-05-02T22:04:20Z",
+        "updated_at": "2019-05-02T22:04:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043356291/comments/360005485031.json",
+        "post_id": 360043356291,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 41368330901005,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41740882507533,
+        "body": "<p>私は日本人なので、日本円換算で申し訳ないですが、￥1,500～￥1,800程度(米ドル換算$10～$18程度)で20人利用できるRealmsサーバーがあると良いと考えています。</p>",
+        "author_id": 40791300793101,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41368330901005-Realms/comments/41740882507533",
+        "created_at": "2025-12-08T09:34:06Z",
+        "updated_at": "2025-12-09T18:03:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41368330901005/comments/41740882507533.json",
+        "post_id": 41368330901005,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40007124817421,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40007179264909,
+        "body": "<p>This is great!</p>",
+        "author_id": 39936336932493,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40007124817421-Request-minecraft-for-dedicated-servers-in-india/comments/40007179264909",
+        "created_at": "2025-10-01T15:51:38Z",
+        "updated_at": "2025-10-01T15:51:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40007124817421/comments/40007179264909.json",
+        "post_id": 40007124817421,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40085853618317,
+        "body": "<p>this will be great</p>",
+        "author_id": 40085853264141,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40007124817421-Request-minecraft-for-dedicated-servers-in-india/comments/40085853618317",
+        "created_at": "2025-10-04T05:33:36Z",
+        "updated_at": "2025-10-04T05:33:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40007124817421/comments/40085853618317.json",
+        "post_id": 40007124817421,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40086074296973,
+        "body": "<p>Ofcourse </p>",
+        "author_id": 39936336932493,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40007124817421-Request-minecraft-for-dedicated-servers-in-india/comments/40086074296973",
+        "created_at": "2025-10-04T06:20:25Z",
+        "updated_at": "2025-10-04T06:20:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40007124817421/comments/40086074296973.json",
+        "post_id": 40007124817421,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 39305473400461,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 39339399550349,
+        "body": "<p>Having everyone save multi-year world data on servers is not very likely. They can do this with marketplace items because they are not unique for every single instance like worlds would be. They have the content code for the marketplace items and only a very small small bit of code attached to each account verifying purchase and identity. This suggestion seems like it may be more likely if it focused on the mobile data problem. If they were able to force legacy storage for just worlds, personal addon collections, and skins, it would be nice. It probably will not be happening. An official launcher that allowed for saving to external might be possible? </p>",
+        "author_id": 39339187293069,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39305473400461-Worlds-should-be-account-based/comments/39339399550349",
+        "created_at": "2025-09-05T01:24:31Z",
+        "updated_at": "2025-09-05T14:18:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39305473400461/comments/39339399550349.json",
+        "post_id": 39305473400461,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 39023594760589,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 39023702938637,
+        "body": "<p>Please more Middle East servers. Connection is terrible. Considering third party options. Thank you.&nbsp;</p>",
+        "author_id": 39023675560333,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39023594760589-More-minecraft-realms-servers/comments/39023702938637",
+        "created_at": "2025-08-22T18:26:23Z",
+        "updated_at": "2025-08-22T18:26:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39023594760589/comments/39023702938637.json",
+        "post_id": 39023594760589,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38632868944781,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41469484990349,
+        "body": "<p>This!</p>",
+        "author_id": 41469489520013,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38632868944781-Bigger-Minecraft-Realm-Server-Sizes/comments/41469484990349",
+        "created_at": "2025-11-27T12:50:42Z",
+        "updated_at": "2025-11-27T12:50:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38632868944781/comments/41469484990349.json",
+        "post_id": 38632868944781,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 30447296093581,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 30447250292877,
+        "body": "<p>A simpler alternative: ownership beacons. Which would work the same, and would claim entire chunks at a time (surface level only, maybe?).</p>",
+        "author_id": 30447196243341,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/30447296093581-Block-Ownership-Dust-goggles/comments/30447250292877",
+        "created_at": "2024-09-21T07:36:00Z",
+        "updated_at": "2024-09-21T15:11:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/30447296093581/comments/30447250292877.json",
+        "post_id": 30447296093581,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 28977394482189,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 29667594881293,
+        "body": "<p>You can. use your phone to run a proxy server. (downloading bedrock together is the simplest way to do that)<br>you can also just manually do it through console settings but you must have some tweaking knowledge and ip entering knowledge to do that.<br><br>get bedrock together, it allows you to connect on consoles to anything pretty much.</p>",
+        "author_id": 10259307684749,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/28977394482189-Connecting-to-non-featured-servers-using-the-console/comments/29667594881293",
+        "created_at": "2024-08-27T08:07:20Z",
+        "updated_at": "2024-08-27T16:32:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/28977394482189/comments/29667594881293.json",
+        "post_id": 28977394482189,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,1057 @@
+[
+  {
+    "post_id": 360019565611,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360003022952,
+        "body": "<p>Moved to commands, as the solution proposed is a command.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360019565611-Cloudy-not-cloudy/comments/360003022952",
+        "created_at": "2018-11-15T17:39:12Z",
+        "updated_at": "2018-11-15T17:39:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360019565611/comments/360003022952.json",
+        "post_id": 360019565611,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 5268205634189,
+        "body": "<p>Maybe if they are lots of clouds a higher chance of rain and if there aren't any rain is impossible</p>",
+        "author_id": 1902021874407,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360019565611-Cloudy-not-cloudy/comments/5268205634189",
+        "created_at": "2022-04-03T15:13:25Z",
+        "updated_at": "2022-04-21T20:02:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360019565611/comments/5268205634189.json",
+        "post_id": 360019565611,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 5692684030733,
+        "body": "<p>Brilliant idea</p>",
+        "author_id": 380512579092,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360019565611-Cloudy-not-cloudy/comments/5692684030733",
+        "created_at": "2022-04-21T20:02:43Z",
+        "updated_at": "2022-04-21T20:02:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360019565611/comments/5692684030733.json",
+        "post_id": 360019565611,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 13411501297549,
+        "body": "<p>Oh yes. I’d like this. Could probably be used for making a creation in the snow and have maybe the doweathercycle put as false just in case, yeah toggling cloudy weather would be neat. </p>",
+        "author_id": 8362277457549,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360019565611-Cloudy-not-cloudy/comments/13411501297549",
+        "created_at": "2023-02-24T22:47:26Z",
+        "updated_at": "2023-05-08T23:17:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360019565611/comments/13411501297549.json",
+        "post_id": 360019565611,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 29882819573389,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 30679667163661,
+        "body": "<p>this is a big deal for speedrunning, please mojang, please add it back. Why remove a feature that was actively being used. The mods that are supposed to \"add this functionality back\" are not working too. Take BetterF3 for example, F3+F does change the render distance but not actually load new chunks, until we go to settings and press escape (probably because of a event firing when we escape out of minecraft options) that the mod makers missed. The point is, add it back, i beg u</p>",
+        "author_id": 30679637615117,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/29882819573389-Please-add-back-the-F3-F-render-distance-shortcut/comments/30679667163661",
+        "created_at": "2024-09-30T17:29:18Z",
+        "updated_at": "2024-09-30T22:25:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/29882819573389/comments/30679667163661.json",
+        "post_id": 29882819573389,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 30854450982669,
+        "body": "<p>Very late, but I thought about what you said, and I think I remember experiencing the same thing when I used BetterF3 in 1.19 (and maybe even 1.20.4?) on servers. F3+F technically changed the render distance but never actually updated until I opened the game menu and escaped. I also just discovered that F3+F had existed for over a decade even before 1.9 but was temporarily removed in 1.7.2 when the render distance slider was changed to have more options. Knowing this makes its removal a bit more disappointing...</p>",
+        "author_id": 11514220747405,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/29882819573389-Please-add-back-the-F3-F-render-distance-shortcut/comments/30854450982669",
+        "created_at": "2024-10-07T13:31:47Z",
+        "updated_at": "2024-10-07T16:37:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/29882819573389/comments/30854450982669.json",
+        "post_id": 29882819573389,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 6637209426829,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 6639182711821,
+        "body": "<p>What would be the point of this command?</p>",
+        "author_id": 5209025310477,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6637209426829-Knockback-Command/comments/6639182711821",
+        "created_at": "2022-06-02T19:32:19Z",
+        "updated_at": "2022-06-02T19:38:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6637209426829/comments/6639182711821.json",
+        "post_id": 6637209426829,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4423452474381,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4424806861965,
+        "body": "<p>Duplicate of this post ID \"360011104532\" with title \"See inventory player name\".</p>",
+        "author_id": 394519325351,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4423452474381--inventory-command-for-Minecraft-Bedrock-Edition/comments/4424806861965",
+        "created_at": "2022-02-09T18:10:45Z",
+        "updated_at": "2023-12-12T20:43:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4423452474381/comments/4424806861965.json",
+        "post_id": 4423452474381,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4417125985037,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4417299049101,
+        "body": "<p>This would be especially useful on Java edition as well! Love the idea, but would like to see it in both versions, as Java doesn’t have a reliable variable system. Also a couple of suggestions:</p>\n<p><br>1. Instead of /getvar and /setvar, it should be /variable get and /variable set (could be shortened to just /var</p>\n<p>2. There should be operations to these variables, eg /var operation [value]. (For example, /var operation exampleInteger addition 5, or /var operation exampleString join “Hello”)</p>\n<p>3. Some more types of variable: <strong>Boolean </strong>(stores True or False), <strong>Date </strong>(stores a date), <strong>Time </strong>(stores a time)</p>",
+        "author_id": 407598286372,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4417125985037-Minecraft-Bedrock-Variables/comments/4417299049101",
+        "created_at": "2021-12-21T13:00:12Z",
+        "updated_at": "2024-04-08T14:47:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4417125985037/comments/4417299049101.json",
+        "post_id": 4417125985037,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4417678710669,
+        "body": "<p>3</p>",
+        "author_id": 422708926692,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4417125985037-Minecraft-Bedrock-Variables/comments/4417678710669",
+        "created_at": "2021-12-25T11:55:30Z",
+        "updated_at": "2021-12-25T11:55:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4417125985037/comments/4417678710669.json",
+        "post_id": 4417125985037,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 35255964513549,
+        "body": "<p>This would be awesome. The amount of uses and purposes this could serve in command projects would be crazy.</p>\n<p>For coordinates, I think it would be nice to specify which to save as variables with arguments. And a way to include these in commands such as teleport and summon would be insanely useful.</p>\n<p>I hope to see this in the game sometime in the future. :]</p>",
+        "author_id": 35255915188237,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4417125985037-Minecraft-Bedrock-Variables/comments/35255964513549",
+        "created_at": "2025-03-24T10:48:43Z",
+        "updated_at": "2025-03-26T19:04:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4417125985037/comments/35255964513549.json",
+        "post_id": 4417125985037,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41487120578189,
+        "body": "<p>For the number vars they should make it so anywhere you can type numbers you can use the variables</p>",
+        "author_id": 41487118585741,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4417125985037-Minecraft-Bedrock-Variables/comments/41487120578189",
+        "created_at": "2025-11-28T02:58:22Z",
+        "updated_at": "2025-11-28T02:58:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4417125985037/comments/41487120578189.json",
+        "post_id": 4417125985037,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4416363520397,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 9010548957837,
+        "body": "<p>I was thinking about /placefeature command</p>",
+        "author_id": 9010448958477,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4416363520397--java-parity/comments/9010548957837",
+        "created_at": "2022-09-08T09:21:16Z",
+        "updated_at": "2022-09-08T15:05:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4416363520397/comments/9010548957837.json",
+        "post_id": 4416363520397,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4410721707405,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4410815484813,
+        "body": "<p>I think that's a good idea making a world water with command</p>",
+        "author_id": 389311264412,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4410721707405-Adding-the-world-border-command-to-minecraft-bedrock-PE-and-PS4-edition/comments/4410815484813",
+        "created_at": "2021-10-07T07:47:01Z",
+        "updated_at": "2021-10-07T13:14:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4410721707405/comments/4410815484813.json",
+        "post_id": 4410721707405,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4418382134029,
+        "body": "<p>I wish for players to be able to freely explore my kingdom's area without wandering too far away.</p>",
+        "author_id": 394999052991,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4410721707405-Adding-the-world-border-command-to-minecraft-bedrock-PE-and-PS4-edition/comments/4418382134029",
+        "created_at": "2022-01-01T19:18:42Z",
+        "updated_at": "2022-01-03T21:40:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4410721707405/comments/4418382134029.json",
+        "post_id": 4410721707405,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 19794738585229,
+        "body": "<p>Pls just add this because us Minecraft pe players want to have a border or add it it Minecraft bedrock experiments</p>",
+        "author_id": 19794730909069,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4410721707405-Adding-the-world-border-command-to-minecraft-bedrock-PE-and-PS4-edition/comments/19794738585229",
+        "created_at": "2023-09-25T01:04:59Z",
+        "updated_at": "2023-09-25T01:04:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4410721707405/comments/19794738585229.json",
+        "post_id": 4410721707405,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077124552,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015498472,
+        "body": "<p>I would imagine that existing, and I would do this if it was added!</p>\n<p>data/diejump/predicates/jump:</p>\n<pre><code class=\"_34q3PgLsx9zIU5BiSOjFoM\">{</code><br><br><code class=\"_34q3PgLsx9zIU5BiSOjFoM\">&nbsp;    \"condition\": \"minecraft:entity_properties\",</code><br><br><code class=\"_34q3PgLsx9zIU5BiSOjFoM\">&nbsp;    \"entity\": \"this\",</code><br><br><code class=\"_34q3PgLsx9zIU5BiSOjFoM\">&nbsp;    \"predicate\": {</code><br><br><code class=\"_34q3PgLsx9zIU5BiSOjFoM\">&nbsp;    &nbsp;    \"keys\": {</code><br><br><code class=\"_34q3PgLsx9zIU5BiSOjFoM\">&nbsp;    &nbsp;    &nbsp;    \"jump\": true</code><br><br><code class=\"_34q3PgLsx9zIU5BiSOjFoM\">&nbsp;    &nbsp;    }</code><br><br><code class=\"_34q3PgLsx9zIU5BiSOjFoM\">&nbsp;    }</code><br><br><code class=\"_34q3PgLsx9zIU5BiSOjFoM\">}</code></pre>\n<p>data/diejump/functions/tick:</p>\n<pre>kill @a[predicate=diejump:jump]</pre>\n<p>A data-pack where if the player jumps, the entity dies!</p>",
+        "author_id": 400773365951,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077124552-Predicate-for-keystrokes-Java/comments/360015498472",
+        "created_at": "2021-05-17T13:05:51Z",
+        "updated_at": "2021-05-17T13:05:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077124552/comments/360015498472.json",
+        "post_id": 360077124552,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4411996892429,
+        "body": "<p><code>Just think about how useful it would be to detect clicks <br>without a carrot on a stick<br><strong>{</strong></code><br><strong><code>&nbsp;    \"condition\": \"minecraft:entity_properties\",</code></strong><br><strong><code>&nbsp;    \"entity\": \"this\",</code></strong><br><strong><code>&nbsp;    \"predicate\": {</code></strong><br><strong><code>&nbsp;    &nbsp;    \"keys\": {</code></strong><br><strong><code>&nbsp;    &nbsp;    &nbsp;    \"use\": true</code></strong><br><strong><code>&nbsp;    &nbsp;    }</code></strong><br><strong><code>&nbsp;    }</code></strong><br><strong><code>}</code></strong></p>",
+        "author_id": 377315840852,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077124552-Predicate-for-keystrokes-Java/comments/4411996892429",
+        "created_at": "2021-10-25T02:09:19Z",
+        "updated_at": "2021-10-25T02:09:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077124552/comments/4411996892429.json",
+        "post_id": 360077124552,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077123812,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014437751,
+        "body": "<p>just think: mount a player to an invisible minecart, and then have a repeating command block that teleports that to a moving armor stand! It seems silly but a lot of map makers (me included) have trouble with that exact situation simply because the player position is a lot harder to keep track of by the game so it gets super jitter-y when teleporting them to a position rapidly. This would fix a lot of headaches!</p>",
+        "author_id": 411711337912,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077123812--mount-command-Java/comments/360014437751",
+        "created_at": "2021-02-25T17:29:41Z",
+        "updated_at": "2021-02-25T19:22:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077123812/comments/360014437751.json",
+        "post_id": 360077123812,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075893812,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4410187647501,
+        "body": "<p>This is very useful because in my opinion dungeons are quite hard to find and quite rare</p>",
+        "author_id": 419034158472,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075893812--locate-dungeon/comments/4410187647501",
+        "created_at": "2021-09-28T04:21:39Z",
+        "updated_at": "2021-09-28T04:21:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075893812/comments/4410187647501.json",
+        "post_id": 360075893812,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073836972,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013448852,
+        "body": "<p>Variables and data storage are already available in a variety of forms—it's up to you to decide which is the best for the job.</p>\n<p>For numerical formats, scoreboards are the best tool because they support mathematical operations like <code>+</code>, <code>−</code>, <code>×</code>,<code>÷</code>, and modulus (<code>%</code>).</p>\n<p>If you need to store strings, the probably best way is to use Minecraft's built in free store:</p>\n<pre>/data merge storage namespace:myarea {MyString:'this is a test string'}</pre>\n<p>There are probably other ways to store data too, like by setting blocks in your world, or modifying item data.</p>",
+        "author_id": 396590871911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073836972-Adding-Variables-to-Command-Blocks/comments/360013448852",
+        "created_at": "2020-11-09T20:40:17Z",
+        "updated_at": "2020-11-09T22:19:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073836972/comments/360013448852.json",
+        "post_id": 360073836972,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4417991118733,
+        "body": "<p>yah but why can't we have specific variables that can be directly put into the place of numbers like&nbsp; in /tp @p 10 75 <em>variable name</em> to make the player teleport to 10 75 and then to the variables value as the Z value</p>",
+        "author_id": 422972245211,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073836972-Adding-Variables-to-Command-Blocks/comments/4417991118733",
+        "created_at": "2021-12-28T21:36:20Z",
+        "updated_at": "2024-03-10T23:00:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073836972/comments/4417991118733.json",
+        "post_id": 360073836972,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360072140712,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012641892,
+        "body": "<p>What, why...? Zombie sieges don't even exist in Minecraft. If you don't want zombies spawning just disable mob spawning.&nbsp;</p>",
+        "author_id": 386395193391,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072140712--gamerule-allowZombieSiege/comments/360012641892",
+        "created_at": "2020-08-22T16:01:17Z",
+        "updated_at": "2020-09-15T16:02:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072140712/comments/360012641892.json",
+        "post_id": 360072140712,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4418655990669,
+        "body": "<p>I honestly don't understand why there is no disableSieges command in the game if we already have disableRaids. Some people just don't want to deal with it, without having to play on peaceful :(</p>",
+        "author_id": 397527097692,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072140712--gamerule-allowZombieSiege/comments/4418655990669",
+        "created_at": "2022-01-04T16:42:15Z",
+        "updated_at": "2024-02-18T13:42:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072140712/comments/4418655990669.json",
+        "post_id": 360072140712,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 24223952078221,
+        "body": "<p>(to the \"they don't even exist\" guy, tell me you're on console without telling me you're on console lol)</p>\n\n<p>My brother and I haven't played for a couple years and were considering it.... until we remembered this. My mod list included one that makes it so mobs (besides sieges because game design....) only spawn in covered 0 light making it so even at night mobs can only spawn in caves, dark forests, under overhangs etc. The effect being that dark forests, jungles and caves are more dangerous than vanilla but open areas are generally safe but still the chance a creeper could be hiding in the one 0 light spot under some trees waiting for night.</p>\n\n<p>Our last world was almost perfect.... expect for sieges. And really.... the problem isn't having that mechanic as an option it's not being able to turn it off or easily circumvent it like EVERYTHING ELSE.</p>\n\n<p>Will not play this game again until that's the case. Middle finger Microsoft.</p>",
+        "author_id": 409327370051,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072140712--gamerule-allowZombieSiege/comments/24223952078221",
+        "created_at": "2024-02-18T13:41:01Z",
+        "updated_at": "2024-02-20T09:35:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072140712/comments/24223952078221.json",
+        "post_id": 360072140712,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071740551,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4407638663565,
+        "body": "<p>Very useful feature, hopefully, it's implemented so I don't have to do some janky methods like other servers.</p>",
+        "author_id": 380309749232,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071740551-Add-Color-Code-for-Hex-Colors/comments/4407638663565",
+        "created_at": "2021-08-22T17:16:17Z",
+        "updated_at": "2021-09-23T15:31:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071740551/comments/4407638663565.json",
+        "post_id": 360071740551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 20810709490701,
+        "body": "<p>W idea</p>",
+        "author_id": 417501720351,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071740551-Add-Color-Code-for-Hex-Colors/comments/20810709490701",
+        "created_at": "2023-10-28T19:34:46Z",
+        "updated_at": "2023-10-28T19:34:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071740551/comments/20810709490701.json",
+        "post_id": 360071740551,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071588952,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012130891,
+        "body": "<p>if the mobs can spawn in everywhere they would fall from the sky of spawn in the void &amp; theres no gonna be the mob cap, a anti-LAG protection</p>",
+        "author_id": 375848865892,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071588952-New-command/comments/360012130891",
+        "created_at": "2020-07-23T00:59:00Z",
+        "updated_at": "2020-07-23T01:38:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071588952/comments/360012130891.json",
+        "post_id": 360071588952,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 6688811868045,
+        "body": "<p>Great idea!</p>",
+        "author_id": 6688780030349,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071588952-New-command/comments/6688811868045",
+        "created_at": "2022-06-05T18:10:58Z",
+        "updated_at": "2022-06-05T18:10:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071588952/comments/6688811868045.json",
+        "post_id": 360071588952,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360058200212,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010236592,
+        "body": "<p>You can already create this with existing features, but I can see why you would want this and why it wouldn't make sense to not have this tag.</p>",
+        "author_id": 384380991192,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360058200212-Item-Frame-Non-Rotation-Tag-Rotatable/comments/360010236592",
+        "created_at": "2020-04-21T23:16:23Z",
+        "updated_at": "2020-04-21T23:16:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360058200212/comments/360010236592.json",
+        "post_id": 360058200212,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011076271,
+        "body": "<p>Yeah, it's kinda annoying that they combined them, as it breaks a few early 1.16 datapacks that use this tag. Hopefully they can at least separate it into different tags.&nbsp;</p>",
+        "author_id": 399491286792,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360058200212-Item-Frame-Non-Rotation-Tag-Rotatable/comments/360011076271",
+        "created_at": "2020-06-21T16:00:16Z",
+        "updated_at": "2020-06-22T18:43:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360058200212/comments/360011076271.json",
+        "post_id": 360058200212,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360050230631,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010407792,
+        "body": "<p>I share that idea but scheduling should work with commands and functions and not instead of functions as you wrote.</p>",
+        "author_id": 376322059891,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050230631--schedule-but-with-commands/comments/360010407792",
+        "created_at": "2020-05-04T18:33:40Z",
+        "updated_at": "2022-05-31T07:25:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050230631/comments/360010407792.json",
+        "post_id": 360050230631,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013750691,
+        "body": "<p>Letting it work for commands would also still let it work for functions, since a possible command is /function NAME.</p>\n<p>I agree, this is a great idea. Although I think the syntax would be better as</p>\n<p>/schedule [command|clear] command &lt;time&gt; [append|replace] &lt;custom-id&gt;, where the custom-id is used in the schedule clear &lt;id&gt; half of the schedule function.</p>\n<p>I think this could make the schedule command extremely useful (as of right now it is very useful also, it just encourages a lot of tiny otherwise-useless functions so that small events can be scheduled).</p>",
+        "author_id": 407766534192,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050230631--schedule-but-with-commands/comments/360013750691",
+        "created_at": "2020-12-12T03:38:52Z",
+        "updated_at": "2020-12-23T00:23:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050230631/comments/360013750691.json",
+        "post_id": 360050230631,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 6574956322829,
+        "body": "<p>Yes please. It is great that we got a schedule command. That makes rather complicated setups to get some sort of delay or time control irrelevant.</p>\n<p>But it should work with commands as well. Sometimes I just want to delay a very specific vanilla command (e.g. something stupid like \"say hi\") and have to set up a whole function in order to accomplish that. That inflates my already bloated function folder more.</p>",
+        "author_id": 6574967667853,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050230631--schedule-but-with-commands/comments/6574956322829",
+        "created_at": "2022-05-31T07:24:57Z",
+        "updated_at": "2022-05-31T19:25:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050230631/comments/6574956322829.json",
+        "post_id": 360050230631,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 20406505148301,
+        "body": "<p>Bedrock already has this, as /event</p>",
+        "author_id": 400271757932,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050230631--schedule-but-with-commands/comments/20406505148301",
+        "created_at": "2023-10-15T20:23:23Z",
+        "updated_at": "2023-10-15T20:23:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050230631/comments/20406505148301.json",
+        "post_id": 360050230631,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 25977151678477,
+        "body": "<p>This would be awesome. If we can have the ability to schedule both, we can benefit from running functions on a schedule, as well as not having to make a new function to schedule a singular command!</p>",
+        "author_id": 380677610451,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050230631--schedule-but-with-commands/comments/25977151678477",
+        "created_at": "2024-04-17T16:55:19Z",
+        "updated_at": "2024-04-17T19:07:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050230631/comments/25977151678477.json",
+        "post_id": 360050230631,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048200291,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006949411,
+        "body": "<p>But why not just use like 2 command blocks? 1that teleports @e[type=wandering_trader] to a location with a command block that kills @e[r=1] ?</p>",
+        "author_id": 385014929111,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048200291-A-gamerule-that-toggles-wandering-trader-spawns/comments/360006949411",
+        "created_at": "2019-08-09T05:50:49Z",
+        "updated_at": "2019-08-09T05:50:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048200291/comments/360006949411.json",
+        "post_id": 360048200291,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008012312,
+        "body": "<p>I'd really appreciate this. Playing in Creative mode, they spawn frequently and it's quite a hassle. Especially at night when they use their invisibility potion. </p>\n\n<p>Also Bedrock has the /mobevent command, so should we. It would help immensely with this issue.</p>",
+        "author_id": 388388861692,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048200291-A-gamerule-that-toggles-wandering-trader-spawns/comments/360008012312",
+        "created_at": "2019-10-09T19:44:03Z",
+        "updated_at": "2019-12-14T17:24:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048200291/comments/360008012312.json",
+        "post_id": 360048200291,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009765011,
+        "body": "<p>genius</p>",
+        "author_id": 395630155831,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048200291-A-gamerule-that-toggles-wandering-trader-spawns/comments/360009765011",
+        "created_at": "2020-03-22T01:09:09Z",
+        "updated_at": "2020-03-22T01:09:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048200291/comments/360009765011.json",
+        "post_id": 360048200291,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010386932,
+        "body": "<p>Hey was this for Java or Bedrock, as I want this command on bedrock, </p>",
+        "author_id": 394083554612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048200291-A-gamerule-that-toggles-wandering-trader-spawns/comments/360010386932",
+        "created_at": "2020-05-02T17:26:38Z",
+        "updated_at": "2020-05-04T18:18:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048200291/comments/360010386932.json",
+        "post_id": 360048200291,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 18413857930125,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 31250044266765,
+        "body": "<p>认同，目前 schedule 函数不允许通过宏传入参数，对于数据包开发者，这会为他们整合大量重复函数带来极大的困难。允许 schedule 使用宏将会使他们获得便利。</p>\n<p>因此， 根据楼主的说法，schedule 使用 function 时的语法应该是：</p>\n<pre>schedule function &lt;function&gt; {Param1:... , Param2:... , ...} &lt;time&gt; [append/replace]</pre>\n<p>我个人有一种更加理想的方案。改变 schedule 的语法，若要通过它执行一些东西，先通过 delay 声明执行的延迟（作用是与 clear 区分开，避免语法混淆），同时将 function 更名为 run ， 允许其直接执行一个指令，通过指令执行 function 也能达到对宏的使用。同时，还能做到延时检查目标状态等复杂的功能。</p>\n<p>此外，在run的基础下增添一个可选的tag选项，以此标记所执行的延时计划，方便 schedule clear语句清除计划。</p>\n<p>&nbsp;</p>\n<p>因此，个人理想中的语法如下：</p>\n<pre>schedule delay &lt;time&gt; [append/replace] [tag &lt;tagName&gt; [tag &lt;tagName&gt; [...]]] run &lt;command&gt;<br>schedule clear &lt;tagName&gt;</pre>\n<p>此外，个人还有几个例子对该语法加以解释说明：</p>\n<pre>#在1秒钟后对函数传参并执行<br>schedule delay 1s run function foo:bar {param1:... , param2:...}<br><br>#在10游戏刻后输出helloworld，并为语句添加 test 标记<br>schedule delay 10t tag test run say helloworld<br><br>#在20游戏刻后嵌套一个新的schedule，执行函数，并为第一个schedule添加test和example标记<br>schedule delay 20t tag example tag test run schedule delay 10t run function foo:bar<br><br>#在5游戏刻后检查最近玩家的谓词（假设为holding_sword），若执行成功，清除标记为test的语句<br>schedule delay 5t run execute as @n if predicate holding_sword run schedule clear test<br><br>#这些例子都表明了该函数语法的功能强大。而且该语法具有很强的可扩展性，未来的更新还可以在tag、run、delay的基础上增加更多的语法规则</pre>",
+        "author_id": 31249358278669,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/18413857930125-Allow-macros-to-be-used-with-schedule/comments/31250044266765",
+        "created_at": "2024-10-22T03:34:36Z",
+        "updated_at": "2024-10-23T15:36:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/18413857930125/comments/31250044266765.json",
+        "post_id": 18413857930125,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7164867437837,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 14201611262093,
+        "body": "<p>This is the technical thing I want the most, this would allow for significantly easier custom item crafting in datapacks</p>",
+        "author_id": 14201592612237,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7164867437837-Please-let-us-make-custom-NBT-Recipes/comments/14201611262093",
+        "created_at": "2023-03-22T06:26:12Z",
+        "updated_at": "2023-03-22T06:26:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7164867437837/comments/14201611262093.json",
+        "post_id": 7164867437837,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4425723871373,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5482032738957,
+        "body": "<p>I have wanted this recently for uncovering nether fortresses. I have had to use separate commands for removing netherrack, lava, blackstone and basalt. Maybe an addition to the command that allows you to specify blocks to keep in an area as well would be beneficial.</p>",
+        "author_id": 420676248771,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4425723871373--fill-Command-for-Multiple-Block-Types/comments/5482032738957",
+        "created_at": "2022-04-12T11:57:53Z",
+        "updated_at": "2024-01-27T00:22:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4425723871373/comments/5482032738957.json",
+        "post_id": 4425723871373,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 14955181342477,
+        "body": "<p>This is an amazing idea, and I would love to see it implemented. Because I love building and having it randomly spread different types of blocks would be such a time saver.</p>",
+        "author_id": 14955132884237,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4425723871373--fill-Command-for-Multiple-Block-Types/comments/14955181342477",
+        "created_at": "2023-04-18T14:28:30Z",
+        "updated_at": "2023-05-24T00:18:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4425723871373/comments/14955181342477.json",
+        "post_id": 4425723871373,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4404264857997,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4404773301389,
+        "body": "<p>Yo apoyo esta idea</p>",
+        "author_id": 418149575671,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404264857997--Java-Parity-locatebiome-command-for-Bedrock/comments/4404773301389",
+        "created_at": "2021-07-11T02:11:54Z",
+        "updated_at": "2021-07-11T02:11:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404264857997/comments/4404773301389.json",
+        "post_id": 4404264857997,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4406697328269,
+        "body": "<p>Si porrrrfi V</p>\n<p>Ves pls</p>",
+        "author_id": 419225913511,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404264857997--Java-Parity-locatebiome-command-for-Bedrock/comments/4406697328269",
+        "created_at": "2021-08-08T15:41:21Z",
+        "updated_at": "2021-08-08T15:41:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404264857997/comments/4406697328269.json",
+        "post_id": 4404264857997,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 6768521692813,
+        "body": "<p>please add the java commands for bedrock</p>",
+        "author_id": 401292376592,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404264857997--Java-Parity-locatebiome-command-for-Bedrock/comments/6768521692813",
+        "created_at": "2022-06-08T20:06:53Z",
+        "updated_at": "2022-06-10T09:46:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404264857997/comments/6768521692813.json",
+        "post_id": 4404264857997,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077450811,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014753792,
+        "body": "<p>I'll second this post because of the ability to have it all in one function. In the meantime we could have a check before each step of the inner function:</p>\n<pre>execute as @e[type=cow] at @s run say Step 1<br>execute as @e[type=cow] at @s run say Step 2</pre>\n<p>But it is much more cumbersome to write and it messes up the collation of the steps, so that's why I agree with this post.</p>\n<p>I'm afraid I don't agree with the syntax for blocks though, braces <code>{}</code> seem too far deviated from Minecraft command syntax. Instead of that, I'd like to propose indentation blocks like in the language Python to show this. Indent should be one tab per indentation level. This renders as eight spaces here but many notepad editors allow customization:</p>\n<pre>execute if &lt;condition&gt; run commands<br>\tsay Hello world!<br>\tgive @s minecraft:diamond 64</pre>\n<pre>execute as @e[type=minecraft:cow] at @s run commands<br>\tdata modify entity @s Motion[1] set value 5.0f<br>\tparticle minecraft:cloud ~ ~ ~ 0 0 0 0.1 10 normal</pre>\n<p>The word <code>commands</code> can be anything, but it is required because I think you should be required to indicate when you are about to start an indented block, and a key word that activates it would best fit in with current command syntax.</p>\n<p>As for word choice, I thought of something that would make sense if you said it out loud (… if this condition is true, run the <em>commands</em> …) and I didn't want to use <code>function</code> because it was already taken. Feel free to suggest another word.</p>",
+        "author_id": 396590871911,
+        "vote_sum": 4,
+        "vote_count": 4,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077450811-In-line-functions-in-mcfunction-files/comments/360014753792",
+        "created_at": "2021-03-26T22:47:39Z",
+        "updated_at": "2021-09-21T21:12:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077450811/comments/360014753792.json",
+        "post_id": 360077450811,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076336132,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014183992,
+        "body": "<p>On the error bit, maybe the game should calculate if it is possible, and if it isn't, then raise an error. also, there should be a detour argument which is set to false automatically, and makes the mob walk around the obstacle if true instead of just walking straight into it then slowly moving to the side if at an angle.</p>",
+        "author_id": 406374590912,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076336132--path-command/comments/360014183992",
+        "created_at": "2021-01-26T11:09:30Z",
+        "updated_at": "2023-11-26T13:19:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076336132/comments/360014183992.json",
+        "post_id": 360076336132,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014184171,
+        "body": "<p>For the map maker and the dynamisme of the building it can be an amasing command ! Have some mobs walking to a selected point can be juste ! WAW</p>",
+        "author_id": 410514641371,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076336132--path-command/comments/360014184171",
+        "created_at": "2021-02-02T00:37:43Z",
+        "updated_at": "2021-02-02T04:02:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076336132/comments/360014184171.json",
+        "post_id": 360076336132,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360015656152,
+        "body": "<p>I don’t think it’s necessary, because developers can implement AI behaviors of custom entities through mathematical calculations and a bunch of execute or data commands.</p>",
+        "author_id": 383217026151,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076336132--path-command/comments/360015656152",
+        "created_at": "2021-05-28T03:22:46Z",
+        "updated_at": "2023-11-26T13:19:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076336132/comments/360015656152.json",
+        "post_id": 360076336132,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073162352,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012757471,
+        "body": "<p>Use a mod </p>",
+        "author_id": 396393686272,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073162352-Building-holograms/comments/360012757471",
+        "created_at": "2020-09-12T12:23:00Z",
+        "updated_at": "2020-09-18T02:33:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073162352/comments/360012757471.json",
+        "post_id": 360073162352,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071386471,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011333032,
+        "body": "<p>Hmmmm, I cordially disagree. The armor in Java will provide significant reduction, but balance out with toughness; getting weaker the more toughness (effect resist) you have. In Bedrock armor caps at 80% damage mitigation regardless. And that’s before you have enchants. Now armor has no effect on starving, drowning, suffocating, burning, void, magic &amp; then some. These are all preparedness &amp; common sense checks; like digging down. It would be interesting to see bedrock conform to Java; toughness randomly (or a method to a madness)  to different armor drops dropped in different manners.</p>",
+        "author_id": 400087878732,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071386471-Increase-max-Armor-Attribute/comments/360011333032",
+        "created_at": "2020-07-11T01:59:24Z",
+        "updated_at": "2020-07-13T15:10:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071386471/comments/360011333032.json",
+        "post_id": 360071386471,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011347292,
+        "body": "<p>If they do this, they should also allow an increase for the max value of the generic.armor attribute.&nbsp;</p>",
+        "author_id": 379368519112,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071386471-Increase-max-Armor-Attribute/comments/360011347292",
+        "created_at": "2020-07-12T20:45:54Z",
+        "updated_at": "2020-07-12T20:45:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071386471/comments/360011347292.json",
+        "post_id": 360071386471,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011364952,
+        "body": "<p>I literally said it was for an adventure map, HKfortysevn</p>",
+        "author_id": 400429604271,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071386471-Increase-max-Armor-Attribute/comments/360011364952",
+        "created_at": "2020-07-14T01:07:58Z",
+        "updated_at": "2020-07-14T15:15:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071386471/comments/360011364952.json",
+        "post_id": 360071386471,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011382171,
+        "body": "<div class=\"comment-meta\">\n<span title=\"DisownedMoth0\"><a href=\"/hc/en-us/profiles/400429604271-DisownedMoth0\" rel=\"nofollow noreferrer\"> DisownedMoth0</a></span> I stand corrected. =)</div>\n<div class=\"comment-meta\">&nbsp; Let me ask you this, being Adventure mode with Apocalypse after, both modes are to scale up the difficulty. If Armor was adjusted so your ventures were not as risky, say like your first playthrough to unlock the modes, would it be a challenge?</div>\n<div class=\"comment-meta\">&nbsp;</div>",
+        "author_id": 400087878732,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071386471-Increase-max-Armor-Attribute/comments/360011382171",
+        "created_at": "2020-07-15T18:12:17Z",
+        "updated_at": "2020-07-15T18:34:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071386471/comments/360011382171.json",
+        "post_id": 360071386471,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 39654857541901,
+        "body": "<p>does anyone know why I make an armor peice with +5 armor using attributes and make another they dont combine to make 10+ armor instead the make +5 and override eachothers stats.</p>",
+        "author_id": 39654805093005,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071386471-Increase-max-Armor-Attribute/comments/39654857541901",
+        "created_at": "2025-09-17T19:50:22Z",
+        "updated_at": "2025-09-17T19:50:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071386471/comments/39654857541901.json",
+        "post_id": 360071386471,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

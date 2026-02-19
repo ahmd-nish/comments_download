@@ -1,0 +1,832 @@
+[
+  {
+    "post_id": 360073780412,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013088891,
+        "body": "<p>you could also just instead of coding a new block with a texture and all that just add the mechanic to repeaters</p>",
+        "author_id": 402747855952,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073780412-New-Redstone-contraption/comments/360013088891",
+        "created_at": "2020-10-14T03:34:05Z",
+        "updated_at": "2020-10-22T18:51:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073780412/comments/360013088891.json",
+        "post_id": 360073780412,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013180212,
+        "body": "<p>Sounds like an end game redstone item. But I think it could work. You'd probably want to make it so you get two blocks. One receives signals while the other releases them. So you could put a signal in to one and it would come out the other. The other thing one would need to do it set them to each other. Maybe you could code it so you would be able to put different items in them, and the ones with the same items would be connected. A simple way to connect them. However the more of them that are releasing the signal from the one that is connected, the weaker the signal will be. For each one that releases from one that it goes into the signal will be divided by that number.</p>",
+        "author_id": 394117313011,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073780412-New-Redstone-contraption/comments/360013180212",
+        "created_at": "2020-10-15T18:52:59Z",
+        "updated_at": "2020-10-19T19:59:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073780412/comments/360013180212.json",
+        "post_id": 360073780412,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013619592,
+        "body": "<p>You can just use a dropper to send an item through a portal.</p>",
+        "author_id": 398368240952,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073780412-New-Redstone-contraption/comments/360013619592",
+        "created_at": "2020-11-24T17:44:57Z",
+        "updated_at": "2021-09-02T01:23:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073780412/comments/360013619592.json",
+        "post_id": 360073780412,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360072741032,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012698372,
+        "body": "<p>Honestly, I don't think it would have much use outside of decor and the armor stand already sorta fulfill this role...</p>",
+        "author_id": 380739329151,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072741032-Punching-Bag/comments/360012698372",
+        "created_at": "2020-08-28T05:46:34Z",
+        "updated_at": "2020-08-28T05:46:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072741032/comments/360012698372.json",
+        "post_id": 360072741032,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071869791,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012218191,
+        "body": "<p>Cool idea! If they output power on multiple sides, would you be able to connect more than one observer to them? That would be interesting!</p>",
+        "author_id": 377527829312,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071869791-Angled-Observers/comments/360012218191",
+        "created_at": "2020-07-30T17:55:28Z",
+        "updated_at": "2020-09-11T03:04:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071869791/comments/360012218191.json",
+        "post_id": 360071869791,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360065931251,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010636612,
+        "body": "<p>Why what about bedrock? Why should only Java get it?</p>",
+        "author_id": 394569780751,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360065931251-Octivian-Block-all-platform/comments/360010636612",
+        "created_at": "2020-05-21T17:01:31Z",
+        "updated_at": "2020-06-11T06:45:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360065931251/comments/360010636612.json",
+        "post_id": 360065931251,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010636792,
+        "body": "<p>Sorry it would be an all platform feature i just thought i could only pick one tag ill fix that.&nbsp;</p>",
+        "author_id": 398186567731,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360065931251-Octivian-Block-all-platform/comments/360010636792",
+        "created_at": "2020-05-21T17:11:29Z",
+        "updated_at": "2020-07-09T14:12:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360065931251/comments/360010636792.json",
+        "post_id": 360065931251,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011311812,
+        "body": "<p>Thanks!</p>",
+        "author_id": 394569780751,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360065931251-Octivian-Block-all-platform/comments/360011311812",
+        "created_at": "2020-07-09T14:12:37Z",
+        "updated_at": "2020-07-09T14:12:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360065931251/comments/360011311812.json",
+        "post_id": 360065931251,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360062464832,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010802752,
+        "body": "<p>while this may seem like something that needs to be removed, i disagree. I've built plenty of systems that required more than 8 different outputs (referencing item frames) and honestly using a lectern is more efficient than using a key sorting system for an elevator, or having a button for every floor. Honestly if the lectern is messing with your redstone, build around it, or if it's too bulky for you, try and find a way to make it less bulky. That's what every redstone engineer has to do anyways, so welcome to the club of making things smaller gradually</p>",
+        "author_id": 377547646072,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062464832-Remove-lectern-s-pulse-when-flipping-pages/comments/360010802752",
+        "created_at": "2020-05-30T17:42:44Z",
+        "updated_at": "2020-06-01T16:19:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062464832/comments/360010802752.json",
+        "post_id": 360062464832,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4408476111757,
+        "body": "<p>\"I've built plenty of systems that required more than 8 different outputs [...]\"<br><br>Correct me if I'm wrong OP, but this is proposing&nbsp;to remove the redstone pulse that occurs upon page switches. It isn't saying that the ability to use a comparator on a lectern should be removed.<br><br>It makes zero sense that there's a redstone pulse coupled with page changes anyway. Absolutely no redstone goes into the making of a lectern; it should be incapable of sending a pulse like that.</p>",
+        "author_id": 1901342433427,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062464832-Remove-lectern-s-pulse-when-flipping-pages/comments/4408476111757",
+        "created_at": "2021-09-03T04:22:24Z",
+        "updated_at": "2023-11-16T22:15:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062464832/comments/4408476111757.json",
+        "post_id": 360062464832,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360061552011,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010628011,
+        "body": "<p>You could just power the redstone from the block it is sitting on or from above.</p>",
+        "author_id": 396640537012,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360061552011-More-Redstone-Contraction/comments/360010628011",
+        "created_at": "2020-05-21T03:34:51Z",
+        "updated_at": "2020-06-24T09:24:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360061552011/comments/360010628011.json",
+        "post_id": 360061552011,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360059900451,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010193252,
+        "body": "<p>Extended pistons are immovable blocks, even on Java. It's an intended feature.</p>",
+        "author_id": 365474396491,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360059900451-Allow-extended-pistons-to-be-pulled-back-by-sticky-pistons-on-mobile/comments/360010193252",
+        "created_at": "2020-04-19T02:54:11Z",
+        "updated_at": "2020-04-20T16:32:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360059900451/comments/360010193252.json",
+        "post_id": 360059900451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010463531,
+        "body": "<p>Not quite sure to agree this might break some redstone contraptions</p>",
+        "author_id": 397719227871,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360059900451-Allow-extended-pistons-to-be-pulled-back-by-sticky-pistons-on-mobile/comments/360010463531",
+        "created_at": "2020-05-08T15:02:51Z",
+        "updated_at": "2020-05-08T19:29:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360059900451/comments/360010463531.json",
+        "post_id": 360059900451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010684871,
+        "body": "<p>A change that wouldn't break anything however is to allow retracting pistons to be moved.</p>",
+        "author_id": 382585790352,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360059900451-Allow-extended-pistons-to-be-pulled-back-by-sticky-pistons-on-mobile/comments/360010684871",
+        "created_at": "2020-05-26T15:32:28Z",
+        "updated_at": "2020-06-03T12:18:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360059900451/comments/360010684871.json",
+        "post_id": 360059900451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360059843031,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010089552,
+        "body": "<p>Maybe this should be its own separate block</p>",
+        "author_id": 385222369272,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360059843031-Jack-O-Lanterns-Turn-Off-With-Redstone/comments/360010089552",
+        "created_at": "2020-04-12T20:24:58Z",
+        "updated_at": "2020-04-12T20:24:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360059843031/comments/360010089552.json",
+        "post_id": 360059843031,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010402871,
+        "body": "<p>Or maybe just use redstone lamps?</p>",
+        "author_id": 397017049051,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360059843031-Jack-O-Lanterns-Turn-Off-With-Redstone/comments/360010402871",
+        "created_at": "2020-05-04T13:03:47Z",
+        "updated_at": "2020-05-04T13:03:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360059843031/comments/360010402871.json",
+        "post_id": 360059843031,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360057877112,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009471991,
+        "body": "<p>Water vibration, water wave ... Does that mean that the water or the block of water must also transmit the redstone signal like redstone powder?</p>",
+        "author_id": 394504930411,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360057877112-Vibration-Detector/comments/360009471991",
+        "created_at": "2020-02-26T03:27:28Z",
+        "updated_at": "2020-02-26T15:50:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360057877112/comments/360009471991.json",
+        "post_id": 360057877112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009482271,
+        "body": "<p>No if you are in the water and anything is in the vicinity of the block, you don’t need Redstone dust but it makes a Redstone signal without dust </p>",
+        "author_id": 382903164372,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360057877112-Vibration-Detector/comments/360009482271",
+        "created_at": "2020-02-26T21:58:43Z",
+        "updated_at": "2020-02-27T16:58:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360057877112/comments/360009482271.json",
+        "post_id": 360057877112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009492392,
+        "body": "<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">我應該說，我們產生的水波或水中的紅石信號也必須限制傳輸範圍，否則，整個水可能必須計算這種複雜的流體力學</span></span></p>",
+        "author_id": 394504930411,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360057877112-Vibration-Detector/comments/360009492392",
+        "created_at": "2020-02-27T17:13:13Z",
+        "updated_at": "2020-02-27T17:13:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360057877112/comments/360009492392.json",
+        "post_id": 360057877112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009928672,
+        "body": "<p>Yes. This will be useful for traps.</p>\n<p>You don't have to use annoying tripwire hooks.</p>",
+        "author_id": 393919407031,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360057877112-Vibration-Detector/comments/360009928672",
+        "created_at": "2020-04-01T22:40:00Z",
+        "updated_at": "2020-04-01T23:40:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360057877112/comments/360009928672.json",
+        "post_id": 360057877112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360054481051,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013852511,
+        "body": "<p>Ever heard of a repeater or a redstone block attached to a slime block attached to a sticky piston.</p>",
+        "author_id": 406273121171,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360054481051-The-energy-block/comments/360013852511",
+        "created_at": "2020-12-24T18:38:20Z",
+        "updated_at": "2020-12-25T18:01:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360054481051/comments/360013852511.json",
+        "post_id": 360054481051,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360041589531,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004588391,
+        "body": "<p>Can’t you just use the redstone torch though?</p>",
+        "author_id": 367485885451,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041589531-an-inverter-for-redstone/comments/360004588391",
+        "created_at": "2019-02-24T01:40:27Z",
+        "updated_at": "2021-09-02T01:25:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041589531/comments/360004588391.json",
+        "post_id": 360041589531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360004644811,
+        "body": "<p>Try redstone torch</p>",
+        "author_id": 375072287192,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041589531-an-inverter-for-redstone/comments/360004644811",
+        "created_at": "2019-02-27T11:08:57Z",
+        "updated_at": "2021-09-02T01:25:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041589531/comments/360004644811.json",
+        "post_id": 360041589531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360004868812,
+        "body": "<p>Sometimes a redstone torch won't work, because of redstone dust or a comparator beside it or a block above it you don't want to power.</p>\n<p>This could be accomplished using the Logic Gate suggestion, by only using one of its two inputs. The Logic Gate has many additional applications, too.</p>",
+        "author_id": 365031361692,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041589531-an-inverter-for-redstone/comments/360004868812",
+        "created_at": "2019-03-17T00:32:35Z",
+        "updated_at": "2022-09-26T21:23:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041589531/comments/360004868812.json",
+        "post_id": 360041589531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360040075092,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004049171,
+        "body": "<p>Um, what on earth does this comment mean I understood that you wanted us to ask you.</p>",
+        "author_id": 368446280172,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040075092-META-Cube-and-mini-circuits/comments/360004049171",
+        "created_at": "2019-01-25T02:03:15Z",
+        "updated_at": "2019-01-25T02:03:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040075092/comments/360004049171.json",
+        "post_id": 360040075092,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360004049191,
+        "body": "<p>Oh by the way you should vote for your own comment.</p>",
+        "author_id": 368446280172,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040075092-META-Cube-and-mini-circuits/comments/360004049191",
+        "created_at": "2019-01-25T02:03:53Z",
+        "updated_at": "2019-01-25T02:03:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040075092/comments/360004049191.json",
+        "post_id": 360040075092,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360029277352,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010005692,
+        "body": "<p>I would like dispensers to be movable to be able to make hidden portal closer.</p>",
+        "author_id": 396139139892,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360029277352-Move-Unmoveable-Blocks/comments/360010005692",
+        "created_at": "2020-04-07T10:28:07Z",
+        "updated_at": "2020-04-07T10:28:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360029277352/comments/360010005692.json",
+        "post_id": 360029277352,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4408399081869,
+        "body": "<p>Yes. However, there would need to be a replacement for hoppers as the only non-movable transparent redstone-observer detectable block.</p>",
+        "author_id": 1901312484187,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360029277352-Move-Unmoveable-Blocks/comments/4408399081869",
+        "created_at": "2021-09-02T01:26:53Z",
+        "updated_at": "2021-09-02T12:03:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360029277352/comments/4408399081869.json",
+        "post_id": 360029277352,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360027634432,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360002843472,
+        "body": "<p>the only thing I disagree with is the oxygen tank, we already have turtle helmets, other than great idea</p>",
+        "author_id": 369530272871,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360027634432-Redstone-vs-potions-enchanting/comments/360002843472",
+        "created_at": "2018-10-28T22:51:02Z",
+        "updated_at": "2018-10-28T22:51:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360027634432/comments/360002843472.json",
+        "post_id": 360027634432,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40895499390605,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40895564062989,
+        "body": "<p>And there would be a limit of 12 blocks (same as the piston push limit)</p>",
+        "author_id": 38967093102221,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40895499390605-Honey-as-block-glue/comments/40895564062989",
+        "created_at": "2025-11-05T16:34:24Z",
+        "updated_at": "2025-11-05T16:34:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40895499390605/comments/40895564062989.json",
+        "post_id": 40895499390605,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40731725037581,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40880357174157,
+        "body": "<p>I agree, the random redstone behavior is annoying. Comparing Bedrock and Java, I like some of the Bedrock differences. Unlike Java, Bedrock pistons have a short delay which (if it works) can be very useful.</p>",
+        "author_id": 11165279061645,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40731725037581-FIX-BEDROCK-REDSTONE/comments/40880357174157",
+        "created_at": "2025-11-05T00:50:17Z",
+        "updated_at": "2025-11-05T00:50:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40731725037581/comments/40880357174157.json",
+        "post_id": 40731725037581,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 39401773580301,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40628755185421,
+        "body": "<p>Timer blocks are rejected. Wall redstone and extendable pistons are good ideas. What would the other ones do? If the smart hopper is an item sorter, then that also sounds good.</p>",
+        "author_id": 15396191213069,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39401773580301-REDSTONE-UPDATE/comments/40628755185421",
+        "created_at": "2025-10-26T08:05:32Z",
+        "updated_at": "2025-10-26T08:05:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39401773580301/comments/40628755185421.json",
+        "post_id": 39401773580301,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38235038051853,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38632194506509,
+        "body": "<p>Good idea, but I think it should use less copper in crafting. Maybe copper &amp; redstone in a line?</p>",
+        "author_id": 38632028346125,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38235038051853-Copper-cables/comments/38632194506509",
+        "created_at": "2025-08-06T23:50:26Z",
+        "updated_at": "2025-08-06T23:50:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38235038051853/comments/38632194506509.json",
+        "post_id": 38235038051853,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37941773724557,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38034310954765,
+        "body": "<p>You can use glass to build up signal vertically in a chain of 2x1 in bedrock, stone walls statechange, and other stuffs. Horizontally it works also with redstone train rails and observers</p>",
+        "author_id": 37479013532941,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37941773724557-An-Easier-Way-to-Transmit-Specific-Redstone-Signals/comments/38034310954765",
+        "created_at": "2025-07-14T06:41:28Z",
+        "updated_at": "2025-07-14T18:12:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37941773724557/comments/38034310954765.json",
+        "post_id": 37941773724557,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38449020914573,
+        "body": "<p>You can also use a tower of leafs and an observer, and when you place wood under the tower it will update all the leaves </p>",
+        "author_id": 38086027445517,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37941773724557-An-Easier-Way-to-Transmit-Specific-Redstone-Signals/comments/38449020914573",
+        "created_at": "2025-07-30T19:49:52Z",
+        "updated_at": "2025-07-31T00:03:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37941773724557/comments/38449020914573.json",
+        "post_id": 37941773724557,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37120270739213,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 37527691281677,
+        "body": "<p>Yeah true 👍</p>",
+        "author_id": 36912982744077,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37120270739213-Make-Droppers-Dispensers-not-random/comments/37527691281677",
+        "created_at": "2025-06-21T13:26:24Z",
+        "updated_at": "2025-06-21T13:26:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37120270739213/comments/37527691281677.json",
+        "post_id": 37120270739213,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 36373563133069,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36604800784141,
+        "body": "<p>Does not sound vanilla enough imo. Like, nearly every single proposed feature in this suggestion. The only one _vaguely_ vanilla sounding is, imo, the slime (maybe also add honey) × redstone → stricky redstone for the walls (and I'd assume ceilings too?).</p>",
+        "author_id": 410968096151,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/36373563133069-Redstone-update-2-0/comments/36604800784141",
+        "created_at": "2025-05-14T15:03:55Z",
+        "updated_at": "2025-05-14T15:03:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/36373563133069/comments/36604800784141.json",
+        "post_id": 36373563133069,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35445452257677,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36334851237389,
+        "body": "<p>Add a copper reinforcement frame on comparators and repeaters so that they can be waterlogged and will stay floating when the block they were placed on is removed? Honestly I can see this having some great uses. The waterlogging would just be parity since BE already has that but i can see the floating being great on both versions.&nbsp;</p>",
+        "author_id": 405306164292,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35445452257677-framed-repeaters-and-comparators/comments/36334851237389",
+        "created_at": "2025-05-04T14:25:49Z",
+        "updated_at": "2025-05-04T20:48:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35445452257677/comments/36334851237389.json",
+        "post_id": 35445452257677,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 33073132365581,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 36606019428237,
+        "body": "<p>so a pressure plate that sends a short pulse AFTER it is unpressed? Honestly sounds cool. And imo sound vanilla enough.</p>",
+        "author_id": 410968096151,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33073132365581-Sandstone-and-Red-Sandstone-Pressure-Plates/comments/36606019428237",
+        "created_at": "2025-05-14T15:35:54Z",
+        "updated_at": "2025-05-14T16:20:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33073132365581/comments/36606019428237.json",
+        "post_id": 33073132365581,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 29359547249677,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 29361637158541,
+        "body": "<p>Amazing idea!</p>",
+        "author_id": 29315379725453,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/29359547249677-Redstone-level-should-effect-powered-rail-acceleration/comments/29361637158541",
+        "created_at": "2024-08-17T21:40:22Z",
+        "updated_at": "2024-08-17T21:40:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/29359547249677/comments/29361637158541.json",
+        "post_id": 29359547249677,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 27716357366541,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 27822145673229,
+        "body": "<p>I'm impressed with and like this idea :D</p>",
+        "author_id": 398328318651,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/27716357366541-Smither/comments/27822145673229",
+        "created_at": "2024-06-23T18:32:19Z",
+        "updated_at": "2024-06-23T18:32:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/27716357366541/comments/27822145673229.json",
+        "post_id": 27716357366541,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37034710373389,
+        "body": "<p>What's the point? How many items are you smithing to make it worth it?</p>",
+        "author_id": 35091728595085,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/27716357366541-Smither/comments/37034710373389",
+        "created_at": "2025-05-30T20:34:04Z",
+        "updated_at": "2025-05-30T21:04:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/27716357366541/comments/37034710373389.json",
+        "post_id": 27716357366541,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

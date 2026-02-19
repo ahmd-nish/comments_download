@@ -1,0 +1,847 @@
+[
+  {
+    "post_id": 4405818021901,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41641764904461,
+        "body": "<p>Hii mojang this is Ghost. I have lots of ideas for minecraft but let me tell you a few that might make a player experience better. Please add the sunkin skeleton the skeleton that spawns in the oceans and ocean structures. This mob is very dangerous in water but week on land burns in daylight. This skeleton has ocean detail to make it more exciting in minecraft. Also it would be very cool if the skeleton drop shards that can be used to make underwater armor. Also this skeleton drops the totem of sinking. The skeleton rides on those new update sea creatures. It attacks players and dolphins. Let the skeletons guard the buried treasures in ship wrecks so the player can have better hardcore.</p>",
+        "author_id": 28513258112653,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4405818021901-Frozen-zombies/comments/41641764904461",
+        "created_at": "2025-12-03T23:46:16Z",
+        "updated_at": "2025-12-03T23:54:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4405818021901/comments/41641764904461.json",
+        "post_id": 4405818021901,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4405666759565,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4405784815629,
+        "body": "<p>Skeletons should be able to shoot various tipped arrows in Hard/Hardcore mode only, and in any location. Similar to how Spiders can spawn with various potion effects.</p>",
+        "author_id": 412314468832,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4405666759565-Skeletons-shoot-tipped-arrows-below-Y-0/comments/4405784815629",
+        "created_at": "2021-07-26T02:24:34Z",
+        "updated_at": "2021-07-28T17:31:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4405666759565/comments/4405784815629.json",
+        "post_id": 4405666759565,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4405784825485,
+        "body": "<p>There should be a new mob similar to the Stray, which spawns instead of Skeletons below y0. They'd be called Rogues, and they'd shoot Blindness arrows.</p>",
+        "author_id": 412314468832,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4405666759565-Skeletons-shoot-tipped-arrows-below-Y-0/comments/4405784825485",
+        "created_at": "2021-07-26T02:25:25Z",
+        "updated_at": "2021-07-27T00:18:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4405666759565/comments/4405784825485.json",
+        "post_id": 4405666759565,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4405921936653,
+        "body": "<p>I'd prefer not to have another reskinned mob variant. This other two ideas however are great.</p>",
+        "author_id": 386349387511,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4405666759565-Skeletons-shoot-tipped-arrows-below-Y-0/comments/4405921936653",
+        "created_at": "2021-07-28T00:27:44Z",
+        "updated_at": "2021-07-28T00:31:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4405666759565/comments/4405921936653.json",
+        "post_id": 4405666759565,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4405480046733,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4405515364365,
+        "body": "<p>Great idea. Surprised this hasn't been fixed already.</p>",
+        "author_id": 418410752851,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4405480046733-Ghasts-shouldn-t-do-1000-damage-to-themselves-map-maker-feature/comments/4405515364365",
+        "created_at": "2021-07-22T01:59:53Z",
+        "updated_at": "2024-04-06T21:20:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4405480046733/comments/4405515364365.json",
+        "post_id": 4405480046733,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 29716926362637,
+        "body": "<p>This happens because the Ghast's damage method is hardcoded to ignore how much actual damage was dealt by the damage source if it is a reflected fireball and instead deals itself 1000 damage. Changing this special case is rather easy.</p>\n<p>@Override<br>public boolean damageEntity(DamageSource source, float amount) {<br>&nbsp; &nbsp; if (EntityGhast.isReflectedFireball(source)) {<br>&nbsp; &nbsp; &nbsp; &nbsp; super.damageEntity(source, 1000.0F);<br>&nbsp; &nbsp; &nbsp; &nbsp; return true;<br>&nbsp; &nbsp; } else {<br>&nbsp; &nbsp; &nbsp; &nbsp; return this.isInvulnerable(source) ? false : super.damageEntity(source, amount);<br>&nbsp; &nbsp; }<br>}</p>",
+        "author_id": 28892009519245,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4405480046733-Ghasts-shouldn-t-do-1000-damage-to-themselves-map-maker-feature/comments/29716926362637",
+        "created_at": "2024-08-28T13:06:55Z",
+        "updated_at": "2024-08-28T13:06:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4405480046733/comments/29716926362637.json",
+        "post_id": 4405480046733,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4405320985485,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4411133479565,
+        "body": "<p>Yes! 100% Yes!</p>",
+        "author_id": 1902355867867,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4405320985485-Added-Character-For-Mobs/comments/4411133479565",
+        "created_at": "2021-10-12T04:53:36Z",
+        "updated_at": "2021-10-12T05:29:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4405320985485/comments/4411133479565.json",
+        "post_id": 4405320985485,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4405175524365,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4405348642445,
+        "body": "<p>I thought for upgrading enchantment books. Like if you have a smite four, you can have the feather turn into a smite 5 in an anvil.</p>",
+        "author_id": 418226998711,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4405175524365-Fancy-chicken/comments/4405348642445",
+        "created_at": "2021-07-19T21:04:56Z",
+        "updated_at": "2021-07-19T21:04:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4405175524365/comments/4405348642445.json",
+        "post_id": 4405175524365,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4405153041165,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4405167785101,
+        "body": "<p>Your idea is cool but I don't see any reason to implement it</p>",
+        "author_id": 418383335752,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4405153041165-Netherite-Monstrosity-Previously-Netherite-Golem/comments/4405167785101",
+        "created_at": "2021-07-16T18:36:10Z",
+        "updated_at": "2021-07-16T18:43:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4405153041165/comments/4405167785101.json",
+        "post_id": 4405153041165,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4405187649933,
+        "body": "<p>It could drop Netherite Ingots upon death.</p>",
+        "author_id": 406047515571,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4405153041165-Netherite-Monstrosity-Previously-Netherite-Golem/comments/4405187649933",
+        "created_at": "2021-07-16T23:27:43Z",
+        "updated_at": "2021-07-16T23:27:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4405153041165/comments/4405187649933.json",
+        "post_id": 4405153041165,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 5606645024269,
+        "body": "<p>Rfske</p>\n<p>&nbsp;</p>",
+        "author_id": 5606669188749,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4405153041165-Netherite-Monstrosity-Previously-Netherite-Golem/comments/5606645024269",
+        "created_at": "2022-04-18T10:40:05Z",
+        "updated_at": "2022-04-18T10:40:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4405153041165/comments/5606645024269.json",
+        "post_id": 4405153041165,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4404996787213,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4404989871629,
+        "body": "<p>Nice idea</p>",
+        "author_id": 1900026653787,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404996787213-Tamable-enderdragon/comments/4404989871629",
+        "created_at": "2021-07-14T12:47:39Z",
+        "updated_at": "2021-07-14T16:11:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404996787213/comments/4404989871629.json",
+        "post_id": 4404996787213,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4405017033613,
+        "body": "<p>the ender dragon is minecraft's final boss and one of the most powerful mobs in the game. taming it seems a little ridiculous and far-fetched.</p>",
+        "author_id": 418649104171,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404996787213-Tamable-enderdragon/comments/4405017033613",
+        "created_at": "2021-07-14T21:55:50Z",
+        "updated_at": "2021-07-14T22:13:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404996787213/comments/4405017033613.json",
+        "post_id": 4404996787213,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 34317679290765,
+        "body": "<p>yeah!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</p>",
+        "author_id": 34316013049869,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404996787213-Tamable-enderdragon/comments/34317679290765",
+        "created_at": "2025-02-16T00:34:01Z",
+        "updated_at": "2025-02-16T00:34:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404996787213/comments/34317679290765.json",
+        "post_id": 4404996787213,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4404821951373,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4404833650189,
+        "body": "<p>Maybe they could be Egyptian based and could be the temple defenders have the sand spear and throw them at you. When it hits the wall it would fall apart. Maybe you can collect the special spear for a one use weapon for the early stages of Minecraft.</p>",
+        "author_id": 417124088571,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404821951373-Sand-skeletons/comments/4404833650189",
+        "created_at": "2021-07-12T02:28:49Z",
+        "updated_at": "2021-07-12T02:28:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404821951373/comments/4404833650189.json",
+        "post_id": 4404821951373,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4404641596813,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 28656063404045,
+        "body": "<p>This is a very good idea the great hunger or mob C could appear in swamps and lush caves or deserts having different color variants depending on where it spawns like the frog it also should have a new drop</p>",
+        "author_id": 28654649727885,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404641596813-Monster-of-the-Ocean-Depths-and-The-great-Hunger/comments/28656063404045",
+        "created_at": "2024-07-23T19:25:33Z",
+        "updated_at": "2024-07-23T19:25:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404641596813/comments/28656063404045.json",
+        "post_id": 4404641596813,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4404549683853,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4404801847821,
+        "body": "<p>Pretty cool idea!</p>",
+        "author_id": 418574075971,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404549683853-Make-Salt-Water-and-Fresh-Water/comments/4404801847821",
+        "created_at": "2021-07-11T13:23:03Z",
+        "updated_at": "2021-07-11T18:34:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404549683853/comments/4404801847821.json",
+        "post_id": 4404549683853,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4404228413581,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4404239233293,
+        "body": "<p>Please see below for English translation :)&nbsp;</p>\n<div class=\"postSideCell\">&nbsp;</div>\n<div class=\"postSideCell\">\n<header class=\"post-header\">\n<div class=\"post-title\">\n<div class=\"community-follow\">&nbsp;</div>\n<h1 title=\"Neue Creeper\">‎New Creeper ‎</h1>\n</div>\n</header>\n<section class=\"post-info-container\" data-bi-area=\"body\">\n<div class=\"post-info\">\n<div class=\"post-content\">\n<div class=\"post-body\">\n<p>‎Dear team of Microsoft, I have suggestions for 2 new creepers.‎</p>\n<p>1.Creeper/Nethercreeper:</p>\n<p>‎This red-orange-yellow creeper is intended for the Nether. This can also swim through lava. Apart from its bright red color, it generates fire when it explodes. This creeper explodes exactly, as with the normal creeper with contact. When trying to ignite him with a lighter, nothing happens.‎</p>\n<p>‎Drop: fireball, black powder‎</p>\n<p>2.Creeper/Endcreeper:</p>\n<p>‎This less colorful, gloomy creeper is meant for the end. But should also be welcome in the Nether, as well as in the Overworld, like the Enderman. This should receive the colors from the Enderman. He can, like the Enderman, of course teleport. If you beat him, then he can teleport away. But also back to you. But is neutral by this unpredictable surface change when he teleports himself. Means it only attacks when you hit or look at it. But with the endcreeper, no pumpkin head protects. When it explodes, it does damage like the normal creeper. But anything that lies within its damage range takes damage, but at the same time is teleported to another location. However, you yourself or another mob will not be teleported if you/it dies in the explosion. While trying to ignite him with a lighter, he teleports away.‎</p>\n<p>‎Drop: Enderperle, black powder‎</p>\n<p><br><span>‎You could reduce the spawn rate from the Enderman and the Endcreeper, because of the Enderperlen, maybe.‎</span></p>\n</div>\n</div>\n</div>\n</section>\n</div>",
+        "author_id": 416783211012,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404228413581-Neue-Creeper/comments/4404239233293",
+        "created_at": "2021-07-02T19:45:32Z",
+        "updated_at": "2021-07-02T19:45:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404228413581/comments/4404239233293.json",
+        "post_id": 4404228413581,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4403619686285,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4403637176589,
+        "body": "<p>Hi! Please see below for translation :)</p>\n<header class=\"post-header\">\n<div class=\"post-title\">\n<h1 title=\"adoptar un zorro\"><span>‎adopt a fox ‎</span></h1>\n</div>\n</header>\n<section class=\"post-info-container\" data-bi-area=\"body\">\n<div class=\"post-info\">\n<div class=\"post-content\">\n<div class=\"post-body\">\n<p>‎to adopt a fox we have to occupy raw chicken meat would not be aggressive if not harmless ‎</p>\n<p>&nbsp;</p>\n<p>-Translated by Admin</p>\n</div>\n</div>\n</div>\n</section>",
+        "author_id": 416783211012,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4403619686285-adoptar-un-zorro/comments/4403637176589",
+        "created_at": "2021-06-23T22:13:30Z",
+        "updated_at": "2021-06-23T22:13:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4403619686285/comments/4403637176589.json",
+        "post_id": 4403619686285,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4404401948813,
+        "body": "<p>Ya se pueden domesticar, tienes que hacer que 2 zorros se reproduzcan y al bebé lo separas de sus padres y cuando crezca ya estará domesticado</p>",
+        "author_id": 418416633471,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4403619686285-adoptar-un-zorro/comments/4404401948813",
+        "created_at": "2021-07-05T19:43:02Z",
+        "updated_at": "2021-07-05T19:43:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4403619686285/comments/4404401948813.json",
+        "post_id": 4403619686285,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078611532,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4403744178829,
+        "body": "<p>Certainly, this pygmy hippopotamus is definitely a suitable animal for Minecraft, and it is designated as an endangered species, so I think it is necessary for Minecraft.</p>",
+        "author_id": 417898068972,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078611532-Pygmy-hippopotamus/comments/4403744178829",
+        "created_at": "2021-06-25T08:20:40Z",
+        "updated_at": "2021-06-25T11:18:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078611532/comments/4403744178829.json",
+        "post_id": 360078611532,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078575152,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5248403614221,
+        "body": "<p>Not sure</p>\n<p>When a axolotl was morphed when it is dirty water, it will turned into a salamander that breathes air</p>",
+        "author_id": 421896411491,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078575152-new-axolotl-morphs/comments/5248403614221",
+        "created_at": "2022-04-02T10:32:30Z",
+        "updated_at": "2022-04-02T10:32:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078575152/comments/5248403614221.json",
+        "post_id": 360078575152,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 5924969230221,
+        "body": "<p>I don't really like this.</p>\n\n<p>While it's certainly true that there are many more, many of the morphs out there are questionable ethically. Most of them do not occur in nature and can be quite controversial, specifically the salamander or firefly. Considering the whole point of the Axolotl in minecraft is to bring awareness to the wild ones, hence being untameable, it's highly unlikely it will ever be added, specifically artificial ones like the salamander, chimera, and firefly.</p>",
+        "author_id": 5924090207629,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078575152-new-axolotl-morphs/comments/5924969230221",
+        "created_at": "2022-05-01T16:20:56Z",
+        "updated_at": "2022-05-01T18:38:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078575152/comments/5924969230221.json",
+        "post_id": 360078575152,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 6202367670029,
+        "body": "<p>I'D LOVE TO ITS MY DREAM!!!</p>",
+        "author_id": 412630540611,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078575152-new-axolotl-morphs/comments/6202367670029",
+        "created_at": "2022-05-13T07:51:45Z",
+        "updated_at": "2022-05-13T10:54:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078575152/comments/6202367670029.json",
+        "post_id": 360078575152,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078156351,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015753171,
+        "body": "<p><span data-contrast=\"auto\">Hello, this appears to be a non-English post. Below you will find a transcription of the topic being discussed.&nbsp;</span>&nbsp;</p>\n<p><strong><span data-contrast=\"auto\">Title:</span></strong><span data-contrast=\"auto\">&nbsp;“Aquatic update”&nbsp;</span>&nbsp;</p>\n<p><strong><span data-contrast=\"auto\">Text:</span></strong><span data-contrast=\"auto\">&nbsp;“</span>With this update, squid and drowned people will no longer spawn in rivers and lakes but only in the seas.</p>\n<p>In their place will be added the PIKE, a large fish that when in the presence of schools of salmon will choose one and attack it, keeping the rest of the school alive. The pike will be neutral, so it will attack the player only if the latter attacks.</p>\n<p>If a pike is attacked the other pike nearby will not avenge it but they will run away which makes the pike a creature wary of humans.</p>\n<p>When killed, the pike will drop itself with a small percentage of even leaving it a bone; the cooked pike will donate 4 legs so it will be a delicious and highly sought after meal<span data-contrast=\"auto\">”</span>&nbsp;</p>\n<p><span data-contrast=\"auto\">- Translated by Admin</span>&nbsp;</p>",
+        "author_id": 416781640632,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078156351-Acquatic-update/comments/360015753171",
+        "created_at": "2021-06-05T19:46:24Z",
+        "updated_at": "2021-06-05T19:46:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078156351/comments/360015753171.json",
+        "post_id": 360078156351,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078218232,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015625571,
+        "body": "<p>What u guys think in the desserts</p>",
+        "author_id": 412431488192,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078218232-Dust-devils/comments/360015625571",
+        "created_at": "2021-06-03T16:23:03Z",
+        "updated_at": "2021-06-03T16:23:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078218232/comments/360015625571.json",
+        "post_id": 360078218232,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078200912,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015683691,
+        "body": "<p>they're are already piglin archers, though they are different.</p>",
+        "author_id": 412235089651,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078200912-Piglin-Archers-and-Intimidation/comments/360015683691",
+        "created_at": "2021-06-04T09:48:10Z",
+        "updated_at": "2021-06-04T09:48:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078200912/comments/360015683691.json",
+        "post_id": 360078200912,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360015850372,
+        "body": "<p>It is a great idea to improve piglin archers, but maybe there should be added new type of piglin with bow and it would be piglin archer, piglin with crossbow would be crossbowman piglin. Intimidation effect is a great idea, but it should work in only one bastion and dissappear after you leave it, you could always fix the bastion and get the effect of bastion leader, this effect would disappear on death and would allow you to trade with piglins like with villagers.</p>",
+        "author_id": 417333417471,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078200912-Piglin-Archers-and-Intimidation/comments/360015850372",
+        "created_at": "2021-06-04T18:34:39Z",
+        "updated_at": "2021-06-04T18:47:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078200912/comments/360015850372.json",
+        "post_id": 360078200912,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078068871,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015581051,
+        "body": "<p>Honestly, Iron Golems shouldn't attack neutral mobs in the first place....</p>",
+        "author_id": 412314468832,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078068871-Peace-Treaties-with-Certain-Mobs/comments/360015581051",
+        "created_at": "2021-05-28T16:21:40Z",
+        "updated_at": "2021-05-28T16:21:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078068871/comments/360015581051.json",
+        "post_id": 360078068871,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4408668706957,
+        "body": "<p>Maybe this could be a gamerule, something like '/treatyform Iron Golem, Zombified Piglin' to make it, and /treatybreak Iron Golem, Zombified Piglin' to destroy it. You could also include '/warstart' and '/warend' to make certain mobs fight on sight.</p>",
+        "author_id": 1901449025387,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078068871-Peace-Treaties-with-Certain-Mobs/comments/4408668706957",
+        "created_at": "2021-09-06T20:30:03Z",
+        "updated_at": "2021-09-06T20:30:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078068871/comments/4408668706957.json",
+        "post_id": 360078068871,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078014571,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015482111,
+        "body": "<p>They could transform like how Zombies turn into Drowned.</p>\n<p>The only difference is that they make no sound? But it has so much potential for more...</p>\n<p>(They could be stronger, but they use the same hearing mechanics as the Warden instead of sight).</p>",
+        "author_id": 412314468832,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078014571-Sculk-infested-mobs-in-the-deepdark/comments/360015482111",
+        "created_at": "2021-05-24T16:22:21Z",
+        "updated_at": "2021-05-24T22:21:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078014571/comments/360015482111.json",
+        "post_id": 360078014571,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077979471,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015762392,
+        "body": "<p>actually, it does drop wool upon death.</p>",
+        "author_id": 412235089651,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077979471-The-goat-gives-wool/comments/360015762392",
+        "created_at": "2021-06-04T09:53:44Z",
+        "updated_at": "2021-06-04T09:53:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077979471/comments/360015762392.json",
+        "post_id": 360077979471,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077935131,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015410131,
+        "body": "<p>Отличный\n</p>",
+        "author_id": 416245680152,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077935131-Advanced-magma-cubes/comments/360015410131",
+        "created_at": "2021-05-14T11:05:04Z",
+        "updated_at": "2021-05-14T11:05:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077935131/comments/360015410131.json",
+        "post_id": 360077935131,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360015482272,
+        "body": "<p>Отличный</p>",
+        "author_id": 416245680152,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077935131-Advanced-magma-cubes/comments/360015482272",
+        "created_at": "2021-05-14T11:05:44Z",
+        "updated_at": "2021-05-14T11:05:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077935131/comments/360015482272.json",
+        "post_id": 360077935131,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 26924862994701,
+        "body": "<p>Honestly, I think enough things in the Nether set you on fire as it is.</p>",
+        "author_id": 25990523006477,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077935131-Advanced-magma-cubes/comments/26924862994701",
+        "created_at": "2024-05-21T23:48:04Z",
+        "updated_at": "2024-05-21T23:48:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077935131/comments/26924862994701.json",
+        "post_id": 360077935131,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360078018052,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015465812,
+        "body": "<p>I like that idea the same thing keeps happening to me&nbsp;</p>",
+        "author_id": 405681054491,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078018052-I-keep-losing-my-horse-when-its-not-on-a-lead/comments/360015465812",
+        "created_at": "2021-05-12T12:11:26Z",
+        "updated_at": "2021-05-12T12:11:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078018052/comments/360015465812.json",
+        "post_id": 360078018052,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360015537352,
+        "body": "<p>For me, any horse that doesn't have a saddle, leash, or armor despawns within 3 minutes (<em>and I tamed it!)</em></p>\n<p>this has happened multiple times and makes me very sad.</p>\n<p>😟😥😭 🐴</p>",
+        "author_id": 411461528872,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360078018052-I-keep-losing-my-horse-when-its-not-on-a-lead/comments/360015537352",
+        "created_at": "2021-05-22T02:45:58Z",
+        "updated_at": "2021-05-22T11:47:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360078018052/comments/360015537352.json",
+        "post_id": 360078018052,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077899591,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015453312,
+        "body": "<p>Why isn't this already added?</p>",
+        "author_id": 414300071211,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077899591-Hippocampi-horses-with-dolphin-tails/comments/360015453312",
+        "created_at": "2021-05-10T23:21:07Z",
+        "updated_at": "2021-05-10T23:21:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077899591/comments/360015453312.json",
+        "post_id": 360077899591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077921092,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015290811,
+        "body": "<p>Maybe they're natural enemies to the striders </p>",
+        "author_id": 400463894532,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077921092-Nether-spiders/comments/360015290811",
+        "created_at": "2021-04-29T15:42:37Z",
+        "updated_at": "2021-04-29T15:42:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077921092/comments/360015290811.json",
+        "post_id": 360077921092,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360015369072,
+        "body": "<p>I love this idea, especially.because it is annoying when you fall off walls when your building.</p>",
+        "author_id": 415706662031,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077921092-Nether-spiders/comments/360015369072",
+        "created_at": "2021-04-30T00:07:28Z",
+        "updated_at": "2021-05-11T19:01:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077921092/comments/360015369072.json",
+        "post_id": 360077921092,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077712631,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360015276731,
+        "body": "<p>I made a post about flying creature too, like roc, but this could be a nice idea for mini boss. Also I think the reason sky breakers hold its fire breathing ability is because the fire will scorch everywhere and burn down entire wood, but I think it will be safe if they can unleash their fire spit when they're in cave since there is nothing can catch fire there. Just a suggestion, all is yours</p>",
+        "author_id": 393571722172,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077712631-Flying-Mob-Idea/comments/360015276731",
+        "created_at": "2021-04-28T01:56:06Z",
+        "updated_at": "2021-04-30T09:38:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077712631/comments/360015276731.json",
+        "post_id": 360077712631,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360015297651,
+        "body": "<p>Give this mob some good drop, like a glider (an elytra with stamina) or a claw.</p>",
+        "author_id": 412929377832,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077712631-Flying-Mob-Idea/comments/360015297651",
+        "created_at": "2021-04-30T09:38:39Z",
+        "updated_at": "2021-04-30T09:38:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077712631/comments/360015297651.json",
+        "post_id": 360077712631,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360015327511,
+        "body": "<p>UniformCrib9764 I think that It should have a special drop. This is sort of where I was going with fire. The Sky Breaker wouldn't be able to use it, but the player would. A heart that makes fire-related mobs passive, a wand that can move fire, or even just blaze powder could all be drops.</p>",
+        "author_id": 415706670191,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077712631-Flying-Mob-Idea/comments/360015327511",
+        "created_at": "2021-05-04T12:33:29Z",
+        "updated_at": "2021-05-04T12:47:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077712631/comments/360015327511.json",
+        "post_id": 360077712631,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

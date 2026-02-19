@@ -1,0 +1,772 @@
+[
+  {
+    "post_id": 42248710399501,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 42248867240077,
+        "body": "<p>どうしてですか？</p>",
+        "author_id": 42248876989197,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/42248710399501-Minecraft-should-scrap-its-new-numbering/comments/42248867240077",
+        "created_at": "2025-12-28T03:08:03Z",
+        "updated_at": "2025-12-28T03:08:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/42248710399501/comments/42248867240077.json",
+        "post_id": 42248710399501,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 41923392926093,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41923447227405,
+        "body": "<p>Qui ero actualizar mi minecraft pero nase como el versión no me gusta no me deja jugar con mis amigos </p>",
+        "author_id": 41923342136461,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41923392926093-Minecraft/comments/41923447227405",
+        "created_at": "2025-12-14T15:34:20Z",
+        "updated_at": "2025-12-14T15:34:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41923392926093/comments/41923447227405.json",
+        "post_id": 41923392926093,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 41726165255821,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41726166470797,
+        "body": "<p>Dharmesh</p>",
+        "author_id": 41726144527373,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41726165255821-Dharmesh/comments/41726166470797",
+        "created_at": "2025-12-07T07:30:29Z",
+        "updated_at": "2025-12-10T16:20:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41726165255821/comments/41726166470797.json",
+        "post_id": 41726165255821,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 41331325714061,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41343547547021,
+        "body": "<p>I believe you can enable those through the F3 customization menu, press f3+f6</p>",
+        "author_id": 23963061688205,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41331325714061-Please-bring-back-some-F3-information/comments/41343547547021",
+        "created_at": "2025-11-22T11:06:12Z",
+        "updated_at": "2025-11-22T11:06:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41331325714061/comments/41343547547021.json",
+        "post_id": 41331325714061,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40883192061581,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40883206698509,
+        "body": "<p>I was thinking of it as the next update, not a feature yet</p>",
+        "author_id": 40883022328589,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40883192061581-Items-don-t-despawn-and-mobs-don-t-despawn-also/comments/40883206698509",
+        "created_at": "2025-11-05T05:22:46Z",
+        "updated_at": "2025-11-05T05:22:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40883192061581/comments/40883206698509.json",
+        "post_id": 40883192061581,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40903696429197,
+        "body": "<p>Any mob you interact with won't despawn already, so pets, mounts or any mob that you've feed or that has picked up an item of yours won't despawn. As for items, I feel like there should be a way to make the items don't despawn or, at least, take longer to do so. Maybe make your items not despawn on death but if you die a second time then they do? Anything that can avoid lag and avoid your items staying there forever but still makes the game fair so you can still get your items back would be great.</p>",
+        "author_id": 404423904512,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40883192061581-Items-don-t-despawn-and-mobs-don-t-despawn-also/comments/40903696429197",
+        "created_at": "2025-11-05T20:17:26Z",
+        "updated_at": "2025-11-05T20:17:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40883192061581/comments/40903696429197.json",
+        "post_id": 40883192061581,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41213453891725,
+        "body": "<p>Two words: Recovery Compass</p>",
+        "author_id": 38284557613837,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40883192061581-Items-don-t-despawn-and-mobs-don-t-despawn-also/comments/41213453891725",
+        "created_at": "2025-11-17T21:08:38Z",
+        "updated_at": "2025-11-17T21:08:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40883192061581/comments/41213453891725.json",
+        "post_id": 40883192061581,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40776305441677,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40777897932941,
+        "body": "<p>The base request from this is for a series of hand tools and machines that can cover an area (anything bigger than just 1x1x1 blocks).<br><br>And, maybe, add a few functional structures, like a power station, oxygen station, training center, etc. While folks can build whatever they want, building according to a specific blueprint will create a more functional base.</p>",
+        "author_id": 40774956593165,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40776305441677-Minecraft-x-LEGO-Mining-Synergy-That-Builds-Both-Brands/comments/40777897932941",
+        "created_at": "2025-10-31T17:51:22Z",
+        "updated_at": "2025-10-31T17:55:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40776305441677/comments/40777897932941.json",
+        "post_id": 40776305441677,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40629414873613,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40630644256781,
+        "body": "<p>Hi</p>",
+        "author_id": 40630614382861,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40629414873613-add-a-warning-to-older-versions-when-loading-a-modern-version/comments/40630644256781",
+        "created_at": "2025-10-26T13:19:42Z",
+        "updated_at": "2025-10-26T13:19:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40629414873613/comments/40630644256781.json",
+        "post_id": 40629414873613,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 39406198094733,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 39761289264013,
+        "body": "<p>Here's a few ideas for you: <a href=\"/hc/en-us/community/posts/38968642844173-End-Beast\" rel=\"nofollow noreferrer\">https://feedback.minecraft.net/hc/en-us/community/posts/38968642844173-End-Beast</a></p>\n<p><a href=\"/hc/en-us/community/posts/38968148246797-End-Caves-and-Cryte\" rel=\"nofollow noreferrer\">https://feedback.minecraft.net/hc/en-us/community/posts/38968148246797-End-Caves-and-Cryte</a>&nbsp;</p>",
+        "author_id": 38934863005965,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39406198094733-End-update-idea/comments/39761289264013",
+        "created_at": "2025-09-22T15:42:50Z",
+        "updated_at": "2025-09-22T18:51:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39406198094733/comments/39761289264013.json",
+        "post_id": 39406198094733,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 39219625555725,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 39219654955661,
+        "body": "<p>Hh</p>",
+        "author_id": 39219687623949,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39219625555725-Nn/comments/39219654955661",
+        "created_at": "2025-08-31T12:25:04Z",
+        "updated_at": "2025-08-31T18:10:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39219625555725/comments/39219654955661.json",
+        "post_id": 39219625555725,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 38443525760013,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38443556923533,
+        "body": "<p>in copper golem update, sorry ):</p>",
+        "author_id": 35734819792653,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/38443525760013-skeleton-s-bow-appears-below-bug-happen-couldn-t-log-onto-the-bug-tracker/comments/38443556923533",
+        "created_at": "2025-07-30T17:29:32Z",
+        "updated_at": "2025-07-30T19:00:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/38443525760013/comments/38443556923533.json",
+        "post_id": 38443525760013,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37686965790477,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 37724549738637,
+        "body": "<p>It's not a game drop, it's just a quick Hotfix unusually with some features in it.</p>",
+        "author_id": 36912982744077,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37686965790477-New-name-for-the-new-drop/comments/37724549738637",
+        "created_at": "2025-06-30T17:51:46Z",
+        "updated_at": "2025-06-30T17:51:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37686965790477/comments/37724549738637.json",
+        "post_id": 37686965790477,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 34086301854349,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 34247548216461,
+        "body": "<p>It may be due to the reasons of game design concept that Mojang seems not to be interested in designing a large number of realistic furniture, after all, Minecraft is just a video game, not the real world.</p>",
+        "author_id": 34247388273549,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/34086301854349-Furniture-for-Java/comments/34247548216461",
+        "created_at": "2025-02-13T01:20:50Z",
+        "updated_at": "2025-02-13T16:11:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/34086301854349/comments/34247548216461.json",
+        "post_id": 34086301854349,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 35579426725005,
+        "body": "<p>the only furniture i personally want is the washing machine and robot vacuum. just imagine the incredible building ideas that would spout! the washer would repair armor and take water and soap and you sneak click to start it as regular clicking opens it. another cool thing it would have is it would be like storage and have the chest slots and the items could appear inside the washer. thats just one among like 20 other ideas and the robot vacuum would pick up items left on the floor and would be moveable using gunpowder since it looks sort of like dust. to craft the washer would be a furnace at the centre bottom, glass in the centre and quartz surrounding it and the robot would be crafted with a breeze rod in the top right, any button in the centre and quartz all around</p>",
+        "author_id": 10183388810637,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/34086301854349-Furniture-for-Java/comments/35579426725005",
+        "created_at": "2025-04-04T09:49:19Z",
+        "updated_at": "2025-04-04T12:07:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/34086301854349/comments/35579426725005.json",
+        "post_id": 34086301854349,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 30811667602061,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 30870658213133,
+        "body": "<p>the solution to your problem is simple. don't get hit by the bog's arrows.</p>",
+        "author_id": 9240128548621,
+        "vote_sum": 4,
+        "vote_count": 4,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/30811667602061-Nerf-the-bogged-its-the-worst-mob-overpowered-and-ruins-the-trail-chambers/comments/30870658213133",
+        "created_at": "2024-10-07T20:30:52Z",
+        "updated_at": "2024-10-07T20:46:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/30811667602061/comments/30870658213133.json",
+        "post_id": 30811667602061,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 31084451605261,
+        "body": "<p>use a shield</p>",
+        "author_id": 29816050235149,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/30811667602061-Nerf-the-bogged-its-the-worst-mob-overpowered-and-ruins-the-trail-chambers/comments/31084451605261",
+        "created_at": "2024-10-15T19:31:41Z",
+        "updated_at": "2024-10-15T19:31:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/30811667602061/comments/31084451605261.json",
+        "post_id": 30811667602061,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 31112807563789,
+        "body": "<p>eat enchanted golden apple</p>",
+        "author_id": 9240128548621,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/30811667602061-Nerf-the-bogged-its-the-worst-mob-overpowered-and-ruins-the-trail-chambers/comments/31112807563789",
+        "created_at": "2024-10-16T17:30:55Z",
+        "updated_at": "2024-10-16T17:30:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/30811667602061/comments/31112807563789.json",
+        "post_id": 30811667602061,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 31742129409677,
+        "body": "<p>shields</p>",
+        "author_id": 29816050235149,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/30811667602061-Nerf-the-bogged-its-the-worst-mob-overpowered-and-ruins-the-trail-chambers/comments/31742129409677",
+        "created_at": "2024-11-09T06:40:56Z",
+        "updated_at": "2024-11-09T06:40:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/30811667602061/comments/31742129409677.json",
+        "post_id": 30811667602061,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 27343182178829,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 27376314067085,
+        "body": "<p>我赞同</p>",
+        "author_id": 27343057017229,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/27343182178829-1-21%E7%9A%84%E7%9F%BF%E8%BD%A6/comments/27376314067085",
+        "created_at": "2024-06-07T10:57:22Z",
+        "updated_at": "2024-06-07T10:57:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/27343182178829/comments/27376314067085.json",
+        "post_id": 27343182178829,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 27041580188813,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 27074381586445,
+        "body": "<p>1.21 already has a name. It's 'Tricky Trials'.</p>",
+        "author_id": 21194147466893,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/27041580188813-Make-1-21-the-copper-update/comments/27074381586445",
+        "created_at": "2024-05-27T16:33:04Z",
+        "updated_at": "2024-05-27T16:33:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/27041580188813/comments/27074381586445.json",
+        "post_id": 27041580188813,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 26933485768205,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 26949347428621,
+        "body": "<p>you should be able to wax the piston so it works \"smoothly\"</p>",
+        "author_id": 10542806639885,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26933485768205-Leave-in-the-wonky/comments/26949347428621",
+        "created_at": "2024-05-22T17:05:38Z",
+        "updated_at": "2024-05-22T19:19:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26933485768205/comments/26949347428621.json",
+        "post_id": 26933485768205,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 26465647766285,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 26635768933773,
+        "body": "<p>This is a bug post. This bug has been fixed in 24w19a.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26465647766285-Crafting-Bug-with-24w14a/comments/26635768933773",
+        "created_at": "2024-05-10T21:36:14Z",
+        "updated_at": "2024-05-10T21:44:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26465647766285/comments/26635768933773.json",
+        "post_id": 26465647766285,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25684199655821,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25686524033933,
+        "body": "<p>it’s a mace, not a mallet</p>",
+        "author_id": 12172809829645,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25684199655821-New-weapons/comments/25686524033933",
+        "created_at": "2024-04-07T02:45:15Z",
+        "updated_at": "2024-04-07T02:45:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25684199655821/comments/25686524033933.json",
+        "post_id": 25684199655821,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25664818515981,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25670449379085,
+        "body": "<p>Aidan</p>",
+        "author_id": 25670426177421,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25664818515981-Texturas-e-particulas/comments/25670449379085",
+        "created_at": "2024-04-06T09:13:14Z",
+        "updated_at": "2024-04-06T09:13:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25664818515981/comments/25670449379085.json",
+        "post_id": 25664818515981,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 25670450045837,
+        "body": "<p>Daddy</p>",
+        "author_id": 25670426177421,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25664818515981-Texturas-e-particulas/comments/25670450045837",
+        "created_at": "2024-04-06T09:13:48Z",
+        "updated_at": "2024-04-06T09:13:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25664818515981/comments/25670450045837.json",
+        "post_id": 25664818515981,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25611309701645,
+    "expected_comment_count": 5,
+    "actual_comment_count": 6,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25611598801677,
+        "body": "<p>I have also think that the new potions (webbed, slime...) should have another crafting recipe or maybe balance their effect a little. Like the slimes spawned by the potion dont drop slime balls when killed so it can not be turned into a farm.</p>\n<p>Maybe be able to craft a \"bouncing\" shield with some item related with the breeze so enemies that hit you got knockbacked or something like that.</p>\n<p>Breeze stuff could get us into some new system just like blaze rod got to potion making but I think this point is already covered by the maze, the wind charges and some of my ideas.</p>\n<p>Those are all the ideas I have got and I would really like to hear other opinion. I think they are kind of balance and actually make sense with the rest of minecraft stuff and that I make them \"minecrafty\" enough. Eventhou I am all ears to get others opinion.</p>",
+        "author_id": 25610564623629,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25611309701645-Some-ideas-for-Minecraft-1-21/comments/25611598801677",
+        "created_at": "2024-04-04T13:48:55Z",
+        "updated_at": "2024-04-04T19:08:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25611309701645/comments/25611598801677.json",
+        "post_id": 25611309701645,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 25620537024653,
+        "body": "<p>here is how i see it. if we keep going around and comparing some things from vanilla Minecraft with other things from other Minecraft games or two things from vanilla Minecraft, we will end up with repetitiveness and it's nice to break up similar systems sometimes. in other words, i think it's ok to leave the current features added to the breeze, because in that way it seems like a different mob and not just a retextured blaze. this also applies to the mace. i see many people complaining about how the mace doesn't look 3d, when the 2d model is quite fine, and just adding a 3d model like that of the mace in Minecraft dungeons would just feel like ripping off an idea they made for a different franchise altogether. it would secondly take up too much space in the screen (tridents got a 3d design because it was practical and the design was thin enough that it didn't eat up screen space), and would require making a 3d breeze rode design, which means that Mojang would have to give a 3d design to breeze rods and blaze rods alike, and secondly, Mojang has never made a 3d stick design for vanilla minecraft, and certainly hasn't made a 3d blaze rod design, and ever since such models were introduced, they have not shared any plans or interests whatsoever in that concept in the foreseen future. doing so now would just seem stupid and half baked for one, and also look extremely cursed.</p>",
+        "author_id": 11423708750477,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25611309701645-Some-ideas-for-Minecraft-1-21/comments/25620537024653",
+        "created_at": "2024-04-04T17:22:16Z",
+        "updated_at": "2024-04-04T18:29:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25611309701645/comments/25620537024653.json",
+        "post_id": 25611309701645,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 25630186744589,
+        "body": "<p>I agree that there should be more parity between old and new features.</p>",
+        "author_id": 24780090693389,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25611309701645-Some-ideas-for-Minecraft-1-21/comments/25630186744589",
+        "created_at": "2024-04-04T21:20:57Z",
+        "updated_at": "2024-04-04T21:34:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25611309701645/comments/25630186744589.json",
+        "post_id": 25611309701645,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 25640116722957,
+        "body": "<p>What I meant with the \"bouncing\" shield is that it could be used to get a little step into java/bedrock parity and make able to have in java edition the mechanic of knockback enemies when they hit a shield.</p>\n<p>Also, the idea of fire charges to be able to be droped like eggs, snowballs and breeze charges is that no one uses the fire charges (appart of making firework rockets) because they are more expensive than flint and steal and both have the exact same mechanic, ignite the block you are facing at. Thats why I thought that being able to drop them like a projectile would be cool, or instead be able to shot them with a crossbow just like fireworks rockets so you can have fire arrows in a crossbow. The idea of letting us shot more things with the crossbow is to increase the posibilities of that cool mechanic.</p>\n<p>About paraty between old a new features it is just to give them a structure so they can follow. I am not against new features have their own personality, and I understand the idea of them not being the same thing and the posibility of falling into repetitiveness but in the case of the breeze I really see it as a so good oportunity to give \"elemental cratures\" (breeze, blaze, and some other hypothetical element variation) a structure in their features, machanics and loot so they can coexist in the same context with a paralelism between them.</p>\n<p>Maybe, we could also shot lingering and splash potions with the crossbow. This would make players use crossbows and potion more often.</p>",
+        "author_id": 25610564623629,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25611309701645-Some-ideas-for-Minecraft-1-21/comments/25640116722957",
+        "created_at": "2024-04-05T10:29:29Z",
+        "updated_at": "2024-04-05T15:19:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25611309701645/comments/25640116722957.json",
+        "post_id": 25611309701645,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 26162772556045,
+        "body": "<p>I looked at the 1.21 snapshots and I think its pretty good and I thought of something you could probably add. I thought of a new variant for the bow, The Bogged bow basically it shoots two arrows instead of one but it takes longer to load. When you use it too much, it has a cooldown and you have to wait until the cooldown is over. When you need to repair it, you need the power of an Ancient Anvil and some vines. So that is what you should add to 1.21.</p>\n<p>&nbsp;</p>",
+        "author_id": 26162468790285,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25611309701645-Some-ideas-for-Minecraft-1-21/comments/26162772556045",
+        "created_at": "2024-04-24T13:32:13Z",
+        "updated_at": "2024-04-24T22:11:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25611309701645/comments/26162772556045.json",
+        "post_id": 25611309701645,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 43255625501069,
+        "body": "<h3 data-path-to-node=\"1\"><strong data-path-to-node=\"1\" data-index-in-node=\"0\">Hybrid Cream Fox: Full Profile</strong></h3>\n<ul data-path-to-node=\"2\">\n<li>\n<p data-path-to-node=\"2,0,0\"><strong data-path-to-node=\"2,0,0\" data-index-in-node=\"0\">Color:</strong> A natural <strong data-path-to-node=\"2,0,0\" data-index-in-node=\"17\">pale yellow / ivory</strong> coat. A clean, matte mix of orange and white genetics.</p>\n</li>\n<li>\n<p data-path-to-node=\"2,1,0\"><strong data-path-to-node=\"2,1,0\" data-index-in-node=\"0\">Taming:</strong> You can <strong data-path-to-node=\"2,1,0\" data-index-in-node=\"16\">tame it</strong> by feeding it Sweet Berries or Glow Berries. Once tamed, it will follow you everywhere and sit on command, just like a Wolf.</p>\n</li>\n<li>\n<p data-path-to-node=\"2,2,0\"><strong data-path-to-node=\"2,2,0\" data-index-in-node=\"0\">Combat:</strong> It is a <strong data-path-to-node=\"2,2,0\" data-index-in-node=\"16\">loyal guardian</strong>. It will use its \"pounce\" jump to attack any mob that threatens you.</p>\n</li>\n<li>\n<p data-path-to-node=\"2,3,0\"><strong data-path-to-node=\"2,3,0\" data-index-in-node=\"0\">Retrieval:</strong> It is an <strong data-path-to-node=\"2,3,0\" data-index-in-node=\"20\">automatic fetcher</strong>. It will pick up loot from the ground and <strong data-path-to-node=\"2,3,0\" data-index-in-node=\"80\">deliver it directly to you</strong>, dropping it at your feet.</p>\n</li>\n<li>\n<p data-path-to-node=\"2,4,0\"><strong data-path-to-node=\"2,4,0\" data-index-in-node=\"0\">Appearance:</strong> A standard Minecraft fox model but with the unique \"Mochi\" yellow color, with no extra fluff—just a smooth, wild coat.</p>\n</li>\n</ul>",
+        "author_id": 43254658705677,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25611309701645-Some-ideas-for-Minecraft-1-21/comments/43255625501069",
+        "created_at": "2026-02-04T21:19:04Z",
+        "updated_at": "2026-02-05T19:55:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25611309701645/comments/43255625501069.json",
+        "post_id": 25611309701645,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25290167935501,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25290220464781,
+        "body": "<p>Mojang yo confio en vosotros.</p>",
+        "author_id": 25290129134989,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25290167935501-Minecraft/comments/25290220464781",
+        "created_at": "2024-03-24T15:04:57Z",
+        "updated_at": "2024-03-24T17:44:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25290167935501/comments/25290220464781.json",
+        "post_id": 25290167935501,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25174581805325,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25407407678861,
+        "body": "<p>This is so painful to read. Its one of the longest run-on sentences I've ever seen.</p>",
+        "author_id": 412314468832,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25174581805325-What-about-an-update-about-CLANS/comments/25407407678861",
+        "created_at": "2024-03-28T02:30:48Z",
+        "updated_at": "2024-03-28T10:57:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25174581805325/comments/25407407678861.json",
+        "post_id": 25174581805325,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 25422126560525,
+        "body": "<p>minecraft is not a roleplay game.</p>",
+        "author_id": 6326801676941,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25174581805325-What-about-an-update-about-CLANS/comments/25422126560525",
+        "created_at": "2024-03-28T16:17:34Z",
+        "updated_at": "2024-03-28T16:17:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25174581805325/comments/25422126560525.json",
+        "post_id": 25174581805325,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 24959140904717,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 24973605597581,
+        "body": "<p>Vote For Rascal</p>",
+        "author_id": 21194147466893,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24959140904717-New-mobs/comments/24973605597581",
+        "created_at": "2024-03-13T17:44:10Z",
+        "updated_at": "2024-03-13T17:44:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24959140904717/comments/24973605597581.json",
+        "post_id": 24959140904717,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 24932122128013,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 34054791444493,
+        "body": "<p>do you want a silverfis rimodelled or a glow squid rimodeled?</p>\n<p>sorry i em italian.</p>",
+        "author_id": 34054787146509,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24932122128013-bedrok-edition-aggiornamento/comments/34054791444493",
+        "created_at": "2025-02-05T10:26:22Z",
+        "updated_at": "2025-02-05T10:26:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24932122128013/comments/34054791444493.json",
+        "post_id": 24932122128013,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 24759483273869,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 26834580222605,
+        "body": "<p>THANK YOU FOR SAYING THIS!</p>\n\n<p>I have a build world that I've been using for 3 years and I really like it, it's creative and I just build pixel art and houses but now the wolf variants are out and since it's a flat world there are no biomes and I can't find any cheat codes to summon the certain variants so what do I do? Why can you just summon random cats with the spawn egg but not with the wolf one?? Anyone know?</p>",
+        "author_id": 21749724466445,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24759483273869-spawn-wolf-breed-for-creative-players/comments/26834580222605",
+        "created_at": "2024-05-18T16:59:03Z",
+        "updated_at": "2024-05-18T18:01:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24759483273869/comments/26834580222605.json",
+        "post_id": 24759483273869,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

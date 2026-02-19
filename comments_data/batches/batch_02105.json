@@ -1,0 +1,742 @@
+[
+  {
+    "post_id": 5725757999629,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25152944445965,
+        "body": "<p>I don't know what language it is I think maybe Russian but just can't change it when I'm on a public server so please tell me how to fix it</p>",
+        "author_id": 25152866615949,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5725757999629-Able-to-change-language-on-website/comments/25152944445965",
+        "created_at": "2024-03-19T20:33:05Z",
+        "updated_at": "2024-03-19T20:33:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5725757999629/comments/25152944445965.json",
+        "post_id": 5725757999629,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 27042267920781,
+        "body": "<p>This is possible on iOS.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5725757999629-Able-to-change-language-on-website/comments/27042267920781",
+        "created_at": "2024-05-25T23:41:08Z",
+        "updated_at": "2024-05-25T23:41:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5725757999629/comments/27042267920781.json",
+        "post_id": 5725757999629,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4406020394765,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4414925810829,
+        "body": "<p>Кек</p>",
+        "author_id": 416602766392,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4406020394765-Multiple-Topics-for-each-Ideas-Feedback/comments/4414925810829",
+        "created_at": "2021-11-27T23:00:31Z",
+        "updated_at": "2021-11-27T23:01:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4406020394765/comments/4414925810829.json",
+        "post_id": 4406020394765,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077218811,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014587712,
+        "body": "<p>Sasasa333</p>",
+        "author_id": 412336400951,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077218811-Recommended-posts-section/comments/360014587712",
+        "created_at": "2021-03-05T11:12:31Z",
+        "updated_at": "2021-03-08T21:58:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077218811/comments/360014587712.json",
+        "post_id": 360077218811,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014557111,
+        "body": "<p>What do you mean by Sasasa333???</p>",
+        "author_id": 402099350751,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077218811-Recommended-posts-section/comments/360014557111",
+        "created_at": "2021-03-08T21:58:50Z",
+        "updated_at": "2021-03-09T21:54:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077218811/comments/360014557111.json",
+        "post_id": 360077218811,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 14261959809805,
+        "body": "<p>I don't know about the Random feedback, but I kind of like the sound of it.</p>",
+        "author_id": 12270814940301,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077218811-Recommended-posts-section/comments/14261959809805",
+        "created_at": "2023-03-23T23:40:37Z",
+        "updated_at": "2023-03-23T23:40:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077218811/comments/14261959809805.json",
+        "post_id": 360077218811,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076325032,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014041052,
+        "body": "<p>This may not be the right section, but I also thibk it would be cool if there was a way to know if someone posted a comment on your own post or after your comment, that way you can address anything they bring up</p>",
+        "author_id": 406280981491,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076325032-List-of-Votes-in-Profile/comments/360014041052",
+        "created_at": "2021-01-11T00:34:56Z",
+        "updated_at": "2021-01-12T14:39:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076325032/comments/360014041052.json",
+        "post_id": 360076325032,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013986491,
+        "body": "<p>I agree, though this is not the right section, that should be a post of it's own.</p>",
+        "author_id": 402139512451,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076325032-List-of-Votes-in-Profile/comments/360013986491",
+        "created_at": "2021-01-12T14:40:35Z",
+        "updated_at": "2021-01-12T21:29:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076325032/comments/360013986491.json",
+        "post_id": 360076325032,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074495232,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014397892,
+        "body": "<p>Make the rejected posts private, as sometimes posts are removed for being violent or inappropriate.&nbsp; This would be really useful if you had a post that didn't fit one of the guidelines, and you wanted to edit and change it so that it could possibly get another chance.&nbsp; Currently, you just have to rewrite the entire post.</p>",
+        "author_id": 385270477052,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074495232-Move-feedback-to-Mojira/comments/360014397892",
+        "created_at": "2021-02-17T02:58:48Z",
+        "updated_at": "2022-01-12T21:18:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074495232/comments/360014397892.json",
+        "post_id": 360074495232,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360072670112,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012657432,
+        "body": "<p>We're glad you enjoyed the article, we'll pass along this feedback to the author.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072670112-More-mob-perspective/comments/360012657432",
+        "created_at": "2020-08-24T18:07:20Z",
+        "updated_at": "2020-08-24T18:07:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072670112/comments/360012657432.json",
+        "post_id": 360072670112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360030150932,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360002992672,
+        "body": "<p>Hi there,</p>\n<p>No social account is needed to post on feedback.minecraft.net, however we do encourage everyone to leave positive comments for the team and when needed, constructive feedback. Typically, positive feedback tends to be less specific, which makes it more difficult for the community to find and interact with - that doesn't mean we don't want it! (We also like having specific feedback so we can pass it to the right team(s), who work very hard!)</p>\n<p>That being said, the team does have a couple of ideas on how we can collect a more balanced picture of feedback going forward, but are waiting for certain software features to be introduced. Much like Minecraft, we're a work in progress! We appreciate you raising this subject up to our attention so we can keep it in mind.</p>\n<p>(For those curious, you may read about why we require an account in general for posting and voting <a href=\"/hc/en-us/articles/360011793092-Feedback-Website-FAQ#login\" target=\"_blank\" rel=\"nofollow noreferrer\">here</a>.)</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360030150932--Feedback-site-new-category-Thanks-Section/comments/360002992672",
+        "created_at": "2018-11-13T15:35:57Z",
+        "updated_at": "2018-11-13T15:35:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360030150932/comments/360002992672.json",
+        "post_id": 360030150932,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 41055512908557,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41061276073613,
+        "body": "<p>I think we should probably be able to dislike ideas to so we can see how many people liked the idea and how many didn't</p>",
+        "author_id": 404423904512,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41055512908557-Minecraft-Feedback-Views/comments/41061276073613",
+        "created_at": "2025-11-11T22:58:12Z",
+        "updated_at": "2025-11-11T22:58:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41055512908557/comments/41061276073613.json",
+        "post_id": 41055512908557,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37703754235149,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 38123125833741,
+        "body": "<p>Okay I'll start!</p>\n<p>More ores and more armor types. I feel like we have a great amount right now as is.</p>",
+        "author_id": 10114439404557,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37703754235149-What-Ideas-do-you-NOT-Want-in-Minecraft/comments/38123125833741",
+        "created_at": "2025-07-17T08:08:29Z",
+        "updated_at": "2025-07-17T08:08:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37703754235149/comments/38123125833741.json",
+        "post_id": 37703754235149,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 38534896460685,
+        "body": "<p>Especially the \"Too Expensive\" anvil mechanic should not be in Minecraft.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37703754235149-What-Ideas-do-you-NOT-Want-in-Minecraft/comments/38534896460685",
+        "created_at": "2025-08-03T15:53:54Z",
+        "updated_at": "2025-08-03T15:53:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37703754235149/comments/38534896460685.json",
+        "post_id": 37703754235149,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37699010151181,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40387525290637,
+        "body": "<p>SERIA LEGAL, SE HOUVESSE NOVAS PROFISSÕES NO JOGO DE SOBREVIVENCIA DO MINECRAFT COMO: MÉDICO, , OU PROJETOR DE CONSTRUÇÕES QUE SEJA UM POUCO PARECIDO COM O CARTÓGRAFO QUE DÁ MAPAS E OU PROJETOS, O CONSTRUTOR QUE CONSTROI, E PODERIA TAMBÉM TER O PROFESSOR QUE CONTARIA A HISTÓRIA DE MOBES E FARIA OS JOGADOR PROCURAR PEÇAS OU LOCAIS OU OBJETOS QUE TEM HAVER COM A HISTÓRIA &nbsp;E QUE AO ENTREGAR DESCOBRIRIA O FINAL DA HISTÓRIA &nbsp;O LOCAL ONDE ENCONTRAR &nbsp;ALGO FUNDAMENTAL DA HISTÓRIA OU COISAS PRECIOSAS</p>",
+        "author_id": 40386934926093,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37699010151181-Add-Villagers-NPCs-Humanoids-to-the-Categories-tab/comments/40387525290637",
+        "created_at": "2025-10-16T16:44:48Z",
+        "updated_at": "2025-10-16T17:25:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37699010151181/comments/40387525290637.json",
+        "post_id": 37699010151181,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37384645729037,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41643554486541,
+        "body": "<p>This is probably the best idea I've ever seen for the feedback sight!</p>",
+        "author_id": 12270814940301,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37384645729037-Previous-Game-Drops-Updates-Category/comments/41643554486541",
+        "created_at": "2025-12-04T00:56:29Z",
+        "updated_at": "2025-12-04T00:56:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37384645729037/comments/41643554486541.json",
+        "post_id": 37384645729037,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35811785857549,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35811839012237,
+        "body": "<p>I know its not going to be on playstation anymore, but just putting it back.</p>\n<p>&nbsp;</p>",
+        "author_id": 33042247823629,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35811785857549-Minecraft-for-vr/comments/35811839012237",
+        "created_at": "2025-04-13T12:26:34Z",
+        "updated_at": "2025-04-13T12:26:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35811785857549/comments/35811839012237.json",
+        "post_id": 35811785857549,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 33205503939981,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 33975915546381,
+        "body": "<p>nope</p>",
+        "author_id": 27650774697613,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/33205503939981-Feedback-site-remove-comments-that-are-already-done-or-rejected-ideas/comments/33975915546381",
+        "created_at": "2025-02-01T19:20:16Z",
+        "updated_at": "2025-02-01T19:20:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/33205503939981/comments/33975915546381.json",
+        "post_id": 33205503939981,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 32106546983437,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 32330664486029,
+        "body": "<p>Maybe you shouldn't be buying stuff if you haven't got any money...</p>",
+        "author_id": 31547769873037,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/32106546983437-Just-an-idea/comments/32330664486029",
+        "created_at": "2024-12-02T00:33:55Z",
+        "updated_at": "2024-12-02T00:33:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/32106546983437/comments/32330664486029.json",
+        "post_id": 32106546983437,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40865323191309,
+        "body": "<p>why don't you add golems that would mine and chop trees for you until they have at least a full stack of that resource and when they have a full stack the put it in a designated chest</p>",
+        "author_id": 40865141854477,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/32106546983437-Just-an-idea/comments/40865323191309",
+        "created_at": "2025-11-04T17:18:22Z",
+        "updated_at": "2025-11-04T17:18:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/32106546983437/comments/40865323191309.json",
+        "post_id": 32106546983437,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40868083527053,
+        "body": "<p>and add more free add ons&nbsp;</p>",
+        "author_id": 40865141854477,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/32106546983437-Just-an-idea/comments/40868083527053",
+        "created_at": "2025-11-04T18:22:28Z",
+        "updated_at": "2025-11-04T18:22:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/32106546983437/comments/40868083527053.json",
+        "post_id": 32106546983437,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 31572230436749,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 32436705981581,
+        "body": "<p>There should also be the option to sort the categories based on how many posts are in them.</p>",
+        "author_id": 25876653178765,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/31572230436749-Arranging-categories-in-alphabetical-order/comments/32436705981581",
+        "created_at": "2024-12-04T23:59:30Z",
+        "updated_at": "2024-12-04T23:59:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/31572230436749/comments/32436705981581.json",
+        "post_id": 31572230436749,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 31237258628237,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 31277850023821,
+        "body": "<p>Minecraft Experience could also be in all European countries&nbsp;</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/31237258628237-Minecraft-Experience/comments/31277850023821",
+        "created_at": "2024-10-22T23:22:10Z",
+        "updated_at": "2024-10-22T23:22:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/31237258628237/comments/31277850023821.json",
+        "post_id": 31237258628237,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 31224982862733,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 32068806407565,
+        "body": "<p>Wait, are you asking to be able to post Minecraft feedback while playing Minecraft? Cause that's the weirdest idea I've heard so far, for this reason, I'll vote for it!</p>",
+        "author_id": 30930113048973,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/31224982862733-Phones/comments/32068806407565",
+        "created_at": "2024-11-21T16:14:20Z",
+        "updated_at": "2024-11-21T19:55:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/31224982862733/comments/32068806407565.json",
+        "post_id": 31224982862733,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 27575014691853,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 27575415054349,
+        "body": "<p>Reason #3 we hate mob votes. <br>The mob votes have done nothing but leave the community with a less than positive reaction, and thus is mutual to everyone including some minecraft developers. With 2 years, you guys have time to work up a concept to add old minecraft mob vote losers in game until there aren't any half-met hopes in the community anymore. That way, in in the next decade or so, we will finally have e caught up with all the bitter community complaints, and made evert mob vote loser a part of the party again! <br>Reason #4. Community creations outside the feedback website. <br>I could not help but notice that you guys in mojang made a strict rule against adding anymore mods concepts to the game. There are two problems with that. Number 1, is that there are so many mods out there in the world by now, that doing that is practically impossible, and number 2, is that the reason vanilla + mods are created is to express the creators ideas of what should actually be vanilla. Mods are a modders way of posting their own feedback. With time, you can revert this rule and have time to polish up the mod concepts further until perfect for the game, ad enjoyable.</p>\n<p>Finally, Reason #5. More time for outside work. <br>You guys have lives too, so we want you guys to be at peak mental health, physical health, and peak happiness while not working so a whole second year of time would give you more time to spend wit your family and friends, and build a life outside of the studio. we love you mojang!</p>",
+        "author_id": 11423708750477,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/27575014691853-Mojang-needs-more-time/comments/27575415054349",
+        "created_at": "2024-06-14T15:14:53Z",
+        "updated_at": "2024-06-14T15:30:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/27575014691853/comments/27575415054349.json",
+        "post_id": 27575014691853,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 27575482374797,
+        "body": "<p>With these reasons in mind, and the future benefits of these changes to the studio, to the people in the studio, to the game, and to the community in mind as well, I think that adding another year worth of waiting time is 100% worth it, and this proposal should definitelly be seriously considered.</p>",
+        "author_id": 11423708750477,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/27575014691853-Mojang-needs-more-time/comments/27575482374797",
+        "created_at": "2024-06-14T15:17:13Z",
+        "updated_at": "2024-06-14T15:22:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/27575014691853/comments/27575482374797.json",
+        "post_id": 27575014691853,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 26928707143693,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 27121293226637,
+        "body": "<p>Vote this idea</p>",
+        "author_id": 21415456882445,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26928707143693-Profile-Inventory-Showcase-Your-Purchases-on-the-Minecraft-Website/comments/27121293226637",
+        "created_at": "2024-05-29T02:44:04Z",
+        "updated_at": "2024-05-29T02:44:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26928707143693/comments/27121293226637.json",
+        "post_id": 26928707143693,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 26815904821773,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 27395203243149,
+        "body": "<p><strong>I</strong> feel like <strong>you</strong> used, like, <strong>too much</strong> bold-word <strong>formatting.</strong></p>",
+        "author_id": 25284940540557,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26815904821773-Personal-feeling-about-the-15th-Anniversary-cape/comments/27395203243149",
+        "created_at": "2024-06-07T20:13:58Z",
+        "updated_at": "2024-06-07T20:14:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26815904821773/comments/27395203243149.json",
+        "post_id": 26815904821773,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 26270948179725,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 26701229458573,
+        "body": "<p>*insert search bar here*</p>",
+        "author_id": 26608465097229,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26270948179725-Ability-to-search-for-comments-in-a-post/comments/26701229458573",
+        "created_at": "2024-05-14T00:55:04Z",
+        "updated_at": "2024-05-14T00:55:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26270948179725/comments/26701229458573.json",
+        "post_id": 26270948179725,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 25486500214157,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25489790524813,
+        "body": "<p>It would change every minute.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25486500214157-Field-with-random-Feedbacks/comments/25489790524813",
+        "created_at": "2024-03-31T19:45:02Z",
+        "updated_at": "2024-03-31T19:58:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25486500214157/comments/25489790524813.json",
+        "post_id": 25486500214157,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 25707106125453,
+        "body": "<p>It actually used to appear once in January 2020, but was sometime removed.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/25486500214157-Field-with-random-Feedbacks/comments/25707106125453",
+        "created_at": "2024-04-08T10:33:48Z",
+        "updated_at": "2024-04-08T18:02:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/25486500214157/comments/25707106125453.json",
+        "post_id": 25486500214157,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 24975858871053,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25490161058701,
+        "body": "<p>A private comment would have dark grey outlines surrounding the comment and a ‘private comment’ tag.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24975858871053-Private-Comments/comments/25490161058701",
+        "created_at": "2024-03-31T20:12:34Z",
+        "updated_at": "2024-03-31T21:04:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24975858871053/comments/25490161058701.json",
+        "post_id": 24975858871053,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 24841461360141,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 26264749507085,
+        "body": "<p>A category that serves just about the same purpose on this feedback site exists: Beta (Bedrock).</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24841461360141--Minecraft-Bedrock-Edition-Previews-topic/comments/26264749507085",
+        "created_at": "2024-04-27T21:59:02Z",
+        "updated_at": "2024-04-27T21:59:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24841461360141/comments/26264749507085.json",
+        "post_id": 24841461360141,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 24627262277773,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 24747133075341,
+        "body": "<p>I think that other mobs from the votes must be released in Minecraft to like the copper golem please do it for copper golem, wild fire, tuff golem, and the rest please they want you to do it</p>",
+        "author_id": 24747025589005,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24627262277773-Making-Comments-on-Articles/comments/24747133075341",
+        "created_at": "2024-03-06T15:38:02Z",
+        "updated_at": "2024-03-11T06:26:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24627262277773/comments/24747133075341.json",
+        "post_id": 24627262277773,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 24747155584525,
+        "body": "<p>I think that other mobs from the votes must be released in Minecraft to like the copper golem please do it for copper golem, wild fire, tuff golem, and the rest please they want you to do it</p>",
+        "author_id": 24747025589005,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24627262277773-Making-Comments-on-Articles/comments/24747155584525",
+        "created_at": "2024-03-06T15:38:58Z",
+        "updated_at": "2024-03-11T06:26:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24627262277773/comments/24747155584525.json",
+        "post_id": 24627262277773,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 24876587176589,
+        "body": "<p>You could be able to make comments on the Previously Considered Suggestions article, so you can see how the community reacts on previously considered suggestions.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24627262277773-Making-Comments-on-Articles/comments/24876587176589",
+        "created_at": "2024-03-11T06:28:25Z",
+        "updated_at": "2024-03-14T11:12:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24627262277773/comments/24876587176589.json",
+        "post_id": 24627262277773,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

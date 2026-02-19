@@ -1,0 +1,802 @@
+[
+  {
+    "post_id": 360041509172,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004523491,
+        "body": "<p>This is currently the case in Java edition, while Xbox and PS4 keep their own records separate from Mojang (currently).</p>",
+        "author_id": 374825305971,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041509172-Achivements/comments/360004523491",
+        "created_at": "2019-02-20T02:46:31Z",
+        "updated_at": "2021-12-04T17:31:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041509172/comments/360004523491.json",
+        "post_id": 360041509172,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4410273582861,
+        "body": "<p>I didn't get the end gateway achievements in bedrock pls fix that bug</p>",
+        "author_id": 416711953372,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041509172-Achivements/comments/4410273582861",
+        "created_at": "2021-09-29T09:14:07Z",
+        "updated_at": "2021-12-04T17:31:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041509172/comments/4410273582861.json",
+        "post_id": 360041509172,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360040571371,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013612972,
+        "body": "<p>A variety of Minecraft tips for Java Edition similar to Bedrock Edition would be cool</p>",
+        "author_id": 406280981491,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040571371-More-loading-screen-tips/comments/360013612972",
+        "created_at": "2020-11-24T05:39:17Z",
+        "updated_at": "2020-11-24T07:32:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040571371/comments/360013612972.json",
+        "post_id": 360040571371,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360039779312,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004001151,
+        "body": "<p>This is already possible in a way, bows enchanted or not can be fixed by combining it with other bows, in the anvil (to keep enchantments) or the crafting table (to not keep them). Fishing rods however dont need that, they have a mechanic where if you have an enchanted rod, cast that, switch to another rod in your hotbar, and fish with that, it wont damage the enchanted one, and you still keep the enchants.</p>",
+        "author_id": 375974456111,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360039779312-Making-enchanted-bows-Fishing-rods-repairable/comments/360004001151",
+        "created_at": "2019-01-23T12:54:56Z",
+        "updated_at": "2019-01-23T16:59:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360039779312/comments/360004001151.json",
+        "post_id": 360039779312,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360004020472,
+        "body": "<p>But you <em>can</em> do that, you just use an unenchanted bow or fishing rod to repair them. In 1.13, you use an anvil to do this. In 1.14, I think you use a grindstone instead.</p>",
+        "author_id": 364950077372,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360039779312-Making-enchanted-bows-Fishing-rods-repairable/comments/360004020472",
+        "created_at": "2019-01-23T16:54:38Z",
+        "updated_at": "2019-01-23T16:54:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360039779312/comments/360004020472.json",
+        "post_id": 360039779312,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360004107332,
+        "body": "<p>Ohhh that makes sense actually, thank you for telling me!</p>",
+        "author_id": 375966854931,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360039779312-Making-enchanted-bows-Fishing-rods-repairable/comments/360004107332",
+        "created_at": "2019-01-26T19:42:36Z",
+        "updated_at": "2019-01-26T19:42:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360039779312/comments/360004107332.json",
+        "post_id": 360039779312,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360039721412,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005167311,
+        "body": "<p>I think that instead, they should keep the wood-stone-iron-diamond system but add new non-tiered tools with special abilities.&nbsp; I don't think anyone would use a tool that automatically has silk touch but mines as quickly as wooden tools because why not just enchant a diamond tool with silk touch?</p>",
+        "author_id": 370958599952,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360039721412-Gem-Effects-on-Tools/comments/360005167311",
+        "created_at": "2019-04-08T01:40:02Z",
+        "updated_at": "2019-04-08T20:22:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360039721412/comments/360005167311.json",
+        "post_id": 360039721412,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360038375291,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360003785211,
+        "body": "<p>Translation:</p>\n<p class=\"p1\">For every spell there is a curse. Example: sharp-blunting, protection-defenselessness.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360038375291-Curses-to-counter-enchantments/comments/360003785211",
+        "created_at": "2019-01-14T18:49:29Z",
+        "updated_at": "2019-01-14T18:49:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360038375291/comments/360003785211.json",
+        "post_id": 360038375291,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360035930571,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360003589212,
+        "body": "<p>They take out the sword deflection because of the off-hand interaction problem. That is, you would still use the right click function of the sword rather than the shield’s. But, this can be dealt with particular coding for the sword, for example, if you don’t have any thing in your off-hand, you can deflect with the sword.</p>",
+        "author_id": 373750494611,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360035930571-Deflection-with-swords/comments/360003589212",
+        "created_at": "2018-12-30T20:45:34Z",
+        "updated_at": "2018-12-31T17:43:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360035930571/comments/360003589212.json",
+        "post_id": 360035930571,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005706211,
+        "body": "<p>Good Idea if you can also do it with axes.</p>",
+        "author_id": 381801787172,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360035930571-Deflection-with-swords/comments/360005706211",
+        "created_at": "2019-05-19T17:28:10Z",
+        "updated_at": "2019-05-19T17:28:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360035930571/comments/360005706211.json",
+        "post_id": 360035930571,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360030102591,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360003753791,
+        "body": "<p>It’s probably too complicated for them to bother with, they probably have more important things to do.</p>",
+        "author_id": 365295211332,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360030102591-Blocks-Explosion-Resistance-is-messed-up/comments/360003753791",
+        "created_at": "2019-01-11T22:14:51Z",
+        "updated_at": "2019-01-11T22:16:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360030102591/comments/360003753791.json",
+        "post_id": 360030102591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360028767711,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 6855116732045,
+        "body": "<p>I love ❤️ it</p>\n<p>&nbsp;</p>",
+        "author_id": 6855099291789,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360028767711-How-to-dye-anything/comments/6855116732045",
+        "created_at": "2022-06-12T13:18:53Z",
+        "updated_at": "2022-06-15T15:17:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360028767711/comments/6855116732045.json",
+        "post_id": 360028767711,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360025525331,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4449118986893,
+        "body": "<p>Please Add A Glow Enchant!</p>",
+        "author_id": 409824229232,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360025525331-Armor-Enchantment-Glow/comments/4449118986893",
+        "created_at": "2022-02-19T14:10:29Z",
+        "updated_at": "2022-02-19T14:10:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360025525331/comments/4449118986893.json",
+        "post_id": 360025525331,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360022353371,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360002220812,
+        "body": "<p>Here are some methods:</p>\n<p>Arm fireworks, jump, and right-click in the sky for a quick boost.</p>\n<p>Place a command block, enter the command “/tp @p ~ 250 ~”, and put a pressure plate on the command block for a reusable boost.</p>",
+        "author_id": 367005687131,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360022353371-Elytra-boost-without-fly-mode/comments/360002220812",
+        "created_at": "2018-09-09T22:15:05Z",
+        "updated_at": "2018-09-10T15:42:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360022353371/comments/360002220812.json",
+        "post_id": 360022353371,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002236951,
+        "body": "<p>Bilbo Baggins\n<br />Its for mobile user and this is for REAL SURVIVAL WITHOUT CHEATING</p>",
+        "author_id": 369632381911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360022353371-Elytra-boost-without-fly-mode/comments/360002236951",
+        "created_at": "2018-09-11T11:05:04Z",
+        "updated_at": "2018-09-11T11:05:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360022353371/comments/360002236951.json",
+        "post_id": 360022353371,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002245772,
+        "body": "<p>I have done both on mobile. &nbsp;It shouldn’t make a difference whether you are on mobile or not.</p>\n<p>For survival, just make fireworks:</p>\n<p>PG</p>\n<p>GG</p>\n<p>G=gunpowder, P=paper.</p>",
+        "author_id": 367005687131,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360022353371-Elytra-boost-without-fly-mode/comments/360002245772",
+        "created_at": "2018-09-11T22:45:03Z",
+        "updated_at": "2018-09-12T15:41:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360022353371/comments/360002245772.json",
+        "post_id": 360022353371,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360002338651,
+        "body": "<p>In mobile its hard to trigger with jumping in same block</p>",
+        "author_id": 367721938052,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360022353371-Elytra-boost-without-fly-mode/comments/360002338651",
+        "created_at": "2018-09-22T13:56:09Z",
+        "updated_at": "2018-09-22T13:56:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360022353371/comments/360002338651.json",
+        "post_id": 360022353371,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360016717632,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360001666592,
+        "body": "<p>I have absolutely no idea what you're asking for...</p>",
+        "author_id": 365008403592,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360016717632-Void-alternative-was-Idea-of-the-world/comments/360001666592",
+        "created_at": "2018-07-16T02:55:56Z",
+        "updated_at": "2018-07-16T02:55:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360016717632/comments/360001666592.json",
+        "post_id": 360016717632,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360001672771,
+        "body": "<p class=\"p1\">Hi there, This feedback is incomplete and not really useable by our team in its current form. Can you explain what you're looking for? Thanks, it will help us express your idea to the team in an actionable way.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360016717632-Void-alternative-was-Idea-of-the-world/comments/360001672771",
+        "created_at": "2018-07-16T15:32:21Z",
+        "updated_at": "2018-07-16T15:32:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360016717632/comments/360001672771.json",
+        "post_id": 360016717632,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360001792571,
+        "body": "<p>And how are we supposed to get into the void in survival mode?</p>",
+        "author_id": 367503048751,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360016717632-Void-alternative-was-Idea-of-the-world/comments/360001792571",
+        "created_at": "2018-07-26T09:18:36Z",
+        "updated_at": "2018-07-26T09:18:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360016717632/comments/360001792571.json",
+        "post_id": 360016717632,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360010986611,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360001210451,
+        "body": "<p>As far as I’m concerned, the suggestions here are mostly things for Mojang to consider adding to the game. &nbsp;It’s up to them to decide how, when, and if to add them into the game.</p>\n<p>And there are tweaks suggested too.</p>",
+        "author_id": 365008403592,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360010986611-I-think-most-ideas-that-people-want-in-the-game-are-great-and-all-but-we-need-to-slow-down/comments/360001210451",
+        "created_at": "2018-06-08T04:13:08Z",
+        "updated_at": "2020-04-15T23:51:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360010986611/comments/360001210451.json",
+        "post_id": 360010986611,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360007095872,
+        "body": "<p>I think that’s a great idea!</p>",
+        "author_id": 385948913812,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360010986611-I-think-most-ideas-that-people-want-in-the-game-are-great-and-all-but-we-need-to-slow-down/comments/360007095872",
+        "created_at": "2019-08-17T17:35:09Z",
+        "updated_at": "2020-04-15T23:51:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360010986611/comments/360007095872.json",
+        "post_id": 360010986611,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 42212534105613,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 42212535849613,
+        "body": "<p>Choose my voice so you won't be disappointed in the 2020 mob vote yesterday. </p>",
+        "author_id": 26974248127117,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/42212534105613-Ice-Biome-Update/comments/42212535849613",
+        "created_at": "2025-12-26T04:26:43Z",
+        "updated_at": "2025-12-26T04:26:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/42212534105613/comments/42212535849613.json",
+        "post_id": 42212534105613,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 41852897898637,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41878714892557,
+        "body": "<p>This is actually good</p>",
+        "author_id": 41709293366413,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41852897898637-Adding-the-Wind-Charge-to-the-Eye-of-Ender-recipe/comments/41878714892557",
+        "created_at": "2025-12-12T13:42:52Z",
+        "updated_at": "2025-12-12T13:42:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41852897898637/comments/41878714892557.json",
+        "post_id": 41852897898637,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 41735918959501,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41735960259341,
+        "body": "<p>And in the next update please?</p>",
+        "author_id": 41735776931341,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41735918959501-Can-we-get-invisible-item-frames-as-a-normal-thing-in-the-game/comments/41735960259341",
+        "created_at": "2025-12-07T23:31:04Z",
+        "updated_at": "2025-12-07T23:31:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41735918959501/comments/41735960259341.json",
+        "post_id": 41735918959501,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41753321264781,
+        "body": "<p>I wish that too</p>",
+        "author_id": 41751170018957,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41735918959501-Can-we-get-invisible-item-frames-as-a-normal-thing-in-the-game/comments/41753321264781",
+        "created_at": "2025-12-08T17:00:15Z",
+        "updated_at": "2025-12-08T17:00:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41735918959501/comments/41753321264781.json",
+        "post_id": 41735918959501,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41908006013581,
+        "body": "<p>This should be a creative mode thing...</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41735918959501-Can-we-get-invisible-item-frames-as-a-normal-thing-in-the-game/comments/41908006013581",
+        "created_at": "2025-12-13T14:18:08Z",
+        "updated_at": "2025-12-13T14:18:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41735918959501/comments/41908006013581.json",
+        "post_id": 41735918959501,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 41354788903437,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41359581247629,
+        "body": "<p>This idea will save MINECRAFT BEDROCK FOREVER! THANK YOU SO MUCH FOR THIS IDEA. LURE PEOPLE TO VOTE THIS AND YOU WILL BE MINECRAFT PVP HERO</p>",
+        "author_id": 41026810154765,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41354788903437-Bedrock-PvP/comments/41359581247629",
+        "created_at": "2025-11-23T15:39:08Z",
+        "updated_at": "2025-11-23T15:39:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41354788903437/comments/41359581247629.json",
+        "post_id": 41354788903437,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 41028250622221,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41089971807629,
+        "body": "<p>There is a workaround to the com.mojang folder loss on Windows:</p>\n<p><strong>For the retail, non-beta version of Minecraft Bedrock:</strong></p>\n<p>If you think you have not updated or migrated game files yet, before opening the Minecraft Bedrock game, the retail non-beta <strong>com.mojang</strong> folder can be put in a temporary file directory. Then when the game migration is done, the files <strong>behaviour_packs</strong>, <strong>development_behaviour_packs</strong>, <strong>development_resource_packs</strong>, <strong>development_skin_packs</strong> and <strong>resource_packs</strong> from your old com.mojang folder can be put back in the game directory:</p>\n<p>Minecraft Bedrock / users / shared / games / com.mojang</p>\n<p>The remaining files in your older com.mojang directory can then go to this game directory:</p>\n<p>Minecraft Bedrock / users / <em>(the number that was generated by the game)</em> / games / com.mojang</p>\n<p><strong>For the Preview version of Minecraft Bedrock:</strong></p>\n<p>If you think you have not updated or migrated game files yet, before opening the Minecraft Bedrock Preview game, the Bedrock Preview <strong>com.mojang</strong> folder can be put in a temporary file directory. Then when the game migration is done, the files <strong>behaviour_packs</strong>, <strong>development_behaviour_packs</strong>, <strong>development_resource_packs</strong>, <strong>development_skin_packs</strong> and <strong>resource_packs</strong> from your old com.mojang folder can be put back in the game directory:</p>\n<p>Minecraft Bedrock Preview / users / shared / games / com.mojang</p>\n<p>The remaining files in your older com.mojang directory can then go to this game directory:</p>\n<p>Minecraft Bedrock Preview / users / <em>(the number that was generated by the game)</em> / games / com.mojang</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41028250622221-Minecraft-Bedrock-has-a-lot-of-problems/comments/41089971807629",
+        "created_at": "2025-11-12T20:31:38Z",
+        "updated_at": "2025-11-13T00:52:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41028250622221/comments/41089971807629.json",
+        "post_id": 41028250622221,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40814451898765,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40911660776717,
+        "body": "<p>You'd think with bedrock being microsoft's favorite version they'd prioritize stuff like this.</p>",
+        "author_id": 38368823590157,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40814451898765-Chunk-Loading-for-Bedrock-Edition/comments/40911660776717",
+        "created_at": "2025-11-06T00:49:17Z",
+        "updated_at": "2025-11-06T00:49:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40814451898765/comments/40911660776717.json",
+        "post_id": 40814451898765,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40802517786125,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40816192978189,
+        "body": "<p>And being able to use fireworks in the other hand while flying with an elytra.</p>",
+        "author_id": 11165279061645,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40802517786125-Hold-my-items-like-java/comments/40816192978189",
+        "created_at": "2025-11-03T03:46:34Z",
+        "updated_at": "2025-11-03T18:38:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40802517786125/comments/40816192978189.json",
+        "post_id": 40802517786125,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40615724616205,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40617617315981,
+        "body": "<p>Maybe putting a carved pumpkin on it would also keep mobs away.</p>",
+        "author_id": 11165279061645,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40615724616205-Another-use-for-Armor-Stands/comments/40617617315981",
+        "created_at": "2025-10-25T13:21:03Z",
+        "updated_at": "2025-10-25T13:21:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40615724616205/comments/40617617315981.json",
+        "post_id": 40615724616205,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40458551807757,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40468119389197,
+        "body": "<p>The spear is better with elytra than with anything else. Mace can be used while falling to damage anything that comes to you mid air. Tridents can be used with riptide to fly around. Bows and Crossbows can be used to fight flying players and entities. There's a lot of air combat in the game and with the new spear it'll probably be the new meta. What are you talking about?</p>",
+        "author_id": 404423904512,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40458551807757-Air-combat-is-empty/comments/40468119389197",
+        "created_at": "2025-10-20T14:45:57Z",
+        "updated_at": "2025-10-20T16:33:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40458551807757/comments/40468119389197.json",
+        "post_id": 40458551807757,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40143292848269,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40303149902605,
+        "body": "<p>I'm sure this is in the game already but I'm still gonna vote worse thing is they say it already in the game.</p>",
+        "author_id": 405105839771,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40143292848269-Spear-damage-is-relative-to-BOTH-entity-s-speed/comments/40303149902605",
+        "created_at": "2025-10-13T19:29:26Z",
+        "updated_at": "2025-10-13T19:29:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40143292848269/comments/40303149902605.json",
+        "post_id": 40143292848269,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40109237641357,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40109310626573,
+        "body": "<p>We Need This</p>",
+        "author_id": 35698145859213,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40109237641357-Why-we-need-a-End-Update/comments/40109310626573",
+        "created_at": "2025-10-06T02:33:43Z",
+        "updated_at": "2025-10-06T02:33:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40109237641357/comments/40109310626573.json",
+        "post_id": 40109237641357,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 42123960115725,
+        "body": "<p>There are more reasons I could give but that's all the reasons I'm going to give i hope we get the End Update In 2026 -Blockfurypro</p>",
+        "author_id": 35698145859213,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40109237641357-Why-we-need-a-End-Update/comments/42123960115725",
+        "created_at": "2025-12-22T03:25:43Z",
+        "updated_at": "2025-12-22T03:25:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40109237641357/comments/42123960115725.json",
+        "post_id": 40109237641357,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 42197350100621,
+        "body": "<p>I really like this idea because Mojang haven't updated the end.</p>",
+        "author_id": 42197289160205,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40109237641357-Why-we-need-a-End-Update/comments/42197350100621",
+        "created_at": "2025-12-24T20:08:40Z",
+        "updated_at": "2025-12-24T20:08:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40109237641357/comments/42197350100621.json",
+        "post_id": 40109237641357,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40059452863885,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40059665058957,
+        "body": "<p>Maybe you could make the portal in the deep darkfunktional and when you activate it, it takes you to the grand deep underground</p>",
+        "author_id": 40059660725773,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40059452863885-Climbable-Ropes/comments/40059665058957",
+        "created_at": "2025-10-03T10:24:10Z",
+        "updated_at": "2025-10-03T18:27:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40059452863885/comments/40059665058957.json",
+        "post_id": 40059452863885,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40059651744397,
+        "body": "<p>Cool!</p>",
+        "author_id": 40059660725773,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40059452863885-Climbable-Ropes/comments/40059651744397",
+        "created_at": "2025-10-03T10:25:45Z",
+        "updated_at": "2025-10-03T10:25:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40059452863885/comments/40059651744397.json",
+        "post_id": 40059452863885,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 39930219517581,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40986494396173,
+        "body": "<p>You can reduce your screen safe zone or whatever its called to achieve this. I know this will make big weird borders, but its the only way</p>",
+        "author_id": 33523366497421,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39930219517581-Allow-2-GUI-Scale-on-MInecraft-Bedrock-Edition-to-all-platforms/comments/40986494396173",
+        "created_at": "2025-11-08T22:13:46Z",
+        "updated_at": "2025-11-08T22:20:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39930219517581/comments/40986494396173.json",
+        "post_id": 39930219517581,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

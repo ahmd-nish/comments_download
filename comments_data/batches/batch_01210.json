@@ -1,0 +1,952 @@
+[
+  {
+    "post_id": 17505898527629,
+    "expected_comment_count": 8,
+    "actual_comment_count": 8,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 18078557658509,
+        "body": "<p>I agree that Minecraft needs a web client. I would suggest that the web client be based off of Babylon.js and support WebXR. This would also support the Microsoft brand, since Babylon.js is an open source project sponsored by Microsoft.</p>\n\n<p>Additionally, the client should be source available, so that the community build mods.</p>",
+        "author_id": 381232524891,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/17505898527629-Minecraft-Web-Client/comments/18078557658509",
+        "created_at": "2023-07-31T12:17:58Z",
+        "updated_at": "2023-09-24T21:15:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/17505898527629/comments/18078557658509.json",
+        "post_id": 17505898527629,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 18635253524493,
+        "body": "<p>minecraft premium does not exists and that would give you less fps</p>",
+        "author_id": 1904485230047,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/17505898527629-Minecraft-Web-Client/comments/18635253524493",
+        "created_at": "2023-08-17T19:27:48Z",
+        "updated_at": "2023-08-18T04:46:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/17505898527629/comments/18635253524493.json",
+        "post_id": 17505898527629,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 18643967592461,
+        "body": "<p>minecraft isn't going to do this because it would just be very difficult to have enough servers for everyone like they probably already have enough problems with realms and minecraft bedrock multiplayer as a whole but making a webclient is difficult because minecraft java is resource intensive and it would be somewhat simple to make webclient code but it's a lot of processing and if they did this it would probably be at the price of a singleplayer realm plus some more</p>",
+        "author_id": 17599371975693,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/17505898527629-Minecraft-Web-Client/comments/18643967592461",
+        "created_at": "2023-08-18T00:24:26Z",
+        "updated_at": "2023-09-27T21:38:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/17505898527629/comments/18643967592461.json",
+        "post_id": 17505898527629,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 18648434795277,
+        "body": "<p>EagleCraft is also pirated and has been DMCAed</p>",
+        "author_id": 411013930752,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/17505898527629-Minecraft-Web-Client/comments/18648434795277",
+        "created_at": "2023-08-18T04:46:04Z",
+        "updated_at": "2023-08-18T04:46:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/17505898527629/comments/18648434795277.json",
+        "post_id": 17505898527629,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 19170603700749,
+        "body": "<p>yeah, I can understand why you feel that way, but maybe having a premium subscription would be a bit much. I think if you already have the game, you should have a web client for free. I saw someone said it would get less FPS, but it would probably get streamed from a server or something.</p>",
+        "author_id": 385943828732,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/17505898527629-Minecraft-Web-Client/comments/19170603700749",
+        "created_at": "2023-09-04T08:36:31Z",
+        "updated_at": "2023-09-21T08:51:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/17505898527629/comments/19170603700749.json",
+        "post_id": 17505898527629,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 19170584175373,
+        "body": "<p>and they already brought it to chromebooks anyway</p>",
+        "author_id": 385943828732,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/17505898527629-Minecraft-Web-Client/comments/19170584175373",
+        "created_at": "2023-09-04T08:37:37Z",
+        "updated_at": "2023-09-04T08:37:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/17505898527629/comments/19170584175373.json",
+        "post_id": 17505898527629,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 35244557456013,
+        "body": "<p>can we start a web client please Owner?</p>",
+        "author_id": 35244594359053,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/17505898527629-Minecraft-Web-Client/comments/35244557456013",
+        "created_at": "2025-03-23T13:21:24Z",
+        "updated_at": "2025-03-23T13:21:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/17505898527629/comments/35244557456013.json",
+        "post_id": 17505898527629,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 35632244676749,
+        "body": "<p>Hello, I'm the owner of the unofficial Minecraft Web Client ! Using babylon.js might be not the best idea due to how easy to run into performance issues with it. However Web API available in Chromium browsers became good enough for making big 3D games</p>",
+        "author_id": 35632196198285,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/17505898527629-Minecraft-Web-Client/comments/35632244676749",
+        "created_at": "2025-04-06T20:43:08Z",
+        "updated_at": "2025-04-07T20:30:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/17505898527629/comments/35632244676749.json",
+        "post_id": 17505898527629,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 14293248851853,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 14504608135181,
+        "body": "<p>*I* think it's good. But that's your opinion.</p>",
+        "author_id": 12786923102093,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/14293248851853-Upgrade-Minecraft-Launcher-Interface/comments/14504608135181",
+        "created_at": "2023-04-01T20:06:46Z",
+        "updated_at": "2023-04-08T14:35:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/14293248851853/comments/14504608135181.json",
+        "post_id": 14293248851853,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 8664343738253,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8691931461773,
+        "body": "<p>I think they won’t do that since it drives people away buying the game. And, they are supposed to fix those bugs too, as they are unintentional.</p>",
+        "author_id": 1903486539447,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8664343738253-A-warning-message-about-severe-Minecraft-bugs-in-the-launcher/comments/8691931461773",
+        "created_at": "2022-08-25T19:07:36Z",
+        "updated_at": "2024-01-31T21:37:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8664343738253/comments/8691931461773.json",
+        "post_id": 8664343738253,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 8795674206221,
+        "body": "<p>I know bugs are supposed to be fixed, but I think the team is struggling to find solutions to the 2 bugs I mentioned in this post as these bugs have both been unfixed for about 3 years, it would be great to warn players when they can't fix these bugs. Also, it would be great if they also warn players about severe bugs that they are able to fix quickly since versions that include bug fixes take time to release and players' worlds can be ruined by such bugs before the full releases of the versions that include fixes for such bugs.</p>",
+        "author_id": 415928094491,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8664343738253-A-warning-message-about-severe-Minecraft-bugs-in-the-launcher/comments/8795674206221",
+        "created_at": "2022-08-30T14:49:37Z",
+        "updated_at": "2022-09-16T07:07:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8664343738253/comments/8795674206221.json",
+        "post_id": 8664343738253,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5435806939021,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 9069117289869,
+        "body": "<p>Education Edition is available in the Play Store on Chrome OS. It's based on Bedrock Edition, so why can't we have Bedrock Edition too? I can't play Education Edition as I'm not in school.</p>",
+        "author_id": 9069020583181,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5435806939021-Minecraft-Bedrock-for-Android-x86/comments/9069117289869",
+        "created_at": "2022-09-10T14:24:47Z",
+        "updated_at": "2022-09-15T06:51:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5435806939021/comments/9069117289869.json",
+        "post_id": 5435806939021,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 9621573083917,
+        "body": "<p>no one uses android on x86. x86 is dying (hopefully) and not just on mobile</p>",
+        "author_id": 9620439980557,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5435806939021-Minecraft-Bedrock-for-Android-x86/comments/9621573083917",
+        "created_at": "2022-10-03T21:40:09Z",
+        "updated_at": "2022-10-03T21:40:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5435806939021/comments/9621573083917.json",
+        "post_id": 5435806939021,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 20235831035405,
+        "body": "<p>i acctualy have an apk to minecraft 1.20 and it works on android x86 its pretty nice that i found it that i dont need to play minecraft education anymore i will try to share it on the next post</p>",
+        "author_id": 20235738645901,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5435806939021-Minecraft-Bedrock-for-Android-x86/comments/20235831035405",
+        "created_at": "2023-10-09T18:37:23Z",
+        "updated_at": "2023-10-09T21:09:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5435806939021/comments/20235831035405.json",
+        "post_id": 5435806939021,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41832058541197,
+        "body": "<p>Minecraft android x86_64 worked great up until 1.21.114, then newer versions stopped working.</p>\n\n<p>Can we get this fixed?\n<br />(alternatively please build minecraft bedrock for linux too which would negate the need for running bedrock in android )</p>",
+        "author_id": 41831954119821,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5435806939021-Minecraft-Bedrock-for-Android-x86/comments/41832058541197",
+        "created_at": "2025-12-10T21:09:26Z",
+        "updated_at": "2025-12-10T21:09:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5435806939021/comments/41832058541197.json",
+        "post_id": 5435806939021,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4412519558925,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4413132556813,
+        "body": "<p>I agree. I play on an M1 Mac and for some reason every version from 1.6 and below has a reversed color scheme. I don’t know why this is, but it’s really annoying.</p>",
+        "author_id": 420064504571,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4412519558925-Basic-Legacy-Java-Support/comments/4413132556813",
+        "created_at": "2021-11-09T18:02:22Z",
+        "updated_at": "2024-03-02T09:56:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4412519558925/comments/4413132556813.json",
+        "post_id": 4412519558925,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077319871,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 12667656945677,
+        "body": "<p>Hallo </p>",
+        "author_id": 12309541605773,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077319871-Launcher-Changes/comments/12667656945677",
+        "created_at": "2023-01-30T14:27:00Z",
+        "updated_at": "2023-01-30T14:27:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077319871/comments/12667656945677.json",
+        "post_id": 360077319871,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076845671,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014210051,
+        "body": "<p>This idea makes no sense.</p>\n<p>&nbsp;</p>",
+        "author_id": 386370772171,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076845671--bedrock-edition-on-minecraft-java/comments/360014210051",
+        "created_at": "2021-02-04T10:33:45Z",
+        "updated_at": "2021-02-04T10:33:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076845671/comments/360014210051.json",
+        "post_id": 360076845671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014257691,
+        "body": "<p>I know what you are saying but it needs to be re-worded.</p>",
+        "author_id": 396563101732,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076845671--bedrock-edition-on-minecraft-java/comments/360014257691",
+        "created_at": "2021-02-09T13:23:02Z",
+        "updated_at": "2021-02-09T13:23:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076845671/comments/360014257691.json",
+        "post_id": 360076845671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 5458473121421,
+        "body": "<p>Practically impossible to do. They have different coding languages and do everything that you can't see differently, which makes mods for java edition only work on the java edition of Minecraft. This would be way too much effort to make work for the Minecraft developers.</p>",
+        "author_id": 384115840171,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076845671--bedrock-edition-on-minecraft-java/comments/5458473121421",
+        "created_at": "2022-04-11T14:45:25Z",
+        "updated_at": "2022-04-11T20:25:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076845671/comments/5458473121421.json",
+        "post_id": 360076845671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 18821659000973,
+        "body": "<p>I need is please</p>",
+        "author_id": 18821670793229,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076845671--bedrock-edition-on-minecraft-java/comments/18821659000973",
+        "created_at": "2023-08-24T01:19:50Z",
+        "updated_at": "2023-08-24T01:19:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076845671/comments/18821659000973.json",
+        "post_id": 360076845671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076611752,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014059271,
+        "body": "<p>Yeah, either that, or my idea below this one.</p>",
+        "author_id": 405232048851,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076611752-Make-integrated-news-feed-below-play-button-toggleable/comments/360014059271",
+        "created_at": "2021-01-20T12:52:53Z",
+        "updated_at": "2021-01-27T00:42:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076611752/comments/360014059271.json",
+        "post_id": 360076611752,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014183792,
+        "body": "<p>Personally, I find the addition of a per-game news feed welcome, but think that attaching the \"play\" buttion to the scrolling game details page was detrimental to the user experience. Rather than simply removing the newsfeed, I'd recommend&nbsp;adding a consistent location on the launcher that can be clicked to launch a desired game.</p>\n<p>The new user interface metaphor employed by the launcher seems to be that of a game library, reminiscent of the one found in Steam and others. This neglects an important part of game library designs. Other designs allow users to launch w/o opening the game details page.</p>\n<p>Steam: Dbl Click on the title<br>Origin: click the play icon by the cover art</p>\n<p>The design in launcher version beta 2.2.116x and later disturbs a highly consistent layout and makes it a moveable target.</p>\n<p>If the goal is to get the user to think about the minecraft launcher as launching more than just \"Minecraft Java edition,\" then do that. Emphasize the list view. mucking about with the details page layout just adds friction to players enjoying the game. :)</p>",
+        "author_id": 409981953632,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076611752-Make-integrated-news-feed-below-play-button-toggleable/comments/360014183792",
+        "created_at": "2021-01-26T10:24:19Z",
+        "updated_at": "2021-01-27T00:42:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076611752/comments/360014183792.json",
+        "post_id": 360076611752,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 12567629400845,
+        "body": "<p>My friend likes to be surprised by new features in-game, once they've been added. Having compulsory spoilers in big letters 1cm below the play button is a bit harsh.</p>",
+        "author_id": 12567244574605,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076611752-Make-integrated-news-feed-below-play-button-toggleable/comments/12567629400845",
+        "created_at": "2023-01-26T12:12:46Z",
+        "updated_at": "2023-03-24T22:31:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076611752/comments/12567629400845.json",
+        "post_id": 360076611752,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075387231,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014044711,
+        "body": "<p>good</p>",
+        "author_id": 409704877771,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075387231-Update-the-Minecraft-Launcher-installer/comments/360014044711",
+        "created_at": "2021-01-19T08:04:05Z",
+        "updated_at": "2021-01-19T08:04:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075387231/comments/360014044711.json",
+        "post_id": 360075387231,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071829672,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012097071,
+        "body": "<p>dude it does include the exact thing you said to include already.it also has the bosses and skins and stuff from only that game has and the title itself is different.</p>",
+        "author_id": 400370045391,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071829672-Change-the-dungeons-icon-in-the-minecraft-java-launcher/comments/360012097071",
+        "created_at": "2020-07-20T16:50:40Z",
+        "updated_at": "2020-07-20T17:32:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071829672/comments/360012097071.json",
+        "post_id": 360071829672,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012221432,
+        "body": "<p><img src=\"https://feedback.minecraft.net/hc/user_images/Z_ey-4XQW6U98HOR9kN5vw.png\"></p>\n<p>This is what I'm talking about if anyone is confused</p>",
+        "author_id": 385224447011,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071829672-Change-the-dungeons-icon-in-the-minecraft-java-launcher/comments/360012221432",
+        "created_at": "2020-07-22T21:40:53Z",
+        "updated_at": "2020-07-22T22:17:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071829672/comments/360012221432.json",
+        "post_id": 360071829672,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360044840812,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005948471,
+        "body": "<p>Tbh i really miss the pre-1.6 launcher just because of its background but this is a good idea even for the inclusion of the pre-1.11 launcher! :)</p>",
+        "author_id": 382743750372,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360044840812-Classic-or-Current-Option/comments/360005948471",
+        "created_at": "2019-06-05T12:19:09Z",
+        "updated_at": "2019-06-05T12:19:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360044840812/comments/360005948471.json",
+        "post_id": 360044840812,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 39720949772685,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40087344442125,
+        "body": "<p>yes same</p>",
+        "author_id": 40087350248717,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/39720949772685-Minecraft-Bedrock-Rock-support-Linux/comments/40087344442125",
+        "created_at": "2025-10-04T10:25:54Z",
+        "updated_at": "2025-10-04T10:25:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/39720949772685/comments/40087344442125.json",
+        "post_id": 39720949772685,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 37256162562445,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 37706157154957,
+        "body": "<p>yesssssss</p>",
+        "author_id": 37706074664461,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/37256162562445-Natively-support-bedrock-on-Linux-and-M-Chip-Macs/comments/37706157154957",
+        "created_at": "2025-06-29T21:56:34Z",
+        "updated_at": "2025-06-29T23:15:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/37256162562445/comments/37706157154957.json",
+        "post_id": 37256162562445,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35807909312269,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35907822258189,
+        "body": "<p>Sounds so useful</p>",
+        "author_id": 24982550653197,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35807909312269-Add-a-cancel-launch-button-to-the-launcher/comments/35907822258189",
+        "created_at": "2025-04-16T18:18:08Z",
+        "updated_at": "2025-04-16T18:18:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35807909312269/comments/35907822258189.json",
+        "post_id": 35807909312269,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 35949657253773,
+        "body": "<p>we need this</p>",
+        "author_id": 35920637940493,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35807909312269-Add-a-cancel-launch-button-to-the-launcher/comments/35949657253773",
+        "created_at": "2025-04-18T02:11:00Z",
+        "updated_at": "2025-04-18T02:11:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35807909312269/comments/35949657253773.json",
+        "post_id": 35807909312269,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35673534671373,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35673542668429,
+        "body": "<p>過去の配布マップをしたい</p>",
+        "author_id": 35673475799565,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35673534671373-I-would-like-to-be-able-to-change-the-version/comments/35673542668429",
+        "created_at": "2025-04-08T11:26:27Z",
+        "updated_at": "2025-04-08T11:26:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35673534671373/comments/35673542668429.json",
+        "post_id": 35673534671373,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 35805058864781,
+        "body": "<p><strong>java</strong> or <em>bedrock?</em></p>",
+        "author_id": 18120097069325,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35673534671373-I-would-like-to-be-able-to-change-the-version/comments/35805058864781",
+        "created_at": "2025-04-12T20:25:07Z",
+        "updated_at": "2025-04-13T18:15:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35673534671373/comments/35805058864781.json",
+        "post_id": 35673534671373,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 35949741193741,
+        "body": "<p>you can</p>",
+        "author_id": 35920637940493,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35673534671373-I-would-like-to-be-able-to-change-the-version/comments/35949741193741",
+        "created_at": "2025-04-18T02:25:14Z",
+        "updated_at": "2025-04-18T02:25:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35673534671373/comments/35949741193741.json",
+        "post_id": 35673534671373,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35623231556621,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35805065022221,
+        "body": "<p>good idea!</p>",
+        "author_id": 18120097069325,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35623231556621-Keep-the-April-Fools-level-bar-in-the-launcher/comments/35805065022221",
+        "created_at": "2025-04-12T20:23:52Z",
+        "updated_at": "2025-04-12T20:23:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35623231556621/comments/35805065022221.json",
+        "post_id": 35623231556621,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 35949795082637,
+        "body": "<p>you dont get a cape in the april fools update</p>",
+        "author_id": 35920637940493,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35623231556621-Keep-the-April-Fools-level-bar-in-the-launcher/comments/35949795082637",
+        "created_at": "2025-04-18T02:35:47Z",
+        "updated_at": "2025-04-18T19:01:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35623231556621/comments/35949795082637.json",
+        "post_id": 35623231556621,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 35622610175757,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 35622610471565,
+        "body": "<p>que buena idea</p>",
+        "author_id": 35622506585997,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/35622610175757-golem-de-velocidad/comments/35622610471565",
+        "created_at": "2025-04-06T00:33:31Z",
+        "updated_at": "2025-04-06T00:33:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/35622610175757/comments/35622610471565.json",
+        "post_id": 35622610175757,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 28398914881677,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 28774206935821,
+        "body": "<p>Agreed</p>",
+        "author_id": 28773648973453,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/28398914881677-Cloud-Save/comments/28774206935821",
+        "created_at": "2024-07-28T14:06:00Z",
+        "updated_at": "2024-07-28T16:07:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/28398914881677/comments/28774206935821.json",
+        "post_id": 28398914881677,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 28937704033293,
+        "body": "<p>sounds cool!</p>",
+        "author_id": 28937625580813,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/28398914881677-Cloud-Save/comments/28937704033293",
+        "created_at": "2024-08-02T16:32:21Z",
+        "updated_at": "2024-08-02T16:35:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/28398914881677/comments/28937704033293.json",
+        "post_id": 28398914881677,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 21886563388173,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 22836369127437,
+        "body": "<p>Why?</p>",
+        "author_id": 21045530339085,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/21886563388173-A-feature-to-remove-Minecraft-Legends-icon-in-the-launcher-its-allay-ring/comments/22836369127437",
+        "created_at": "2024-01-02T03:32:42Z",
+        "updated_at": "2024-01-02T03:32:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/21886563388173/comments/22836369127437.json",
+        "post_id": 21886563388173,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 22998185717517,
+        "body": "<p>Because it's upsetting me</p>",
+        "author_id": 12353175589645,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/21886563388173-A-feature-to-remove-Minecraft-Legends-icon-in-the-launcher-its-allay-ring/comments/22998185717517",
+        "created_at": "2024-01-07T20:04:20Z",
+        "updated_at": "2024-01-07T20:04:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/21886563388173/comments/22998185717517.json",
+        "post_id": 21886563388173,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 25501552832781,
+        "body": "<p>THIS GOT FINALLY RESOLVED!!!</p>",
+        "author_id": 12353175589645,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/21886563388173-A-feature-to-remove-Minecraft-Legends-icon-in-the-launcher-its-allay-ring/comments/25501552832781",
+        "created_at": "2024-04-01T13:05:05Z",
+        "updated_at": "2024-04-01T13:05:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/21886563388173/comments/25501552832781.json",
+        "post_id": 21886563388173,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 19872583871629,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 22815220163725,
+        "body": "<p>It should stay the same price for the bundles, being at 39.99 USD for both games deluxe.</p>",
+        "author_id": 13094420543757,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/19872583871629-MINECRAFT-DUNGEONS-and-MINECRAFT-LEGENDS-with-purchase/comments/22815220163725",
+        "created_at": "2023-12-31T15:51:14Z",
+        "updated_at": "2023-12-31T15:51:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/19872583871629/comments/22815220163725.json",
+        "post_id": 19872583871629,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 14391514592141,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 14391912054029,
+        "body": "<p>There is, with torchflower seeds.</p>",
+        "author_id": 419344921172,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/14391514592141-sniffers/comments/14391912054029",
+        "created_at": "2023-03-28T20:51:03Z",
+        "updated_at": "2023-04-08T11:12:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/14391514592141/comments/14391912054029.json",
+        "post_id": 14391514592141,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10466593053453,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 11167725011213,
+        "body": "<p>If you mean be given the ability to install minecraft wherever you want then yes we need this! Sorry my Chinese is more than just rusty it's corroded</p>\n<p>Because of something that happened to my computer won't name names but it caused me to have to have my computer nuked to the day I got it losing all my stuff for Minecraft. If we were given the ability to install Minecraft elsewhere this wouldn't have been a problem.&nbsp;</p>",
+        "author_id": 365278970252,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10466593053453-Let-the-launcher-can-select-the-location-of-minecraft/comments/11167725011213",
+        "created_at": "2022-12-04T22:41:08Z",
+        "updated_at": "2022-12-28T22:00:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10466593053453/comments/11167725011213.json",
+        "post_id": 10466593053453,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10238744199821,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 21681266137741,
+        "body": "<p>And an option to disable default skins offline and have our own skins. Not be forced to have a skin that can be very degrading especially when it forces something on you that you are not</p>",
+        "author_id": 21681121754637,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10238744199821-Skin-Library/comments/21681266137741",
+        "created_at": "2023-11-26T15:18:49Z",
+        "updated_at": "2023-11-27T16:36:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10238744199821/comments/21681266137741.json",
+        "post_id": 10238744199821,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 8837018755981,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 10857097655309,
+        "body": "<p>or mabye capes for every year you got the game. for example: 1015, 1016,...</p>",
+        "author_id": 396212682112,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8837018755981-Capes-for-the-time-you-have-minecraft/comments/10857097655309",
+        "created_at": "2022-11-23T15:35:52Z",
+        "updated_at": "2022-11-23T15:35:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8837018755981/comments/10857097655309.json",
+        "post_id": 8837018755981,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 8827430186893,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 18644240260749,
+        "body": "<p>The games are two seperate things and it would be almost impossible to get them together without bedrock having some weird physics on the server that would set off so many hacker warnings on any serverside software and you can already do this with mods, you could make a server proxy with geyser to do this but I do not recommend because you will have weird physics and probably get banned on servers like hypixel</p>",
+        "author_id": 17599371975693,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8827430186893-play-together/comments/18644240260749",
+        "created_at": "2023-08-18T00:41:34Z",
+        "updated_at": "2023-09-27T21:38:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8827430186893/comments/18644240260749.json",
+        "post_id": 8827430186893,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 19764108039821,
+        "body": "<p>We need this mojang we need custom servers in Bedrock I prefer custom servers over realms</p>",
+        "author_id": 19357035899661,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8827430186893-play-together/comments/19764108039821",
+        "created_at": "2023-09-23T09:34:36Z",
+        "updated_at": "2023-09-28T08:56:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8827430186893/comments/19764108039821.json",
+        "post_id": 8827430186893,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

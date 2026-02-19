@@ -1,0 +1,922 @@
+[
+  {
+    "post_id": 360073597452,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013074472,
+        "body": "<p>that redstone signal shouldn't exceed 15 as that'd require changing the maximum value.</p>\n<p>I like the idea of spawning a boss with lightning though</p>",
+        "author_id": 402910729911,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073597452-Lightning-Rod-Ideas/comments/360013074472",
+        "created_at": "2020-10-06T10:04:17Z",
+        "updated_at": "2020-10-08T13:41:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073597452/comments/360013074472.json",
+        "post_id": 360073597452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073467231,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013001051,
+        "body": "<p>It could be like lava instead of water, since lava isn’t infinite yet.</p>",
+        "author_id": 396546345551,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073467231-Nether-dripstone-Stalactite/comments/360013001051",
+        "created_at": "2020-10-06T11:12:50Z",
+        "updated_at": "2020-12-03T23:02:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073467231/comments/360013001051.json",
+        "post_id": 360073467231,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4403683691917,
+        "body": "<p>I want this! how about a cauldron of water or iceblocks above a dripstone so it drips water below into a cauldron</p>",
+        "author_id": 379944281471,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073467231-Nether-dripstone-Stalactite/comments/4403683691917",
+        "created_at": "2021-06-24T05:30:45Z",
+        "updated_at": "2021-06-24T05:30:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073467231/comments/4403683691917.json",
+        "post_id": 360073467231,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073225591,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013557531,
+        "body": "<p>That'd make the game too easy. My experiences with nether update is finding gold easy to find so I'd get a fortress in no time. Nether fortresses are \"the gateway to endgame\" and piglins are a common mob, gold is also an occasional ore in the overworld and common in the nether. Maybe a block of netherite.</p>",
+        "author_id": 401522274472,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073225591-Piglin-leading-to-structures/comments/360013557531",
+        "created_at": "2020-11-25T17:52:40Z",
+        "updated_at": "2020-11-26T11:58:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073225591/comments/360013557531.json",
+        "post_id": 360073225591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073287632,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012915352,
+        "body": "<p>No, we just got Netherite, i'd at least wait a little bit.</p>",
+        "author_id": 403704651992,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073287632-New-ore-called-inchantite/comments/360012915352",
+        "created_at": "2020-09-21T16:04:01Z",
+        "updated_at": "2020-09-21T16:04:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073287632/comments/360012915352.json",
+        "post_id": 360073287632,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073268112,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012920012,
+        "body": "<p>I think you should propose this to a server owner since minecraft is not a pvp based game I homever agree that a new gamemode would be quite cool</p>",
+        "author_id": 397306717931,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073268112-Minecraft-New-Game-Mode-Death-Match/comments/360012920012",
+        "created_at": "2020-09-21T22:33:20Z",
+        "updated_at": "2020-09-21T22:46:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073268112/comments/360012920012.json",
+        "post_id": 360073268112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360072850952,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012763652,
+        "body": "<p>Cómo un afilado para las hachas que haga más daño?</p>",
+        "author_id": 402948798671,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072850952-Falcon-s-Fury-a-new-Enchantment-for-Axes/comments/360012763652",
+        "created_at": "2020-09-03T23:53:53Z",
+        "updated_at": "2020-09-11T03:26:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072850952/comments/360012763652.json",
+        "post_id": 360072850952,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360072847112,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012667931,
+        "body": "<p>Yeah, seems like a bit of a disadvantage to bedrock users. Then again though, it might just be a limitation in the code, no idea.</p>",
+        "author_id": 402870983412,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072847112-Elytra-in-the-water-bedrock/comments/360012667931",
+        "created_at": "2020-09-02T17:29:28Z",
+        "updated_at": "2020-09-02T17:35:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072847112/comments/360012667931.json",
+        "post_id": 360072847112,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360072668892,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012561111,
+        "body": "<p>Sorry if the post is sloppy, I made large spaces in between customization options but it didn't make it in the post fot some reason</p>",
+        "author_id": 394741626112,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072668892-Master-Difficulty-with-Customization/comments/360012561111",
+        "created_at": "2020-08-22T17:11:12Z",
+        "updated_at": "2021-02-07T16:45:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072668892/comments/360012561111.json",
+        "post_id": 360072668892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012804312,
+        "body": "<p>Interesting idea! I for one like having more of a Challenge, so I'll accept any official ways of making it Harder with open arms.</p>\n<p>Some more Customizations could be instant Death when you Touch Lava, and getting set on Fire when you're within a certain Radius and have line of sight of Lava, as those things would make Lava a bit more realistic. (and much more dangerous, of course)&nbsp;</p>\n<p>Ooh, and this might be a bit of stretch, but what if there was an option so that you can't regenerate Health while you have Arrows stuck in you? I mean, I feel like that would make it a bit harder to Heal irl.</p>",
+        "author_id": 394614570351,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072668892-Master-Difficulty-with-Customization/comments/360012804312",
+        "created_at": "2020-09-09T03:04:46Z",
+        "updated_at": "2021-02-07T16:45:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072668892/comments/360012804312.json",
+        "post_id": 360072668892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012789391,
+        "body": "<p>RedSol6149 those are some good ideas! And thank you for supporting my post, I appreciate it 😉</p>",
+        "author_id": 394741626112,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072668892-Master-Difficulty-with-Customization/comments/360012789391",
+        "created_at": "2020-09-16T03:55:36Z",
+        "updated_at": "2021-02-07T16:45:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072668892/comments/360012789391.json",
+        "post_id": 360072668892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014205531,
+        "body": "<p>Maybe you could reduce max speed? Or reduce how many items can be in a stack?</p>",
+        "author_id": 410508083192,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072668892-Master-Difficulty-with-Customization/comments/360014205531",
+        "created_at": "2021-02-03T21:46:41Z",
+        "updated_at": "2021-02-07T16:44:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072668892/comments/360014205531.json",
+        "post_id": 360072668892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360072563892,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012522511,
+        "body": "<p>I feel like there should be a lily pad type that has water lilies on it... </p>",
+        "author_id": 395836062892,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072563892-Better-lily-pads/comments/360012522511",
+        "created_at": "2020-08-19T04:35:51Z",
+        "updated_at": "2021-04-30T15:50:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072563892/comments/360012522511.json",
+        "post_id": 360072563892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012528511,
+        "body": "<p>I disagree, this would make too complex, and they aren't a really important aspect of the game.</p>",
+        "author_id": 402139512451,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072563892-Better-lily-pads/comments/360012528511",
+        "created_at": "2020-08-19T16:43:35Z",
+        "updated_at": "2020-08-21T22:21:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072563892/comments/360012528511.json",
+        "post_id": 360072563892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012682912,
+        "body": "<p>There should be 1-4 small ones on a full block similar too sea pickles</p>",
+        "author_id": 402467417612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072563892-Better-lily-pads/comments/360012682912",
+        "created_at": "2020-08-26T19:07:37Z",
+        "updated_at": "2020-10-30T17:02:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072563892/comments/360012682912.json",
+        "post_id": 360072563892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360072388511,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012605972,
+        "body": "<p>They already are pretty rare, plus killing them only takes an iron sword and a decently full health bar</p>",
+        "author_id": 401942571991,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072388511-Witches-should-be-damaged-by-water/comments/360012605972",
+        "created_at": "2020-08-18T22:34:24Z",
+        "updated_at": "2020-08-18T22:34:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072388511/comments/360012605972.json",
+        "post_id": 360072388511,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012545771,
+        "body": "<p>sounds nice but they live in water saturated areas?</p>",
+        "author_id": 402216809611,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072388511-Witches-should-be-damaged-by-water/comments/360012545771",
+        "created_at": "2020-08-21T01:18:29Z",
+        "updated_at": "2020-11-14T18:19:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072388511/comments/360012545771.json",
+        "post_id": 360072388511,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012638752,
+        "body": "<p>This is a cool idea, but witches spawn in swamp biomes, as means of all it would take to kill them would be knocking them out of their hut. Witches are meant to be hard to kill as they drop relatively good loot, along with (If you find one in their hut, of course) You can steal their potions, brewing stand, and cauldron. A solution to this could be something like Magic Water: Water mixed with glowstone in a cauldron.&nbsp;</p>",
+        "author_id": 402256406671,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072388511-Witches-should-be-damaged-by-water/comments/360012638752",
+        "created_at": "2020-08-22T02:38:15Z",
+        "updated_at": "2020-11-14T18:19:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072388511/comments/360012638752.json",
+        "post_id": 360072388511,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360072331992,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012380691,
+        "body": "<p>what would it make?</p>",
+        "author_id": 401295952192,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072331992-Actually-quantum-mechanics-forbids-this/comments/360012380691",
+        "created_at": "2020-08-13T11:49:11Z",
+        "updated_at": "2020-08-13T11:49:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072331992/comments/360012380691.json",
+        "post_id": 360072331992,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012392551,
+        "body": "<p>smelting coal ore would make coal. Or diamonds, it could make diamonds, if done in a blast furnace? is that to OP?</p>",
+        "author_id": 399265256131,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072331992-Actually-quantum-mechanics-forbids-this/comments/360012392551",
+        "created_at": "2020-08-14T05:33:47Z",
+        "updated_at": "2021-02-11T07:13:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072331992/comments/360012392551.json",
+        "post_id": 360072331992,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360072288412,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012359591,
+        "body": "<p>i think there's something similar to that already, it prevents the hunger bar depleting just after you ate something, and it is also why when you first spawn in a world you don't become hungry for 5 minutes..</p>\n<p>It works like a second hunger bar. When it is fully depleted, regular hunger kicks in. It starts full when respawning or when you have just joined a world. It goes down, faster when running, mining and attacking mobs, and slowly when you stand still.</p>\n<p>This is a good idea, but it could be different so it doesn't become OP. Like instead it could grant extra hunger points to the bar (Like the absorption effect does with the health bar) and it could be specific to special foods like golden apples and Notch apples.</p>",
+        "author_id": 385947423571,
+        "vote_sum": 4,
+        "vote_count": 4,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072288412-Tasty-Status-Effect/comments/360012359591",
+        "created_at": "2020-08-11T21:59:14Z",
+        "updated_at": "2021-12-21T13:53:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072288412/comments/360012359591.json",
+        "post_id": 360072288412,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012461232,
+        "body": "<p>That's saturation! It could be shown more clearly tho, this is a great way to do that :)</p>",
+        "author_id": 401839835771,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072288412-Tasty-Status-Effect/comments/360012461232",
+        "created_at": "2020-08-12T18:17:37Z",
+        "updated_at": "2020-08-12T18:17:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072288412/comments/360012461232.json",
+        "post_id": 360072288412,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360072157952,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 17568579971597,
+        "body": "<p>Since monsters don't spawn in with any amount of light, there is no reason to sleep in. &nbsp;The day goes by too quick. &nbsp;This would save daylight playing time.</p>",
+        "author_id": 421603220731,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360072157952-The-sunrise-appears-after-sleeping/comments/17568579971597",
+        "created_at": "2023-07-13T07:27:16Z",
+        "updated_at": "2023-07-13T07:27:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360072157952/comments/17568579971597.json",
+        "post_id": 360072157952,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071905312,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013968132,
+        "body": "<p>Haha ich hatte die selbe Idee </p>",
+        "author_id": 408055003212,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071905312-Clock-GUI-Alarm-Clock/comments/360013968132",
+        "created_at": "2021-01-01T17:35:37Z",
+        "updated_at": "2021-01-12T22:37:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071905312/comments/360013968132.json",
+        "post_id": 360071905312,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071885832,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012216152,
+        "body": "<p>Good!</p>",
+        "author_id": 395069407611,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071885832-The-power-of-the-heart-of-the-sea-achievement/comments/360012216152",
+        "created_at": "2020-07-22T15:13:13Z",
+        "updated_at": "2020-07-22T20:46:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071885832/comments/360012216152.json",
+        "post_id": 360071885832,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071851752,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012199352,
+        "body": "<p>This can already be done</p>",
+        "author_id": 389134290251,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071851752-Curse-of-Vanishing-on-Compasses/comments/360012199352",
+        "created_at": "2020-07-21T09:14:48Z",
+        "updated_at": "2021-01-20T06:32:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071851752/comments/360012199352.json",
+        "post_id": 360071851752,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014127452,
+        "body": "<p><x-zendesk-user data-user-name=\"Гатин Райхан\">389134290251</x-zendesk-user>&nbsp;not in survival</p>",
+        "author_id": 409784426871,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071851752-Curse-of-Vanishing-on-Compasses/comments/360014127452",
+        "created_at": "2021-01-20T06:33:26Z",
+        "updated_at": "2021-01-20T06:33:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071851752/comments/360014127452.json",
+        "post_id": 360071851752,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071775731,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012111811,
+        "body": "<p>Because the composter is already a thing, this probably wont be implemented.</p>\n<p>Which is sad because this is such a great idea ;-;</p>",
+        "author_id": 397803735532,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071775731-Pistons-Crush-Bones-into-Bone-Meal/comments/360012111811",
+        "created_at": "2020-07-21T19:31:46Z",
+        "updated_at": "2020-07-21T19:56:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071775731/comments/360012111811.json",
+        "post_id": 360071775731,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012115991,
+        "body": "<p><x-zendesk-user data-user-name=\"Jb05King022\">397803735532</x-zendesk-user>&nbsp;Good point, but since this would be functionally different from a composter, (composters can't convert bones to bone meal, or flowers into their dyes), I don't think that would be an issue. ;)</p>",
+        "author_id": 365331690731,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071775731-Pistons-Crush-Bones-into-Bone-Meal/comments/360012115991",
+        "created_at": "2020-07-22T00:12:10Z",
+        "updated_at": "2020-07-22T00:52:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071775731/comments/360012115991.json",
+        "post_id": 360071775731,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071506532,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011337851,
+        "body": "<p>This needs to be done</p>",
+        "author_id": 400499151352,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071506532-Treasure-map-coordinates/comments/360011337851",
+        "created_at": "2020-07-12T16:12:52Z",
+        "updated_at": "2020-07-12T16:12:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071506532/comments/360011337851.json",
+        "post_id": 360071506532,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011359651,
+        "body": "<p>Well isn't the point of a treasure map supposed to be hard for the reward</p>",
+        "author_id": 394342718992,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071506532-Treasure-map-coordinates/comments/360011359651",
+        "created_at": "2020-07-14T07:56:38Z",
+        "updated_at": "2020-07-14T07:56:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071506532/comments/360011359651.json",
+        "post_id": 360071506532,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011367391,
+        "body": "<p>No, it's supposed to be somewhat challenging to find treasure. Same with a woodland mansion map. The first time I found a mansion I traveled about 15000 blocks without an elytra lol. I'd prefer more challenge added to the game, not less</p>",
+        "author_id": 400501353372,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071506532-Treasure-map-coordinates/comments/360011367391",
+        "created_at": "2020-07-14T18:42:08Z",
+        "updated_at": "2020-07-14T19:00:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071506532/comments/360011367391.json",
+        "post_id": 360071506532,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4414166509837,
+        "body": "<p>Yeah, there would be coordinates that would allow you to go though the nether to get there faster, for woodland maps and ocean maps as well.</p>",
+        "author_id": 398867662832,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071506532-Treasure-map-coordinates/comments/4414166509837",
+        "created_at": "2021-11-20T15:10:42Z",
+        "updated_at": "2021-11-20T15:10:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071506532/comments/4414166509837.json",
+        "post_id": 360071506532,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071478412,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 34482609002381,
+        "body": "<p>YES PLEASE!!! I want that so bad but for now I guess I'll stick to mods</p>",
+        "author_id": 34482337995405,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071478412-all-blocks-can-be-placed-in-any-orientation/comments/34482609002381",
+        "created_at": "2025-02-22T15:42:08Z",
+        "updated_at": "2025-02-22T16:07:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071478412/comments/34482609002381.json",
+        "post_id": 360071478412,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071472812,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011348372,
+        "body": "<p>So basically friendly fire off, I haven't tested, but most probably the cactus doesn't destroy only wither star, netherite tools and armor, and other non-destructables that I didn't state.</p>",
+        "author_id": 400537514731,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071472812-Cactus-dropped-by-being-broken-should-not-be-broken-by-cactus/comments/360011348372",
+        "created_at": "2020-07-12T23:14:40Z",
+        "updated_at": "2020-07-13T17:41:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071472812/comments/360011348372.json",
+        "post_id": 360071472812,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 6241236608269,
+        "body": "<p>Cactus destroying dropped cactus items makes no sense... it's insane that this is not a bug!</p>\n<p>It's like lava burning/destroying lava</p>",
+        "author_id": 423120014871,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071472812-Cactus-dropped-by-being-broken-should-not-be-broken-by-cactus/comments/6241236608269",
+        "created_at": "2022-05-15T02:50:58Z",
+        "updated_at": "2022-05-15T02:59:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071472812/comments/6241236608269.json",
+        "post_id": 360071472812,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071297012,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011314472,
+        "body": "<p>I agree, emotes are&nbsp;<em>way</em> too expensive :/ emote packs don’t sound like a bad idea though...</p>",
+        "author_id": 388183110411,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071297012-Fix-Emote-system/comments/360011314472",
+        "created_at": "2020-07-09T16:41:49Z",
+        "updated_at": "2020-07-09T20:54:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071297012/comments/360011314472.json",
+        "post_id": 360071297012,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011327631,
+        "body": "<p>Or they could make them cheaper.</p>",
+        "author_id": 391658603292,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071297012-Fix-Emote-system/comments/360011327631",
+        "created_at": "2020-07-11T02:06:47Z",
+        "updated_at": "2020-07-11T02:06:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071297012/comments/360011327631.json",
+        "post_id": 360071297012,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011340091,
+        "body": "<p>one cost $5.99 USD one emote thats way to expensive</p>",
+        "author_id": 397876451912,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071297012-Fix-Emote-system/comments/360011340091",
+        "created_at": "2020-07-12T20:43:16Z",
+        "updated_at": "2020-07-12T20:43:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071297012/comments/360011340091.json",
+        "post_id": 360071297012,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011368512,
+        "body": "<p>they could just go back to the old achievement system. I mean its not like they need the money XD</p>",
+        "author_id": 400572887652,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071297012-Fix-Emote-system/comments/360011368512",
+        "created_at": "2020-07-14T10:42:53Z",
+        "updated_at": "2020-07-14T10:42:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071297012/comments/360011368512.json",
+        "post_id": 360071297012,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011372652,
+        "body": "<p>Well, Achievement rewards are what gives people a reason to complete achievements, because otherwise it's not worth it.</p>",
+        "author_id": 391658603292,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071297012-Fix-Emote-system/comments/360011372652",
+        "created_at": "2020-07-14T15:50:45Z",
+        "updated_at": "2020-07-15T18:17:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071297012/comments/360011372652.json",
+        "post_id": 360071297012,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071043711,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013687991,
+        "body": "<p>I COMPLETELY agree with this idea. Hunger isn't really anything important to difficulty, so there would be no harm in adding it to Peaceful. I mean, the hunger EASY mode literally doesn't even damage you if it goes too low. So why not do that to Peaceful. It would just make that difficulty so much better and fun. And it doesn't go against any fantasy game rules, as far as I know.</p>",
+        "author_id": 399571373232,
+        "vote_sum": 4,
+        "vote_count": 4,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071043711-Hunger-Bar-not-tied-to-Difficulty/comments/360013687991",
+        "created_at": "2020-12-06T17:18:10Z",
+        "updated_at": "2021-05-02T20:28:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071043711/comments/360013687991.json",
+        "post_id": 360071043711,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013758232,
+        "body": "<p>And I also agree with the anxiety. Those monsters kind of creep me out, so having hunger and NOT dealing with them would a HUGE relief</p>",
+        "author_id": 399571373232,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071043711-Hunger-Bar-not-tied-to-Difficulty/comments/360013758232",
+        "created_at": "2020-12-06T17:20:09Z",
+        "updated_at": "2020-12-07T20:04:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071043711/comments/360013758232.json",
+        "post_id": 360071043711,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013787011,
+        "body": "<p>My family was just talking about this! Because what's the point of playing on Survival Mode if the food you're collecting just goes into a chest somewhere, never to be used? If all you're on Minecraft for is to build awesome stuff, there's Creative Mode for that very reason. Survival Mode, even on Peaceful, should be about surviving, not just existing.</p>",
+        "author_id": 400593206612,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071043711-Hunger-Bar-not-tied-to-Difficulty/comments/360013787011",
+        "created_at": "2020-12-16T16:39:11Z",
+        "updated_at": "2021-05-02T20:28:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071043711/comments/360013787011.json",
+        "post_id": 360071043711,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071097532,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011382332,
+        "body": "<p>That would be op just use an enchantment</p>",
+        "author_id": 396672388631,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071097532-Gravel-can-be-smelted-into-flint/comments/360011382332",
+        "created_at": "2020-07-15T04:14:31Z",
+        "updated_at": "2020-07-15T04:14:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071097532/comments/360011382332.json",
+        "post_id": 360071097532,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360070998211,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012563811,
+        "body": "<p>I noticed the Xbox one edition of the game has up to 200% sensitivity, but bedrock platforms have only 100% sensitivity.</p>",
+        "author_id": 402322054011,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070998211-Controller-cursor-sensitivity/comments/360012563811",
+        "created_at": "2020-08-23T00:45:22Z",
+        "updated_at": "2021-06-10T16:18:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070998211/comments/360012563811.json",
+        "post_id": 360070998211,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013919112,
+        "body": "<p>this will be very useful for pvp and block clutches&nbsp;</p>",
+        "author_id": 408382169252,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070998211-Controller-cursor-sensitivity/comments/360013919112",
+        "created_at": "2020-12-24T01:32:40Z",
+        "updated_at": "2021-06-10T16:18:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070998211/comments/360013919112.json",
+        "post_id": 360070998211,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360070787751,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4416038070285,
+        "body": "<p>Whooo</p>",
+        "author_id": 1903978028607,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070787751-New-achivement/comments/4416038070285",
+        "created_at": "2021-12-09T10:14:18Z",
+        "updated_at": "2021-12-09T10:14:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070787751/comments/4416038070285.json",
+        "post_id": 360070787751,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

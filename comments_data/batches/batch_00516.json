@@ -1,0 +1,967 @@
+[
+  {
+    "post_id": 360071955232,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012159851,
+        "body": "<p>Sounds incredibly niche.</p>",
+        "author_id": 394038731272,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071955232-Puddle-Jumper-enchantment-for-boots/comments/360012159851",
+        "created_at": "2020-07-25T19:12:47Z",
+        "updated_at": "2020-07-27T15:58:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071955232/comments/360012159851.json",
+        "post_id": 360071955232,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012177191,
+        "body": "<p>Also, they could give a single jump on water before allowing you to sink/swim like normal. This would allow for crossing small rivers and puddles to escape attackers.</p>",
+        "author_id": 383012568092,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071955232-Puddle-Jumper-enchantment-for-boots/comments/360012177191",
+        "created_at": "2020-07-27T17:35:36Z",
+        "updated_at": "2020-08-09T12:49:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071955232/comments/360012177191.json",
+        "post_id": 360071955232,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071895432,
+    "expected_comment_count": 5,
+    "actual_comment_count": 5,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012222992,
+        "body": "<p>How would copper be available before wood?</p>",
+        "author_id": 394038731272,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071895432-New-first-tier-Copper/comments/360012222992",
+        "created_at": "2020-07-23T00:54:23Z",
+        "updated_at": "2020-07-23T00:54:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071895432/comments/360012222992.json",
+        "post_id": 360071895432,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012233612,
+        "body": "<p>PlutonicPoet *first ORE material</p>",
+        "author_id": 400951508031,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071895432-New-first-tier-Copper/comments/360012233612",
+        "created_at": "2020-07-24T00:21:59Z",
+        "updated_at": "2020-10-04T14:33:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071895432/comments/360012233612.json",
+        "post_id": 360071895432,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012360691,
+        "body": "<p>And for electronics. THAT would add a good and interesting game mechanic </p>",
+        "author_id": 401754730431,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071895432-New-first-tier-Copper/comments/360012360691",
+        "created_at": "2020-08-11T23:20:05Z",
+        "updated_at": "2020-10-04T14:34:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071895432/comments/360012360691.json",
+        "post_id": 360071895432,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013044312,
+        "body": "<p>With copper now being announced, I agree this is how it should work - Wood &gt; Stone &gt; Copper &gt; Iron</p>\n<p>This is far more historically accurate and would add a major use to the new copper ore.</p>\n<p>By extension stone should of course become unable to mine iron.</p>",
+        "author_id": 396838283271,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071895432-New-first-tier-Copper/comments/360013044312",
+        "created_at": "2020-10-03T19:57:50Z",
+        "updated_at": "2020-10-04T14:34:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071895432/comments/360013044312.json",
+        "post_id": 360071895432,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012982571,
+        "body": "<p>Depending on where it is on the y-plane, how often it spawns, how much you can get, I think that maybe it should be slightly better than iron but not by too much. Maybe it will lose durability after it starts to oxidize? So at the start its a very strong armor, but after awhile it loses durability after 16 days.</p>",
+        "author_id": 404329394152,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071895432-New-first-tier-Copper/comments/360012982571",
+        "created_at": "2020-10-05T04:14:05Z",
+        "updated_at": "2020-10-18T16:39:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071895432/comments/360012982571.json",
+        "post_id": 360071895432,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071516791,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8759600998669,
+        "body": "<p>Yes, such an anvil could be a trophy. Maybe from netherite?</p>",
+        "author_id": 416461943171,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071516791-More-Durable-Anvils/comments/8759600998669",
+        "created_at": "2022-08-29T09:49:50Z",
+        "updated_at": "2022-08-30T01:23:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071516791/comments/8759600998669.json",
+        "post_id": 360071516791,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 8821776440845,
+        "body": "<p>It is fairly silly that something made of so much iron should be so fragile compared to almost everything else in the game, suffer wear randomly, <em>and </em>be unrepairable. I use a datapack that adds a functionality to the smithing table, where adding an iron ingot to a damaged anvil makes it chipped, and a chipped one \"like new.\" I'd like to see the developers make that or some alternative system, like using an iron ingot on a golem to repair it, officially part of the game.&nbsp;</p>",
+        "author_id": 8732039631245,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071516791-More-Durable-Anvils/comments/8821776440845",
+        "created_at": "2022-08-31T13:39:14Z",
+        "updated_at": "2022-09-07T14:09:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071516791/comments/8821776440845.json",
+        "post_id": 360071516791,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071454151,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011357011,
+        "body": "<p>I would love this! </p>",
+        "author_id": 400593589131,
+        "vote_sum": 4,
+        "vote_count": 4,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071454151-Letters/comments/360011357011",
+        "created_at": "2020-07-14T00:15:44Z",
+        "updated_at": "2022-06-12T21:01:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071454151/comments/360011357011.json",
+        "post_id": 360071454151,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011360291,
+        "body": "<p>SavageSheep5269, thank you!</p>",
+        "author_id": 400500827432,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071454151-Letters/comments/360011360291",
+        "created_at": "2020-07-14T09:35:40Z",
+        "updated_at": "2022-06-12T21:01:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071454151/comments/360011360291.json",
+        "post_id": 360071454151,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011370132,
+        "body": "<p>Good idea?</p>",
+        "author_id": 400619496431,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071454151-Letters/comments/360011370132",
+        "created_at": "2020-07-14T13:25:16Z",
+        "updated_at": "2022-06-12T21:01:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071454151/comments/360011370132.json",
+        "post_id": 360071454151,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071487332,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4404181386765,
+        "body": "<p>it would also be an great idea for it to switch &lt; &amp; &gt; on the sides so it also works for signs that tell you to go into an direction</p>",
+        "author_id": 418327476471,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071487332-Two-sided-signs/comments/4404181386765",
+        "created_at": "2021-07-01T20:29:31Z",
+        "updated_at": "2021-07-01T20:29:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071487332/comments/4404181386765.json",
+        "post_id": 360071487332,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071433771,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011336311,
+        "body": "<p>Hi faulty guitar, would it be able to transport items that were in water too?</p>",
+        "author_id": 392631822951,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071433771-Bamboo-Pipes-to-transport-Water-Source-Blocks/comments/360011336311",
+        "created_at": "2020-07-12T11:03:11Z",
+        "updated_at": "2020-07-12T11:03:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071433771/comments/360011336311.json",
+        "post_id": 360071433771,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071364632,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011300452,
+        "body": "<p>Ooooh, this is a cool concept. Similarly, what if using a soul torch in a regular pumpkin gave you a blue glow through the jack o lantern face?</p>",
+        "author_id": 400320240952,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071364632-Crimson-Jack-O-Lantern/comments/360011300452",
+        "created_at": "2020-07-08T19:40:25Z",
+        "updated_at": "2020-07-12T11:20:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071364632/comments/360011300452.json",
+        "post_id": 360071364632,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071289631,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 21952379399053,
+        "body": "<p>Please make it so the cart can be pulled by hand or harnessed to a horse.</p>",
+        "author_id": 17012311456781,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071289631-Carts/comments/21952379399053",
+        "created_at": "2023-12-05T04:17:45Z",
+        "updated_at": "2023-12-05T04:17:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071289631/comments/21952379399053.json",
+        "post_id": 360071289631,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071199532,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011318991,
+        "body": "<p>and emarald armour</p>",
+        "author_id": 400448852571,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071199532-Emerald-sword/comments/360011318991",
+        "created_at": "2020-07-10T09:50:03Z",
+        "updated_at": "2021-05-19T22:03:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071199532/comments/360011318991.json",
+        "post_id": 360071199532,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360071038731,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011290592,
+        "body": "<p>Yeah!</p>",
+        "author_id": 400224269471,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360071038731-Rare-variation-of-trident/comments/360011290592",
+        "created_at": "2020-07-08T02:34:22Z",
+        "updated_at": "2020-07-08T02:34:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360071038731/comments/360011290592.json",
+        "post_id": 360071038731,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360070856272,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011395192,
+        "body": "<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">Gente ajuda aí</span></span></p>",
+        "author_id": 400694929771,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070856272-black-stone-generator/comments/360011395192",
+        "created_at": "2020-07-16T04:23:34Z",
+        "updated_at": "2020-07-16T04:23:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070856272/comments/360011395192.json",
+        "post_id": 360070856272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 6747486222989,
+        "body": "<p>Pedro</p>",
+        "author_id": 6746708209549,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070856272-black-stone-generator/comments/6747486222989",
+        "created_at": "2022-06-08T01:08:53Z",
+        "updated_at": "2022-06-08T01:08:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070856272/comments/6747486222989.json",
+        "post_id": 360070856272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360070625851,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011192171,
+        "body": "<p>I think it's a good idea, but where can we find it and how to get it?\n</p>",
+        "author_id": 399981567271,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070625851-Slime-Block-Boots/comments/360011192171",
+        "created_at": "2020-06-30T18:54:18Z",
+        "updated_at": "2020-06-30T19:40:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070625851/comments/360011192171.json",
+        "post_id": 360070625851,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011192771,
+        "body": "<p>@CaseCoin522743 You would probably be able to craft the boots using 4 slime balls in the regular pattern that you'd craft boots with. Or maybe you could take another pair of boots (iron boots for example) and add slime balls to them in the crafting table. As for finding it in game, it would most likely be found in naturally generated structures such as end cities or shipwrecks.</p>",
+        "author_id": 399980615011,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070625851-Slime-Block-Boots/comments/360011192771",
+        "created_at": "2020-06-30T19:44:06Z",
+        "updated_at": "2020-07-01T01:13:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070625851/comments/360011192771.json",
+        "post_id": 360070625851,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360070239872,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011157011,
+        "body": "<p>great idea. this is very good</p>",
+        "author_id": 399807473711,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070239872-Wheel-barrow/comments/360011157011",
+        "created_at": "2020-06-28T00:15:33Z",
+        "updated_at": "2020-06-28T00:15:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070239872/comments/360011157011.json",
+        "post_id": 360070239872,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014442652,
+        "body": "<p>A wheelbarrow could be used for hauling raw materials like dirt, sand, stone, coal, ores, etc.&nbsp; I would not use this to move crafted items around, as I would want a cart (attached to a horse) for moving chests and other usual goods in it.</p>",
+        "author_id": 395370003811,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070239872-Wheel-barrow/comments/360014442652",
+        "created_at": "2021-02-20T17:10:32Z",
+        "updated_at": "2021-02-20T19:59:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070239872/comments/360014442652.json",
+        "post_id": 360070239872,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360070207091,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011159812,
+        "body": "<p>GREAT IDEA. it could be crafted with like this</p>\n<p>iron | iron | iron</p>\n<p>iron |stick | iron&nbsp; &nbsp; -&gt; iron battleaxe</p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp;|stick |&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>\n<p>and iron could be replaced by wood, stone, gold, diamond, and others!</p>",
+        "author_id": 399807473711,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070207091-Battleaxe/comments/360011159812",
+        "created_at": "2020-06-28T00:22:45Z",
+        "updated_at": "2020-06-28T00:22:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070207091/comments/360011159812.json",
+        "post_id": 360070207091,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360014709611,
+        "body": "<p>Maybe it's crafted like\n<br />(Iron)(Stick)(Iron)\n<br />           (Stick)\n<br />           (Stick)\n<br />And its does 2 more damage than an sword BUT has a cooldown of 3s</p>",
+        "author_id": 401002164372,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360070207091-Battleaxe/comments/360014709611",
+        "created_at": "2021-03-30T08:27:42Z",
+        "updated_at": "2021-03-30T08:46:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360070207091/comments/360014709611.json",
+        "post_id": 360070207091,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360068999291,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011125251,
+        "body": "<p>I don’t think a lollipop would fit with Minecraft’s more medieval theme.&nbsp;</p>",
+        "author_id": 393603513332,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360068999291-New-food-Lollipop-Candy/comments/360011125251",
+        "created_at": "2020-06-25T07:49:31Z",
+        "updated_at": "2021-03-15T22:57:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360068999291/comments/360011125251.json",
+        "post_id": 360068999291,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360068730932,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011015791,
+        "body": "<p>Very nice drawing, great idea especially since the plants in the jungle are bamboo, jungle trees, oak trees, and melons (and grass and I think ferns but so does every other biome.), which is laughable just to the amazon.</p>",
+        "author_id": 380171877092,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360068730932--Guarana-shrubs/comments/360011015791",
+        "created_at": "2020-06-18T01:09:16Z",
+        "updated_at": "2020-06-23T22:32:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360068730932/comments/360011015791.json",
+        "post_id": 360068730932,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011030991,
+        "body": "<p>I loved your idea</p>",
+        "author_id": 399367012772,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360068730932--Guarana-shrubs/comments/360011030991",
+        "created_at": "2020-06-18T23:41:34Z",
+        "updated_at": "2020-06-23T22:33:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360068730932/comments/360011030991.json",
+        "post_id": 360068730932,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360068113192,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011125971,
+        "body": "<p>The blindness effect doesn’t happen in-game without commands and also carrots don’t make you see in the dark. That is a myth.&nbsp;</p>",
+        "author_id": 393603513332,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360068113192-Carrots-curing-Blindness/comments/360011125971",
+        "created_at": "2020-06-25T09:04:39Z",
+        "updated_at": "2020-12-30T05:21:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360068113192/comments/360011125971.json",
+        "post_id": 360068113192,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011136132,
+        "body": "<p>@Gundabadguy, you can actually get blindness from suspicious stew, and for your second point, sure its a myth, but how many other things in minecraft are not realistic?</p>",
+        "author_id": 398896416472,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360068113192-Carrots-curing-Blindness/comments/360011136132",
+        "created_at": "2020-06-25T21:38:42Z",
+        "updated_at": "2020-12-30T05:21:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360068113192/comments/360011136132.json",
+        "post_id": 360068113192,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4420309543565,
+        "body": "<p>Additionally, similar to how Honey cures poison-</p>\n<p>I think it'd be neat that&nbsp;<em>Golden Carrots</em> cure Blindness.</p>\n<p>Furthermore, Blindness could be added (beyond the Suspicious Stew variant) as an offensive attack used by Witches, assuming that doesn't prove too annoying to deal with <em>during&nbsp;</em>playtesting, probability balance between its other potion options aside...</p>",
+        "author_id": 370500513091,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360068113192-Carrots-curing-Blindness/comments/4420309543565",
+        "created_at": "2022-01-12T13:00:24Z",
+        "updated_at": "2022-01-19T22:15:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360068113192/comments/4420309543565.json",
+        "post_id": 360068113192,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360067916452,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011128192,
+        "body": "<p>I don’t think it should completely disappear but it should refund the diamonds.&nbsp;</p>",
+        "author_id": 393603513332,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067916452-Grave-finder/comments/360011128192",
+        "created_at": "2020-06-25T09:13:27Z",
+        "updated_at": "2020-06-25T21:17:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067916452/comments/360011128192.json",
+        "post_id": 360067916452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360067757592,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011096091,
+        "body": "<p>I think that Nether Pearls should only be obtained via bartering or by finding it in chests in Bastions.&nbsp;</p>",
+        "author_id": 393603513332,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067757592-Nether-pearls-Nether-update/comments/360011096091",
+        "created_at": "2020-06-23T08:26:23Z",
+        "updated_at": "2022-11-13T01:41:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067757592/comments/360011096091.json",
+        "post_id": 360067757592,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360067238931,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010801171,
+        "body": "<p>These would need to be a different block, not just a blockstate, so it would be trickier to include (I mess around with the debug stick, so I know all about blockstates)</p>",
+        "author_id": 397471061332,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067238931-Freezing-Water-in-Waterlogged-blocks/comments/360010801171",
+        "created_at": "2020-05-30T15:35:45Z",
+        "updated_at": "2020-06-01T16:00:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067238931/comments/360010801171.json",
+        "post_id": 360067238931,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010969931,
+        "body": "<p>With the current ice mechanics included with this idea, they wouldn't have to make upside-down frozen stairs, or top half slabs. These would not expose the water to the sky.</p>",
+        "author_id": 372517876571,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067238931-Freezing-Water-in-Waterlogged-blocks/comments/360010969931",
+        "created_at": "2020-06-14T11:50:02Z",
+        "updated_at": "2020-06-15T17:50:58Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067238931/comments/360010969931.json",
+        "post_id": 360067238931,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360067279452,
+    "expected_comment_count": 7,
+    "actual_comment_count": 7,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010782971,
+        "body": "<p>I made this concept art for what it could look like. Plz credit my artwork and don't steal this picture!! :)</p>\n<p><img src=\"https://feedback.minecraft.net/hc/user_images/bOsrnsA1HMWZFyo8ubfTJA.png\"></p>",
+        "author_id": 396879202072,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067279452-Acid-liquid/comments/360010782971",
+        "created_at": "2020-05-28T23:04:47Z",
+        "updated_at": "2020-05-31T20:08:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067279452/comments/360010782971.json",
+        "post_id": 360067279452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010787831,
+        "body": "<p>I like the idea but I think acid could be seen as a bit to violent for minecraft </p>",
+        "author_id": 398556125151,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067279452-Acid-liquid/comments/360010787831",
+        "created_at": "2020-05-29T11:42:34Z",
+        "updated_at": "2020-05-31T20:08:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067279452/comments/360010787831.json",
+        "post_id": 360067279452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010810031,
+        "body": "<p>Ok gamers idk how to respond to comments but </p>\n\n<p>thanks for the image! I appreciate it :P</p>\n\n<p>Also, I don’t see how acid like this is “too violent” for Minecraft... there’s literally lava, which is so much worse</p>",
+        "author_id": 386808419391,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067279452-Acid-liquid/comments/360010810031",
+        "created_at": "2020-05-31T20:09:49Z",
+        "updated_at": "2020-06-01T16:14:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067279452/comments/360010810031.json",
+        "post_id": 360067279452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010812331,
+        "body": "<p>Maby you would get acidic cobblestone instead of normal cobblestone, this would be cobblestone that would kill item drops but wouldn't hurt you and other mob entities as a safer version of the lava trash can&nbsp;</p>",
+        "author_id": 398573979812,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067279452-Acid-liquid/comments/360010812331",
+        "created_at": "2020-06-01T02:56:42Z",
+        "updated_at": "2020-06-01T16:46:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067279452/comments/360010812331.json",
+        "post_id": 360067279452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010831052,
+        "body": "<p>Acid doesn't really fit the Nether, nor any biome currently in the game.</p>",
+        "author_id": 394038731272,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067279452-Acid-liquid/comments/360010831052",
+        "created_at": "2020-06-02T14:30:48Z",
+        "updated_at": "2020-06-02T17:49:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067279452/comments/360010831052.json",
+        "post_id": 360067279452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010890392,
+        "body": "<p>This could be used to make objects glow in crafting.&nbsp; I like it.</p>\n<p>&nbsp;</p>\n<p>Glowing objects + RTX = Awesome lighting effects</p>",
+        "author_id": 389261478431,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067279452-Acid-liquid/comments/360010890392",
+        "created_at": "2020-06-07T10:01:27Z",
+        "updated_at": "2020-06-08T16:34:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067279452/comments/360010890392.json",
+        "post_id": 360067279452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4407182515725,
+        "body": "<p>A gray liquid would be more accurate, but takes on a different color when a metal is dissolved. Green for iron, light blue for copper (easily mistaken for water in the desert) and purple for netherite, etc. The \"acid vapor\" will hurt you when you breathe it in, and corrodes chain, iron and netherite armor slowly.</p>",
+        "author_id": 417536639452,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067279452-Acid-liquid/comments/4407182515725",
+        "created_at": "2021-08-16T04:15:29Z",
+        "updated_at": "2021-08-16T19:37:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067279452/comments/4407182515725.json",
+        "post_id": 360067279452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360062570252,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010674052,
+        "body": "<p>Came here looking for this suggestion. Yes! I was specifically thinking anvils but all chains should hold up all of them.</p>",
+        "author_id": 398330767812,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062570252-Chains-should-be-able-to-hold-up-sand-gravel-and-other-falling-blocks/comments/360010674052",
+        "created_at": "2020-05-25T14:29:08Z",
+        "updated_at": "2023-08-07T13:57:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062570252/comments/360010674052.json",
+        "post_id": 360062570252,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360062026932,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014557311,
+        "body": "<p>This suggestion is very interesting, I thought about it too and I would love to see something like that in the game :)<br><br>Maybe with the use of the telescope we could make progress in the bestiary&nbsp;</p>",
+        "author_id": 395280030152,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062026932-Bestiary/comments/360014557311",
+        "created_at": "2021-03-08T22:24:11Z",
+        "updated_at": "2022-02-27T10:25:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062026932/comments/360014557311.json",
+        "post_id": 360062026932,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4423217219469,
+        "body": "<p>I thought of the same thing and was about to post it. Honestly, it would be so cool, especially for new players who don't know what mobs drop what items. It could even track like the type of mob you have found. So like EVERY type of axolotl gets tracked with a percentage, or what types of cats you've found</p>",
+        "author_id": 423649003711,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062026932-Bestiary/comments/4423217219469",
+        "created_at": "2022-01-27T23:51:43Z",
+        "updated_at": "2022-02-27T10:25:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062026932/comments/4423217219469.json",
+        "post_id": 360062026932,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4498100654093,
+        "body": "<p>can someone make a 1.18.1 forge mod of the bestiary</p>",
+        "author_id": 1905724067967,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062026932-Bestiary/comments/4498100654093",
+        "created_at": "2022-02-25T04:37:10Z",
+        "updated_at": "2022-02-25T04:37:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062026932/comments/4498100654093.json",
+        "post_id": 360062026932,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 18062402222605,
+        "body": "<p>Let the bestiary be written in full, but each volume is generated only in certain places, for example, the volume with creatures from the Nether - only in the Nether.\n<br />Let the volume contain facts that will be useful to beginners.\n<br />   I am opposed to the text appearing by itself, as if the player himself wrote what he did not know. Suppose that when a mob is found in the book, only its sketch appears.</p>",
+        "author_id": 416461943171,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360062026932-Bestiary/comments/18062402222605",
+        "created_at": "2023-07-30T14:09:32Z",
+        "updated_at": "2023-09-24T21:06:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360062026932/comments/18062402222605.json",
+        "post_id": 360062026932,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360061048672,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012410671,
+        "body": "<p>I wanted this for a while</p>",
+        "author_id": 401963763592,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360061048672-shield-types/comments/360012410671",
+        "created_at": "2020-08-16T01:08:43Z",
+        "updated_at": "2020-08-16T01:08:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360061048672/comments/360012410671.json",
+        "post_id": 360061048672,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 9970089062925,
+        "body": "<p>Maybe a disadvantage for using the metal type rather than the wood type is that you cannot be able to put banners on them. The wood can be for style, while the other types can be for effectiveness.</p>",
+        "author_id": 417140187831,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360061048672-shield-types/comments/9970089062925",
+        "created_at": "2022-10-18T15:10:58Z",
+        "updated_at": "2022-10-21T19:48:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360061048672/comments/9970089062925.json",
+        "post_id": 360061048672,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360060959912,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012899851,
+        "body": "<p>I was actually about to suggest this same thing, glad I saw this post. This is very useful for anarchy and smp servers as shulkers are used heavily and having more customization for them would be really helpful.<br><br>I just wanna add something to the suggestion: To craft a striped shulker box, get the shulker box and surround it with 8 strings, it will be the same color as before but with white strings. Recoloring it will change the color of the string (not the shulker box). Using scissors on a striped shulker will remove the stripe and give you 5 string back.</p>",
+        "author_id": 402139512451,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360060959912-Shulker-box-colours/comments/360012899851",
+        "created_at": "2020-09-27T14:20:19Z",
+        "updated_at": "2023-01-01T05:14:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360060959912/comments/360012899851.json",
+        "post_id": 360060959912,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

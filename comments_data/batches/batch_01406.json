@@ -1,0 +1,757 @@
+[
+  {
+    "post_id": 360050497232,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007439592,
+        "body": "<p>Moved to proper category.</p>\n<p>Clarified subject to help search results.</p>\n<p>Thanks for your contribution, and welcome!</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050497232-Forest-Dweller-Boss/comments/360007439592",
+        "created_at": "2019-09-04T22:17:19Z",
+        "updated_at": "2019-09-04T22:17:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050497232/comments/360007439592.json",
+        "post_id": 360050497232,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360050443272,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007418391,
+        "body": "<p>Thanks for your contribution and patience while we evaluated your posts and many others. We look forward to reading your other ideas.</p>\n<p>&nbsp;</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050443272--Nether-The-chained/comments/360007418391",
+        "created_at": "2019-09-03T23:23:52Z",
+        "updated_at": "2019-09-03T23:23:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050443272/comments/360007418391.json",
+        "post_id": 360050443272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360049705511,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007238751,
+        "body": "<p>And dogs ?&nbsp;</p>",
+        "author_id": 385225905751,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360049705511-Cats-should-attack-bees/comments/360007238751",
+        "created_at": "2019-08-23T22:49:42Z",
+        "updated_at": "2019-08-26T23:58:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360049705511/comments/360007238751.json",
+        "post_id": 360049705511,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4618298569101,
+        "body": "<p>That would be a nuisance for people who like to keep a bee farm near their base: the cats would attack the bees, the bees would sting the cats and die, and the cats could potentially die from being swarmed.</p>",
+        "author_id": 417031229691,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360049705511-Cats-should-attack-bees/comments/4618298569101",
+        "created_at": "2022-03-05T19:19:49Z",
+        "updated_at": "2022-03-05T19:19:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360049705511/comments/4618298569101.json",
+        "post_id": 360049705511,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360049276171,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007271811,
+        "body": "<p>Clarified subject to help search results.</p>\n<p>Thanks for your contribution.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360049276171-STRIKER/comments/360007271811",
+        "created_at": "2019-08-26T14:50:08Z",
+        "updated_at": "2019-08-26T14:50:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360049276171/comments/360007271811.json",
+        "post_id": 360049276171,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360007394312,
+        "body": "<p>I don't think this would be a good addition, as other humans/NPCs that look like players would be widely hated.</p>",
+        "author_id": 386675693631,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360049276171-STRIKER/comments/360007394312",
+        "created_at": "2019-09-02T17:20:22Z",
+        "updated_at": "2019-09-02T17:20:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360049276171/comments/360007394312.json",
+        "post_id": 360049276171,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360007589892,
+        "body": "<p>The monster isn't an NPC</p>",
+        "author_id": 386124910591,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360049276171-STRIKER/comments/360007589892",
+        "created_at": "2019-09-14T14:31:56Z",
+        "updated_at": "2019-09-14T14:31:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360049276171/comments/360007589892.json",
+        "post_id": 360049276171,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048877451,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007114111,
+        "body": "<p>But the pillagers are illagers and the woodland mansion is where illagers live. That wouldn't&nbsp; make any sense.</p>",
+        "author_id": 386071924571,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048877451-pilligers-should-be-able-to-raid-the-woodland-mansions/comments/360007114111",
+        "created_at": "2019-08-19T00:08:17Z",
+        "updated_at": "2019-08-20T01:28:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048877451/comments/360007114111.json",
+        "post_id": 360048877451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360007122851,
+        "body": "<p>Not really.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048877451-pilligers-should-be-able-to-raid-the-woodland-mansions/comments/360007122851",
+        "created_at": "2019-08-19T15:54:39Z",
+        "updated_at": "2019-08-19T15:54:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048877451/comments/360007122851.json",
+        "post_id": 360048877451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008124531,
+        "body": "<p>You do know that illagers, the inhabitants of these mansions, take part in raids along sit pillagers, right?</p>",
+        "author_id": 388857547391,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048877451-pilligers-should-be-able-to-raid-the-woodland-mansions/comments/360008124531",
+        "created_at": "2019-10-19T18:06:37Z",
+        "updated_at": "2019-10-21T16:03:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048877451/comments/360008124531.json",
+        "post_id": 360048877451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048800012,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007067112,
+        "body": "<p>Removed excess formatting.</p>\n<p>Thanks for your contribution.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048800012--Snow-Golem-A-I-Problems/comments/360007067112",
+        "created_at": "2019-08-16T03:13:54Z",
+        "updated_at": "2019-08-16T03:13:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048800012/comments/360007067112.json",
+        "post_id": 360048800012,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048202011,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 39631030343565,
+        "body": "<p>Nooooooooo bad idea \n</p>",
+        "author_id": 39566741348237,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048202011-Bad-luck-cat/comments/39631030343565",
+        "created_at": "2025-09-17T02:43:18Z",
+        "updated_at": "2025-09-17T02:43:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048202011/comments/39631030343565.json",
+        "post_id": 360048202011,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048390152,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4411471455245,
+        "body": "<p>agreed</p>",
+        "author_id": 421106314511,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048390152-nerf-major-positive-gossip/comments/4411471455245",
+        "created_at": "2021-10-16T22:01:08Z",
+        "updated_at": "2021-10-17T00:04:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048390152/comments/4411471455245.json",
+        "post_id": 360048390152,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4411471473037,
+        "body": "<p>the villager curing discount must decay after a certain amount of days in my opinion</p>",
+        "author_id": 421106314511,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048390152-nerf-major-positive-gossip/comments/4411471473037",
+        "created_at": "2021-10-16T22:01:43Z",
+        "updated_at": "2021-10-16T22:01:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048390152/comments/4411471473037.json",
+        "post_id": 360048390152,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048346132,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007596971,
+        "body": "<p>I do not agree with the horse whip. You do not need to whip a horse to make it go faster. However, the idea for taming the horses is good.</p>",
+        "author_id": 387184362792,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048346132-Second-Horse-Taming-Method-and-Horse-Whipping-to-Increase-Speed/comments/360007596971",
+        "created_at": "2019-09-15T20:51:04Z",
+        "updated_at": "2020-06-27T07:47:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048346132/comments/360007596971.json",
+        "post_id": 360048346132,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048208712,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006742671,
+        "body": "<p>Moved to proper category.</p>\n<p>Clarified subject to help search results.</p>\n<p>Thanks for your contribution.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048208712-Turning-dogs-back-to-wolves/comments/360006742671",
+        "created_at": "2019-07-26T19:03:34Z",
+        "updated_at": "2019-07-26T19:03:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048208712/comments/360006742671.json",
+        "post_id": 360048208712,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048068672,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009915872,
+        "body": "<p>Imagine if the piglin riding it had a crossbow! That would be a powerful combination!</p>",
+        "author_id": 388742106852,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048068672-Magma-cube-jockey/comments/360009915872",
+        "created_at": "2020-04-01T13:16:08Z",
+        "updated_at": "2020-04-01T15:04:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048068672/comments/360009915872.json",
+        "post_id": 360048068672,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048061512,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006577012,
+        "body": "<p>But the endermen hate the enderdragon. The advancement for killing it is specifically called \"free the end\". You're freeing the endermen from their evil overlord.</p>",
+        "author_id": 384748974232,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048061512-Advanced-endermen/comments/360006577012",
+        "created_at": "2019-07-22T00:26:10Z",
+        "updated_at": "2019-07-22T20:55:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048061512/comments/360006577012.json",
+        "post_id": 360048061512,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360047976452,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006290791,
+        "body": "<p>Clarified subject to help search results.</p>\n<p>Thanks for your contribution.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047976452-Aqua-Specters/comments/360006290791",
+        "created_at": "2019-07-01T22:15:59Z",
+        "updated_at": "2019-07-01T22:15:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047976452/comments/360006290791.json",
+        "post_id": 360047976452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360047548971,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010495832,
+        "body": "<p>Wraith's, in folklore or mythology where they originate from, are not neutral. They are hostile begins. In short, they are a magic user who tried to bend time or control life and death and failed, having their souls taken and they live in between worlds creating hate and despair. They can steal souls and use that soul as a solider of it's own. (Usually creates an undead creature with the soul.)</p>\n<p>EDIT: Wraiths also usually have an actual weapon and wear an ominous black cloak.</p>",
+        "author_id": 386461598252,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047548971-The-Megalith-Dimension-Part-3a-mobs/comments/360010495832",
+        "created_at": "2020-05-11T14:30:44Z",
+        "updated_at": "2020-05-11T14:54:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047548971/comments/360010495832.json",
+        "post_id": 360047548971,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360047525612,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006043551,
+        "body": "<p>They don't take fall damage.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047525612-Make-cats-have-no-fall-damage-or-less-fall-damage/comments/360006043551",
+        "created_at": "2019-06-12T19:56:20Z",
+        "updated_at": "2019-06-12T19:56:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047525612/comments/360006043551.json",
+        "post_id": 360047525612,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360047407892,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006027932,
+        "body": "<p>It only happens when a player sprints underwater.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047407892-Nerf-Dolphin-Behavior/comments/360006027932",
+        "created_at": "2019-06-11T20:23:30Z",
+        "updated_at": "2019-06-11T20:23:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047407892/comments/360006027932.json",
+        "post_id": 360047407892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7900800034061,
+        "body": "<p>The dolphin did it intentionally. Dolphins be like that.&nbsp;</p>",
+        "author_id": 399265256131,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047407892-Nerf-Dolphin-Behavior/comments/7900800034061",
+        "created_at": "2022-07-24T00:29:08Z",
+        "updated_at": "2022-07-24T00:29:08Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047407892/comments/7900800034061.json",
+        "post_id": 360047407892,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360046517711,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005992412,
+        "body": "<p>maybe since they are inbeetween they would just take some damadge from the sun. apart from that this is cool.</p>",
+        "author_id": 381360095811,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360046517711-Teenaged-zombies/comments/360005992412",
+        "created_at": "2019-06-09T02:34:29Z",
+        "updated_at": "2019-06-09T02:34:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360046517711/comments/360005992412.json",
+        "post_id": 360046517711,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360046250891,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005958751,
+        "body": "<p>This makes no sense. Why do we even need this?</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360046250891-Infected/comments/360005958751",
+        "created_at": "2019-06-06T02:31:43Z",
+        "updated_at": "2019-06-06T02:31:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360046250891/comments/360005958751.json",
+        "post_id": 360046250891,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360045848452,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005898772,
+        "body": "<p>Unless they get attacked right?</p>",
+        "author_id": 366765816612,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360045848452-Elder-Guardians-Mining-Fatigue/comments/360005898772",
+        "created_at": "2019-06-01T18:24:34Z",
+        "updated_at": "2021-01-12T00:13:38Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360045848452/comments/360005898772.json",
+        "post_id": 360045848452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005900631,
+        "body": "<p>@Blast_Burner This makes sense. Yes, unless they get attacked. If they don’t though, they will not give you mining fatigue.</p>\n\n<p>You can’t hit an Elder Guardian (or any mob) through a solid block of Glass in an aquarium, so yeah, this won’t be an issue.</p>",
+        "author_id": 379612163812,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360045848452-Elder-Guardians-Mining-Fatigue/comments/360005900631",
+        "created_at": "2019-06-01T18:39:00Z",
+        "updated_at": "2021-01-12T00:13:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360045848452/comments/360005900631.json",
+        "post_id": 360045848452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005925991,
+        "body": "<p>Clarified subject to help search results.</p>\n<p>Thanks for your contribution.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360045848452-Elder-Guardians-Mining-Fatigue/comments/360005925991",
+        "created_at": "2019-06-03T21:46:03Z",
+        "updated_at": "2019-06-03T21:46:04Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360045848452/comments/360005925991.json",
+        "post_id": 360045848452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013981311,
+        "body": "<p>I do think there should be a way to stop the Mining Fatigue effect, but I would not have the Mining Fatigue effect be determined by where the Elder Guardians are. There should be a way to momentarily stop the effect, because I think it would still be useful to have it activated elsewhere</p>",
+        "author_id": 406280981491,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360045848452-Elder-Guardians-Mining-Fatigue/comments/360013981311",
+        "created_at": "2021-01-12T00:37:30Z",
+        "updated_at": "2021-01-12T01:30:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360045848452/comments/360013981311.json",
+        "post_id": 360045848452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360045112531,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006143252,
+        "body": "<p>A nether creature will not spawn in the end.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360045112531-A-piggolem/comments/360006143252",
+        "created_at": "2019-06-20T03:49:18Z",
+        "updated_at": "2019-06-20T15:33:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360045112531/comments/360006143252.json",
+        "post_id": 360045112531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360006261692,
+        "body": "<p>Actually, that is a good point</p>",
+        "author_id": 382166552652,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360045112531-A-piggolem/comments/360006261692",
+        "created_at": "2019-06-29T07:39:30Z",
+        "updated_at": "2019-06-29T07:39:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360045112531/comments/360006261692.json",
+        "post_id": 360045112531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360044646631,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013807692,
+        "body": "<p>what do very sticky pistons do?</p>",
+        "author_id": 400013258592,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360044646631-Ender-wraith/comments/360013807692",
+        "created_at": "2020-12-10T21:26:58Z",
+        "updated_at": "2020-12-23T17:44:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360044646631/comments/360013807692.json",
+        "post_id": 360044646631,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043499411,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005657492,
+        "body": "<p>This seems very unnecessary.</p>",
+        "author_id": 366765816612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043499411-A-mob-that-only-spawns-twice-naturally/comments/360005657492",
+        "created_at": "2019-05-16T00:41:14Z",
+        "updated_at": "2019-05-16T00:41:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043499411/comments/360005657492.json",
+        "post_id": 360043499411,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043458891,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006140272,
+        "body": "<p>This seems logical, tho it may make them too trivial given how easy it would be to get water for a moat</p>",
+        "author_id": 383508867411,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043458891-Ravager-s-should-sink-like-Iron-Golems/comments/360006140272",
+        "created_at": "2019-06-19T21:56:51Z",
+        "updated_at": "2019-06-19T21:56:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043458891/comments/360006140272.json",
+        "post_id": 360043458891,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043580092,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012734332,
+        "body": "<p>&nbsp; I agree with&nbsp; this but don't we already have the phantom?? But adding it would be great!</p>",
+        "author_id": 402714500952,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043580092-End-teria-Bacteria-mobs/comments/360012734332",
+        "created_at": "2020-09-01T14:41:55Z",
+        "updated_at": "2020-09-01T14:56:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043580092/comments/360012734332.json",
+        "post_id": 360043580092,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013701631,
+        "body": "<p>how does it become hostile? also, in the beginning you said it was passive</p>",
+        "author_id": 400013258592,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043580092-End-teria-Bacteria-mobs/comments/360013701631",
+        "created_at": "2020-12-07T23:47:38Z",
+        "updated_at": "2020-12-22T00:14:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043580092/comments/360013701631.json",
+        "post_id": 360043580092,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043576452,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005542111,
+        "body": "<p>Clarified subject to help search results.</p>\n<p>Thanks for your contribution.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043576452--Nether-Fireball-Alternatives/comments/360005542111",
+        "created_at": "2019-05-07T15:11:51Z",
+        "updated_at": "2019-05-07T15:11:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043576452/comments/360005542111.json",
+        "post_id": 360043576452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,832 @@
+[
+  {
+    "post_id": 17302814195341,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 17343394168845,
+        "body": "<p>Don’t think mc has the tech for dynamic lighting yet. </p>",
+        "author_id": 13224270124301,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/17302814195341-Redstone-glowing-on-armor/comments/17343394168845",
+        "created_at": "2023-07-05T15:09:35Z",
+        "updated_at": "2023-09-21T19:14:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/17302814195341/comments/17343394168845.json",
+        "post_id": 17302814195341,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 16491238348941,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 16496659075085,
+        "body": "<p>They're cosmetic for balance reasons. None should have any advantages over others.</p>",
+        "author_id": 419344921172,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/16491238348941--Java-and-Bedrock-Redstone-trimmed-armor-can-power-Redstone-devices/comments/16496659075085",
+        "created_at": "2023-06-07T13:44:27Z",
+        "updated_at": "2023-06-07T15:10:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/16491238348941/comments/16496659075085.json",
+        "post_id": 16491238348941,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 16498988688397,
+        "body": "<p>I believe that trims should be implemented as a reforging of equipment, improving some characteristics at the expense of others.\n<br />For example, we could reforge a sword into a saber or a sickle, changing the attack speed and damage. Or add a visor to the helmet, improving protection, but worsening visibility. Or add stiffeners to the armor, increasing strength at the expense of protection.</p>",
+        "author_id": 416461943171,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/16491238348941--Java-and-Bedrock-Redstone-trimmed-armor-can-power-Redstone-devices/comments/16498988688397",
+        "created_at": "2023-06-07T14:48:43Z",
+        "updated_at": "2023-06-07T14:53:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/16491238348941/comments/16498988688397.json",
+        "post_id": 16491238348941,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 16606451146637,
+        "body": "<p>If you did want to have the armor power redstone, you would need to trim each piece with a full block of redstone and be wearing the full suit. And that full suit maybe should be of the same type of trim, and maybe even all the same materiel of armor. In other words, it should be very difficult to were it would be more a luxury than a convenience.&nbsp;</p>",
+        "author_id": 405306164292,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/16491238348941--Java-and-Bedrock-Redstone-trimmed-armor-can-power-Redstone-devices/comments/16606451146637",
+        "created_at": "2023-06-10T02:37:56Z",
+        "updated_at": "2023-06-10T02:37:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/16491238348941/comments/16606451146637.json",
+        "post_id": 16491238348941,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 15287760061197,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 15310031584269,
+        "body": "<p>In fact, this principle can already be implemented through existing tools, but I do not mind, provided that the color lighting shader is integrated into the game.</p>",
+        "author_id": 416461943171,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/15287760061197-new-redstone-lamp-that-indicates-colors-by-means-of-signal-strength/comments/15310031584269",
+        "created_at": "2023-04-28T13:41:17Z",
+        "updated_at": "2023-05-24T23:51:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/15287760061197/comments/15310031584269.json",
+        "post_id": 15287760061197,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 15349568014093,
+        "body": "<p>I, a COMPLETE redstone noob, agrees it whould be easy to use. Also, heres how I think the colors shuold work:&nbsp;</p>\n<p>Signal strength:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Color:</p>\n<p>1&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Black</p>\n<p>2&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Gray</p>\n<p>3&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Green</p>\n<p>4&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Red</p>\n<p>5&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Light Blue</p>\n<p>6&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Yellow</p>\n<p>7&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Pink</p>\n<p>8&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Dark Blue</p>\n<p>9&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Orange&nbsp;</p>\n<p>10&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Purple</p>\n<p>&nbsp;</p>",
+        "author_id": 14001448201613,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/15287760061197-new-redstone-lamp-that-indicates-colors-by-means-of-signal-strength/comments/15349568014093",
+        "created_at": "2023-04-29T22:18:27Z",
+        "updated_at": "2023-05-24T23:51:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/15287760061197/comments/15349568014093.json",
+        "post_id": 15287760061197,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 11364985566477,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 11419475093005,
+        "body": "<p>Cool idea, how would it connect? By being next to it? Redstone? String? I think this is a really cool idea but please specify.</p>",
+        "author_id": 5209025310477,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11364985566477-Jukebox-can-connect-to-note-blocks/comments/11419475093005",
+        "created_at": "2022-12-13T17:07:15Z",
+        "updated_at": "2023-01-19T07:47:33Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11364985566477/comments/11419475093005.json",
+        "post_id": 11364985566477,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 9952635219213,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 9963110873357,
+        "body": "<p>I could imagine that something like \"Hardened Redstone\" would be appropriate. Maybe so that you put Redstone in the oven or recraft it with an insulating material.</p>",
+        "author_id": 9919925982221,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/9952635219213-Add-Aquatic-Red-Stone-And-Inside-A-Block/comments/9963110873357",
+        "created_at": "2022-10-18T10:26:07Z",
+        "updated_at": "2022-10-18T10:26:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/9952635219213/comments/9963110873357.json",
+        "post_id": 9952635219213,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 6555233729037,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 6562627690893,
+        "body": "<p>Could work... Kind of the point of tripwire, though this would be better. You should make it very expensive, such as</p>\n<p>Redstone | Sculk sensor | Redstone</p>\n<p>&nbsp; &nbsp; &nbsp; Tripwire | Observer |Tripwire</p>\n<p>&nbsp; &nbsp; Redstone | Tripwire| Redstone</p>",
+        "author_id": 5209025310477,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6555233729037-The-New-Block-MOBSERVER/comments/6562627690893",
+        "created_at": "2022-05-30T16:11:33Z",
+        "updated_at": "2022-05-31T00:11:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6555233729037/comments/6562627690893.json",
+        "post_id": 6555233729037,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 6565771209613,
+        "body": "<p>He/hes right this good idea for map builders if Minecraft creators add this block map builders so love this block</p>",
+        "author_id": 6565744969997,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6555233729037-The-New-Block-MOBSERVER/comments/6565771209613",
+        "created_at": "2022-05-30T18:48:57Z",
+        "updated_at": "2022-05-31T17:04:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6555233729037/comments/6565771209613.json",
+        "post_id": 6555233729037,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 6405570032013,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 10141733238925,
+        "body": "<p>Yes, this is a wonderful idea.</p>",
+        "author_id": 418282155711,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6405570032013-rotating-pistons/comments/10141733238925",
+        "created_at": "2022-10-25T18:17:21Z",
+        "updated_at": "2022-11-01T22:52:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6405570032013/comments/10141733238925.json",
+        "post_id": 6405570032013,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 6378418972685,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 6378460440845,
+        "body": "<p>P.S. This would absolutely revolutionize redstone contraptions!</p>",
+        "author_id": 401232284132,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6378418972685-Useful-Piston-Variations/comments/6378460440845",
+        "created_at": "2022-05-20T22:04:40Z",
+        "updated_at": "2022-05-21T03:13:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6378418972685/comments/6378460440845.json",
+        "post_id": 6378418972685,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 6386716592141,
+        "body": "<p>Maybe these things could be found in the redstone room in the deep dark, making them very rare, and technically non renewable.</p>",
+        "author_id": 405306164292,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6378418972685-Useful-Piston-Variations/comments/6386716592141",
+        "created_at": "2022-05-21T12:55:40Z",
+        "updated_at": "2023-06-25T00:11:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6378418972685/comments/6386716592141.json",
+        "post_id": 6378418972685,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7214969571213,
+        "body": "<p>Weighted piston could use gold instead of Redstone dust and iron instead of cobblestone, bolted could be with two extra iron ingots instead of wood planks, and strong pistons could use diamonds instead of Redstone dust.</p>",
+        "author_id": 7184067406733,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6378418972685-Useful-Piston-Variations/comments/7214969571213",
+        "created_at": "2022-06-26T18:04:26Z",
+        "updated_at": "2023-06-26T12:05:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6378418972685/comments/7214969571213.json",
+        "post_id": 6378418972685,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7387119736717,
+        "body": "<p>Hey, y'all, it's me, as in the author of this post. I absolutely think both of these ideas are good ones, even if they can't really coexist. The idea of making them extra rare is good because obviously you don't want such a powerful block to be easy to get early on, and too many of them could be pretty insane. I also appreciate the ideas about the recipes.</p>",
+        "author_id": 401232284132,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6378418972685-Useful-Piston-Variations/comments/7387119736717",
+        "created_at": "2022-07-03T17:31:06Z",
+        "updated_at": "2023-06-25T00:12:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6378418972685/comments/7387119736717.json",
+        "post_id": 6378418972685,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4415624433805,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4418242054925,
+        "body": "<p>Sure! <strong style=\"font-style: italic;\">Good </strong><em><u>idea!</u>&nbsp;💡💡💡💡💡💡</em></p>",
+        "author_id": 407452794532,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4415624433805-Use-Glowstone-dust-like-Redstone-dust-but-the-two-don-t-connect/comments/4418242054925",
+        "created_at": "2021-12-31T08:31:34Z",
+        "updated_at": "2021-12-31T08:31:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4415624433805/comments/4418242054925.json",
+        "post_id": 4415624433805,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4406038929549,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 14116810195341,
+        "body": "<p>people got on with it all bedrock redstoners need flying machines and plus they are funnnn!!!!</p>",
+        "author_id": 14116735849741,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4406038929549-Flying-machines-bedrock/comments/14116810195341",
+        "created_at": "2023-03-18T17:38:30Z",
+        "updated_at": "2023-03-18T17:38:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4406038929549/comments/14116810195341.json",
+        "post_id": 4406038929549,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4404568919309,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4404625130765,
+        "body": "<p>They should have one for almost every block, honestly.</p>",
+        "author_id": 412314468832,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4404568919309-Moss-Pressure-Plates/comments/4404625130765",
+        "created_at": "2021-07-08T21:15:47Z",
+        "updated_at": "2021-10-11T15:04:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4404568919309/comments/4404625130765.json",
+        "post_id": 4404568919309,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077145731,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014451492,
+        "body": "<p>8014</p>",
+        "author_id": 411619636531,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077145731-Redstone-powered-boat/comments/360014451492",
+        "created_at": "2021-02-21T22:47:04Z",
+        "updated_at": "2021-05-08T13:04:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077145731/comments/360014451492.json",
+        "post_id": 360077145731,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077167972,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014311011,
+        "body": "<p>for now we have the ancient debris</p>",
+        "author_id": 411133801251,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077167972-crying-obsidian-can-move/comments/360014311011",
+        "created_at": "2021-02-14T14:17:18Z",
+        "updated_at": "2021-07-11T22:03:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077167972/comments/360014311011.json",
+        "post_id": 360077167972,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7081209355277,
+        "body": "<p>it is crying OBSIDIAN</p>",
+        "author_id": 6981758221709,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077167972-crying-obsidian-can-move/comments/7081209355277",
+        "created_at": "2022-06-21T08:35:23Z",
+        "updated_at": "2022-06-21T08:35:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077167972/comments/7081209355277.json",
+        "post_id": 360077167972,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076970172,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014457112,
+        "body": "<p>also bedrock has the ability to push chests, furnaces etc with a piston</p>",
+        "author_id": 404929590572,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076970172-BE-JE-Redstone-Parity/comments/360014457112",
+        "created_at": "2021-02-22T14:13:51Z",
+        "updated_at": "2021-02-22T14:18:41Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076970172/comments/360014457112.json",
+        "post_id": 360076970172,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4404824639501,
+        "body": "<p>Quasi-connectivity is a bug in java edition and i know what are you going to say it's not a bug a feature right? it does not make sense at all like how a piston is powered WITHOUT CONNECTING IT</p>\n<p>while bedrock's redstone has been revamped to work 100% like in real life and it also makes sense</p>",
+        "author_id": 418351457232,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076970172-BE-JE-Redstone-Parity/comments/4404824639501",
+        "created_at": "2021-07-12T00:00:24Z",
+        "updated_at": "2021-07-12T01:26:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076970172/comments/4404824639501.json",
+        "post_id": 360076970172,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075784452,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 16603611467789,
+        "body": "<p>I completely agree and I understand that the caves and cliffs update was ages ago but I still think that pistons need an upgrade. I suggest that considering blackstone and deepslate can be used to craft furni and stone tools so surely it could function with pistons as well as maybe tuff. I understand it may be hard to keep balanced but being a redstoner myself I am often restricted by the piston limit. Thank you so much Mojang for all that you do.&nbsp;</p>",
+        "author_id": 16602775651725,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075784452-Tuff-block-to-be-crafted-into-stronger-Pistons-Credits-Mumbo-Jumbo/comments/16603611467789",
+        "created_at": "2023-06-10T00:15:20Z",
+        "updated_at": "2023-06-10T20:37:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075784452/comments/16603611467789.json",
+        "post_id": 360075784452,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075724832,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013802871,
+        "body": "<p>Can Anyone vote my feedback?</p>",
+        "author_id": 407508475592,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075724832-Redstone-Short-Circuit/comments/360013802871",
+        "created_at": "2020-12-17T23:30:20Z",
+        "updated_at": "2020-12-17T23:30:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075724832/comments/360013802871.json",
+        "post_id": 360075724832,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013850271,
+        "body": "<p>It!s cool! I mean, when I’m in creative mode and I spill water on my redstone circuit, instead of picking it up, I can let it explode!</p>",
+        "author_id": 403935623791,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075724832-Redstone-Short-Circuit/comments/360013850271",
+        "created_at": "2020-12-24T12:16:34Z",
+        "updated_at": "2020-12-25T22:39:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075724832/comments/360013850271.json",
+        "post_id": 360075724832,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074924091,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013583011,
+        "body": "<p>The lodestone could emit a redstone signal whose strength is determined by how far away the lodestone compass is</p>",
+        "author_id": 406280981491,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074924091-Lodestone-Compass-to-activate-red-stone/comments/360013583011",
+        "created_at": "2020-11-30T01:50:07Z",
+        "updated_at": "2020-12-09T15:32:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074924091/comments/360013583011.json",
+        "post_id": 360074924091,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 30468673878797,
+        "body": "<p>With the recent ender pearl chunk-loading capabilities, it could be a simple redstone signal emitted from the lodestone. As said before, it’s a small tweak to the game but opens up a world of new technical possibilities.</p>\n<p>For an in-game explanation, the player could rapidly spin the needle with a right-click, prompting the lodestone to respond. If the lodestone's chunk isn't loaded, the needle simply won’t spin, and a fail sound could play, to prevent confusion about the lack of reaction.</p>\n<p>As a hard-to-craft, late-game block that’s currently underused, this addition wouldn’t disrupt progression. Instead, it would finally make the lodestone a valuable and helpful tool. Please, Mojang - this would be so cool!</p>",
+        "author_id": 387986336851,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074924091-Lodestone-Compass-to-activate-red-stone/comments/30468673878797",
+        "created_at": "2024-09-22T13:45:20Z",
+        "updated_at": "2024-09-22T16:38:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074924091/comments/30468673878797.json",
+        "post_id": 360074924091,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074336531,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013295611,
+        "body": "<p>Maybe call is a Dialogue block?</p>",
+        "author_id": 367575015631,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074336531-Chat-powered-redstone/comments/360013295611",
+        "created_at": "2020-11-02T23:14:57Z",
+        "updated_at": "2020-12-02T16:34:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074336531/comments/360013295611.json",
+        "post_id": 360074336531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013364111,
+        "body": "<p>You could make it respond to a command or a certain character, that would be something like /code (text) or %(text), that way you can make a chat password hidden door and not tell everyone what the passcode is. to do this, the game would check for matching codes before checking for commands, and not broadcast the message.</p>",
+        "author_id": 401023908072,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074336531-Chat-powered-redstone/comments/360013364111",
+        "created_at": "2020-11-08T20:07:23Z",
+        "updated_at": "2020-12-02T16:34:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074336531/comments/360013364111.json",
+        "post_id": 360074336531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013490771,
+        "body": "<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">buena idea</span></span></p>",
+        "author_id": 406662861911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074336531-Chat-powered-redstone/comments/360013490771",
+        "created_at": "2020-11-19T09:43:57Z",
+        "updated_at": "2020-11-19T09:43:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074336531/comments/360013490771.json",
+        "post_id": 360074336531,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074390472,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013470112,
+        "body": "<p>Redstone torches already serve more or less the same purpose, don't they?</p>",
+        "author_id": 368757169811,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074390472-Redstone-Inverter/comments/360013470112",
+        "created_at": "2020-11-11T16:51:52Z",
+        "updated_at": "2021-09-02T01:23:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074390472/comments/360013470112.json",
+        "post_id": 360074390472,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074173071,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014579332,
+        "body": "<p>There are better ways to solve this besides making it more useless</p>",
+        "author_id": 401480908172,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074173071-Skulk-Sensor-Warning-Sound/comments/360014579332",
+        "created_at": "2021-03-04T16:06:05Z",
+        "updated_at": "2021-03-04T16:06:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074173071/comments/360014579332.json",
+        "post_id": 360074173071,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074253272,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360014336811,
+        "body": "<p>To expense or transport the entire bundle, Use a locking mechanic</p>",
+        "author_id": 384933560672,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074253272-Bundle-Redstone-interaction-ideas-Java/comments/360014336811",
+        "created_at": "2021-02-17T07:57:19Z",
+        "updated_at": "2021-02-17T07:57:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074253272/comments/360014336811.json",
+        "post_id": 360074253272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 28215990637837,
+        "body": "<p>i absolutely think that bundles have the potential to revolutionize storage systems, imagine only needing to transport One item per stack of items to each chest! and each bundle could be recycled infinitely, really the only bottlenecks would be using hoppers to get the items out of the input chest and filtering the items you put in the bundles</p>\n<p>as much as i'm hopeful they'll add some redstone interaction in the update with bundles, i bet it's not gonna be quite as good as we'd like, but i am hopeful</p>",
+        "author_id": 7342879973261,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074253272-Bundle-Redstone-interaction-ideas-Java/comments/28215990637837",
+        "created_at": "2024-07-08T03:27:18Z",
+        "updated_at": "2024-07-10T13:58:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074253272/comments/28215990637837.json",
+        "post_id": 360074253272,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073687131,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013085551,
+        "body": "<p>Mojang: &nbsp;If you could let me know if you use this information in the 1.17 update, it would be greatly appreciated. &nbsp;I have been a fan of Minecraft since I was three years old. &nbsp;I have always wanted to make a contribution to minecraft, though I have never felt that anyone would care enough to read it and take it seriously. &nbsp;</p>\n<p>&nbsp;</p>\n<p>Sincerely,&nbsp;</p>\n<p>Flundie (IGN)</p>",
+        "author_id": 404771548791,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073687131-Skulk-Sensor-Improvements/comments/360013085551",
+        "created_at": "2020-10-13T20:59:45Z",
+        "updated_at": "2020-10-14T14:21:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073687131/comments/360013085551.json",
+        "post_id": 360073687131,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013157432,
+        "body": "<p>Please make sure to vote &nbsp;this post, so Minecraft Developers and Creators will be able to see it, and hopefully add these ideas to the 1.17 update.</p>",
+        "author_id": 404771548791,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073687131-Skulk-Sensor-Improvements/comments/360013157432",
+        "created_at": "2020-10-13T21:05:06Z",
+        "updated_at": "2020-10-14T01:49:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073687131/comments/360013157432.json",
+        "post_id": 360073687131,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013087011,
+        "body": "<p>The problem with this is that the lore of the Sculk Sensor describes that it is actually a living creature. Probably wouldn't coat a living thing with copper, now would you...</p>",
+        "author_id": 404156832951,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073687131-Skulk-Sensor-Improvements/comments/360013087011",
+        "created_at": "2020-10-13T22:21:26Z",
+        "updated_at": "2020-10-14T14:21:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073687131/comments/360013087011.json",
+        "post_id": 360073687131,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013164892,
+        "body": "<p>FanaticPlane762, you have a very good point. &nbsp;What if we coated the Skulk sensor in Uranium or something, and then it would be a radioactive skulk sensor. &nbsp;Maybe we would fill a cauldron with uranium, and then drop it in the cauldron</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+        "author_id": 404771548791,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073687131-Skulk-Sensor-Improvements/comments/360013164892",
+        "created_at": "2020-10-14T14:24:00Z",
+        "updated_at": "2020-10-14T14:26:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073687131/comments/360013164892.json",
+        "post_id": 360073687131,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073743512,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013138212,
+        "body": "<p>I really think this would be good.</p>",
+        "author_id": 369459678912,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073743512-2-sided-Piston/comments/360013138212",
+        "created_at": "2020-10-12T05:43:16Z",
+        "updated_at": "2020-10-12T06:37:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073743512/comments/360013138212.json",
+        "post_id": 360073743512,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073545011,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013015011,
+        "body": "<p>Side note: the new glow squid could temporarily stun players and mobs alike (that only lasted like 0.25 seconds and would put a blue spiral overlay on your screen for visual), you could also make it into a potion that could only be used as a throwable or a linger (would only last 0.15 seconds for throwable and the linger would only show a more intense version blue spiral overlay instead of stun or could instead of stun, reverse your walking directions).</p>\n<p>Edit:</p>\n<p>instead of stun, it could just temporarily reverse your walking directions for everything not just linger (for like 0.25 for the throwable potion and 0.50 for the actually glow squid).</p>\n<p>I now have a full suggestion for this \"side note\"</p>\n<p><a href=\"https://feedback.minecraft.net/hc/en-us/community/posts/360073631912-Glow-squid-uses-because-we-are-all-upset-and-want-improvements-\" rel=\"nofollow noreferrer\">https://feedback.minecraft.net/hc/en-us/community/posts/360073631912-Glow-squid-uses-because-we-are-all-upset-and-want-improvements-</a></p>",
+        "author_id": 404444042811,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073545011-Different-blocks-produce-different-amounts-of-noise-reduction/comments/360013015011",
+        "created_at": "2020-10-07T06:20:26Z",
+        "updated_at": "2020-10-11T08:20:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073545011/comments/360013015011.json",
+        "post_id": 360073545011,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360073521152,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013758951,
+        "body": "<p>I would just have it so potions can be added to the head when placed down and then when activated it would spray the potion as a lingering effect. Dragon Breath could be used to spray the Dragons attack</p>",
+        "author_id": 406280981491,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360073521152-New-Behavior-for-Dragon-Heads/comments/360013758951",
+        "created_at": "2020-12-13T21:09:47Z",
+        "updated_at": "2022-02-10T22:50:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360073521152/comments/360013758951.json",
+        "post_id": 360073521152,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

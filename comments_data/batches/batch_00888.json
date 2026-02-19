@@ -1,0 +1,607 @@
+[
+  {
+    "post_id": 22764400853389,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 24607604961037,
+        "body": "<p>Nice idea</p>",
+        "author_id": 396996315712,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/22764400853389--x-Selector/comments/24607604961037",
+        "created_at": "2024-03-01T17:28:16Z",
+        "updated_at": "2024-03-17T02:20:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/22764400853389/comments/24607604961037.json",
+        "post_id": 22764400853389,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 22653519694093,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 22732537705997,
+        "body": "<p>1) just do</p>\n<pre>/tp @s @e[type = wolf, c = 1, r = 1000]</pre>\n<p>that will teleport u to the nearest wolf within 4000 blocks</p>\n<p>that is for bedrock, but it should be similar for java</p>\n<p>2) blue axolotls don't spawn naturally</p>",
+        "author_id": 400271757932,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/22653519694093--Find-e-type-mobname-searchdistance-amount/comments/22732537705997",
+        "created_at": "2023-12-28T02:59:01Z",
+        "updated_at": "2023-12-28T02:59:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/22653519694093/comments/22732537705997.json",
+        "post_id": 22653519694093,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 22333833125645,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 22576445326221,
+        "body": "<p>What is this drag you are talking about?</p>",
+        "author_id": 19202586240269,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/22333833125645-Add-a-Disable-Drag-NBT-Tag-to-entities-Java/comments/22576445326221",
+        "created_at": "2023-12-21T18:05:07Z",
+        "updated_at": "2024-01-10T00:55:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/22333833125645/comments/22576445326221.json",
+        "post_id": 22333833125645,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 22168436719885,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 22466684070541,
+        "body": "<p>A command from early Java edition Alpha.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/22168436719885-Re-add-wood-command/comments/22466684070541",
+        "created_at": "2023-12-18T19:36:08Z",
+        "updated_at": "2023-12-19T14:22:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/22168436719885/comments/22466684070541.json",
+        "post_id": 22168436719885,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 22168302494733,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 23205766409997,
+        "body": "<p>This was an old command from the Deep Dark Experimental Snapshot.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/22168302494733-Re-Add-warden-spawn-tracker/comments/23205766409997",
+        "created_at": "2024-01-15T00:15:17Z",
+        "updated_at": "2024-01-15T22:02:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/22168302494733/comments/23205766409997.json",
+        "post_id": 22168302494733,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 21729479699213,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 28132116568461,
+        "body": "<p>You could also add “execute on victim” for the most recently damaged entity. Basically the converse of attacker. </p>",
+        "author_id": 27717068167437,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/21729479699213-An-expansion-of-the-execute-on-subcommand/comments/28132116568461",
+        "created_at": "2024-07-04T01:00:25Z",
+        "updated_at": "2024-07-04T01:00:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/21729479699213/comments/28132116568461.json",
+        "post_id": 21729479699213,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 21474182478477,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 21474183710221,
+        "body": "<p>Vote for this post so it potentially gets noticed!&nbsp;</p>",
+        "author_id": 21474065786381,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/21474182478477--maxHealth-setting-in-the-Game-Rules-Tab-in-the-Create-New-World-Menu/comments/21474183710221",
+        "created_at": "2023-11-19T06:31:53Z",
+        "updated_at": "2023-11-19T06:31:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/21474182478477/comments/21474183710221.json",
+        "post_id": 21474182478477,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 20930089145229,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 21086164383117,
+        "body": "<p>Yes please! This would&nbsp;<strong><em>revolutionize</em> </strong>Spleef!</p>",
+        "author_id": 14264029906573,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/20930089145229-Projectile-destructable-block-tag/comments/21086164383117",
+        "created_at": "2023-11-06T23:37:39Z",
+        "updated_at": "2023-11-07T00:48:11Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/20930089145229/comments/21086164383117.json",
+        "post_id": 20930089145229,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 18918668319757,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 20141114375053,
+        "body": "<p>Not just crouching, but any interaction would be cool, like to see if a playing is sleeping, crouching, swimming, all that stuff</p>",
+        "author_id": 8644798162573,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/18918668319757-Crouch-detection-in-minecraft-bedrock/comments/20141114375053",
+        "created_at": "2023-10-05T20:16:30Z",
+        "updated_at": "2023-10-05T20:33:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/18918668319757/comments/20141114375053.json",
+        "post_id": 18918668319757,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 18062066098317,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 23384684877325,
+        "body": "<p>this can be done with NBT on java, i think, but it needs to be on bedrock too.</p>",
+        "author_id": 400271757932,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/18062066098317-Add-new-selectors/comments/23384684877325",
+        "created_at": "2024-01-20T18:10:49Z",
+        "updated_at": "2024-01-22T18:12:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/18062066098317/comments/23384684877325.json",
+        "post_id": 18062066098317,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 17949416998029,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 18641517523597,
+        "body": "<p>/gamerule DoWeatherCycle false</p>",
+        "author_id": 7343912044429,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/17949416998029--toggle-weather-clear-storm/comments/18641517523597",
+        "created_at": "2023-08-17T22:21:31Z",
+        "updated_at": "2023-08-18T20:29:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/17949416998029/comments/18641517523597.json",
+        "post_id": 17949416998029,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 17241012936077,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40696055975437,
+        "body": "<p>Apoyo ese comentario seria muy chevere que lo agregaran asi ademas del chat también nos podamos comunicar por audio seria mucho mas divertido jugar con amigos</p>",
+        "author_id": 40695948561165,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/17241012936077-Micr%C3%B3fono-para-comunicarse-mediante-voz-en-multijugador/comments/40696055975437",
+        "created_at": "2025-10-28T21:39:31Z",
+        "updated_at": "2025-10-28T21:39:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/17241012936077/comments/40696055975437.json",
+        "post_id": 17241012936077,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 16612331790093,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 16811249448973,
+        "body": "<p>You can go to the console and run /gamerule randomTickSpeed 1000000 to lag the game so you can go to the command block and run /set block x y z air, then set the randomTickSpeed back down.</p>",
+        "author_id": 12062659845773,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/16612331790093-Infinity-death-loop/comments/16811249448973",
+        "created_at": "2023-06-16T14:26:49Z",
+        "updated_at": "2023-06-22T18:16:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/16612331790093/comments/16811249448973.json",
+        "post_id": 16612331790093,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 15509884853645,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 15585473277581,
+        "body": "<p>It's already possible, but it's a bit complicated and scoreboards are needed</p>",
+        "author_id": 6667897513613,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/15509884853645-Idea-execute/comments/15585473277581",
+        "created_at": "2023-05-08T17:57:44Z",
+        "updated_at": "2023-06-15T13:17:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/15509884853645/comments/15585473277581.json",
+        "post_id": 15509884853645,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 14329238069133,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 14393962277773,
+        "body": "<p>I know a little Japanese. <br><br>Translation: Today's minecraft has block display (placing blocks? item frame?), item display (Armor stand, item frame), text display (Sign). However, there is no Mob Display. I would like a Mob Display.<br><br><br></p>",
+        "author_id": 5001115264269,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/14329238069133-%E3%83%A2%E3%83%96%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/comments/14393962277773",
+        "created_at": "2023-03-28T22:06:18Z",
+        "updated_at": "2023-05-18T12:30:50Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/14329238069133/comments/14393962277773.json",
+        "post_id": 14329238069133,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 13427454968973,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 24470255703437,
+        "body": "<p>The Colored fire will have to use a separate block from fire.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13427454968973-Add-More-Fire-Colors/comments/24470255703437",
+        "created_at": "2024-02-26T19:38:27Z",
+        "updated_at": "2024-02-26T19:38:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13427454968973/comments/24470255703437.json",
+        "post_id": 13427454968973,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 13426577815309,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 18553890611213,
+        "body": "<p>With the new function macro functionality, this has become less important, tho it might still have the benefit that it wouldn't need re-parsing of the lines wanting to use the changed position.</p>",
+        "author_id": 389291276452,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13426577815309--Java-Add-a-way-to-change-position-context-based-on-a-scoreboard-value/comments/18553890611213",
+        "created_at": "2023-08-15T16:11:11Z",
+        "updated_at": "2023-09-28T21:50:32Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13426577815309/comments/18553890611213.json",
+        "post_id": 13426577815309,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 13084254169229,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 13392480821517,
+        "body": "<p>But you have this:</p>\n<pre>/execute in minecraft:nether run tp ~ ~ ~<br>/execute in minecraft:end run tp ~ ~ ~</pre>\n<p>and also you can setblock a portal to your location and quickly tp to that dimension</p>",
+        "author_id": 408508681351,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13084254169229-Teleport-between-dementions-warp-demention/comments/13392480821517",
+        "created_at": "2023-02-24T13:02:43Z",
+        "updated_at": "2023-10-11T16:18:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13084254169229/comments/13392480821517.json",
+        "post_id": 13084254169229,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 16599267448333,
+        "body": "<p>You already can with /tp</p>\n<p>&nbsp;</p>",
+        "author_id": 16599103332365,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/13084254169229-Teleport-between-dementions-warp-demention/comments/16599267448333",
+        "created_at": "2023-06-09T21:37:53Z",
+        "updated_at": "2023-06-09T21:37:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/13084254169229/comments/16599267448333.json",
+        "post_id": 13084254169229,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 12767273596941,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 14047313639437,
+        "body": "<p>there is already one : \"/execute if score @p test matches 10..\" this command will execute if the score is equal to 10 or more</p>",
+        "author_id": 394685337471,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/12767273596941--scoreboard-command-rework/comments/14047313639437",
+        "created_at": "2023-03-16T13:45:47Z",
+        "updated_at": "2023-05-12T17:58:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/12767273596941/comments/14047313639437.json",
+        "post_id": 12767273596941,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 11985961779981,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 13263167211405,
+        "body": "<p>I agree. Even though I don't have this problem, (I have not been playing for a long time) I want this to be a feature again.</p>",
+        "author_id": 6787749630349,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/11985961779981-Please-Change-command-blocks/comments/13263167211405",
+        "created_at": "2023-02-20T15:26:52Z",
+        "updated_at": "2023-04-30T00:42:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/11985961779981/comments/13263167211405.json",
+        "post_id": 11985961779981,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 9945945813773,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 10911436842253,
+        "body": "<p>Why in Hebrew?</p>\n<p>(This is a good idea)</p>",
+        "author_id": 10911042171405,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/9945945813773-%D7%A9%D7%99%D7%A0%D7%95%D7%99-%D7%A9%D7%9D/comments/10911436842253",
+        "created_at": "2022-11-25T18:26:21Z",
+        "updated_at": "2022-11-25T18:26:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/9945945813773/comments/10911436842253.json",
+        "post_id": 9945945813773,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 9458490908557,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 21655554892941,
+        "body": "<p>This should be called /chunk, not /rechunk, as it does more than regenerate chunks.</p>",
+        "author_id": 400271757932,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/9458490908557-Minecraft-Rechunk-command/comments/21655554892941",
+        "created_at": "2023-11-25T03:23:19Z",
+        "updated_at": "2023-11-25T03:23:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/9458490908557/comments/21655554892941.json",
+        "post_id": 9458490908557,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 21655559723021,
+        "body": "<p>maybe the syntax could be:</p>\n<p>/rechunk &lt;biome&gt; &lt;y level&gt; &lt;how much it blends with other chunks (from 0 to 10, 0 being it doesn't blend at all, and 10 being it seems VERY natural)&gt;</p>",
+        "author_id": 400271757932,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/9458490908557-Minecraft-Rechunk-command/comments/21655559723021",
+        "created_at": "2023-11-25T03:26:10Z",
+        "updated_at": "2023-11-25T03:26:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/9458490908557/comments/21655559723021.json",
+        "post_id": 9458490908557,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 8951425737869,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 9205721305229,
+        "body": "<p>/data get entity [ur entity] Health<br>to just get the number or</p>\n<p>/execute store score [BossHealthScore] byte run data get entity [ur entity] Health<br>to put that value in a scoreboard</p>",
+        "author_id": 9205409057421,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8951425737869-Health-Sensing-Command/comments/9205721305229",
+        "created_at": "2022-09-16T01:53:19Z",
+        "updated_at": "2022-11-05T04:24:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8951425737869/comments/9205721305229.json",
+        "post_id": 8951425737869,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 8386685464205,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8389354490381,
+        "body": "<p>Just use /effect and give yourself enough time.</p>",
+        "author_id": 423562415371,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8386685464205-Command-to-extend-potion-effect/comments/8389354490381",
+        "created_at": "2022-08-13T00:35:35Z",
+        "updated_at": "2022-08-14T22:08:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8386685464205/comments/8389354490381.json",
+        "post_id": 8386685464205,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7162851062541,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7315687699469,
+        "body": "<p>Ojalá añadan aldeanos de pantano,jungla y de manglar</p>",
+        "author_id": 7119259007373,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7162851062541-Aldeanos/comments/7315687699469",
+        "created_at": "2022-06-30T13:43:03Z",
+        "updated_at": "2022-06-30T13:43:03Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7162851062541/comments/7315687699469.json",
+        "post_id": 7162851062541,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

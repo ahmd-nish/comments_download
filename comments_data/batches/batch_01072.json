@@ -1,0 +1,862 @@
+[
+  {
+    "post_id": 8168440979341,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8179771528333,
+        "body": "<p>Likely as a mod.</p>",
+        "author_id": 419344921172,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8168440979341-Bottle-o-enchanting-crafting/comments/8179771528333",
+        "created_at": "2022-08-04T14:56:39Z",
+        "updated_at": "2022-08-04T14:56:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8168440979341/comments/8179771528333.json",
+        "post_id": 8168440979341,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 8133663392653,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8151848250125,
+        "body": "<p>It already does</p>",
+        "author_id": 387986563091,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8133663392653-Moss-Cobblestone-should-make-Mossy-Cobblestone/comments/8151848250125",
+        "created_at": "2022-08-03T16:13:47Z",
+        "updated_at": "2022-08-03T21:19:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8133663392653/comments/8151848250125.json",
+        "post_id": 8133663392653,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 8162529658637,
+        "body": "<p>Mossy cobblestone has two recipes that involves either a vine or a moss block. So it does already require moss.</p>",
+        "author_id": 419344921172,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8133663392653-Moss-Cobblestone-should-make-Mossy-Cobblestone/comments/8162529658637",
+        "created_at": "2022-08-03T21:19:48Z",
+        "updated_at": "2022-08-06T01:08:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8133663392653/comments/8162529658637.json",
+        "post_id": 8133663392653,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 8086063954957,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8095670604685,
+        "body": "<p>Just play Peaceful.</p>",
+        "author_id": 423562415371,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8086063954957-New-difficulty-easier/comments/8095670604685",
+        "created_at": "2022-08-01T17:29:15Z",
+        "updated_at": "2022-08-01T17:29:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8086063954957/comments/8095670604685.json",
+        "post_id": 8086063954957,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 8110308307213,
+        "body": "<p>you could just turn mob spawning off or use datapacks mods and other things. Also the current 4 difficulties are iconic and I don't think another is needed.</p>",
+        "author_id": 415608628931,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8086063954957-New-difficulty-easier/comments/8110308307213",
+        "created_at": "2022-08-02T04:53:13Z",
+        "updated_at": "2022-08-02T04:53:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8086063954957/comments/8110308307213.json",
+        "post_id": 8086063954957,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 8124574221453,
+        "body": "<p>Minecraft is already easy as it is on easy mode, I see no reason you can't find a data pack or a setting to turn mob spawning off. Minecraft is already even easier with those who enable cheats like \"Save Inventory\", \"Always Day\", and so on. The only setting I consider as a reasonable setting is coordinates, even then Minecraft would slightly be harder without them.</p>",
+        "author_id": 423969800932,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8086063954957-New-difficulty-easier/comments/8124574221453",
+        "created_at": "2022-08-02T17:19:37Z",
+        "updated_at": "2022-08-02T17:19:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8086063954957/comments/8124574221453.json",
+        "post_id": 8086063954957,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 9591958660749,
+        "body": "<p>This would be very useful, but i think spiders, slimes and pillagers should be able to spawn too.</p>\n<p>&nbsp;</p>",
+        "author_id": 4534289966605,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8086063954957-New-difficulty-easier/comments/9591958660749",
+        "created_at": "2022-10-02T16:25:53Z",
+        "updated_at": "2022-10-02T16:25:53Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8086063954957/comments/9591958660749.json",
+        "post_id": 8086063954957,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 8001208979981,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8092072210189,
+        "body": "<p>Just imagine seeing a zombie flying at you face down, XD</p>",
+        "author_id": 1901963127367,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8001208979981-Naming-mobs-Grumm-should-rotate-them-90-degrees/comments/8092072210189",
+        "created_at": "2022-08-01T15:35:46Z",
+        "updated_at": "2022-08-01T15:35:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8001208979981/comments/8092072210189.json",
+        "post_id": 8001208979981,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7933989625613,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7968589941773,
+        "body": "<p>Great Idea!</p>",
+        "author_id": 7933860143757,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7933989625613-Mudslides/comments/7968589941773",
+        "created_at": "2022-07-26T22:14:11Z",
+        "updated_at": "2022-07-26T22:14:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7933989625613/comments/7968589941773.json",
+        "post_id": 7933989625613,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7968625122701,
+        "body": "<p>This should totally be added!</p>",
+        "author_id": 7933860143757,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7933989625613-Mudslides/comments/7968625122701",
+        "created_at": "2022-07-26T22:14:37Z",
+        "updated_at": "2022-07-26T22:14:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7933989625613/comments/7968625122701.json",
+        "post_id": 7933989625613,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7748195734157,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7755564158349,
+        "body": "<p>Might not be necessary if Mojang ends up officially implementing their bundle item. Otherwise, use shulker boxes.</p>",
+        "author_id": 419344921172,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7748195734157-Extra-Inventory-Enchantment/comments/7755564158349",
+        "created_at": "2022-07-18T13:29:38Z",
+        "updated_at": "2022-07-27T21:15:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7748195734157/comments/7755564158349.json",
+        "post_id": 7748195734157,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7692824104717,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7692813489293,
+        "body": "<p>Btw self explanatory but seeds are planted and cannot be consumed\n<br />AND farmer villagers will sell seeds and sparkle soil at master tier.</p>",
+        "author_id": 7692700826765,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7692824104717-Sparkle-Soil/comments/7692813489293",
+        "created_at": "2022-07-14T23:40:49Z",
+        "updated_at": "2022-07-15T04:55:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7692824104717/comments/7692813489293.json",
+        "post_id": 7692824104717,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7734125176077,
+        "body": "<p>yea its not supposed to make notch apples and i do agree that it should be more than nuggets though i am having trouble figuring out how much. thanks</p>",
+        "author_id": 7734131664269,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7692824104717-Sparkle-Soil/comments/7734125176077",
+        "created_at": "2022-07-17T00:22:49Z",
+        "updated_at": "2022-07-17T04:33:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7692824104717/comments/7734125176077.json",
+        "post_id": 7692824104717,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7748308219405,
+        "body": "<p>Doesn't make a lot of sense, and is too easy to get for an infinite supply of golden things. Think about it like this... normally you need 8 nuggets to make a single golden carrot, but now it's 8 nuggets for an infinite amount of golden carrots.</p>\n<p>And it's too simple. It should have some sort of magical origin of some kind, like requiring a specific item or block from an uncommon biome or something, rather than just plain dirt.</p>",
+        "author_id": 418873283952,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7692824104717-Sparkle-Soil/comments/7748308219405",
+        "created_at": "2022-07-18T02:47:09Z",
+        "updated_at": "2022-07-22T08:29:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7692824104717/comments/7748308219405.json",
+        "post_id": 7692824104717,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7899104662285,
+        "body": "<p>1 up, it needs mycelium instead and requires golden rain / water. Let me explain <br>Golden rain is a phenomenon that has a 1/150 chance to occur every 20 mins (minecraft day cycle) and to collect it you need a cauldron and collect it from the cauldron with an empty bottle. You can see where this is going but you need it to hydrate the soil. You can also drink it but it won’t do anything and you can also collect it from a cauldron (edit- with a bucket) and use it to hydrate the crops. The catch is it will evaporate over time and drop a gold nugget if an entire source block is evaporated. Btw the “liquid gold” as I would call it would hydrate the soil for 2 full day cycles. Thanks for the feedback those are all really good points</p>",
+        "author_id": 7734131664269,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7692824104717-Sparkle-Soil/comments/7899104662285",
+        "created_at": "2022-07-23T21:47:49Z",
+        "updated_at": "2022-07-28T17:12:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7692824104717/comments/7899104662285.json",
+        "post_id": 7692824104717,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7667726269965,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7668432888205,
+        "body": "<p>This belongs in the Parody category.</p>",
+        "author_id": 423562415371,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7667726269965-Better-healing/comments/7668432888205",
+        "created_at": "2022-07-14T02:53:36Z",
+        "updated_at": "2022-07-14T02:53:36Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7667726269965/comments/7668432888205.json",
+        "post_id": 7667726269965,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7646173190413,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7649563681293,
+        "body": "<p>Why not just make depth strider work in lava?</p>",
+        "author_id": 423562415371,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7646173190413-enchant-for-boots-to-make-the-player-travel-faster-in-lava/comments/7649563681293",
+        "created_at": "2022-07-13T14:43:58Z",
+        "updated_at": "2022-07-15T14:34:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7646173190413/comments/7649563681293.json",
+        "post_id": 7646173190413,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7651083302541,
+        "body": "<p>or just make the striders into submarines</p>",
+        "author_id": 417700465032,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7646173190413-enchant-for-boots-to-make-the-player-travel-faster-in-lava/comments/7651083302541",
+        "created_at": "2022-07-13T15:27:27Z",
+        "updated_at": "2022-07-15T00:42:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7646173190413/comments/7651083302541.json",
+        "post_id": 7646173190413,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7381634609293,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7438865204493,
+        "body": "<p>That was a one-time April Fools prank, cancer awareness can be made known in better ways (like as a splash text), and not everyone would want their skin forcefully altered every year (leave player skins to the users only). Plus, if a player wants to use the skin, they can very easily do that themselves at any time.</p>",
+        "author_id": 419344921172,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7381634609293-Cancer-Tribute/comments/7438865204493",
+        "created_at": "2022-07-05T21:36:07Z",
+        "updated_at": "2022-07-15T21:34:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7381634609293/comments/7438865204493.json",
+        "post_id": 7381634609293,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 7056165164045,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7218095499277,
+        "body": "<p>mmm that is a great idea keep on going</p>\n<p>&nbsp;</p>",
+        "author_id": 7216913338765,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/7056165164045-Combat-Update/comments/7218095499277",
+        "created_at": "2022-06-26T23:03:56Z",
+        "updated_at": "2022-06-26T23:03:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/7056165164045/comments/7218095499277.json",
+        "post_id": 7056165164045,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 6971233051917,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 7179328293773,
+        "body": "<p>Is that a reference to how notch would drop an apple when killed?</p>",
+        "author_id": 7008044157197,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6971233051917--A-Notched-Pickaxe-advancement/comments/7179328293773",
+        "created_at": "2022-06-24T16:56:42Z",
+        "updated_at": "2022-06-26T14:44:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6971233051917/comments/7179328293773.json",
+        "post_id": 6971233051917,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 6407043293069,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 6467612011149,
+        "body": "<p>How dare you say the The Forbidden word</p>",
+        "author_id": 6467537183629,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6407043293069--Round-world-setting/comments/6467612011149",
+        "created_at": "2022-05-25T14:56:06Z",
+        "updated_at": "2022-05-25T15:43:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6407043293069/comments/6467612011149.json",
+        "post_id": 6407043293069,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 26614874280077,
+        "body": "<p>i think mojang should add it because it doesn't add anything that actually changes the game, you can set this setting to off, then you wont have it!, so mojang, please add it</p>",
+        "author_id": 19285551401357,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6407043293069--Round-world-setting/comments/26614874280077",
+        "created_at": "2024-05-10T08:42:19Z",
+        "updated_at": "2024-05-10T17:09:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6407043293069/comments/26614874280077.json",
+        "post_id": 6407043293069,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 27901060787597,
+        "body": "<p>Personally, I don't think the presets are necessary, but having that type or world generation as an option would add so much to the game, especially for Realms and Java servers where multiple people are trying to share the world. I also think that world size customization could be more accessible. I really miss the old tiny worlds on Bedrock and would love to have the chance to play on a world like that in Java!</p>",
+        "author_id": 19027661805197,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6407043293069--Round-world-setting/comments/27901060787597",
+        "created_at": "2024-06-26T03:42:51Z",
+        "updated_at": "2024-06-26T13:48:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6407043293069/comments/27901060787597.json",
+        "post_id": 6407043293069,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37952823966861,
+        "body": "<p>very good idea</p>\n<p>&nbsp;</p>",
+        "author_id": 26812731872141,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6407043293069--Round-world-setting/comments/37952823966861",
+        "created_at": "2025-07-10T04:10:15Z",
+        "updated_at": "2025-07-10T04:10:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6407043293069/comments/37952823966861.json",
+        "post_id": 6407043293069,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 6304881486605,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 6347169950861,
+        "body": "<p>They should do 1.5 hearts</p>",
+        "author_id": 5209025310477,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6304881486605-Increase-fist-damage-for-bedrock-and-Java-edition/comments/6347169950861",
+        "created_at": "2022-05-19T17:36:38Z",
+        "updated_at": "2022-05-19T17:36:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6304881486605/comments/6347169950861.json",
+        "post_id": 6304881486605,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 6353948137869,
+        "body": "<p>Yea, no way a skeleton should be able to take 24 hits to kill while it only needs to shoot you twice</p>",
+        "author_id": 5826192734989,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6304881486605-Increase-fist-damage-for-bedrock-and-Java-edition/comments/6353948137869",
+        "created_at": "2022-05-19T22:09:39Z",
+        "updated_at": "2022-05-20T01:19:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6304881486605/comments/6353948137869.json",
+        "post_id": 6304881486605,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 6357395319821,
+        "body": "<p>I thought it would be cool that fists automatically dual wild to semi-spam hit. Or have one act as a shield that reduced damage by 10%/</p>",
+        "author_id": 405306164292,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6304881486605-Increase-fist-damage-for-bedrock-and-Java-edition/comments/6357395319821",
+        "created_at": "2022-05-20T01:19:29Z",
+        "updated_at": "2022-05-20T06:54:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6304881486605/comments/6357395319821.json",
+        "post_id": 6304881486605,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 6080317606157,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 6171240316813,
+        "body": "<p>Yes, this could definitely be a good feature. It's always annoying when you're spectating and you can't see what loot could have generated in structures. Maybe not inventories though, as this would be rather OP in PVP and in my opinion is not really necessary. Definitely chests though!</p>",
+        "author_id": 6146323218957,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6080317606157-Spectators-Looking-In-Chests/comments/6171240316813",
+        "created_at": "2022-05-12T00:37:30Z",
+        "updated_at": "2022-05-12T17:58:49Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6080317606157/comments/6171240316813.json",
+        "post_id": 6080317606157,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 6000877861645,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 6000961088013,
+        "body": "<p>Thank you Mojang for listening to your community.</p>\n<p>Keep it up!</p>",
+        "author_id": 410561011691,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/6000877861645-No-lava-in-ore-veins/comments/6000961088013",
+        "created_at": "2022-05-04T18:03:09Z",
+        "updated_at": "2022-05-04T18:19:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/6000877861645/comments/6000961088013.json",
+        "post_id": 6000877861645,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5951325293325,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5955807937549,
+        "body": "<p>I say four sand should yield three sandstone, even. You need four sand to make 1 tnt, and tnt is way more useful than sandstone is, so I never even craft sandstone.</p>",
+        "author_id": 380789592712,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5951325293325-increase-sandstone-crafting-yield/comments/5955807937549",
+        "created_at": "2022-05-02T23:16:21Z",
+        "updated_at": "2022-05-02T23:16:22Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5951325293325/comments/5955807937549.json",
+        "post_id": 5951325293325,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5875815956109,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 10123509900045,
+        "body": "<p>This definitely should be added in. It's not really that major but is still kind of inconvenient.</p>",
+        "author_id": 10123400807053,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5875815956109-Chest-Boat-and-Minecart-Animations/comments/10123509900045",
+        "created_at": "2022-10-25T01:31:05Z",
+        "updated_at": "2022-10-30T19:13:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5875815956109/comments/10123509900045.json",
+        "post_id": 5875815956109,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5590693485581,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5633077241741,
+        "body": "<p>this is a cool idea, but it doesn't sound like minecraft at all XD<br>and i don't think you understand how HARD that would be to code, i don't even know of any game that does this, so yeah.....</p>",
+        "author_id": 5632343713805,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5590693485581-Momentum-Mechanic/comments/5633077241741",
+        "created_at": "2022-04-19T12:11:50Z",
+        "updated_at": "2022-04-20T23:33:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5590693485581/comments/5633077241741.json",
+        "post_id": 5590693485581,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5534555565837,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5538144288653,
+        "body": "<p>maybe called soundproof</p>",
+        "author_id": 1900791635447,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5534555565837-New-Enchantment-for-Shield-Dampen-Echo/comments/5538144288653",
+        "created_at": "2022-04-14T13:54:07Z",
+        "updated_at": "2022-04-14T13:54:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5534555565837/comments/5538144288653.json",
+        "post_id": 5534555565837,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5534306260621,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5538190339341,
+        "body": "<p>covered in sculk, a squishy sound, but feels light.</p>",
+        "author_id": 1900791635447,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5534306260621-new-music-disc-in-deep-dark/comments/5538190339341",
+        "created_at": "2022-04-14T13:56:40Z",
+        "updated_at": "2022-04-14T13:56:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5534306260621/comments/5538190339341.json",
+        "post_id": 5534306260621,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 5674140795277,
+        "body": "<p>Your wish has been granted.</p>",
+        "author_id": 373744597071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5534306260621-new-music-disc-in-deep-dark/comments/5674140795277",
+        "created_at": "2022-04-20T23:39:04Z",
+        "updated_at": "2022-04-20T23:39:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5534306260621/comments/5674140795277.json",
+        "post_id": 5534306260621,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5461641884685,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5461629470477,
+        "body": "<p>Just some thoughts :)</p>",
+        "author_id": 5461347061005,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5461641884685-Minecraft-hardcore-Bedrock-My-debate-to-add-it/comments/5461629470477",
+        "created_at": "2022-04-11T16:13:15Z",
+        "updated_at": "2022-04-11T16:13:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5461641884685/comments/5461629470477.json",
+        "post_id": 5461641884685,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 8412359365517,
+        "body": "<p>Add it so if you're in hardcore in Minecraft bedrock and if you die you can't respond</p>",
+        "author_id": 8270452642829,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5461641884685-Minecraft-hardcore-Bedrock-My-debate-to-add-it/comments/8412359365517",
+        "created_at": "2022-08-14T17:25:55Z",
+        "updated_at": "2022-08-14T17:25:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5461641884685/comments/8412359365517.json",
+        "post_id": 5461641884685,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 27782332780685,
+        "body": "<blockquote>\n<p>\"I'm on a school Chromebook\"</p>\n</blockquote>\n<p>Wait, what??</p>",
+        "author_id": 25284940540557,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5461641884685-Minecraft-hardcore-Bedrock-My-debate-to-add-it/comments/27782332780685",
+        "created_at": "2024-06-21T21:56:51Z",
+        "updated_at": "2024-06-21T21:57:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5461641884685/comments/27782332780685.json",
+        "post_id": 5461641884685,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5441029124365,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 39106244508685,
+        "body": "<p>I wan't a clover update </p>",
+        "author_id": 22974804031245,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5441029124365-Idea-For-An-April-Fools-Update/comments/39106244508685",
+        "created_at": "2025-08-26T17:31:38Z",
+        "updated_at": "2025-08-26T18:56:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5441029124365/comments/39106244508685.json",
+        "post_id": 5441029124365,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5429338545805,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 25765322854925,
+        "body": "<p>The advancement name would be called Master Crafter.</p>",
+        "author_id": 21545826601869,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5429338545805-New-advancement/comments/25765322854925",
+        "created_at": "2024-04-09T22:28:33Z",
+        "updated_at": "2024-04-09T22:31:02Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5429338545805/comments/25765322854925.json",
+        "post_id": 5429338545805,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5291809898125,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5308732849549,
+        "body": "<p>Yes, to display the relief and height, it's just worth making the map monochrome with darkening / lightening as the depth / height increases.</p>",
+        "author_id": 416461943171,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5291809898125-Maps-based-on-different-elevations/comments/5308732849549",
+        "created_at": "2022-04-05T08:46:09Z",
+        "updated_at": "2022-04-05T18:35:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5291809898125/comments/5308732849549.json",
+        "post_id": 5291809898125,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 5326202635021,
+        "body": "<p>The maps could be like the Dwarf Fortress that's coming to steam. Treasure maps could be on sea level.</p>\n<p>Cave maps could be a possibility.&nbsp;</p>",
+        "author_id": 396697116472,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5291809898125-Maps-based-on-different-elevations/comments/5326202635021",
+        "created_at": "2022-04-05T20:55:32Z",
+        "updated_at": "2022-04-05T22:44:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5291809898125/comments/5326202635021.json",
+        "post_id": 5291809898125,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 5380438974861,
+        "body": "<p>Better link:<a href=\"https://feedback.minecraft.net/hc/en-us/community/posts/360019520312-Cave-Maps\" rel=\"nofollow noreferrer\">https://feedback.minecraft.net/hc/en-us/community/posts/360019520312-Cave-Maps</a>.</p>\n<p>&nbsp;</p>",
+        "author_id": 416461943171,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5291809898125-Maps-based-on-different-elevations/comments/5380438974861",
+        "created_at": "2022-04-07T18:11:54Z",
+        "updated_at": "2022-04-07T18:29:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5291809898125/comments/5380438974861.json",
+        "post_id": 5291809898125,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

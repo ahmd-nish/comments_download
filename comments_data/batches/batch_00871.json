@@ -1,0 +1,877 @@
+[
+  {
+    "post_id": 360048211851,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006937752,
+        "body": "<p>Yes! this would be so useful for creative but should be at a high permission level, (3?) to avoid the ease of cheating in survival.</p>",
+        "author_id": 385693021431,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048211851--show-block/comments/360006937752",
+        "created_at": "2019-08-08T16:52:11Z",
+        "updated_at": "2019-08-08T16:52:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048211851/comments/360006937752.json",
+        "post_id": 360048211851,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008747711,
+        "body": "<p>Like X-ray and the graphics on Baritone?</p>\n<p>&nbsp;</p>",
+        "author_id": 384694119751,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048211851--show-block/comments/360008747711",
+        "created_at": "2019-12-19T11:36:15Z",
+        "updated_at": "2019-12-19T11:36:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048211851/comments/360008747711.json",
+        "post_id": 360048211851,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048395192,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006947872,
+        "body": "<p>But I mean, that is cheating. I kinda like the idea of tagging certain spots, but it’s definitely cheating to teleport. It takes all the risk out of going out to do stuff because if you die, you can just get your stuff back with a few buttons</p>",
+        "author_id": 385014929111,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048395192-Teleport-to-A-certain-location/comments/360006947872",
+        "created_at": "2019-08-09T05:55:19Z",
+        "updated_at": "2019-08-09T05:55:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048395192/comments/360006947872.json",
+        "post_id": 360048395192,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360008480171,
+        "body": "<p>Maybe not a teleport, but a message in chat with your coords, so you can walk back</p>",
+        "author_id": 390068311812,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048395192-Teleport-to-A-certain-location/comments/360008480171",
+        "created_at": "2019-11-21T15:37:15Z",
+        "updated_at": "2019-11-21T15:37:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048395192/comments/360008480171.json",
+        "post_id": 360048395192,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009054811,
+        "body": "<p>Yes of course it is cheating!\n<br />Its a command!</p>",
+        "author_id": 387762685231,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048395192-Teleport-to-A-certain-location/comments/360009054811",
+        "created_at": "2020-01-23T03:06:33Z",
+        "updated_at": "2020-01-23T03:06:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048395192/comments/360009054811.json",
+        "post_id": 360048395192,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010039352,
+        "body": "<p>I'd like to teleport, not to where you die though. I'm thinking of you find a place days away and can build something to teleport back instead of a 20 minute minecart ride.&nbsp;</p>\n<p>&nbsp;</p>",
+        "author_id": 396473013311,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048395192-Teleport-to-A-certain-location/comments/360010039352",
+        "created_at": "2020-04-09T11:45:51Z",
+        "updated_at": "2020-04-09T18:21:40Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048395192/comments/360010039352.json",
+        "post_id": 360048395192,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360047878071,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006468011,
+        "body": "<p>/gamerule enableRedstone</p>\n<p>or</p>\n<p>/gamerule doRedstoneTick</p>\n<p>would be better - but nice idea</p>",
+        "author_id": 384662879671,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047878071-Deactivate-redstone-command/comments/360006468011",
+        "created_at": "2019-07-13T15:02:41Z",
+        "updated_at": "2019-07-13T15:02:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047878071/comments/360006468011.json",
+        "post_id": 360047878071,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360047837692,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006250831,
+        "body": "<p>Personally, I would prefer it more as <strong>/event &lt;event type&gt; add &lt;command&gt;&nbsp;</strong>as you can have the command be run by the entity experiencing the event, and at the position of the block.</p>\n<p>So for your saying oof, it would be&nbsp;<strong>/event death.fall_damage add execute if entity @s[type=player] say Oof</strong></p>\n<p>Then, you could have <strong>/event &lt;event type&gt; add &lt;command&gt;</strong>,<strong> /event &lt;event type&gt; list</strong>,<strong> /event &lt;event type&gt; query &lt;command&gt;</strong>, and<strong> /event &lt;event type&gt; remove</strong> <strong>&lt;command&gt;</strong>.</p>\n<p>So the add will add the command to the event, list lists all commands, query returns true / false for a given command, and remove removes the given command.</p>\n<p>Perhaps instead of command, you supply a \"key\", and then remove the key.</p>",
+        "author_id": 378119577011,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047837692--OnEvent-EG-OnEvent-entity-death-a-fall-damage-run-say-Oof/comments/360006250831",
+        "created_at": "2019-06-28T12:30:45Z",
+        "updated_at": "2019-06-28T12:30:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047837692/comments/360006250831.json",
+        "post_id": 360047837692,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360009640771,
+        "body": "<p>*oof*</p>",
+        "author_id": 395050436072,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047837692--OnEvent-EG-OnEvent-entity-death-a-fall-damage-run-say-Oof/comments/360009640771",
+        "created_at": "2020-03-11T10:29:21Z",
+        "updated_at": "2020-03-11T10:29:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047837692/comments/360009640771.json",
+        "post_id": 360047837692,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 7612399491725,
+        "body": "<p>Maybe it could be more like this:</p>\n<p>/onevent &lt;block or entity&gt; &lt;specified block or entity&gt; &lt;something happens to block or entity&gt; &lt;what happens after that&gt;</p>",
+        "author_id": 7137931954445,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047837692--OnEvent-EG-OnEvent-entity-death-a-fall-damage-run-say-Oof/comments/7612399491725",
+        "created_at": "2022-07-12T06:54:52Z",
+        "updated_at": "2022-07-12T06:54:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047837692/comments/7612399491725.json",
+        "post_id": 360047837692,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 14125733634317,
+        "body": "<p>Minecraft Java Edition should have a few JavaScript-like commands:</p>\n<p>onEvent</p>\n<p>setProperty</p>",
+        "author_id": 7137931954445,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360047837692--OnEvent-EG-OnEvent-entity-death-a-fall-damage-run-say-Oof/comments/14125733634317",
+        "created_at": "2023-03-19T09:56:46Z",
+        "updated_at": "2023-05-11T19:14:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360047837692/comments/14125733634317.json",
+        "post_id": 360047837692,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360046946471,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006000572,
+        "body": "<p>What about make it an option of tp command\n<br />Examble: /tp @p x y z normal/smooth\n<br />Rather than being a new command</p>",
+        "author_id": 381960149672,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360046946471-make-a-smooth-teleport-command/comments/360006000572",
+        "created_at": "2019-06-10T06:59:48Z",
+        "updated_at": "2019-06-11T02:42:51Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360046946471/comments/360006000572.json",
+        "post_id": 360046946471,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360046186031,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360008264011,
+        "body": "<p>I hope they do this soon</p>",
+        "author_id": 389374607671,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360046186031-Locate-spawners-and-specific-spawner-type/comments/360008264011",
+        "created_at": "2019-11-02T00:25:05Z",
+        "updated_at": "2019-11-02T00:25:05Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360046186031/comments/360008264011.json",
+        "post_id": 360046186031,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360045803612,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005972592,
+        "body": "<p>I really like that idea!</p>",
+        "author_id": 382819784712,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360045803612-maxReach-gamerule-by-gamemode-for-mapmakers/comments/360005972592",
+        "created_at": "2019-06-07T00:13:08Z",
+        "updated_at": "2019-06-07T00:13:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360045803612/comments/360005972592.json",
+        "post_id": 360045803612,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043636392,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009325451,
+        "body": "<p>It would be very useful if we could make it so that these blocks can't be used as POIs (no cheating required) by adding a button, similar to the crafting book that we can toggle. Could be limited to the player who placed it, when it comes to multiplayer if that is a foreseen issue.</p>",
+        "author_id": 393661575911,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043636392-NBT-tag-for-POI-to-remove-from-the-POI-detection-for-villagers/comments/360009325451",
+        "created_at": "2020-02-15T04:21:30Z",
+        "updated_at": "2022-03-28T20:39:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043636392/comments/360009325451.json",
+        "post_id": 360043636392,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 5132894524045,
+        "body": "<p>YES. This is badly needed for those of us that want to create decorative pieces yet still have working villagers. It should be set by default and turned off to allow POI detection when you want it to. By default you should assume any workstation block or bed set in the game is for decorative or personal use only and not for villagers. The only ones that should be set for villager use automatically are the villages that are spawned with the seed. When you rebuild or build a village of your own and deck it out to look amazing, it sucks that you have 30 fisherman because you used barrels as decorative pieces instead of intending them for POIs.&nbsp;</p>",
+        "author_id": 423238289192,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043636392-NBT-tag-for-POI-to-remove-from-the-POI-detection-for-villagers/comments/5132894524045",
+        "created_at": "2022-03-28T20:39:18Z",
+        "updated_at": "2022-03-28T21:27:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043636392/comments/5132894524045.json",
+        "post_id": 360043636392,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043530212,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005448271,
+        "body": "<p>Request asks for a command as result.</p>\n<p>Moved to proper category.</p>\n<p>Clarified subject to help search results.</p>\n<p>Thanks for your contribution.</p>",
+        "author_id": 364023375071,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": true,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043530212-Building-code-converter/comments/360005448271",
+        "created_at": "2019-04-30T01:43:16Z",
+        "updated_at": "2019-04-30T01:43:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043530212/comments/360005448271.json",
+        "post_id": 360043530212,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360005658192,
+        "body": "<p>isnt this what structure blocks do? If u mean something else please clarify</p>",
+        "author_id": 378473978792,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043530212-Building-code-converter/comments/360005658192",
+        "created_at": "2019-05-16T02:02:33Z",
+        "updated_at": "2019-05-16T02:03:00Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043530212/comments/360005658192.json",
+        "post_id": 360043530212,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010219951,
+        "body": "<p>I think he want a tool to export what he build from a previous world to a new one.</p>\n<p>&nbsp;</p>\n<p>I d'like it too 'cause my world got corrupted from too much maps in my world. I d'like to save our commun builds (with friends that we've done) to go on our great city in a world which is not bugged/corrupted.</p>",
+        "author_id": 396835707291,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043530212-Building-code-converter/comments/360010219951",
+        "created_at": "2020-04-21T11:53:02Z",
+        "updated_at": "2020-04-21T14:24:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043530212/comments/360010219951.json",
+        "post_id": 360043530212,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043198632,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012791812,
+        "body": "<p>k</p>",
+        "author_id": 403128439332,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043198632-Make-all-commands-none-case-sentive-Bedrock-Edition/comments/360012791812",
+        "created_at": "2020-09-08T02:23:56Z",
+        "updated_at": "2020-09-08T02:23:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043198632/comments/360012791812.json",
+        "post_id": 360043198632,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042968871,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006267551,
+        "body": "<p>Yes. Yes. Yes. Adding this feature would help out SO much for classes, and if it saved custom names and enchants it would make that stuff possible for Bedrock players to use in custom classes (well at least without needing to use /clone and copy a chest somehwere) Awesome idea.</p>",
+        "author_id": 378675044132,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042968871-Save-and-equip-preset-inventories-in-one-command-for-map-makers/comments/360006267551",
+        "created_at": "2019-06-30T06:16:38Z",
+        "updated_at": "2019-07-01T19:14:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042968871/comments/360006267551.json",
+        "post_id": 360042968871,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360043078632,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004980512,
+        "body": "<p>How will we be able to dye weapons</p>\n<p>&nbsp;</p>\n<p>o dye weapons</p>",
+        "author_id": 378928542012,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360043078632-We-this-command-that-will-let-you-dye-weapons-here-is-the-command-allow-dye-weapons/comments/360004980512",
+        "created_at": "2019-03-25T18:29:53Z",
+        "updated_at": "2019-03-25T18:29:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360043078632/comments/360004980512.json",
+        "post_id": 360043078632,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042794731,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005166871,
+        "body": "<p>No.&nbsp; That would make axes and tridents overpowered and shields underpowered.&nbsp; It would also make Mojang take twice as long to add new weapons.</p>",
+        "author_id": 370958599952,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042794731--weaponcooldown-true-false/comments/360005166871",
+        "created_at": "2019-04-08T00:25:11Z",
+        "updated_at": "2019-04-08T20:22:19Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042794731/comments/360005166871.json",
+        "post_id": 360042794731,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012248992,
+        "body": "<p>I don't understand very well why I'm Mexican xd</p>",
+        "author_id": 401060301932,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042794731--weaponcooldown-true-false/comments/360012248992",
+        "created_at": "2020-07-25T20:43:59Z",
+        "updated_at": "2020-07-25T20:43:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042794731/comments/360012248992.json",
+        "post_id": 360042794731,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360042554671,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004755511,
+        "body": "<p>It stores the distance. It's fairly trivial to triangulate from there.</p>",
+        "author_id": 364935466911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042554671-Locate-coordinate-to-scoreboard/comments/360004755511",
+        "created_at": "2019-03-07T04:47:34Z",
+        "updated_at": "2019-03-07T04:47:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042554671/comments/360004755511.json",
+        "post_id": 360042554671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360004751732,
+        "body": "<p>@tryashtar Thank you for this information. I did not realize about the distance.</p>\n<p>&nbsp;</p>\n<p>Still, it look like unnecessary calculation to me:</p>\n<p>- Trigonometric function can be costly;</p>\n<p>- you need more than one entry point which mean you can not get the information instantly, the player have to move.</p>\n<p>- Minecraft already know this information.</p>\n<p>&nbsp;</p>",
+        "author_id": 377847226292,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042554671-Locate-coordinate-to-scoreboard/comments/360004751732",
+        "created_at": "2019-03-07T08:57:26Z",
+        "updated_at": "2019-03-07T16:21:45Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042554671/comments/360004751732.json",
+        "post_id": 360042554671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360004765111,
+        "body": "<p>You're right, this would be better than what we have now, just mentioning the option</p>",
+        "author_id": 364935466911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042554671-Locate-coordinate-to-scoreboard/comments/360004765111",
+        "created_at": "2019-03-07T21:01:55Z",
+        "updated_at": "2019-03-07T21:01:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042554671/comments/360004765111.json",
+        "post_id": 360042554671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360010266971,
+        "body": "<p>One workaround for this is that you can use 1.13's exploration_map function in loot tables to get the coordinates of a structure. If you were to make a new loot table in a datapack with something like this:</p>\n<pre>{<br>    \"type\": \"item\",<br>    \"name\": \"minecraft:map\",<br>    \"functions\": [<br>        {<br>            \"function\": \"minecraft:exploration_map\",<br>            \"destination\": \"igloo\",<br>            \"decoration\": \"target_x\",<br>            \"zoom\": 1,<br>            \"skip_existing_chunks\": false<br>        }<br>    ]<br>}</pre>\n<p>You can get the NBT from the resulting cartography map to locate the structure:</p>\n<pre>loot spawn 0 -2 0 loot whatever:cartography<br>execute positioned 0 -2 0 run tag @e[type=item,nbt={Item:{id:\"minecraft:filled_map\"}},distance=..1] add ourMap<br>execute as @e[type=item,tag=ourMap] store result score X results run data get entity @s Item.tag.Decorations[0].x<br>execute as @e[type=item,tag=ourMap] store result score Z results run data get entity @s Item.tag.Decorations[0].z<br>kill @e[type=item,tag=ourMap]</pre>\n<p>This doesn't always produce the closest structure, but it could be a viable alternative to trilatering from multiple reference points depending on your use case. It would certainly be nice if we could get the coordinates directly from the command instead.</p>",
+        "author_id": 397012611432,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360042554671-Locate-coordinate-to-scoreboard/comments/360010266971",
+        "created_at": "2020-04-24T01:54:45Z",
+        "updated_at": "2024-02-27T02:06:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360042554671/comments/360010266971.json",
+        "post_id": 360042554671,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360041556711,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360005349471,
+        "body": "<p>Just add a button in helmet slot of all zombies and skeletons. That will do the trick.</p>",
+        "author_id": 380447682052,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041556711-UndeadBurns-Gamerule/comments/360005349471",
+        "created_at": "2019-04-23T06:18:05Z",
+        "updated_at": "2019-12-08T12:39:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041556711/comments/360005349471.json",
+        "post_id": 360041556711,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360041513311,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004738592,
+        "body": "<p>/schedule already exist in 1.14 as you may know it.</p>\n<p>You should highlight what you want to add to it.</p>\n<p>The current schedule does not allow to name a schedule, so it can not be remove AFAIK.</p>\n<p>&nbsp;</p>\n<p>I approve this proposal</p>",
+        "author_id": 377847226292,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041513311--schedule-add-get-set-putoff-remove-schedulename-time-command/comments/360004738592",
+        "created_at": "2019-03-06T09:27:14Z",
+        "updated_at": "2019-03-06T09:27:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041513311/comments/360004738592.json",
+        "post_id": 360041513311,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360041491171,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 15131961830797,
+        "body": "<p>ydutdugdugdtuduynreykwyrwywkywylsutdgueguukeugdutdulutuñeuteutetueuteuteuyeuyeutetueuteuteuteuteutetuejgdgjdjgddgjduleyudyugjdgjdutdudyjdhjdyjduydhjdhjdyidhkdyidyieutdlydutdudutduldrysytsyg</p>",
+        "author_id": 15131890792205,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041491171--openLuckyBlock-PE-kreativ-Modus/comments/15131961830797",
+        "created_at": "2023-04-22T23:12:07Z",
+        "updated_at": "2023-04-22T23:12:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041491171/comments/15131961830797.json",
+        "post_id": 360041491171,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 15131899591437,
+        "body": "<p>po</p>",
+        "author_id": 15131890792205,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360041491171--openLuckyBlock-PE-kreativ-Modus/comments/15131899591437",
+        "created_at": "2023-04-22T23:12:16Z",
+        "updated_at": "2023-04-22T23:12:16Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360041491171/comments/15131899591437.json",
+        "post_id": 360041491171,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360040071331,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360004209871,
+        "body": "<p>Haha, great idea, especially for admins who want to drop in on cheaters.</p>\n<p>One suggestion- maybe add an option for what you can see - model, item, particles, name tag, etc.</p>",
+        "author_id": 376238714072,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040071331--sv/comments/360004209871",
+        "created_at": "2019-01-29T23:33:15Z",
+        "updated_at": "2019-01-30T18:29:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040071331/comments/360004209871.json",
+        "post_id": 360040071331,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360004338751,
+        "body": "<p>Mojang read this and add it pls</p>\n<p>&nbsp;</p>",
+        "author_id": 376657084391,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360040071331--sv/comments/360004338751",
+        "created_at": "2019-02-06T09:12:10Z",
+        "updated_at": "2019-02-06T09:12:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360040071331/comments/360004338751.json",
+        "post_id": 360040071331,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360032341172,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360003177432,
+        "body": "<p>try pressing f3+b</p>",
+        "author_id": 373310461771,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360032341172-Invisible-armor-stands-visible-in-spectator-or-some-other-method/comments/360003177432",
+        "created_at": "2018-11-28T23:37:29Z",
+        "updated_at": "2018-11-28T23:37:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360032341172/comments/360003177432.json",
+        "post_id": 360032341172,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360003187411,
+        "body": "<p>You can still see invisible armor stands in spectator mode. What do you mean \"back in 1.13\"?</p>",
+        "author_id": 364935466911,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360032341172-Invisible-armor-stands-visible-in-spectator-or-some-other-method/comments/360003187411",
+        "created_at": "2018-11-29T04:44:48Z",
+        "updated_at": "2018-11-29T16:49:46Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360032341172/comments/360003187411.json",
+        "post_id": 360032341172,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360030039231,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360002941772,
+        "body": "<p>The problem with this is air in Minecraft&nbsp;is a block or more an absence&nbsp;of a block and is not an entity that could be summoned.</p>",
+        "author_id": 372335300292,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360030039231--summon-air-pocket/comments/360002941772",
+        "created_at": "2018-11-07T22:15:57Z",
+        "updated_at": "2021-05-17T12:00:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360030039231/comments/360002941772.json",
+        "post_id": 360030039231,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360029874911,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360012138451,
+        "body": "<p>Well, now we have predicates for that.</p>",
+        "author_id": 401018528411,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360029874911-Biome-Specific-Custom-Structures-Command/comments/360012138451",
+        "created_at": "2020-07-23T17:21:27Z",
+        "updated_at": "2020-07-23T17:21:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360029874911/comments/360012138451.json",
+        "post_id": 360029874911,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360029377792,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360006064551,
+        "body": "<p>Agree with you. I always long for something to control more than one selector.</p>",
+        "author_id": 383254372211,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360029377792-Suggestions-About-execute-command-From-a-Chinese-player/comments/360006064551",
+        "created_at": "2019-06-14T05:18:06Z",
+        "updated_at": "2019-06-14T05:18:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360029377792/comments/360006064551.json",
+        "post_id": 360029377792,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360019750111,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360002043251,
+        "body": "<p>That&nbsp;would be more of a video setting than a gamerule</p>",
+        "author_id": 364968290512,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360019750111--gamerule-showentityshadows/comments/360002043251",
+        "created_at": "2018-08-19T00:53:06Z",
+        "updated_at": "2019-12-08T12:40:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360019750111/comments/360002043251.json",
+        "post_id": 360019750111,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 41173760722061,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 41175597587725,
+        "body": "<p>What would it do?</p>",
+        "author_id": 16990546331661,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41173760722061-New-command-idea/comments/41175597587725",
+        "created_at": "2025-11-16T03:28:44Z",
+        "updated_at": "2025-11-17T03:59:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41173760722061/comments/41175597587725.json",
+        "post_id": 41173760722061,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 41887429785357,
+        "body": "<p>maybe it would work like time freeze mods?</p>",
+        "author_id": 41886929666829,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/41173760722061-New-command-idea/comments/41887429785357",
+        "created_at": "2025-12-12T17:52:05Z",
+        "updated_at": "2025-12-12T17:52:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/41173760722061/comments/41887429785357.json",
+        "post_id": 41173760722061,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 40734597217805,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 40771184883085,
+        "body": "<p>Yea then really cool commands that only worked 1.20.1 Will also work now !</p>",
+        "author_id": 40771043597837,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40734597217805-Make-a-way-to-add-a-tag-to-an-item/comments/40771184883085",
+        "created_at": "2025-10-31T14:18:20Z",
+        "updated_at": "2025-10-31T14:18:21Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40734597217805/comments/40771184883085.json",
+        "post_id": 40734597217805,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40802709205133,
+        "body": "<p>already exists i think, custom enchants work with datapacks, and we can use custom_data compenent for tags</p>",
+        "author_id": 27870728441485,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40734597217805-Make-a-way-to-add-a-tag-to-an-item/comments/40802709205133",
+        "created_at": "2025-11-02T02:22:17Z",
+        "updated_at": "2025-11-02T02:22:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40734597217805/comments/40802709205133.json",
+        "post_id": 40734597217805,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 40805713255693,
+        "body": "<p>It isn't a thing, /tag is a thing for ENTITIES and I don't like using datapacks cus they melt my brain</p>",
+        "author_id": 26646459304845,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/40734597217805-Make-a-way-to-add-a-tag-to-an-item/comments/40805713255693",
+        "created_at": "2025-11-02T07:56:35Z",
+        "updated_at": "2025-11-02T07:56:35Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/40734597217805/comments/40805713255693.json",
+        "post_id": 40734597217805,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]

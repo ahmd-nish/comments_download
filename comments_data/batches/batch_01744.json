@@ -1,0 +1,907 @@
+[
+  {
+    "post_id": 26078614372237,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 27859045067789,
+        "body": "<p>I agree with all of this except I think the best and most vanilla way to change rail speed would be to give it a different redstone level input.</p>\n<p>So an input of 1 would be a very slow speed while an input of 15 would be a high speed.</p>",
+        "author_id": 6090415670541,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26078614372237-Minecart-rails-update/comments/27859045067789",
+        "created_at": "2024-06-24T21:51:21Z",
+        "updated_at": "2024-06-24T22:08:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26078614372237/comments/27859045067789.json",
+        "post_id": 26078614372237,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 26071989144333,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 26078044535949,
+        "body": "<p>Wow its a great idea for when you accidently craft something. But i rather that this be made in as a feature like an 'undo' button rather as a block</p>",
+        "author_id": 26057693879949,
+        "vote_sum": 3,
+        "vote_count": 3,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26071989144333-The-Uncrafter/comments/26078044535949",
+        "created_at": "2024-04-21T12:27:20Z",
+        "updated_at": "2024-04-24T04:21:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26071989144333/comments/26078044535949.json",
+        "post_id": 26071989144333,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 26155932448781,
+        "body": "<p>I agree, “Undo” button</p>",
+        "author_id": 26155778686989,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26071989144333-The-Uncrafter/comments/26155932448781",
+        "created_at": "2024-04-24T04:20:51Z",
+        "updated_at": "2024-04-24T20:05:23Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26071989144333/comments/26155932448781.json",
+        "post_id": 26071989144333,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37035351405709,
+        "body": "<p>Undo button. Do you realize how powerful this would become? Iron and diamonds would become way too easy to get, simply by trading armor from villagers, and the game could be easily beaten without access to the nether, simply by looting villages, and uncrafting brewing stands into blaze rods. Nether wart (via nether wart blocks from crimson forests), gold (via common golden armor/tools from loot), nether quartz (via diorite or andesite, can't remember which), and other items would become easy to obtain.</p>\n<p>An Undo button on the crafting table GUI would be better. Here's a <a href=\"https://feedback.minecraft.net/hc/en-us/community/posts/4406708610317-Undo-redo-button-for-crafting-table?input_string=Undo%20button\" target=\"_blank\" rel=\"nofollow noreferrer\">link</a> to someone else's suggestion</p>",
+        "author_id": 35091728595085,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/26071989144333-The-Uncrafter/comments/37035351405709",
+        "created_at": "2025-05-30T21:00:54Z",
+        "updated_at": "2025-05-30T21:06:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/26071989144333/comments/37035351405709.json",
+        "post_id": 26071989144333,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 24101474160525,
+    "expected_comment_count": 1,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 24156878636685,
+        "body": "<p>This is already in commonly suggested ideas: <a href=\"https://feedback.minecraft.net/hc/en-us/community/posts/360011001211-Placement\" rel=\"nofollow noreferrer\">https://feedback.minecraft.net/hc/en-us/community/posts/360011001211-Placement</a></p>",
+        "author_id": 11088171273485,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24101474160525-Copper-Wires/comments/24156878636685",
+        "created_at": "2024-02-15T20:38:52Z",
+        "updated_at": "2024-02-17T23:26:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24101474160525/comments/24156878636685.json",
+        "post_id": 24101474160525,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 42954601605517,
+        "body": "<p>I like the idea of giving copper a real redstone-adjacent role, especially for compact wiring and vertical builds. That said, a fully separate wire system might add a lot of complexity and further split redstone mechanics between platforms.</p>\n<p>Building on this idea, oxidation could directly affect copper wiring’s signal strength and range. Fresh copper would carry signals farther, while more oxidized stages would gradually reduce the maximum range. Waxing could lock in the desired behavior. <br>Copper wiring could also have a longer maximum range than redstone dust (for example 30–45 blocks), making it useful for long-distance or compact builds without replacing redstone entirely.</p>\n<p>A possible trade-off could be crafting copper wiring using both copper and redstone (for example, 8 copper ingots/block + 1 redstone dust/block). This would keep redstone dust relevant while making copper wiring a more expensive, advanced option for compact or wall/ceiling signal routing. <br>That way it’s an upgrade path rather than a replacement for redstone.</p>",
+        "author_id": 42954440843149,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/24101474160525-Copper-Wires/comments/42954601605517",
+        "created_at": "2026-01-25T13:26:41Z",
+        "updated_at": "2026-01-25T13:29:17Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/24101474160525/comments/42954601605517.json",
+        "post_id": 24101474160525,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 21539229272973,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 24157517099149,
+        "body": "<p>Can't you just put a redstone torch on it or no?</p>",
+        "author_id": 11088171273485,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/21539229272973-My-comments-on-the-copper-bulb-and-the-crafter-changes/comments/24157517099149",
+        "created_at": "2024-02-15T20:59:23Z",
+        "updated_at": "2024-02-15T20:59:24Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/21539229272973/comments/24157517099149.json",
+        "post_id": 21539229272973,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 14118056840845,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 15121507545613,
+        "body": "<p>Because what if you had a machine that involves Redstone lamps but some are connected to a signal strength of 10, some to a strength of 5 etc because of how your wiring works.. it would be a different color, ruining the design. A better idea would be being able to craft 16 colors of lamps using lamps and dye. That way you get 100% control over colors.</p>",
+        "author_id": 15121358593677,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/14118056840845-Colored-redstone-lamps-that-change-color-depending-on-signal-strenght/comments/15121507545613",
+        "created_at": "2023-04-22T15:02:19Z",
+        "updated_at": "2023-05-23T17:58:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/14118056840845/comments/15121507545613.json",
+        "post_id": 14118056840845,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 16913347658893,
+        "body": "<p>i also tought about that</p>",
+        "author_id": 4521009416333,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/14118056840845-Colored-redstone-lamps-that-change-color-depending-on-signal-strenght/comments/16913347658893",
+        "created_at": "2023-06-20T16:53:17Z",
+        "updated_at": "2023-06-20T16:53:18Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/14118056840845/comments/16913347658893.json",
+        "post_id": 14118056840845,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 21048195811853,
+        "body": "<p>I love this idea but there is not any way to make a tileable 2x2 bit display that carries the signal strength from what I found. </p>",
+        "author_id": 19714267196557,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/14118056840845-Colored-redstone-lamps-that-change-color-depending-on-signal-strenght/comments/21048195811853",
+        "created_at": "2023-11-06T00:07:16Z",
+        "updated_at": "2023-11-06T18:51:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/14118056840845/comments/21048195811853.json",
+        "post_id": 14118056840845,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 10037539687565,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 10921329283725,
+        "body": "<p>It would be great if there could be buttons from each type of block.</p>",
+        "author_id": 385364468951,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10037539687565-Quartz-Buttons/comments/10921329283725",
+        "created_at": "2022-11-26T02:36:26Z",
+        "updated_at": "2023-01-07T04:50:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10037539687565/comments/10921329283725.json",
+        "post_id": 10037539687565,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 17361780759053,
+        "body": "<p>I think the Quartz Button should be pressed for exactly 1 redstone tick / 2 game ticks. This will make it functionally unique among the buttons, as well as being a nice looking button.</p>",
+        "author_id": 398762571591,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/10037539687565-Quartz-Buttons/comments/17361780759053",
+        "created_at": "2023-07-06T00:19:55Z",
+        "updated_at": "2023-09-21T19:39:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/10037539687565/comments/17361780759053.json",
+        "post_id": 10037539687565,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 9989269633933,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 15811522020493,
+        "body": "<p>It might be hard to code the recorder following the Note Blocks, and if it hears sounds in a vicinity there can only be problems once Note Block machines get too large. My solution is that a Sculk Sensor picking up a sound next to the Recorder (either direct or from a Block of Amethyst to repeat the sound) records it on. You could even create ambient tracks with this by recording the sounds of mobs or players.</p>",
+        "author_id": 12169486174861,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/9989269633933-Making-your-own-Music-discs-using-a-recorder-block-Java/comments/15811522020493",
+        "created_at": "2023-05-16T01:58:19Z",
+        "updated_at": "2023-05-18T00:15:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/9989269633933/comments/15811522020493.json",
+        "post_id": 9989269633933,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 8270502958221,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 8275039817997,
+        "body": "<p>The only use for copper </p>",
+        "author_id": 7057008163853,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8270502958221-Powered-Rail-Recipe-Change/comments/8275039817997",
+        "created_at": "2022-08-08T22:11:22Z",
+        "updated_at": "2022-08-08T22:11:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8270502958221/comments/8275039817997.json",
+        "post_id": 8270502958221,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 10921448996621,
+        "body": "<p>I would be in favor of having 2 types of drive rails.<br>One made of copper and one made of gold. The one made of copper gives twice as much thrust as the one made of gold.<br>So you could build different minecart systems again.</p>",
+        "author_id": 385364468951,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/8270502958221-Powered-Rail-Recipe-Change/comments/10921448996621",
+        "created_at": "2022-11-26T02:49:57Z",
+        "updated_at": "2023-03-06T09:34:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/8270502958221/comments/10921448996621.json",
+        "post_id": 8270502958221,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 5371257508877,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 5385774911757,
+        "body": "<p>entities and sound and particles</p>",
+        "author_id": 5385244860429,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5371257508877-Echo-Shards-can-make-Echo-Mirror/comments/5385774911757",
+        "created_at": "2022-04-07T21:16:47Z",
+        "updated_at": "2022-04-14T19:29:44Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5371257508877/comments/5385774911757.json",
+        "post_id": 5371257508877,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 5403850354701,
+        "body": "<p>It might be tricky to make Particles involved, but sounds might play again some 20 blocks away if they are played near the mirror.</p>",
+        "author_id": 393945910532,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/5371257508877-Echo-Shards-can-make-Echo-Mirror/comments/5403850354701",
+        "created_at": "2022-04-08T16:32:20Z",
+        "updated_at": "2022-04-24T23:18:13Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/5371257508877/comments/5403850354701.json",
+        "post_id": 5371257508877,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4413149252493,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 12966129720205,
+        "body": "<p>It is a good idea</p>",
+        "author_id": 9915346969229,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4413149252493-Copper-pipes-steam-engines/comments/12966129720205",
+        "created_at": "2023-02-09T03:49:28Z",
+        "updated_at": "2023-02-09T03:49:28Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4413149252493/comments/12966129720205.json",
+        "post_id": 4413149252493,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4409396441101,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4411126871821,
+        "body": "<p>This is nessesary to the survival of Bedrock Redstone </p>",
+        "author_id": 1902383137647,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4409396441101--Parity-Honey-Pistons-That-Potentially-Can-Fix-a-Parity-Issue/comments/4411126871821",
+        "created_at": "2021-10-12T03:23:35Z",
+        "updated_at": "2023-03-28T16:03:37Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4409396441101/comments/4411126871821.json",
+        "post_id": 4409396441101,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 14381831873165,
+        "body": "<p>I agree, I like doing redstone sometimes but I play on bedrock and that makes it hard without the one tick piston pulses but it would also be good for another pistons that does not do it, so I agree</p>",
+        "author_id": 13741489303565,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4409396441101--Parity-Honey-Pistons-That-Potentially-Can-Fix-a-Parity-Issue/comments/14381831873165",
+        "created_at": "2023-03-28T16:03:29Z",
+        "updated_at": "2023-05-18T08:08:39Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4409396441101/comments/14381831873165.json",
+        "post_id": 4409396441101,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 21498342527629,
+        "body": "<p>If they do this I would be able to finally make a cool space door I have made the outside for but couldn't do the middle because of no room for quadruple piston extenders. (I would have to remake it anyway because I lost the world and the backup of my redstone world was from too far before). Either way this would be a great change and addition. It would also make long elevators and seamless-glass piston doors possible.</p>",
+        "author_id": 16655466607757,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4409396441101--Parity-Honey-Pistons-That-Potentially-Can-Fix-a-Parity-Issue/comments/21498342527629",
+        "created_at": "2023-11-20T14:28:59Z",
+        "updated_at": "2023-11-20T22:22:29Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4409396441101/comments/21498342527629.json",
+        "post_id": 4409396441101,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 4406193680397,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4409476978701,
+        "body": "<p>I'd also like to see Hopper Minecarts be able to pull from Barrels or Chest above them, even with a block in between would be useful. It would give another way to make inventory movements that could be aesthetically pleasing, especially if you have made a long rail way to take inventory back to your base from a distal point you wouldn't have to worry about despawning and it would be less expensive than other potential solutions. I would increase the use of the rail system and the hopper Minecart as well.</p>",
+        "author_id": 405125404971,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/4406193680397-Allow-minecart-hoppers-to-feed-into-barrels-Java-and-Bedrock/comments/4409476978701",
+        "created_at": "2021-09-17T15:32:31Z",
+        "updated_at": "2021-09-17T15:32:31Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/4406193680397/comments/4409476978701.json",
+        "post_id": 4406193680397,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077400851,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 18069322230413,
+        "body": "<p>Mojang! Make bedrock edition's redstone like java edition's redstone!!!!</p>",
+        "author_id": 18069221638925,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077400851-Bedrock-Editions-Redstone-System-is-COMPLETE-GARBAGE/comments/18069322230413",
+        "created_at": "2023-07-30T22:14:48Z",
+        "updated_at": "2023-09-24T21:06:57Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077400851/comments/18069322230413.json",
+        "post_id": 360077400851,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077295171,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 10749057274637,
+        "body": "<p>Directionally placeable like chain links, but still forming T joints like redstone dust would be nice. Also consider: insulated redstone cable (sandwich redstone cable between two wool carpets) to make a cable that exclusively passes signal from one end of the cable to the other, but none of the surrounding blocks.</p>",
+        "author_id": 10748975626637,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077295171-Redstone-cable/comments/10749057274637",
+        "created_at": "2022-11-19T04:41:07Z",
+        "updated_at": "2022-12-01T01:36:55Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077295171/comments/10749057274637.json",
+        "post_id": 360077295171,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360077333292,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 4415573049357,
+        "body": "<p>While I'd rather it be removed completely, I find quasi connectivity to be a bug that is literally now called a \"feature\" because the redstone community adapted the bug, and made some cool stuff with it. But for any that doesn't fully 100% understand how the BUG works, it just makes redstone super annoying and non-sensical. I firmly belive quasi connectivity is a massive reason to why the majority of minecraft players see redstone as some mystical omega brain thing, because you must learn every little quirk and kink of this massive bug that dictates what you can and can't do with redstone!</p>",
+        "author_id": 422431153031,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077333292-Toggle-quasi-connectivity-in-gamerule-Java/comments/4415573049357",
+        "created_at": "2021-12-04T14:48:01Z",
+        "updated_at": "2021-12-04T17:21:06Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077333292/comments/4415573049357.json",
+        "post_id": 360077333292,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 30201174287629,
+        "body": "<p>I love quasi-connectivity, so when I saw it was being removed, I got sad, and many other redstoners like me. If you can make a game rule for it instead of removing it, that would be great.</p>",
+        "author_id": 18785188626957,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360077333292-Toggle-quasi-connectivity-in-gamerule-Java/comments/30201174287629",
+        "created_at": "2024-09-12T17:00:01Z",
+        "updated_at": "2024-09-12T17:01:15Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360077333292/comments/30201174287629.json",
+        "post_id": 360077333292,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360076948572,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 42052137806733,
+        "body": "<p>It should be crafted like a repeater, but use gold blocks instead of smooth stone. It should work like a repeater too. You could delay it for 1s, 2s, or 3s.</p>",
+        "author_id": 11165279061645,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360076948572-Timer-Block/comments/42052137806733",
+        "created_at": "2025-12-18T19:15:30Z",
+        "updated_at": "2025-12-18T19:15:30Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360076948572/comments/42052137806733.json",
+        "post_id": 360076948572,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360075129991,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 37220170094221,
+        "body": "<p>Lmao there should be 2 blocks that will send/take redstone signal or items in 128 blocks with same redstone power</p>",
+        "author_id": 37220094258573,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075129991-Wireless-Redstone-Transmitter-and-Receiver/comments/37220170094221",
+        "created_at": "2025-06-08T07:28:46Z",
+        "updated_at": "2025-06-08T07:28:47Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075129991/comments/37220170094221.json",
+        "post_id": 360075129991,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 37220171165837,
+        "body": "<p>We already have redstone tutorial in deep dark, so why not add it to one of chests with chance 20% to it?</p>",
+        "author_id": 37220094258573,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360075129991-Wireless-Redstone-Transmitter-and-Receiver/comments/37220171165837",
+        "created_at": "2025-06-08T07:30:01Z",
+        "updated_at": "2025-06-08T07:30:01Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360075129991/comments/37220171165837.json",
+        "post_id": 360075129991,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074502932,
+    "expected_comment_count": 4,
+    "actual_comment_count": 4,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013425792,
+        "body": "<p>Maybe the crafting recipe should include lapis lazuli to give that another use</p>",
+        "author_id": 406017944751,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074502932-Blue-redstone-dust/comments/360013425792",
+        "created_at": "2020-11-07T01:18:05Z",
+        "updated_at": "2020-11-09T13:27:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074502932/comments/360013425792.json",
+        "post_id": 360074502932,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013370451,
+        "body": "<p>I like that.&nbsp; Maybe like redstone lapis and then redstone in a line. Also this blue redstone wouldn't connect to red redstone so you could have them both side by side and run 2 separate currents.</p>",
+        "author_id": 404674670771,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074502932-Blue-redstone-dust/comments/360013370451",
+        "created_at": "2020-11-09T13:28:39Z",
+        "updated_at": "2020-11-10T13:45:10Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074502932/comments/360013370451.json",
+        "post_id": 360074502932,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013451292,
+        "body": "<p>Yeah. Great idea, dirtworm2!</p>",
+        "author_id": 406150593771,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074502932-Blue-redstone-dust/comments/360013451292",
+        "created_at": "2020-11-10T01:17:59Z",
+        "updated_at": "2020-11-10T13:45:07Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074502932/comments/360013451292.json",
+        "post_id": 360074502932,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013384111,
+        "body": "<p>Thanks!</p>\n<p>&nbsp;</p>",
+        "author_id": 404674670771,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074502932-Blue-redstone-dust/comments/360013384111",
+        "created_at": "2020-11-10T13:45:24Z",
+        "updated_at": "2020-11-14T21:50:09Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074502932/comments/360013384111.json",
+        "post_id": 360074502932,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360074062391,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360013671891,
+        "body": "<p>maybe you could boost the radius with signal booster so that the text could travel farther.</p>",
+        "author_id": 381167018931,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074062391-Announcement-Block/comments/360013671891",
+        "created_at": "2020-12-04T14:28:52Z",
+        "updated_at": "2020-12-04T14:28:52Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074062391/comments/360013671891.json",
+        "post_id": 360074062391,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013742812,
+        "body": "<p>It may allow the server owner the right to individually grant all players the ability to use this command.</p>",
+        "author_id": 398599712371,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074062391-Announcement-Block/comments/360013742812",
+        "created_at": "2020-12-04T15:45:58Z",
+        "updated_at": "2020-12-07T19:50:14Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074062391/comments/360013742812.json",
+        "post_id": 360074062391,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4406800400013,
+        "body": "<p>or instead of a max range, it can give the announcement to specific players (or 'yourself') as long as they are online, for example: when a farm sends a minecart full of items on its way to central storage/when storage fills up at a farm, it can sent a message in chat to the owner. currently I need to jump into creative to add a command block for that.</p>",
+        "author_id": 1900658982947,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360074062391-Announcement-Block/comments/4406800400013",
+        "created_at": "2021-08-10T12:30:51Z",
+        "updated_at": "2021-08-10T20:27:20Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360074062391/comments/4406800400013.json",
+        "post_id": 360074062391,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360067241331,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360010895692,
+        "body": "<p>This should be in Bedrock as well.&nbsp;</p>",
+        "author_id": 393603513332,
+        "vote_sum": 2,
+        "vote_count": 2,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360067241331--Java-Edition-Right-Clicking-a-Redstone-Dust-Locks-the-Redstone-Dust/comments/360010895692",
+        "created_at": "2020-06-08T06:07:44Z",
+        "updated_at": "2020-07-13T20:13:54Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360067241331/comments/360010895692.json",
+        "post_id": 360067241331,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360060851572,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360011111911,
+        "body": "<p>I think Mumbo’s idea of having redstone ridges makes more sense since it is basically just walls and it would be easy for lines to connect if you want them to.&nbsp;</p>",
+        "author_id": 393603513332,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360060851572-Using-Dye-on-RedStone-Component-Changes-Colors-of-Output-RedStone-Dust-Connected/comments/360011111911",
+        "created_at": "2020-06-24T09:52:48Z",
+        "updated_at": "2020-06-24T09:52:48Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360060851572/comments/360011111911.json",
+        "post_id": 360060851572,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360012760072,
+        "body": "<p>I like the idea and I’d like to add to that </p>\n\n<p>I would like it if the different colors would not mix but stay apart so you can put two different redstone lines together and they won’t connect</p>",
+        "author_id": 402931821992,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360060851572-Using-Dye-on-RedStone-Component-Changes-Colors-of-Output-RedStone-Dust-Connected/comments/360012760072",
+        "created_at": "2020-09-03T17:48:57Z",
+        "updated_at": "2022-04-16T03:45:34Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360060851572/comments/360012760072.json",
+        "post_id": 360060851572,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360055296231,
+    "expected_comment_count": 3,
+    "actual_comment_count": 3,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360009309632,
+        "body": "<p>Maybe you could even switch it off with Redstone.</p>",
+        "author_id": 393929641771,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055296231-Creative-Ways-to-Destroy-a-Nether-Portal-with-Redstone-Water-Pistons/comments/360009309632",
+        "created_at": "2020-02-13T23:36:32Z",
+        "updated_at": "2021-01-12T01:09:25Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055296231/comments/360009309632.json",
+        "post_id": 360055296231,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360013981771,
+        "body": "<p>Firework explosions should also put out Nether Portals</p>",
+        "author_id": 406280981491,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055296231-Creative-Ways-to-Destroy-a-Nether-Portal-with-Redstone-Water-Pistons/comments/360013981771",
+        "created_at": "2021-01-12T01:11:20Z",
+        "updated_at": "2021-01-12T01:11:26Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055296231/comments/360013981771.json",
+        "post_id": 360055296231,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 4408390030989,
+        "body": "<p>I kind of like this idea. However, the better solution would probably be to just add moveable block entities (already in bedrock).</p>",
+        "author_id": 1901312484187,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360055296231-Creative-Ways-to-Destroy-a-Nether-Portal-with-Redstone-Water-Pistons/comments/4408390030989",
+        "created_at": "2021-09-02T00:35:22Z",
+        "updated_at": "2021-09-02T11:19:59Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360055296231/comments/4408390030989.json",
+        "post_id": 360055296231,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360050269451,
+    "expected_comment_count": 1,
+    "actual_comment_count": 1,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007364552,
+        "body": "<p>I forgot to add that this is a suggestion for java</p>\n<p>&nbsp;</p>",
+        "author_id": 386550412831,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360050269451-Colored-slime-blocks-but-with-wax-blocks/comments/360007364552",
+        "created_at": "2019-08-30T19:42:42Z",
+        "updated_at": "2019-08-30T19:42:42Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360050269451/comments/360007364552.json",
+        "post_id": 360050269451,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048866591,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007103691,
+        "body": "<p>This is a wonderful idea! I would love to see my house lit up, I think this would also be a great Christmas addition&nbsp;</p>",
+        "author_id": 385966158832,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048866591-Glowing-buttons/comments/360007103691",
+        "created_at": "2019-08-18T05:13:27Z",
+        "updated_at": "2019-08-18T05:13:27Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048866591/comments/360007103691.json",
+        "post_id": 360048866591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360007102252,
+        "body": "<p>I like the christmas update idea! It would be very fun. Another addition could be different glowing buttons with colors. We could make Christmas lights!</p>",
+        "author_id": 381892108631,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048866591-Glowing-buttons/comments/360007102252",
+        "created_at": "2019-08-18T05:14:41Z",
+        "updated_at": "2021-07-23T07:22:56Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048866591/comments/360007102252.json",
+        "post_id": 360048866591,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  },
+  {
+    "post_id": 360048859131,
+    "expected_comment_count": 2,
+    "actual_comment_count": 2,
+    "status": "ok",
+    "comments": [
+      {
+        "id": 360007125892,
+        "body": "<p>I would like that in Vanilla!</p>",
+        "author_id": 386019740612,
+        "vote_sum": 0,
+        "vote_count": 0,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048859131-Oil-and-Generators-Bedrock/comments/360007125892",
+        "created_at": "2019-08-19T18:23:43Z",
+        "updated_at": "2019-08-19T18:23:43Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048859131/comments/360007125892.json",
+        "post_id": 360048859131,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      },
+      {
+        "id": 360011116832,
+        "body": "<p>What use is oil when there is redstone blocks and torches that power things fuel-free? If you want so,etching that gives a variable output, use a chest and a comparator.&nbsp;</p>",
+        "author_id": 393603513332,
+        "vote_sum": 1,
+        "vote_count": 1,
+        "official": false,
+        "html_url": "https://feedback.minecraft.net/hc/en-us/community/posts/360048859131-Oil-and-Generators-Bedrock/comments/360011116832",
+        "created_at": "2020-06-24T15:10:46Z",
+        "updated_at": "2020-07-07T22:01:12Z",
+        "url": "https://minecraftfeedback.zendesk.com/api/v2/help_center/community/posts/360048859131/comments/360011116832.json",
+        "post_id": 360048859131,
+        "non_author_editor_id": null,
+        "non_author_updated_at": null
+      }
+    ]
+  }
+]
